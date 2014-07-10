@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Контактов с номером телефона: %d</item>
+        <item quantity="one">Контактов с номером телефона: 1</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Контактов: %d</item>
+        <item quantity="one">Контактов: 1</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Найдено: %d</item>
+        <item quantity="one">Найдено: 1</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Найдено: %d</item>
+        <item quantity="one">Найдено: 1</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">объединены из %0$d источников</item>
+        <item quantity="one">не объединены</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">Число групп: %0$d</item>
+        <item quantity="one">Число групп: 1</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">Людей: %1$d из %2$s</item>
+        <item quantity="one">Людей: %1$d из %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">Людей: %1$d</item>
+        <item quantity="one">Людей: %1$d</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">Голосовых сообщений: %1$d</item>
+        <item quantity="one">Голосовая почта</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">Журналов вызовов: %d</item>
+        <item quantity="one">Журналов вызовов: 1</item>
+    </plurals>
+    <plurals name="search_listTotalAllContacts">
+        <item quantity="other">Поиск контактов | Всего %d контак.</item>
+        <item quantity="one">Поиск контактов | Всего 1 контакт</item>
+    </plurals>
+    <plurals name="group_member_number">
+        <item quantity="other">%d пользователь(ей)</item>
+        <item quantity="one">1 пользователь</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Будет удалено бесед: %1$s</item>
+        <item quantity="one">Будет удалена одна беседа</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">Непрочитанных сообщений: %d</item>
+        <item quantity="one">Непрочитанных сообщений: %d.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s с</item>
+        <item quantity="one">%s с</item>
+        <item quantity="few">%s с</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">Результатов для \"%2$s\": %1$s</item>
+        <item quantity="one">Результатов для \"%2$s\": %1$s</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">Людей: %1$s</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">отправка %d отч. о прочтении</item>
+        <item quantity="one">отправка %d отчета о прочтении</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">Выбрано: %d</item>
+        <item quantity="one">Выбрано: %d</item>
+    </plurals>
+    <plurals name="confirm_mark_conversation_ad_read">
+        <item quantity="other">Отметить %1$s бесед как прочитанные</item>
+        <item quantity="one">Отметить 1 беседу как прочитанную</item>
+    </plurals>
+    <plurals name="group_messages_sending">
+        <item quantity="other">%1$s сообщения об отправке...</item>
+        <item quantity="one">%1$s отправка сообщений...</item>
+    </plurals>
+    <plurals name="group_messages_sent">
+        <item quantity="other">%1$s отправлено сообщений.</item>
+        <item quantity="one">%1$s сообщение было отправлено.</item>
+    </plurals>
+    <plurals name="group_messages_failed">
+        <item quantity="other">%1$s сообщений не удалось отправить.</item>
+        <item quantity="one">%1$s сообщение не удалось отправить.</item>
+    </plurals>
+    <plurals name="group_messages_address_title">
+        <item quantity="other">%1$s получатели.</item>
+        <item quantity="one">%1$s получатель.</item>
+    </plurals>
+</resources>

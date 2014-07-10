@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="bytes">
+        <item quantity="other">байт</item>
+        <item quantity="one">байт</item>
+    </plurals>
+    <plurals name="kilobytes">
+        <item quantity="other">КБ</item>
+        <item quantity="one">КБ</item>
+    </plurals>
+    <plurals name="megabytes">
+        <item quantity="other">МБ</item>
+        <item quantity="one">МБ</item>
+    </plurals>
+    <plurals name="gigabytes">
+        <item quantity="other">ГБ</item>
+        <item quantity="one">ГБ</item>
+    </plurals>
+    <plurals name="Nsongs">
+        <item quantity="other">Композиций: %d</item>
+        <item quantity="one">1 композиция</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">Альбомов: %d</item>
+        <item quantity="one">1 альбом</item>
+    </plurals>
+    <plurals name="playlist_add_count_tip">
+        <item quantity="other">%d композ. добавлено в:</item>
+        <item quantity="one">1 композиция добавлена в:</item>
+    </plurals>
+    <plurals name="Ntracks">
+        <item quantity="other">Композиций: %d</item>
+        <item quantity="one">1 композиция</item>
+    </plurals>
+    <plurals name="Nalbum">
+        <item quantity="other">Альбомов: %d</item>
+        <item quantity="one">1 альбом</item>
+    </plurals>
+    <plurals name="Nfolders">
+        <item quantity="other">Папок: %d</item>
+        <item quantity="one">1 папка</item>
+    </plurals>
+    <plurals name="Nartists">
+        <item quantity="other">Исполнителей: %d</item>
+        <item quantity="one">1 исполнитель</item>
+    </plurals>
+    <plurals name="Nlists">
+        <item quantity="other">Списков воспроизведения: %d</item>
+        <item quantity="one">1 список воспроизведения</item>
+    </plurals>
+    <plurals name="local_count_songs">
+        <item quantity="other">Всего композиций: %d</item>
+        <item quantity="one">Всего: 1 композиция</item>
+    </plurals>
+    <plurals name="local_count_playLists">
+        <item quantity="other">Всего списков воспроизведения: %d</item>
+        <item quantity="one">Всего: 1 список воспроизведения</item>
+    </plurals>
+    <plurals name="local_count_artists">
+        <item quantity="other">Всего исполнителей: %d</item>
+        <item quantity="one">Всего: 1 исполнитель</item>
+    </plurals>
+    <plurals name="local_count_folders">
+        <item quantity="other">Всего папок: %d</item>
+        <item quantity="one">Всего: 1 папка</item>
+    </plurals>
+    <plurals name="local_count_albums">
+        <item quantity="other">Всего альбомов: %d</item>
+        <item quantity="one">Всего: 1 альбом</item>
+    </plurals>
+    <plurals name="online_search_result_tip">
+        <item quantity="other">Альбомов: %d</item>
+        <item quantity="one">1 альбом</item>
+    </plurals>
+    <plurals name="local_edit_delete_songs">
+        <item quantity="other">Удалено композиций: %d</item>
+        <item quantity="one">Удалена 1 композиция</item>
+    </plurals>
+    <plurals name="online_count_songs">
+        <item quantity="other">Загружено композиций: %d</item>
+        <item quantity="one">Загружена 1 композиция</item>
+    </plurals>
+    <plurals name="online_count_artists">
+        <item quantity="other">Загружено исполнителей: %d</item>
+        <item quantity="one">Загружен 1 исполнитель</item>
+    </plurals>
+    <plurals name="online_count_albums">
+        <item quantity="other">Загружено альбомов: %d</item>
+        <item quantity="one">Загружен 1 альбом</item>
+    </plurals>
+    <plurals name="media_playlist_title_count_songs">
+        <item quantity="other">Всего композиций: %d</item>
+        <item quantity="one">Всего 1 композиция</item>
+    </plurals>
+    <plurals name="local_edit_remove_songs">
+        <item quantity="other">Удалено композиций: %d</item>
+        <item quantity="one">Удалена 1 композиция</item>
+    </plurals>
+    <plurals name="local_edit_selected_songs">
+        <item quantity="other">Выбрано композиций: %d</item>
+        <item quantity="one">Выбрана 1 композиция</item>
+    </plurals>
+    <plurals name="add_songs_to_queue">
+        <item quantity="other">Добавлено композиций в список воспроизведения: %d</item>
+        <item quantity="one">1 композиция добавлена в список воспроизведения</item>
+    </plurals>
+</resources>

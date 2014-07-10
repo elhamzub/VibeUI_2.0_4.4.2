@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Личный</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать свой</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Рабочий</item>
+        <item>Другое</item>
+        <item>Создать свой</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Домашний</item>
+        <item>Мобильный</item>
+        <item>Рабочий</item>
+        <item>Рабочий факс</item>
+        <item>Домашний факс</item>
+        <item>Пейджер</item>
+        <item>Другой</item>
+        <item>Создать свой</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать свой</item>
+    </string-array>
+    <string-array name="special_locale_names">
+        <item>Китайский (упрощ.)</item>
+        <item>Китайский (традиц.)</item>
+    </string-array>
+    <string-array name="zzzzz_lightadjust_general_preference_profile_values">
+        <item>День</item>
+        <item>Ночь</item>
+        <item>В авто</item>
+        <item>Кино</item>
+    </string-array>
+    <string-array name="zzzzz_lightadjust_general_preference_policy_values">
+        <item>Авто</item>
+        <item>Changeifincrease</item>
+        <item>Changeifdecrease</item>
+    </string-array>
+    <string-array name="zzzzz_lightadjust_general_preference_light_sensor_poll_rate_values">
+        <item>Быстро</item>
+        <item>Стандарт</item>
+        <item>Медленно</item>
+    </string-array>
+    <string-array name="zzzzz_lightadjust_general_preference_brightness_fade_speed_values">
+        <item>Быстро</item>
+        <item>Стандарт</item>
+        <item>Медленно</item>
+    </string-array>
+    <string-array name="zzzzz_lightadjust_general_preference_brightness_step_size_values">
+        <item>Большой</item>
+        <item>Стандарт</item>
+        <item>Маленький</item>
+    </string-array>
+    <string-array name="zzzzz_lightadjust_general_preference_lenovo_antishake_interval_up_values">
+        <item>Быстро</item>
+        <item>Стандарт</item>
+        <item>Медленно</item>
+    </string-array>
+    <string-array name="zzzzz_lightadjust_general_preference_lenovo_antishake_interval_down_values">
+        <item>Быстро</item>
+        <item>Стандарт</item>
+        <item>Медленно</item>
+    </string-array>
+
+    <string-array name="imAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другое</item>
+        <item>Создать свой ярлык</item>
+    </string-array>
+</resources>
