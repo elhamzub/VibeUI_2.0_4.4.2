@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="import_to">Импорт в</string>
+    <string name="import_button">Импорт</string>
+    <string name="cancel">Отмена</string>
+    <string name="no_access_toast">Учетная запись не найдена. Сначала добавьте учетную запись.</string>
+    <string name="null_name">Нет</string>
+    <string name="import_message">Импортировать календарь?</string>
+    <string name="calendar_lable">Календарь:</string>
+    <string name="date_lable">Дата:</string>
+    <string name="import_title">Импорт событий</string>
+    <string name="importing">Выполняется импорт...</string>
+    <string name="import_complete">Импорт выполнен</string>
+    <string name="open">Открыть</string>
+    <string name="done">Готово</string>
+    <string name="progresszero">0%</string>
+    <string name="import_vcs_failed">Не удалось импортировать событие.</string>
+    <string name="title_lable">"Заголовок: "</string>
+    <string name="no_syncable_calendars">Невозможно импортироват ь</string>
+    <string name="no_calendars_found">Эта учетная запись не поддерживает синхронизацию календаря или последняя синхронизация еще не завершена.</string>
+    <string name="retry">Повтор</string>
+    <string name="give_up">Прервать</string>
+    <string name="open_calendar_failed">Календарь недоступен.</string>
+    <string name="loading">Загрузка...</string>
+</resources>

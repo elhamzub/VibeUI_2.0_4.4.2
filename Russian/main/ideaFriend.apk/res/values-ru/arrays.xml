@@ -342,8 +342,8 @@
         <item>Пианино</item>
     </string-array>
     <string-array name="photo_display_settings_styles">
-        <item>Первая буква</item>
-        <item>Последнее письмо</item>
+        <item>С первой буквы</item>
+        <item>От последней буквы</item>
     </string-array>
     <string-array name="callog_display_style_value">
         <item>По дате</item>
@@ -364,7 +364,7 @@
         <item>"Авг "</item>
         <item>"Сент "</item>
         <item>"Окт "</item>
-        <item>Нояб</item>
+        <item>"Нояб "</item>
         <item>"Дек "</item>
     </string-array>
     <string-array name="lunar_day_array">
@@ -492,7 +492,7 @@
     </string-array>
     <string-array name="callog_click_action_value">
         <item>Сделать вызов</item>
-        <item>Просмотр истории вызова</item>
+        <item>Посмотреть историю звонков</item>
     </string-array>
     <string-array name="number_match_style_value">
         <item>11</item>
