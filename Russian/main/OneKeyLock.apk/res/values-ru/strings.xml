@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Блокировка</string>
+    <string name="get_screen_lock_admin">Администратор устройства</string>
+</resources>

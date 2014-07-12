@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Обои рабочего стола</string>
+    <string name="wallpaper_instructions">Установить обои</string>
+    <string name="pick_wallpaper">Обои рабочего стола</string>
+</resources>

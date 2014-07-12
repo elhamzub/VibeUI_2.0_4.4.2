@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy_res">Копия данных</string>
+    <string name="start_button">Старт</string>
+    <string name="cp_show">Копирование：</string>
+    <string name="sd_error">Пожалуйста, проверьте карту-памяти</string>
+    <string name="not_map">Карта-памяти не установлена или данные не существуют, введите имя ZIP-файла:</string>
+    <string name="not_map_notification">Ошибка копирования, карта-памяти не установлена или данные не существуют</string>
+    <string name="zip_total_size">Размер файла：</string>
+    <string name="delete_map">Удаление данных</string>
+    <string name="delete_failed">Ошибка удаления</string>
+    <string name="map_exist">Данных нет во внутренней памяти</string>
+    <string name="cp_success">Копирование завершено</string>
+    <string name="cp_error">Ошибка копирования</string>
+    <string name="default_file">Внутренняя память</string>
+    <string name="source_patch">Патч:</string>
+    <string name="md5_check_sum">Контрольная сумма:</string>
+    <string name="check_sum_error">:ошибка контрольной суммы</string>
+    <string name="check_sum_file_error">Ошибка контрольной суммы</string>
+    <string name="check_sum_success">Контрольная сумма одинакова</string>
+    <string name="check_sum_exist">Файл контрольной суммы не существует</string>
+    <string name="delete_file_title">Удалить файл</string>
+    <string name="delete_file_text">Существуют данные на внутренней памяти, удалить?</string>
+    <string name="deleteing_file">Удаление, подождите</string>
+    <string name="delet_file_success">Удаление завершено</string>
+    <string name="delet_file_failed">Ошибка удаления</string>
+    <string name="battery_waring">Заряд батареи ниже 20%, зарядите батарею выше 20%</string>
+    <string name="emmc_space_waring">Не достаточно памяти</string>
+    <string name="resource_waring">Имеются некоторые файлы-исходники, удалите</string>
+    <string name="notification_cp_show">Копирование</string>
+    <string name="notification_check_sum">Проверка</string>
+    <string name="check_file">leak file:</string>
+    <string name="file_num_error">file too many tree,do not copy</string>
+    <string name="copy_start">Once copy,can not find resource</string>
+</resources>

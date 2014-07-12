@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ringtone_value">
+        <item>Без звука</item>
+        <item>Вибрация</item>
+        <item>Звонок</item>
+    </string-array>
+    <string-array name="screen_brightness_entries">
+        <item>Минимум</item>
+        <item>30%</item>
+        <item>60%</item>
+        <item>Максимум</item>
+        <item>Авто</item>
+    </string-array>
+    <string-array name="advancedSetting_lowCapacity_value">
+        <item>Ниже 10%</item>
+        <item>Ниже 20%</item>
+        <item>Ниже 30%</item>
+    </string-array>
+    <string-array name="wifi_timeout_entries">
+        <item>1 мин</item>
+        <item>2 мин</item>
+        <item>5 мин</item>
+        <item>10 мин</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 с</item>
+        <item>30 с</item>
+        <item>1 мин</item>
+        <item>2 мин</item>
+        <item>5 мин</item>
+        <item>10 мин</item>
+    </string-array>
+</resources>

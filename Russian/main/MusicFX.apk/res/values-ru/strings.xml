@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="presetreverb_name">Предустановленная реверберация</string>
+    <string name="eq_preset_normal">Нормальный</string>
+    <string name="eq_preset_classical">Классический</string>
+    <string name="eq_preset_dance">Танцы</string>
+    <string name="eq_preset_flat">Флат</string>
+    <string name="eq_preset_folk">Фолк</string>
+    <string name="eq_preset_heavymetal">Тяжелый металл</string>
+    <string name="eq_preset_hiphop">Хип хоп</string>
+    <string name="eq_preset_jazz">Джаз</string>
+    <string name="eq_preset_pop">Поп</string>
+    <string name="eq_preset_rock">Рок</string>
+    <string name="app_name">Эквалайзер</string>
+    <string name="no_effects">Эффекты не выбран.</string>
+    <string name="main_toggle_effects_title">Аудио эффекты</string>
+    <string name="eq_dialog_title">Эквалайзер</string>
+    <string name="headset_plug">Подключите наушники для этих эффектов.</string>
+    <string name="bass_boost_strength">Усиление НЧ</string>
+    <string name="virtualizer_strength">Объемный звук</string>
+    <string name="pr_title">Реверберация:</string>
+    <string name="pr_summary">Дополнительные эффекты реверберации помещения</string>
+    <string name="pr_dialog_title">Предустановки реверберации</string>
+    <string name="setup">Установить</string>
+    <string name="ci_extreme">FX усилитель</string>
+    <string name="user">Польщователь</string>
+    <string name="picker_title">Панель управления музыкальными эффектами</string>
+</resources>

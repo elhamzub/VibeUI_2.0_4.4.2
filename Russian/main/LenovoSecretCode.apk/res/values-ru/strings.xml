@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="app_name">Секретный код</string>
+    <string name="show_kernel_version_title">Версия ядра</string>
+    <string name="show_internal_version_title">Внутренняя версия</string>
+    <string name="show_external_version_title">Версия</string>
+    <string name="show_modem_version_title">Версия модема</string>
+    <string name="version_unavailable">Сбой при получении версии</string>
+    <string name="factory_wipe_data">стереть данные пользователя и установить заводские настройки</string>
+    <string name="factory_wipe_data_warning">Нажмите на кнопку ОК, чтобы удалить данные пользователя, но сохранить установленные приложения. Обычным пользователям не рекомендуется использовать данную функцию, во избежание утери данных телефона</string>
+    <string name="factory_wipe_data_cancel">отмена</string>
+    <string name="sdcard_not_found">ошибка восстановления заводских настроек</string>
+    <string name="sdcard_not_found_tip">"Для выполнения данной функции требуется, чтобы она поддерживалась SD-картой, 
+        убедитесь в том, что установлена свободная SD-карта"</string>
+    <string name="sdcard_out_of_space">Недостаточно места на SD-карте</string>
+    <string name="sdcard_out_of_space_tip">"На SD-карте осталось %1$sM свободного места, а для этой 
+функции требуется не менее %2$sM свободного места на SD-карте"</string>
+    <string name="imei_invalid">Недопустимое</string>
+</resources>

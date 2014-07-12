@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="settings_label">EM SIM ME заблокировано</string>
+    <string name="simmelock_name">SIM-ME заблокировано</string>
+    <string name="strInputPassword">Введите пароль:</string>
+    <string name="strConfirm">Завершить</string>
+    <string name="strCancel">Отмена</string>
+    <string name="strInputChancesleft">Осталось попыток:</string>
+    <string name="strInputPasswordAgain">Введите пароль еще раз:</string>
+    <string name="strAttention">Внимание</string>
+    <string name="strConfirmRemove">Удалить?</string>
+    <string name="srtConfirmPermanUnlock">Разблокировать навсегда?</string>
+    <string name="strYes">Да</string>
+    <string name="strLockFail">Ошибка блокировки!</string>
+    <string name="strLockSucceed">Заблокировано!</string>
+    <string name="strUnlockFail">Сбой разблокирования!</string>
+    <string name="strUnlockSucceed">Разблокировано!</string>
+    <string name="strUserInput">Ввод пользователя</string>
+    <string name="strInputMode">Введено пользователем?</string>
+    <string name="strLockNameNetwork">Персонализация сети</string>
+    <string name="strLockNameNetworkSub">Участок сетевой персонализации</string>
+    <string name="strLockNameService">Персонализация поставщика услуг</string>
+    <string name="strLockNameCorporate">Персонализация компании</string>
+    <string name="strLockNameSIM">Персонализация SIM-карты</string>
+    <string name="strActionNameLock">Блокировка</string>
+    <string name="strActionNameUnlock">Разблокировать</string>
+    <string name="strActionNameAddLock">Добавить</string>
+    <string name="strActionNameRemoveLock">Удалить</string>
+    <string name="strActionNamePermanentUnlock">Разблокировать навсегда</string>
+    <string name="strPasswordLengthIncorrect">4-8 символов!</string>
+    <string name="strQueryFailed">Ошибка запроса!</string>
+    <string name="strAddLockFail">Сбой добавления!</string>
+    <string name="strAddLockSucceed">Добавлено!</string>
+    <string name="strMCCMNCLengthIncorrect">Недопустимый MCC+MNC</string>
+    <string name="strMCCMNCHLRLengthIncorrect">Недопустимый MCC+MNC+HLR</string>
+    <string name="strIMSILengthIncorrect">Недопустимый IMSI!</string>
+    <string name="strGID1WRONG">Недопустимый GID1!</string>
+    <string name="strGID2WRONG">Недопустимый GID12!</string>
+    <string name="str_simme_passwords_dont_match">Пароли не совпадают</string>
+</resources>

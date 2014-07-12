@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lenovo Голос</string>
+    <string name="offline_tip">* Вы можете сказать больше, если вы находитесь онлайн</string>
+    <string name="offline_use">автономный режим</string>
+    <string name="helper_tip">Вы можете говорить на Мандаринском</string>
+    <string name="helper_offline_tip">Вы в автономном режиме. Вы можете только говорить</string>
+    <string name="function_tip">Ваше устройство не поддерживает функцию.</string>
+    <string name="levoice_has_open">Голос запущен</string>
+    <string name="speech_recognizer_error_audio">Recording device is unavailable, please quit the apps using recording function.</string>
+    <string name="speech_recognizer_error_client">Client error, please quit and try again later.</string>
+    <string name="speech_recognizer_error_insufficient_permissions">Permission is insufficient to recognize the voice.</string>
+    <string name="speech_recognizer_error_network">Connection is unstable, please try again later.</string>
+    <string name="speech_recognizer_error_network_timeout">Connection timed out, please try again later.</string>
+    <string name="speech_recognizer_no_match">No relevant results, please try again.</string>
+    <string name="speech_recognizer_error_recognizer_busy">recognizer is busy, please try again later.</string>
+    <string name="speech_recognizer_error_server">Service is busy, please try again later.</string>
+    <string name="speech_recognizer_error_speech_timeout">No voice is detected, please try again.</string>
+    <string name="speech_recognizer_error_default">Unknown error, please quit and try again later.</string>
+    <string name="text_tips">"Что я могу сделать для вас?
+ Пожалуйста, говорите на Мандаринском"</string>
+    <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Включите Wi-Fi!</string>
+    <string name="SUS_MSG_LATESTVERSION">The version is current!</string>
+    <string name="SUS_MSG_NOTFOUND">No updates!</string>
+    <string name="SUS_MSG_FAIL_NETWORKUNAVAILABLE">Network not available!</string>
+    <string name="SUS_MSG_WARNING_PENDING">Currently updating!</string>
+    <string name="SUS_MSG_DOWNLOADCOMPLETE">Download finished!</string>
+    <string name="SUS_MSG_UPDATE_EXCEPTION">Update failed. Please try again!</string>
+    <string name="SUS_SETTINGS_NEVERPROMPT">Don’t prompt</string>
+    <string name="SUS_SETTINGS_NEWVERPROMPT">Prompt when new version found</string>
+    <string name="SUS_MSG_INSUFFICIENTSTORAGESPACE">Insufficient storage!</string>
+    <string name="SUS_VERSIONUPDATE">New version found!</string>
+    <string name="SUS_UPDATEDESC">Description:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERNAME">Name:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERSIZE">Size:</string>
+    <string name="SUS_UPDATESIZEPROMPT_WLAN">WLAN recommended for download!</string>
+    <string name="SUS_UPDATE">Update</string>
+    <string name="SUS_CANCEL">Later</string>
+    <string name="SUS_DOWNLOAD_TITLE">SUS downloading</string>
+    <string name="SUS_CANCELBUTTON">Cancel</string>
+    <string name="SUS_NOTIFICATION_TITLE">Prompt</string>
+    <string name="SUS_NOTIFICATION_UPDATINGPROMPT">Updating… Please wait!</string>
+    <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">Network timeout. Trying again...</string>
+    <string name="SUS_NOTIFICATION_HIDE_BUTTONTEXT">I know</string>
+    <string name="SUS_NOTIFICATION_ABORTUPDATE_BUTTONTEXT">Abort</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(This window will hide after</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_2">seconds)</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK_TITLE">Please tap to install!</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK">Please tap to install:</string>
+</resources>

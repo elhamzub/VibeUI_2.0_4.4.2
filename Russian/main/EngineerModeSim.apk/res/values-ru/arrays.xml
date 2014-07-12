@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="Input_mode">
+        <item>Ввод пользователя</item>
+        <item>Чтение с SIM-карты</item>
+    </string-array>
+</resources>

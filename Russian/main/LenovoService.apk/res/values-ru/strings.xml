@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сервис</string>
+    <string name="faq_search_text">Проблема：</string>
+    <string name="faq_title">Часто задаваемые вопросы</string>
+    <string name="faq_keyword_title">Горячая тема, ключевые слова</string>
+    <string name="station_search_title">Найти сервисный центр</string>
+    <string name="service_policy_list_title">Список политик служб</string>
+    <string name="station_map_title">Карта сервисных центров</string>
+    <string name="acc_title">Аксессуары</string>
+    <string name="acc_detail_title">Аксессуары-детали</string>
+    <string name="faq_keyword_hint">Перетащите список ключевых слов, выберите Поиск вопросов, связанных с</string>
+    <string name="service_policy_list_hint">Перетащите список политики службы, выберите представление содержимого</string>
+    <string name="menu_check_firmware_version">Проверить версию прошивки</string>
+    <string name="menu_about">О приложении</string>
+    <string name="menu_bbs_back">Выход</string>
+    <string name="menu_faq_search">Пользовательский поиск</string>
+    <string name="faq_searching_msg">Проблема поиска, пожалуйста, подождите</string>
+    <string name="faq_loading_more_msg">Пожалуйста, подождите, Загрузка больше проблем</string>
+    <string name="faq_keyword_loading_msg">Пожалуйста, подождите, Загрузка списка ключевых слов</string>
+    <string name="faq_hot_question_loading_msg">Загрузка, пожалуйста подождите список часто задаваемые вопросы</string>
+    <string name="socket_not_connect">Сокет не подключен</string>
+    <string name="station_province_txt">Провинции</string>
+    <string name="station_city_txt">Город</string>
+    <string name="station_address_txt">Адрес</string>
+    <string name="station_name_txt">Имя</string>
+    <string name="faq_empty_input_hint">Пожалуйста введите вопрос</string>
+    <string name="station_empty_input_hint">Пожалуйста, введите свой город или область</string>
+    <string name="station_searching_msg">Пожалуйста, подождите, Поиск сервисных станций</string>
+    <string name="service_policy_list_loading_msg">Загрузка списка, пожалуйста, подождите</string>
+    <string name="service_policy_loading_msg">Пожалуйста, подождите, загрузка сведений о службе политики</string>
+    <string name="map_loading_msg">"Карта загружается, пожалуйста подождите
+Нажмите на воздушные шары, чтобы увидеть подробный адрес"</string>
+    <string name="acc_list_loading_msg">Пожалуйста, подождите, Загрузка списка продуктов</string>
+    <string name="acc_detail_loading_msg">Пожалуйста, подождите загрузку для получения дополнительной информации</string>
+    <string name="network_alert">Эта функция создает сетевой трафик,Вы уверены, что вы хотите использовать?</string>
+    <string name="network_all_alert">Эта функция будет генерировать сетевой трафик, чтобы использовать его</string>
+    <string name="msg_quit_confirm">Конечно, вы хотите выйти из «музыка услуги»</string>
+    <string name="network_alert_title">Веб-трафик Советы</string>
+    <string name="faq_content_title">Часто задаваемые вопросы</string>
+    <string name="firmware_version_nonew_msg">Вы используете последнюю версию прошивки</string>
+    <string name="firmware_version_new_msg">Обновление версии микропрограммы</string>
+    <string name="firmware_version_loading_msg">Пожалуйста, подождите, проверка версии прошивки</string>
+    <string name="firmware_version_nonew_title">Нет новой версии прошивки</string>
+    <string name="firmware_version_new_title">Существует новая версия прошивки</string>
+    <string name="firmware_version_update_msg">Обновление прошивки запрашивается через официальные каналы</string>
+    <string name="bbs_loading_msg">Пожалуйста, подождите загрузки музыка форум</string>
+    <string name="no_acc_msg">Информация о продукте не Аксессуары</string>
+    <string name="no_service_policy_msg">Никакой информации политики службы</string>
+    <string name="no_announce_msg">Нет объявлений</string>
+    <string name="network_all_alert_e">"Уважаемые пользователи, Le, клиент службы требуется доступ к Интернет-трафика, что расходы будут тарифицироваться согласно Ваших обвинений подробные стандартные пакеты, обратитесь к 10000.
+
+Процедура подачи заявки может найти вашу позицию в вашем месте используется только для статистического анализа поведения пользователей, без любых последствий для вас пожалуйста, не стесняйтесь использовать
+
+Согласны ли вы с"</string>
+    <string name="network_all_alert_other">"Уважаемые пользователи, Le клиент службы требуется доступ к Интернет трафик, генерируемый сборов вашей несущей.
+
+Процедура подачи заявки может найти вашу позицию в вашем месте используется только для статистического анализа поведения пользователей, без любых последствий для вас пожалуйста, не стесняйтесь использовать
+
+Согласны ли вы с"</string>
+    <string name="network_alert_clear">Далее запрос</string>
+    <string name="software_test_cpu_rate_title">Заполняемость:</string>
+    <string name="software_test_ram_rate_title">Доступно:</string>
+    <string name="software_test_rom_rate_title">Доступно:</string>
+    <string name="software_test_sd_rate_title">Доступно:</string>
+    <string name="launch_init_msg">Инициализация...</string>
+    <string name="msg_loading">Загрузка...</string>
+    <string name="announce_list_loading_msg">Пожалуйста, подождите, Загрузка объявление списка</string>
+    <string name="announce_list_detail_loading_msg">Пожалуйста, подождите загрузки сообщений</string>
+    <string name="software_testing_msg">Пожалуйста, подождите, для тестирования программного обеспечения</string>
+    <string name="boot_app_detail_title">Начальный список</string>
+    <string name="sys_app_detail_title">Список системных приложений</string>
+    <string name="other_app_detail_title">Список приложений сторонних производителей</string>
+    <string name="register_clause">При применении для пользователя, вы подтверждаете свое согласие соблюдать эти правила.　Вы присоединились к этот сайт приветствует участие в обмен и обсуждение этот сайт для общественного форума для онлайн поддержание общественного порядка и социально стабильной пожалуйста вы сознательно соблюдать следующие статьи и должны не использует этой станции против национальной безопасности и утечка национальных секрет должны не нарушения национального социального коллектива и граждан, законных прав и интересов должны не использует этой станции производится, и копирование и распространение следующая информация сопротивляется подстрекательства и ущерб Конституции и осуществление правовых и административных положений II подстрекательство Subversion национальный режим отменил социалистической системы　Три подстрекательства раскол национального и ущерб национальной единой четыре разжигание национальной ненависти, и национальное единство пяти сфабрикованы или искаженные факты распространения слухов нарушить социального порядка шести проветривает суеверие и непристойности и порно и азартные игры и насилия и убийство, и террорист, и подстрекательство преступления семи грубо оскорбляет других или сфабрикованы факты клеветы ущерб национальной дискриминации других или для других атак злоумышленников из восьми повредить авторитет государства девять других нарушений Конституции и правовых административных регламентов 10 акты коммерческой рекламы. Во-вторых, взаимное уважение их слова и действия. Три, запрещения использования в применении для категории словарь связанные сайта пользователя или оскорбление, клевета, дезинформации или их значения на разных языках для зарегистрированных пользователей или мы удалим его. Четыре, запрет каким-либо образом на этот сайт для различных актов саботажа. Пять лет, если у вас есть любые действия в нарушение соответствующих национальных законов и правил форума на этом сайте не несет ответственности за ваши Логин информации были записан без сомнения и в случае необходимости, мы предоставим такую информацию соответствующим национальным органам.</string>
+    <string name="chat_location">Местоположение</string>
+    <string name="chat_cant_read_folder">"Папка не может быть прочитана!"</string>
+    <string name="chat_nnew">Новый</string>
+    <string name="chat_select">Выберите</string>
+    <string name="chat_file_name">Имя файла:</string>
+    <string name="chat_cancel">Отмена</string>
+    <string name="chat_create">Сохранить</string>
+    <string name="chat_no_data">Нет данных</string>
+    <string name="str_longitude">Долгота(Longitude)：</string>
+    <string name="str_latitude">Широта(Latitude)：</string>
+    <string name="str_err_address">Адрес не существует</string>
+    <string name="str_err_location">Не удалось получить расположение</string>
+    <string name="str_my_location">Текущий адрес</string>
+    <string name="del_point">Удалить выноску</string>
+    <string name="add_point">Увеличение выноска</string>
+    <string name="map">Отображение карты</string>
+    <string name="move_map">Перемещение карты</string>
+    <string name="zoom_map">Увеличить масштаб на карте</string>
+    <string name="label_map">Подпись карты</string>
+    <string name="line_map">Рисование линии</string>
+    <string name="polygon_map">Рисует многоугольник</string>
+    <string name="circle_map">Нарисуйте круг</string>
+    <string name="intent_way">Намерения</string>
+    <string name="local">Позиционирование</string>
+    <string name="local_detail">Показать сведения о местоположении</string>
+    <string name="pull_to_refresh_pull_label">Потяните вниз, чтобы обновить</string>
+    <string name="pull_to_refresh_release_label">Выпуска, которые можно обновить</string>
+    <string name="pull_to_refresh_refreshing_label">Загружен......</string>
+    <string name="pull_to_refresh_tap_label">Нажмите на обновления</string>
+    <string name="umeng_socialize_network_break_alert">Пожалуйста, подключите к сети перед попыткой</string>
+    <string name="umeng_socialize_comment">Комментарии</string>
+    <string name="umeng_socialize_back">Возвращение</string>
+    <string name="umeng_socialize_near_At">Последние @ друзей</string>
+    <string name="umeng_socialize_friends">Заинтересованные друг</string>
+    <string name="umeng_socialize_send">Публикации</string>
+    <string name="umeng_socialize_tip_blacklist">Я прошу прощения за нарушение пользовательского соглашения, которую вы были запрещены.</string>
+    <string name="umeng_socialize_tip_loginfailed">Ошибка входа..</string>
+    <string name="umeng_socialize_msg_sec">Секунд(-ы) назад</string>
+    <string name="umeng_socialize_msg_min">Минут(-ы) назад</string>
+    <string name="umeng_socialize_msg_hor">Часов назад</string>
+    <string name="umeng_socialize_ucenter_login_title_guide">Посетитель вход</string>
+    <string name="umeng_socialize_ucenter_login_title_platform">Учетная запись входа</string>
+</resources>

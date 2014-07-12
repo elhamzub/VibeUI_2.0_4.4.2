@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hobby">
+        <item>Ответить</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="settext">
+        <item>Большой</item>
+        <item>Маленький</item>
+    </string-array>
+    <string-array name="light">
+        <item>Темный</item>
+        <item>Нормальный</item>
+        <item>Яркий</item>
+    </string-array>
+</resources>

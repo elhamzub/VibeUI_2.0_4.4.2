@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="samplearray">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+    </string-array>
+    <integer-array name="array_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <string-array name="rotation_options">
+        <item>Умное-вращение</item>
+        <item>Вращение акселерометром</item>
+        <item>Автоматический поворот</item>
+    </string-array>
+    <integer-array name="array_values_nocamera">
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <string-array name="rotation_options_nocamera">
+        <item>Повернуть жестом</item>
+        <item>Автоматический поворот</item>
+    </string-array>
+</resources>

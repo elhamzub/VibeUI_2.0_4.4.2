@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lenovo_signal_text_list">
+        <item>"Уровень сигнала
+Очень Слабый     "</item>
+        <item>"Уровень сигнала
+Слабый     "</item>
+        <item>"Уровень сигнала
+Средний   "</item>
+        <item>"Уровень сигнала
+Сильный    "</item>
+    </string-array>
+    <string-array name="battery_style_list">
+        <item>Стандартный</item>
+        <item>С процентами</item>
+    </string-array>
+</resources>

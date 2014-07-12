@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lasf_qing_shuo_hua">Пожалуйста, обращайтесь</string>
+    <string name="lasf_qu_xiao">Отмена</string>
+    <string name="web_engine_server_url_default">http://corp.voice.lenovomm.com</string>
+    <string name="key_web_engine_server_url">key_web_engine_server_url</string>
+    <string name="lasf_lite_speech_activity_name">Ассоциация для распознавания речи(lite)</string>
+    <string name="lasf_lite_label">LASF SDK Lite</string>
+</resources>

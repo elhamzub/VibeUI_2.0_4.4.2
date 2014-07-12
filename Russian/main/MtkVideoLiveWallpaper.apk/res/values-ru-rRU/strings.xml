@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">«Живые» обои MTK</string>
+    <string name="vlw">Видео обои</string>
+    <string name="vlw_desc">Установить видеозапись в качестве «живых» обоев.</string>
+    <string name="VideoScene_error_text_invalid_progressive_playback">Извините! Данная видеозапись не пригодна для передачи на данное устройство.</string>
+    <string name="VideoScene_error_text_unknown">Извините! Данную видеозапись невозможно воспроизвести.</string>
+    <string name="VideoScene_error_media_removed">Медиафайл удален</string>
+    <string name="VideoScene_error_sdcard_unmounted">SD карта отключена</string>
+    <string name="VideoScene_info_wait_sdcard">Ожидание готовности карты SD</string>
+    <string name="VideoScene_error_media_not_found">Медиафайл сейчас не существует</string>
+    <string name="VideoScene_error_be_set">к сожалению, видеоклип нельзя установить в качестве видеообоев</string>
+    <string name="VideoEditor_error_title">Невозможно воспроизвести видеозапись</string>
+    <string name="VideoEditor_error_button">OK</string>
+    <string name="VideoEditor_error_no_video_selected">Видеоизображение не выбрано</string>
+    <string name="VideoEditor_warning_limited_duration">Выберите видеозапись продолжительностью не менее 1 секунды</string>
+    <string name="VideoScene_reload_after_mount">Загрузка видеозаписи с карты SD, подождите.</string>
+    <string name="select_video">Карта SD</string>
+    <string name="select_default">По умолчанию</string>
+    <string name="select">Выбрать видео</string>
+    <string name="set_wallpaper">Установить</string>
+    <string name="title">Видеообои</string>
+    <string name="default_title">Видео по умолчанию</string>
+    <string name="capture_video">камера</string>
+    <string name="menu_item_add_item">Выберите видео с SD-карты</string>
+    <string name="group_video">Выберите один видеофайл</string>
+    <string name="group_folder">Выберите папку</string>
+    <string name="folder_info">видео&lt;br> с&lt;br></string>
+</resources>

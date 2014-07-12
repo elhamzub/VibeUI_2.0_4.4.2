@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Выбор живых обоев</string>
+    <string name="live_wallpaper_picker_title">Выбрать живые обои</string>
+    <string name="live_wallpaper_picker_label">Живые обои</string>
+    <string name="live_wallpaper_preview_title">Предпросмотр</string>
+    <string name="configure_wallpaper">Настройки…</string>
+    <string name="wallpaper_instructions">Выбор</string>
+    <string name="live_wallpaper_empty">Нет живых обоев</string>
+    <string name="set_live_wallpaper">Выбрать</string>
+    <string name="wallpaper_title_and_author">%1$s от %2$s</string>
+    <string name="live_wallpaper_loading">Загрузка…</string>
+    <string name="wallpaper_cancel">Отмена</string>
+</resources>

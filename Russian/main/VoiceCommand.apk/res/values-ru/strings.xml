@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="voice_ui_camera_command_title">Голосовое управление камерой</string>
+    <string name="voice_ui_phone_command_title">Голосовое управление телефоном</string>
+    <string name="voice_ui_alarm_command_title">Голосовое управление будильником</string>
+    <string name="app_name">Голосовое управление</string>
+    <string name="voice_ui_title">Управление голосом</string>
+    <string name="voice_ui_app_category">Для приложений</string>
+    <string name="voice_ui_setting_category">Настройки</string>
+    <string name="voice_ui_language_title">Язык голосового управления</string>
+    <string name="incoming_call_app_name">Телефон</string>
+    <string name="alarm_app_name">Будильник</string>
+    <string name="camera_app_name">Камера</string>
+    <string name="music_app_name">Музыка</string>
+    <string name="incomming_command_summary_format">Вы можете сказать %1$s или %2$s для ответа или отмены входящего вызова.</string>
+    <string name="alarm_command_summary_format">Вы можете сказать %1$s или %2$s для управления будильником.</string>
+    <string name="camera_command_summary_format">Вы можете сказать %1$s или %2$s для снимка.</string>
+    <string name="music_command_summary_format">Вы можете сказать %1$s и %2$s для управления музыкой.</string>
+    <string name="playback_failed">Извините, невозможно открыть файл.</string>
+    <string name="voice_ui_commands">COMMANDS</string>
+</resources>

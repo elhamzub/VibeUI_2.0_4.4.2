@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_title">Загрузки</string>
+    <string name="cancel">Отмена</string>
+    <string name="ok">OK</string>
+    <string name="download_file_already_exist">Файл уже существует, перезаписать?</string>
+    <string name="notification_download_complete_op01">Сохранить в:</string>
+    <string name="download_error_insufficient_memory">Недостаточно памяти</string>
+    <string name="download_error_invalid_descriptor">Неправильный дескриптор</string>
+    <string name="download_error_invalid_ddversion">Неверный DDversion</string>
+    <string name="download_error_attribute_mismatch">Атрибутное несоответствие</string>
+    <string name="download_paused">Пауза</string>
+    <string name="app_label">Мастер загрузки</string>
+    <string name="permlab_downloadManager">Согласие.</string>
+    <string name="permdesc_downloadManager">Приложение для доступа к менеджер закачек и использовать его для загрузки файлов. Вредоносные программы могут использовать эту функцию, чтобы сорвать скачки и получить доступ к частной информации.</string>
+    <string name="permlab_downloadManagerAdvanced">Расширенные функции менеджера закачек.</string>
+    <string name="permdesc_downloadManagerAdvanced">Приложение для доступа к менеджер закачек и использовать его для загрузки файлов. Вредоносные программы могут использовать эту функцию, чтобы сорвать скачки и получить доступ к частной информации.</string>
+    <string name="permlab_downloadCompletedIntent">Уведомления о загрузке.</string>
+    <string name="permdesc_downloadCompletedIntent">Приложение сможет отправлять уведомления о завершенных загрузок. Вредоносные программы могут использовать эту функцию, чтобы запутать другие приложения, которые скачивают файлы.</string>
+    <string name="permlab_seeAllExternal">Просмотри всех загрузок на SD</string>
+    <string name="permdesc_seeAllExternal">Приложение сможет увидеть все загрузки на SD карте, независимо от того, загрузили ли вы их или нет.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Резервирование места в кэш загрузки</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Приложение сможет скачивать файлы в кэш загрузки, который не может быть автоматически удален, когда менеджеру загрузки требуется больше дискового пространства.</string>
+    <string name="permlab_downloadWithoutNotification">Скачивать файлы без уведомления</string>
+    <string name="permdesc_downloadWithoutNotification">Приложение сможет скачивать файлы через менеджер закачек без уведомлений.</string>
+    <string name="permlab_accessAllDownloads">Доступ ко всем загрузкам</string>
+    <string name="permdesc_accessAllDownloads">Приложение сможет просматривать и изменять все ваши загрузки.</string>
+    <string name="download_unknown_title">&lt;Untitled></string>
+    <string name="notification_download_complete">Загрузка завершена.</string>
+    <string name="notification_download_failed">Загрузка невозможна.</string>
+    <string name="notification_need_wifi_for_size">Из-за размера файла, рекомендуется загрузка по Wi-Fi.</string>
+    <string name="notification_paused_in_background">Приостановить в фоновом режиме.</string>
+    <string name="wifi_required_title">Загрузка слишком велика для мобильной сети</string>
+    <string name="wifi_required_body" formatted="false">" Вы должны использовать Wi-Fi для загрузки этого файла %s . 
+
+ Прикоснитесь %s, чтобы загрузить этот файл , когда вы подключитесь к сети Wi-Fi."</string>
+    <string name="wifi_recommended_title">Загрузить позже?</string>
+    <string name="wifi_recommended_body" formatted="false">"Начиная загружать этот %s можно сократить срок службы аккумулятора и / или привести к чрезмерному потреблению вашего трафика, которые могут привести к обвинениям ваших операторов мобильной связи в зависимости от вашего тарифного плана.
+
+ Прикоснитесь %s, чтобы загрузить этот файл , когда вы подключитесь к сети Wi-Fi."</string>
+    <string name="button_queue_for_wifi">Очередь</string>
+    <string name="button_cancel_download">Отмена</string>
+    <string name="button_start_now">Начать</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s осталось</string>
+    <string name="download_no_application_title">Не могу открыть файл</string>
+    <string name="root_downloads">Загрузки</string>
+    <string name="download_queued">Очередь</string>
+    <string name="download_running">Прогресс</string>
+    <string name="download_error">Прервано</string>
+    <string name="download_running_percent">В прогрессе, %d%%</string>
+</resources>

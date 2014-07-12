@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="app_name">Меню SIM</string>
+    <string name="activity_not_found">SIM-карта не готова или не поддерживает данную функцию.</string>
+    <string name="simlock_toolkit">Меню SIM</string>
+    <string name="no_sim_card_inserted">Вставьте SIM-карту для запуска Инструментария SIM-карты.</string>
+    <string name="airplane_mode_on">Невозможно запустить Инструментарий SIM-карты, т.к. включен режим полета.</string>
+    <string name="lable_sim_not_ready">Инструментарий SIM не готов или не поддерживается</string>
+</resources>

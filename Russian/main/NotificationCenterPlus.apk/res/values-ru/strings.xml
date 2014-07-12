@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Центр уведомлений Плюс</string>
+    <string name="flashlight_notification_title">Выключить фонарик</string>
+    <string name="flashlight_notification_text">Нажмите, чтобы закрыть фонарик</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="wifi_switch_entries">
+        <item>всплывающая подсказка</item>
+        <item>автоматически включить</item>
+    </string-array>
+    <string-array name="wifi_switch_faraway_entries">
+        <item>всплывающая подсказка</item>
+        <item>автоматически отключить</item>
+    </string-array>
+</resources>

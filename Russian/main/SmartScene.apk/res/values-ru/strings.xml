@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Умный сценарий</string>
+    <string name="sim_status">Статус SIM</string>
+    <string name="notification_drive_car">Вы ведёте машину, ведите осторожнее.</string>
+    <string name="notification_stop_car">Вы остановили машину, не забудьте запереть свой автомобиль.</string>
+    <string name="notification_back_home">Добро пожаловать домой!</string>
+    <string name="notification_arrive_office">Вы прибыли в офис, В бой!</string>
+    <string name="notification_leave_home">Вы покинули дом.</string>
+    <string name="notification_leave_office">Вы покинули офис.</string>
+    <string name="notification_weather">Выйдете и проведите вниз для просмотра погодных условий</string>
+    <string name="notification_traffic">Обмен дорожной обстановкой</string>
+    <string name="notification_weather_title">Выход</string>
+    <string name="notification_traffic_title">Обновление дорожной обстановки</string>
+    <string name="confirm">ОК</string>
+    <string name="weather_forecast_remind">Пожалуйста обратите внимание, что</string>
+    <string name="weather_forecast_today">сегодня</string>
+    <string name="weather_forecast_high_temperature">"Высокая температура: "</string>
+    <string name="weather_forecast_low_temperature">"Низкая температура: "</string>
+    <string name="weather_forecast_day_weather">"Погода днём: "</string>
+    <string name="weather_forecast_night_weather">"Погода ночью: "</string>
+    <string name="weather_forecast_degree_centigrade">градусов Цельсия</string>
+    <string name="traffic_broadcast_clear_of_traffic">Вокруг автомобиля спокойная дорожная обстановка</string>
+</resources>

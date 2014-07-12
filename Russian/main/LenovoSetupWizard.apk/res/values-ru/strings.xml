@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мастер установки</string>
+    <string name="next">Далее</string>
+    <string name="skip">Пропустить</string>
+    <string name="finish">Готово</string>
+    <string name="ok">ОК</string>
+    <string name="cancel">Отмена</string>
+    <string name="tips">Подсказка</string>
+    <string name="title_act_language">Язык</string>
+    <string name="title_act_network">Настройки сети</string>
+    <string name="title_act_server">Настройка профиля</string>
+    <string name="title_act_transfer">Передача одним касанием</string>
+    <string name="network_data_title">Передача данных</string>
+    <string name="netwrok_data_summary">Вы можете использовать SIM-карты для доступа в Интернет. Использование этой службы будет создавать заметный поток данных.</string>
+    <string name="network_wlan_title">Wi-Fi</string>
+    <string name="network_wlan_summary_off">Не подключено</string>
+    <string name="network_wlan_summary_on">Подключено</string>
+    <string name="network_skip_tips">Для лучшего обслуживания и поддержки, рекомендуем вам подключиться к Интернету.</string>
+    <string name="network_skip">Пропустить</string>
+    <string name="network_not_skip">"Не пропускать"</string>
+    <string name="server_lenovo_exp_summary">Зайдите сюда для %1$s данных поддерки ПО и %2$s услуг.</string>
+    <string name="exp_color_text1">последних</string>
+    <string name="exp_color_text2">настройки</string>
+    <string name="server_lenovo_exp_span_text">Присоединяйтесь к программе расширенной поддержки Lenovo</string>
+    <string name="server_lenovo_exp_agree">Согласен присоединиться к программе расширенной поддержки Lenovo</string>
+    <string name="server_lenovo_exp_dialog_title">Подсказка</string>
+    <string name="server_lenovo_exp_tip">Предлагаем вам присоединиться к программе расширенной поддержки Lenovo для получения более качественных услуг и расширения мобильного опыта.</string>
+    <string name="server_lenovo_exp_skip">Пропустить</string>
+    <string name="server_lenovo_exp_not_skip">"Не пропускать"</string>
+    <string name="tranfser_later">Вы можете начать использовать телефон сразу после нажатия сюда</string>
+    <string name="tranfser_summary">Попрощайтесь с вашим старым телефоном и %1$s вашими контактами, сообщениями, картинками и программами.</string>
+    <string name="tranfser_color_text1">Передать всё</string>
+    <string name="tranfser_from_old_phone">Переместить данные из старого телефона на это устройство (Не использует интернет)</string>
+    <string name="tranfser_from_old_phone_summary">Это сработает только если ваш предыдущий телефон тоже использовал систему Android.</string>
+    <string name="tranfser_from_old_phone_help">Руководство по эксплуатации старого телефона</string>
+</resources>

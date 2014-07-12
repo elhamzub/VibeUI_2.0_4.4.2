@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">Индикатор событий</string>
+    <string name="breath_settings">Параметры дыхания</string>
+    <string name="breath_delay">Цикл дыхания</string>
+    <string name="breath_delay_info">Чем меньше задержка, тем выше энергопотребление</string>
+    <string name="light_switch_settings">Параметры освещения</string>
+    <string name="coming_call">Входящий вызов</string>
+    <string name="miss_call">Пропущенный вызов</string>
+    <string name="unread_msg">Непрочитанное сообщение</string>
+    <string name="battery_low_msg">Состояние батареи</string>
+    <string name="sina_weibo_notify">Уведомление SinaWeibo</string>
+    <string name="qq_weibo_notify">Уведомление TencentWeibo</string>
+    <string name="music_play">Музыка</string>
+    <string name="screen_on">Включение экрана</string>
+    <string name="screen_off">Выключение экрана</string>
+    <string name="power_on_off">Вкл/выкл питания</string>
+    <string name="charging">Зарядка</string>
+    <string name="low_battery">Низкий заряд</string>
+    <string name="color_settings">Цвет</string>
+    <string name="color_settings_info">Настройка цвета уведомлений</string>
+    <string name="color_coming_call">Входящие (цвет)</string>
+    <string name="color_miss_call">Пропущенные (цвет)</string>
+    <string name="color_unread_msg">Непрочитанные SMS (цвет)</string>
+    <string name="color_sina_weibo_notify">Уведомление SinaWeibo (цвет)</string>
+    <string name="color_qq_weibo_notify">Уведомление TencentWeibo (цвет)</string>
+	<string name="other_app_notify">Другие</string>
+	<string name="other_app_summary">Вэйсин, QQ, Sina Weibo</string>
+    <string name="color_music">Музыка (цвет)</string>
+    <string name="color_screen_on">Включение экрана (цвет)</string>
+    <string name="color_screen_off">Выключение экрана (цвет)</string>
+    <string name="light_show">Световое шоу</string>
+    <string name="light_show_info">Световое шоу воспроизведения музыки</string>
+    <string name="stop">Стоп</string>
+    <string name="closed">Отключен</string>
+    <string name="open">Включен</string>
+    <string name="multiselect_alert_info">Необходим как минимум один цвет!</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unlock_set_unlock_mode_voice_weak">Голосовая разблокировка</string>
+    <string name="voice_unlock_setup_intro_header">Записать голосовую команду</string>
+    <string name="voice_command_select_title">Выберите команду</string>
+    <string name="voice_command_launch_app_title">Запустите приложение</string>
+    <string name="reset_command_title">Сброс</string>
+    <string name="reset_command_prompt">Текущая команда будет обнулена.</string>
+    <string name="reset_command_prompt_last">Единственная голосовая команда будет обнулена. Блокировка экрана будет изменена на слайдер.</string>
+    <string name="voice_unlock_options_title">Опции</string>
+    <string name="voice_unlock_ok_label">Oк</string>
+    <string name="voice_unlock_cancel_label">Отмена</string>
+    <string name="voice_unlock_retry_label">Повтор</string>
+    <string name="voice_unlock_record_label">Запист</string>
+    <string name="voice_unlock_continue_label">Продолжить</string>
+    <string name="voice_unlock_setup_intro">Говорите команду из 2-6 слогов, а затем повторите 3-6 раз.</string>
+    <string name="voice_unlock_command">Команда разблокировки</string>
+    <string name="voice_command1">Команда разблокировки № 1</string>
+    <string name="voice_command2">Команда разблокировки № 2</string>
+    <string name="voice_command3">Команда разблокировки № 3</string>
+    <string name="command_summary">Разблокировать и запустить %1$s</string>
+    <string name="voice_command_primary">Запустить %1$s</string>
+    <string name="voice_command_customize">Настроить</string>
+    <string name="voice_command_secondary">Запустить %1$s после разблокировки</string>
+    <string name="voice_command_record_description_unlock_screen">Разблокировка экрана</string>
+    <string name="voice_command_record_description_command">Разблокировать экран и запустить %1$s</string>
+    <string name="voice_service_error_title">Ошибка голосового сервиса!</string>
+    <string name="stop_playing_title">Остановить</string>
+    <string name="stop_playing_message">Пожалуйста, выключите музыку перед записью.</string>
+    <string name="voice_command_record_introdution">Нажмите кнопку Запись и говорите свою ​​голосовую команду.</string>
+    <string name="voice_command_record_prepare">Подготовка, пожалуйста, подождите...</string>
+    <string name="voice_command_record_first_recording">"Скажите свою команду.
+2-6 слогов достаточно."</string>
+    <string name="voice_command_record_non_first_recording">Повторите вашу команду.</string>
+    <string name="voice_command_record_one_round_ok">Ок.</string>
+    <string name="voice_command_record_one_round_noisy">Слишком шумно, не слышу вас. Пожалуйста, попробуйте еще раз.</string>
+    <string name="voice_command_record_one_round_weak">Не слышу четко ваш голос.Пожалуйста, повторите</string>
+    <string name="voice_command_record_one_round_diff">Команды не совпадают.</string>
+    <string name="voice_command_record_one_round_exist">Попробуйте другую команду.</string>
+    <string name="voice_command_record_recording_ok">Установлено.</string>
+    <string name="voice_unlock_setup_end_all_done">Успех.</string>
+    <string name="voice_unlock_setup_end_prompt">Чтобы разблокировать телефон, просто скажите голосовую команду.</string>
+    <string name="pass_word_file_missing">Не удается воспроизвести голосовую команду.</string>
+    <string name="time_out_title">Тайм-аут</string>
+    <string name="time_out_message">Нет голосового ввода в течение 5 секунд. Пожалуйста, попробуйте еще раз.</string>
+    <string name="during_call_title">Запись недоступна</string>
+    <string name="during_call_message">Запись голоса не доступна во время разговора.</string>
+</resources>

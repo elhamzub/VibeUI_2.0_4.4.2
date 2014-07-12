@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="update_options_entries">
+        <item>Обновление по воздуху</item>
+        <item>Обновление с SD-карты</item>
+        <item>Обновление по воздуху и с SD-карты</item>
+    </string-array>
+</resources>

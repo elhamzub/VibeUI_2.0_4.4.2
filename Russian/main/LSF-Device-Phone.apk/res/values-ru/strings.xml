@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="push_app_name">Обслуживание устройства</string>
+    <string name="download_falied">Скачать не удалось, нажмите для повтора</string>
+    <string name="warring_network_mobile">В настоящее время нет доступной сети Wi-Fi или мобильного Интернета для скачивания</string>
+    <string name="warring_no_network">В настоящее время нет доступных сетей для подключения, настройте сеть Wi-Fi</string>
+    <string name="text_start_task">Начать загрузку</string>
+    <string name="text_set_wifi">Настройка Wi-Fi</string>
+    <string name="text_set_later">Отложить</string>
+</resources>

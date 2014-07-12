@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Умное вращение Lenovo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="title_tiganyushoushi">Сенсорный и жест</string>
+    <string name="switch_title">Поворот экрана</string>
+    <string name="switch_summary1">Умный поврот</string>
+    <string name="dialog_title">Поворот экрана</string>
+    <string name="title_activity_second">Вторичный</string>
+</resources>

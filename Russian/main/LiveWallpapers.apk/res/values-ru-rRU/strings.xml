@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">анимированные обои андроид</string>
+    <string name="wallpaper_walkaround">Перспектива</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">наблюдения через телефон, чувствовать себя непринужденно и комфортно двигаться.</string>
+    <string name="wallpaper_grass">небо луга</string>
+    <string name="wallpaper_grass_author">Google</string>
+    <string name="wallpaper_grass_desc">трава, мягко покачиваясь в день или ночь небо.</string>
+    <string name="wallpaper_galaxy">Галактика</string>
+    <string name="wallpaper_galaxy_author">Google</string>
+    <string name="wallpaper_galaxy_desc">формируется медленно вращающихся звёзд в галактике.</string>
+    <string name="wallpaper_fall">поверхность листьев</string>
+    <string name="wallpaper_fall_author">Google</string>
+    <string name="wallpaper_fall_desc">осенние бейсбол &lt; br настроек упал в весело под пруд: стили жидкости фона &lt; br настроек</string>
+    <string name="wallpaper_clock">полярные часы</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">отображает дату и время в виде дуги по часовой стрелке: месяц, день, час, минуту и секунду.</string>
+    <string name="wallpaper_nexus">шахматном порядке экраны</string>
+    <string name="wallpaper_nexus_author">Google</string>
+    <string name="wallpaper_nexus_desc">нейронных сетей.</string>
+    <string name="clock_settings">настройки полярной часов</string>
+    <string name="show_seconds">секунд</string>
+    <string name="variable_line_width">кольцо ширина различаются</string>
+    <string name="palette">Палитра</string>
+    <string name="palette_gray">серый</string>
+    <string name="palette_violet">полночь</string>
+    <string name="palette_matrix">зеленый экран</string>
+    <string name="palette_white_c">полярные медведи (анимированные)</string>
+    <string name="palette_black_c">черные дыры (динамический)</string>
+    <string name="palette_halloween">тыквенный пирог</string>
+    <string name="palette_zenburn">салат из экзотических фруктов</string>
+    <string name="palette_oceanic">синий лазер</string>
+</resources>
