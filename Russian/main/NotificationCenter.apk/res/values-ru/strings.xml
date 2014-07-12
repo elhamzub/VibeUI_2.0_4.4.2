@@ -125,6 +125,12 @@
     <string name="state_open">Открыть</string>
     <string name="widget_text_notification_setting">Сообщения</string>
 	<string name="lenovo_charge_quick_change_to_normal">изменение быстрого заряда на обычный...</string>
+	<string name="widget_text_free_call">Бесплатный набор</string>
+    <string name="lenovo_recent_page_title">Недавние</string>
+    <string name="lenovo_quickpanel_page_title">Избранное</string>
+	<string name="lenovo_quickpanel_item_add_label">Добавить</string>
+	<string name="fullscreen_expanding_notificationbar_title">Ракрываемо под полным экраном</string>
+    <string name="fullscreen_expanding_notificationbar_summary">Ракрываемо под полным экраном</string>
     <string name="gemini_default_sim_always_ask">Всегда спрашивать</string>
     <string name="accessibility_phone_four_bars">4 полоски телефона.</string>
     <string name="sim_switch_tip">Эта SIM-карта задана по умолчанию для \"%s\". Нажмите и протащите строку состояния вниз, чтобы изменить SIM-карту по умолчанию.</string>
@@ -438,7 +444,7 @@
     <string name="description_direction_down">Слайд вниз для %s.</string>
     <string name="description_direction_left">Слайд влево для %s.</string>
     <string name="description_direction_right">Слайд вправо для %s.</string>
-    <string name="lenovo_recents_memory_info_text">%1$s МБ\u0009 ДОСТУПНО ИЗ %2$s ГБ RAM</string>
+    <string name="lenovo_recents_memory_info_text">%1$sМб/%2$sГб</string>
     <string name="lenovo_recents_clear_memory_toast_text">"Освобождено %1$sMб,
 %2$sМб памяти доступно"</string>
     <string name="lenovo_recents_no_app_toast_test">"Память была оптимизирована, закрыты
