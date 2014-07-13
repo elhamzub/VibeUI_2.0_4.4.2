@@ -592,7 +592,6 @@
 	<string name="deep_clear_detail">После блокировки, запущенные приложения будут очищены из памяти, чтобы убедиться, что устройство спит</string>
 	<string name="deep_clear_result_to_white_list_new">На отмеченные приложения воздействия не будет</string>
 	<string name="settings_timeout_disconn">Авто-отключение</string>
-	<string name="notification_title">Показать в статус-баре</string>
 	<string name="settings_led">LED уведомления</string>
 	<string name="settings_classicmode_shortcut">Ярлык</string>
 </resources>
