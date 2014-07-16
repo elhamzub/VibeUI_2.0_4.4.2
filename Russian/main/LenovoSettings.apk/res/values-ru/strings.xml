@@ -698,7 +698,7 @@
     <string name="accelerometer_title">Автоповорот экрана</string>
     <string name="accelerometer_summary_on">Автоматически менять ориентацию экрана при повороте телефона</string>
     <string name="accelerometer_summary_off">Автоматически менять ориентацию экрана при повороте телефона</string>
-    <string name="brightness">Яркость</string>
+    <string name="brightness">Яркость экрана</string>
     <string name="brightness_summary">Настроить яркость экрана</string>
     <string name="screen_timeout">Спящий режим</string>
     <string name="screen_timeout_summary">После %1$s бездействия</string>
@@ -2336,11 +2336,11 @@
     <string name="wifi_restore_ok">Восстановлено!</string>
     <string name="wifi_restore_failed">Восстановить не удалось.</string>
     <string name="wifi_switch_settings_title">Привязка Wi-Fi</string>
-    <string name="wifi_popup_0">Сообщать о входе в зону действия сохраненной сети Wi-Fi.</string>
-    <string name="wifi_popup_1">Автоподключение при входе в зону действия Wi-Fi.</string>
-    <string name="wifi_popup_2">Не привязываться к сетям Wi-Fi.</string>
+    <string name="wifi_popup_0">Сообщать о входе в зону действия сохраненной сети Wi-Fi</string>
+    <string name="wifi_popup_1">Автоматическое подключение в зоне действия Wi-Fi</string>
+    <string name="wifi_popup_2">Не привязывать сети Wi-Fi</string>
     <string name="show_dialog">Не напоминать в дальнейшем.</string>
-    <string name="wifi_switch_summary">Сохранение точек доступа по их местоположению через сеть 3G/2G.</string>
+    <string name="wifi_switch_summary">Помнить положение точек доступа через координаты сотовых сетей</string>
     <string name="privacy_backup_userdata_category_title">Резервное копирование данных</string>
     <string name="privacy_backup_userdata_title">Резервное копирование на SD-карту</string>
     <string name="privacy_backup_userdata_summary">Резервное копирование данных на SD-карту</string>

@@ -392,7 +392,7 @@
         <item>Отключено</item>
     </string-array>
     <string-array name="entries_button_brightness">
-        <item>Выключена</item>
+        <item>Включена</item>
         <item>На 3 секунды</item>
         <item>Выключена</item>
     </string-array>

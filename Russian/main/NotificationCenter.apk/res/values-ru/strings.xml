@@ -129,9 +129,12 @@
     <string name="lenovo_recent_page_title">Недавние</string>
     <string name="lenovo_quickpanel_page_title">Избранное</string>
 	<string name="lenovo_quickpanel_item_add_label">Добавить</string>
+	<string name="lenovo_brightness_adjust_bar_message">Настройка яркости вручную, используйте ползунок для настройки</string>
 	<string name="fullscreen_expanding_notificationbar_title">Ракрываемо под полным экраном</string>
     <string name="fullscreen_expanding_notificationbar_summary">Ракрываемо под полным экраном</string>
-    <string name="gemini_default_sim_always_ask">Всегда спрашивать</string>
+    <string name="widget_text_mobile_data_choose">Выбор передачи данных</string>
+	<string name="selecte_default_data_card_message">Выберите карту памяти по-умолчанию</string>
+	<string name="gemini_default_sim_always_ask">Всегда спрашивать</string>
     <string name="accessibility_phone_four_bars">4 полоски телефона.</string>
     <string name="sim_switch_tip">Эта SIM-карта задана по умолчанию для \"%s\". Нажмите и протащите строку состояния вниз, чтобы изменить SIM-карту по умолчанию.</string>
     <string name="remind_next_time">Напомнить в следующий раз</string>
@@ -559,6 +562,7 @@
 	<string name="widget_text_reboot">Перезапуск</string>
     <string name="widget_text_shutdown">Выключить</string>
 	<string name="widget_text_more">Ещё...</string>
+	<string name="lenovo_statusbar_switch_brightness_auto_textview_text">Авто</string>
 	<string name="lenovo_custom_switch_brightness_title">Показывать панель яркости</string>
     <string name="profiles_tilte">Профили</string>
     <string name="custom_switch_position_title">Настройки переключателей</string>
