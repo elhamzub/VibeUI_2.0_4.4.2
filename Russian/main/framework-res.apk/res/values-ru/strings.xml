@@ -1062,7 +1062,7 @@
     <string name="usb_ptp_notification_title">Подключен как камера</string>
     <string name="usb_cd_installer_notification_title">Подключен как установщик</string>
     <string name="usb_accessory_notification_title">USB-устройство подключено</string>
-    <string name="usb_notification_message">Нажмите, чтобы открыть список опций.</string>
+    <string name="usb_notification_message">Нажмите, чтобы открыть список опций</string>
     <string name="extmedia_format_title">Отформатировать SD-карту?</string>
     <string name="extmedia_format_message">Все данные будут удалены с карты.</string>
     <string name="extmedia_format_button_format">Формат</string>

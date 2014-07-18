@@ -644,16 +644,16 @@
     <string name="boot_login_error">Ошибка автоматического входа под кодом LenovoID. Нажмите здесь, чтобы зарегистрироваться вручную.</string>
     <string name="boot_regist_login_notification_msg">Введен код LenovoID, вызовите центр учетных записей и воспользуйтесь дополнительными услугами.</string>
     <string name="boot_wizard_tips"><html>Сообщения, контакты, фотографии... Lenovo предоставляет вам<font color="#0d74ff">облачный сервис</font>，чтобы помочь вам<font color="#0d74ff">сохранить данные.</font></html></string>
-    <string name="boot_wizard_tips_1">Сообщения, контакты, фотографии...... Lenovo предоставляет вам</string>
-    <string name="boot_wizard_tips_2">облачный сервис</string>
-    <string name="boot_wizard_tips_3">чтобы помочь вам</string>
+    <string name="boot_wizard_tips_1">Сообщения, контакты, фотографии... Lenovo предоставляет вам </string>
+    <string name="boot_wizard_tips_2">облачный сервис </string>
+    <string name="boot_wizard_tips_3">чтобы помочь вам </string>
     <string name="boot_wizard_tips_4">сохранить данные.</string>
     <string name="boot_wizard_registerbythis">Уже зарегистрирован</string>
     <string name="boot_wizard_iwantregister">Я хочу зарегистрироваться</string>
     <string name="boot_wizard_login_email">Адрес электронной почты</string>
     <string name="boot_wizard_login_phone">Телефонный номер</string>
-    <string name="boot_wizard_login_onekey">Войти сразу, используя номер текущей SIM-карты</string>
-    <string name="boot_wizard_login_other">Другие учётные записи</string>
+    <string name="boot_wizard_login_onekey">Войти с номера</string>
+    <string name="boot_wizard_login_other">Другие аккаунты</string>
 	<string name="com_lenovo_lsf_string_contact_method">Контакт</string>
 	<string name="com_lenovo_lsf_string_check_update">Проверка обновления</string>
 	<string name="myaccount_string_chooseaccount">Выберите учетную запись</string>
