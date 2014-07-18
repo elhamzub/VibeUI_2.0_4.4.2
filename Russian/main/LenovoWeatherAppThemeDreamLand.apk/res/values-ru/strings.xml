@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Тема с погодой Lenovo</string>
+    <string name="monday">Пнд</string>
+    <string name="tuesday">Втр</string>
+    <string name="wednesday">Срд</string>
+    <string name="thursday">Чтв</string>
+    <string name="friday">Птн</string>
+    <string name="saturday">Суб</string>
+    <string name="sunday">Вос</string>
+    <string name="today">Сегодня</string>
+</resources>
