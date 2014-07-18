@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="proxy_error">
+        <item>Поле Узел не может быть пустым</item>
+        <item>Поле Порт не может быть пустым</item>
+        <item>Недопустимый узел</item>
+        <item>Недопустимый порт</item>
+    </string-array>
+</resources>
