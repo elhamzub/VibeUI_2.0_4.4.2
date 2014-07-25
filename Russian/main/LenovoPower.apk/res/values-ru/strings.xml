@@ -467,6 +467,7 @@
     <string name="settings_frozen_detail">Заморозка редко используемых приложений для экономии энергии и освобождения памяти.</string>
     <string name="settings_consume">Энергопотребление</string>
     <string name="settings_frozen">В заморозке</string>
+	<string name="settings_noti">Показывать в статут-баре</string>
     <string name="settings_notification">Показывать уведомления</string>
     <string name="settings_updater">Проверка обновления</string>
     <string name="noti_cut_connect_gps">GPS</string>

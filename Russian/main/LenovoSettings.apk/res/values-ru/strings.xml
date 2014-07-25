@@ -2324,7 +2324,7 @@
     <string name="server_lenovo_exp_ok">OK</string>
     <string name="server_lenovo_exp_cancel">Отмена</string>
     <string name="wizard_title">В помощь новичкам</string>
-    <string name="wifi_backup">Резервное копирование конфигурации Wi-Fi</string>
+    <string name="wifi_backup">Копирование конфигурации Wi-Fi</string>
     <string name="wifi_backup_category_title">Резервное копирование Wi-Fi</string>
     <string name="wifi_backup_title">Резервное копирование Wi-Fi</string>
     <string name="wifi_backup_summary">Резервное копирование Wi-Fi(аккаунт/пароль) для LeCloud</string>

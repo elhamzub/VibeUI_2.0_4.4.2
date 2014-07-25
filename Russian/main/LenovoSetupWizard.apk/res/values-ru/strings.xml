@@ -28,10 +28,10 @@
     <string name="server_lenovo_exp_tip">Предлагаем вам присоединиться к программе расширенной поддержки Lenovo для получения более качественных услуг и расширения мобильного опыта.</string>
     <string name="server_lenovo_exp_skip">Пропустить</string>
     <string name="server_lenovo_exp_not_skip">"Не пропускать"</string>
-    <string name="tranfser_later">Можно использовать телефон сразу, нажав сюда</string>
+    <string name="tranfser_later">Для продолжения нажмите сюда</string>
     <string name="tranfser_summary">Попрощайтесь с вашим старым телефоном и %1$s ваши контакты, сообщения, картинки и программы.</string>
     <string name="tranfser_color_text1">перенесите все</string>
-    <string name="tranfser_from_old_phone">Переместить данные со старого телефона на это устройство (бесплатно)</string>
+    <string name="tranfser_from_old_phone">Переместить данные со старого телефона на новый</string>
     <string name="tranfser_from_old_phone_summary">Это сработает только если ваш предыдущий телефон тоже использовал систему Android. </string>
     <string name="tranfser_from_old_phone_help">Руководство по эксплуатации старого телефона</string>
 </resources>

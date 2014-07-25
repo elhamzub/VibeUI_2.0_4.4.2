@@ -651,9 +651,9 @@
     <string name="boot_wizard_registerbythis">Уже зарегистрирован</string>
     <string name="boot_wizard_iwantregister">Я хочу зарегистрироваться</string>
     <string name="boot_wizard_login_email">Адрес электронной почты</string>
-    <string name="boot_wizard_login_phone">Телефонный номер</string>
+    <string name="boot_wizard_login_phone">С телефона</string>
     <string name="boot_wizard_login_onekey">Войти с номера</string>
-    <string name="boot_wizard_login_other">Другие аккаунты</string>
+    <string name="boot_wizard_login_other">Аккаунт</string>
 	<string name="com_lenovo_lsf_string_contact_method">Контакт</string>
 	<string name="com_lenovo_lsf_string_check_update">Проверка обновления</string>
 	<string name="myaccount_string_chooseaccount">Выберите учетную запись</string>
