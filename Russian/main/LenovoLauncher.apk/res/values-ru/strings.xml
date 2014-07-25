@@ -586,6 +586,4 @@
     <string name="desktop_first_launching">Загрузка рабочего стола впервые</string>
     <string name="failed_to_unmix">Файл не является файлом стандартного профиля!</string>
     <string name="theme_appling_progress_info">Применение темы, пожалуйста, подождите</string>
-	<string name="auto_push_recommend_game_settings_title">Автоматически рекомендовать игры</string>
-	<string name="allow_download_use_3g_settings_title">Разрешить загружать через мобильные сети</string>
 </resources>
