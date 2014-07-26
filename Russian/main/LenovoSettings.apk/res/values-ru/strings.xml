@@ -316,10 +316,10 @@
     <string name="unlock_set_unlock_launch_picker_change_title">Изменение блок. экрана</string>
     <string name="unlock_set_unlock_launch_picker_change_summary">Смена или отключение графического ключа, PIN-кода и пароля</string>
     <string name="unlock_set_unlock_launch_picker_enable_summary">Выбрать метод блокировки экрана</string>
-    <string name="unlock_backup_info_summary">Выберите альтернативный способ разблокировки экрана.</string>
-    <string name="unlock_set_unlock_off_title">Нет</string>
+    <string name="unlock_backup_info_summary">Выберите вид экрана блокировки</string>
+    <string name="unlock_set_unlock_off_title">Отключено</string>
     <string name="unlock_set_unlock_none_title">Прокрутка</string>
-    <string name="unlock_set_unlock_none_summary">Защита отключена</string>
+    <string name="unlock_set_unlock_none_summary">Слабая защита</string>
     <string name="unlock_set_unlock_biometric_weak_title">Фейсконтроль</string>
     <string name="unlock_set_unlock_biometric_weak_summary">Низкий уровень защиты (экспериментальная функция)</string>
     <string name="unlock_set_unlock_pattern_title">Графический ключ</string>
@@ -974,7 +974,7 @@
     <string name="lockpassword_confirm_your_pin_header">Подтвердите ПИН-код</string>
     <string name="lockpassword_confirm_passwords_dont_match">Пароли не совпадают</string>
     <string name="lockpassword_confirm_pins_dont_match">PIN-коды не совпадают</string>
-    <string name="lockpassword_choose_lock_generic_header">Способ разблокировки</string>
+    <string name="lockpassword_choose_lock_generic_header">Тип экрана блокировки</string>
     <string name="lockpassword_password_set_toast">Пароль был установлен</string>
     <string name="lockpassword_pin_set_toast">ПИН-код был установлен</string>
     <string name="lockpassword_pattern_set_toast">Ключ был установлен</string>

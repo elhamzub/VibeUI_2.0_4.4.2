@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="simui_intenet_call">Интернет-вызов</string>
+	<string name="ui_default_package">com.android.incallui</string>
+    <string name="incall_default_class">com.android.incallui.CallHandlerService</string>
+    <string name="dialer_default_class">com.android.dialer.DialtactsActivity</string>
+    <string name="carrier_settings" />
+    <string name="carrier_settings_menu" />
+    <string name="auto_start_record_label">Автоматическая запись</string>
+    <string name="auto_record_setting_title">Автоматическая запись</string>
+    <string name="auto_record_setting_summer">Автоматически начинать запись разговора после ответа</string>
+    <string name="auto_record_setting_actionbar_tile">Настройки записи</string>
+    <string name="auto_record_setting_OnOrOff_tile">Активация записи</string>
+    <string name="auto_record_setting_contact">Укажите условия записи</string>
+    <string name="auto_record_contact1">Все</string>
+    <string name="auto_record_contact2">Контакты</string>
+    <string name="auto_record_contact3">Неизвестные</string>
     <string name="onscreenHangupAll">«Повесить» все телефонные трубки</string>
     <string name="onscreenHangupHolding">Удержание режима «повешенной» трубки</string>
     <string name="onscreenHangupActiveAndAnswerWaiting">Режим «повешенной» трубки активен, ожидание ответа</string>
