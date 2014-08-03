@@ -7,7 +7,7 @@
     <string name="newcall">Пропущенный Вызовы от личного контакта</string>
     <string name="no_replaysms">Я свяжусь с вами позже</string>
     <string name="notify">Запрос</string>
-    <string name="safe_noti1">SECUREit запущена…</string>
+    <string name="safe_noti1">SECUREit запущен…</string>
     <string name="sign_local">Номер помечен как %1$s</string>
     <string name="sign_net">%1$d помечен как %2$s</string>
     <string name="signtype1">Продавец</string>
@@ -180,6 +180,7 @@
     <string name="netscaning_sure">Облачная проверка</string>
     <string name="net_virus_scaning">Облачная проверка</string>
     <string name="no_open">Отключено</string>
+    <string name="no_open_anti">Анти-вор отключен</string>
     <string name="op_advertise_intercept_detail">Включен блокировщик объявлений</string>
     <string name="op_auto_update_detail">Автоматическое обновление базы данных уже Включено</string>
     <string name="op_backup_contact_lecloud">Резервная копия адресной книги успешно выполнена с помощью резервного копирования системы безопасности</string>
@@ -457,9 +458,9 @@
     <string name="feedback_send_msg_empty">Содержание не может быть пустым!</string>
     <string name="feedback_receive_msg">%s ответов</string>
     <string name="feedback_send_msg">%s сообщений</string>
-    <string name="permission_server_detail">"Бла бла бла...
-    Прочитали?
-    Значит соглашаемся."</string>
+    <string name="permission_server_detail">"Security Software License and Services Agreement
+
+    Соглашаемся."</string>
     <string name="permission_server_title">«Лицензионное соглашение»</string>
     <string name="enable_net_desc">Для защиты вашего телефона, SECUREit требуется подключение к сети, а плата взимается операторами.</string>
     <string name="amg_apkfile">АРК Менеджер</string>
@@ -1110,6 +1111,9 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="traffic_carry_tel">China Telecom</string>
     <string name="traffic_no_sim">Нет SIM-карты</string>
     <string name="traffic_no_plan_set">Настроить</string>
+    <string name="permission_allow">Разрешить</string>
+    <string name="permission_deny">Запретить</string>
+    <string name="permission_notify">Уведомление</string>
     <string name="permission_log_forbid">Запретить для</string>
     <string name="allow_all_tip">Разрешить всем приложениям может вызвать угрозу безопасности. Вы уверенны, что хотите сделать это?</string>
     <string name="allow_total">Разрешено</string>
@@ -1221,6 +1225,9 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="perm_wsms">Записывать сообщения в папке Входящие</string>
     <string name="perm_rcalllogs">Чтение журнала звонков</string>
     <string name="perm_rcontact">Доступ к контактам</string>
+    <string name="safe_defense_allow">Разрешить </string>
+    <string name="safe_defense_deny">Запретить </string>
+    <string name="safe_defense_notify">Уведомление </string>
     <string name="lesafe_pwd">Пароль</string>
     <string name="input_password_answer_right">Ответ правельный, можете изменить пароль.</string>
     <string name="callings">Вызовы</string>
@@ -1256,6 +1263,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="mms_background">Запретить</string>
     <string name="mms_background_summary">Ограничить приложения в передаче MMS</string>
     <string name="perm_sendmms">Отправлять MMS</string>
+    <string name="permission_call">Совершать звонки</string>
     <string name="enable_net">Запреть открывать 3G/WLAN/Bluetooth</string>
     <string name="enable_net_summary">Ограничить приложения в открытии 3G/WLAN/Bluetooth</string>
     <string name="perm_change_net">Открывать 3G/WLAN/Bluetooth</string>
@@ -1270,7 +1278,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="perm_readmms">Читать MMS</string>
     <string name="permission_notice_intercep_3g">Включение передачи данных влечет к снятию средств вашим оператором. Вы уверены, что хотите включить?</string>
     <string name="permission_notice_intercep_bluetooth">Вы уверены, что хотите включить Bluetooth?</string>
-    <string name="permission_notice_intercep_wifi">Вы уверены, что хотите включить WiFi?</string>
+    <string name="permission_notice_intercep_wifi">Вы уверены, что хотите включить Wi-Fi?</string>
     <string name="safe_defense_titleName_notice">Совет</string>
     <string name="safe_defense_titleName_Alert">Оповещение</string>
     <string name="cancel_tip">отмена(%1$ds)</string>
@@ -1305,25 +1313,58 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="install_intercept_installed_result_failed">Время ожидания для установки %s закончилось, попробуйте еще раз</string>
     <string name="default_app_name">Неизвестное Имя</string>
     <string name="permission_records_when_calling">При звонке</string>
+    <string name="permission_dialog_never_notice">Не напоминать</string>
+    <string name="permission_ok">ОК</string>
+    <string name="permission_known">ОК, я знаю</string>
     <string name="permission_cancel">Отмена</string>
+    <string name="permission_is_update_lab_text">Обновить?</string>
+    <string name="permission_forbid">Запретить</string>
+    <string name="permission_no_null_limit_input_num_text">Нельзя оставлять пустым</string>
+    <string name="permission_no_zero_limit_input_num_text">Тарифный план не может быть равен 0</string>
+    <string name="permission_hour_text">часов</string>
+    <string name="permission_minute">минут</string>
+    <string name="permission_failed_to_inject">Ошибка запуска диспетчера, следует перезапустить телефон</string>
+    <string name="permission_failed_to_inject_part_so">Ошибка запуска части диспетчера, следует перезапустить телефон</string>
+    <string name="replance_warning">Предупреждение, новая версия приложения установлена, данные могут быть потеряны!</string>
+    <string name="no_lenovoid">Риск потери данных очень велик, этой может привести к потере ценной информации, рекомендуется отменить!</string>
     <string name="perm_c_location">Получение информации о местоположении</string>
     <string name="perm_record">Запись</string>
     <string name="perm_camera">Использование камеры</string>
     <string name="perm_wcontact">изменение контактов</string>
     <string name="location">Мое местоположение</string>
+    <string name="permission_notification_forbid">Запретить %s </string>
+    <string name="permission_notification_when_calling">Во время звонка </string>
+    <string name="permission_lowercase_calendar">%s читать календарь</string>
+    <string name="permission_lowercase_call">%s делать вызов</string>
+    <string name="permission_lowercase_brower_history">%s просматривать cookies браузера и закладки</string>
     <string name="perm_internet">Доступ в Интернет</string>
     <string name="permission_perm_privacy_info">Получить информацию</string>
+    <string name="permission_lowercase_rcalllogs">%s читать журналы вызовов</string>
+    <string name="permission_lowercase_rcontact">%s читать контакты</string>
     <string name="permission_perm_rcontacts">просмотр контактов и журнала вызовов</string>
+    <string name="permission_lowercase_rsms">%s читать SMS</string>
+    <string name="permission_lowercase_send_sms">%s отправлять SMS</string>
     <string name="permission_perm_tap_calling">Камера и рекордер</string>
+    <string name="permission_lowercase_wsms">%s писать сообщения</string>
+    <string name="permission_lowercase_readmms">%s читать MMS</string>
     <string name="permission_time_d">День</string>
     <string name="permission_time_m">Месяц</string>
     <string name="permission_get_contact">просмотр контактов</string>
+    <string name="permission_lowercase_edit_contact">%s изменять контакты</string>
     <string name="permission_get_calllog">просмотр журнала вызовов</string>
+    <string name="permission_lowercase_edit_calllog">%s изменять журналы вызовов</string>
     <string name="permission_sms">SMS</string>
     <string name="permission_get_sms">читать сообщения</string>
     <string name="permission_edit_sms">изменять сообщения</string>
     <string name="permission_record">устройство записи</string>
     <string name="permission_camera">Камера</string>
+    <string name="permission_lowercase_open_3g">%s включать передачу данных</string>
+    <string name="permission_lowercase_open_wifi">%s включать Wi-Fi</string>
+    <string name="permission_lowercase_open_bluetooth">%s включать Bluetooth</string>
+    <string name="permission_lowercase_get_loc">%s получать данные местоположения</string>
+    <string name="permission_lowercase_open_record">%s запускать диктофон</string>
+    <string name="permission_lowercase_open_camera">%s запускать камеру</string>
+    <string name="permission_lowercase_send_mms">%s отправлять MMS</string>
     <string name="permission_navigator_open_recording">Открывать диктофон</string>
     <string name="permission_navigator_open_camera">Открывать камеру</string>
     <string name="permission_navigator_rcalllogs">Просмотр журнала вызовов</string>

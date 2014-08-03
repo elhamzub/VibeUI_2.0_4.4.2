@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">WlanBindingLocation</string>
-    <string name="setting_activity">Wi-Fi привязка</string>
+    <string name="app_name">Привязывание Wi-Fi</string>
+    <string name="setting_activity">Привязывание Wi-Fi</string>
     <string name="dialog_title">Включить Wi-Fi?</string>
-    <string name="dialog_text">Это место было привязано, включите Wi-Fi？</string>
+    <string name="dialog_text">Это место было связано с точкой доступа, включить Wi-Fi?</string>
     <string name="disable_dialog_title">Отключить Wi-Fi?</string>
-    <string name="disable_dialog_text">Это место находится далеко от расположения подключенных точек，отключить Wi-Fi？</string>
+    <string name="disable_dialog_text">Это место находится далеко от ближайших точек доступа, отключить Wi-Fi?</string>
     <string name="show_dialog">Не напоминать</string>
     <string name="disable_show_dialog">Не напоминать</string>
-    <string name="wifi_enable_text">Введите местоположение</string>
-    <string name="wifi_enable_summary">При входе в расположение подключение точек с уровнем сигнала 3 или выше и есть данные GRPS, включите Wi-Fi</string>
-    <string name="wifi_disable_text">Далекое расположение</string>
-    <string name="wifi_disable_summary">Когда расположение точки далеко，отключите Wi-Fi</string>
-    <string name="wifi_setting_summary">Связывание подключенной сети Wi-Fi, а затем, если вы используете услуги передачи данных 3G/2G GPRS в ее зоне обслуживания, вы будете подключены к этому Wi-Fi</string>
+    <string name="wifi_enable_text">Близко к точке доступа</string>
+    <string name="wifi_enable_summary">При попадении в зону действия точки доступа с уровнем сигнала 3 или выше и используется передача данных, включить Wi-Fi</string>
+    <string name="wifi_disable_text">Далеко от точки доступа</string>
+    <string name="wifi_disable_summary">Когда вы отдаляетесь от точки доступа，отключать Wi-Fi</string>
+    <string name="wifi_setting_summary">Привязывание текущей сети Wi-Fi, затем, когда вы используете услуги передачи данных 3G/2G GPRS в ее зоне действия, вы будете подключены к этой сети</string>
     <string name="wifi_popup_tip">Всплывающее окно</string>
     <string name="wifi_auto_enable">Автоматическое подключение</string>
     <string name="wifi_auto_disable">Автоматическое отключение</string>
-    <string name="wifi_popup_0">Когда произойдет соединение подключенных точек, введите данные в всплывающее окно</string>
-    <string name="wifi_popup_1">Когда произойдет соединение подключенных точек, введите данные в всплывающее окно</string>
+    <string name="wifi_popup_0">Когда произойдет соединение, введите данные в всплывающее окно</string>
+    <string name="wifi_popup_1">Когда произойдет соединение, введите данные в всплывающее окно</string>
     <string name="wifi_popup_2">Не напоминать</string>
     <string name="confirm_yes">Да</string>
     <string name="confirm_no">Нет</string>
-    <string name="enable_wifi_hint">WWi-FiLAN запись во время подключения к Wi-Fi сети, для сохранения потока данных</string>
-    <string name="disable_wifi_hint">Wi-Fi запись отключена для сохранения энергии</string>
+    <string name="enable_wifi_hint">Включена сеть Wi-Fi, для снижения потребления мобильных данных</string>
+    <string name="disable_wifi_hint">Отключена сеть Wi-Fi, для сохранения энергии</string>
 </resources>
