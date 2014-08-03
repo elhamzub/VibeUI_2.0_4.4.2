@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="traffic_month_sheet_date">
+        <item>1-е число</item>
+        <item>2-е число</item>
+        <item>3-е число</item>
+        <item>4-е число</item>
+        <item>5-е число</item>
+        <item>6-е число</item>
+        <item>7-е число</item>
+        <item>8-е число</item>
+        <item>9-е число</item>
+        <item>10-е число</item>
+        <item>11-е число</item>
+        <item>12-е число</item>
+        <item>13-е число</item>
+        <item>14-е число</item>
+        <item>15-е число</item>
+        <item>16-е число</item>
+        <item>17-е число</item>
+        <item>18-е число</item>
+        <item>19-е число</item>
+        <item>20-е число</item>
+        <item>21-е число</item>
+        <item>22-е число</item>
+        <item>23-е число</item>
+        <item>24-е число</item>
+        <item>25-е число</item>
+        <item>26-е число</item>
+        <item>27-е число</item>
+        <item>28-е число</item>
+        <item>29-е число</item>
+        <item>30-е число</item>
+        <item>31-е число</item>
+    </string-array>
+    <string-array name="traffic_correct_cycle_time">
+        <item>Ежедневно</item>
+        <item>Каждые 3 дня</item>
+        <item>Еженедельно</item>
+        <item>Закрыть</item>
+    </string-array>
+    <string-array name="datetime_unit_name">
+        <item>Дни</item>
+        <item>Часы</item>
+        <item>Минутs</item>
+        <item>Секунды</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>Обычный ответ</item>
+        <item>Сбросить вызов</item>
+        <item>Сбросить вызов и отослать SMS</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Блокировка после отключения экрана</item>
+        <item>Заблокировать при выходе</item>
+        <item>Через 5 мин. бездействия</item>
+    </string-array>
+    <string-array name="private_quick_add">
+        <item>из Журнала звонков</item>
+        <item>из сообщения SMS</item>
+        <item>из Контактов</item>
+        <item>вручную</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>Не уведомлять</item>
+        <item>Уведомление в панели уведомлений</item>
+        <item>Сообщение в панели уведомлений и просигналить</item>
+        <item>Сообщение в панели уведомлений и вибрировать</item>
+    </string-array>
+    <string-array name="pwd_question">
+        <item>Имя моего учителя начальных классов?</item>
+        <item>Имя моего классного руководителя?</item>
+        <item>Имя моего любимого учителя?</item>
+        <item>Мой любимый фрукт?</item>
+        <item>Название любимой композиции?</item>
+        <item>День рождения моего отца?</item>
+        <item>День рождения моей матери?</item>
+        <item>Последние четыре цифры телефона моего отца/матери?</item>
+        <item>Профессия отца/матери?</item>
+        <item>Имя моего домашнего животного?</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>Из журнала звонков</item>
+        <item>из сообщения SMS</item>
+        <item>из контактов</item>
+        <item>Добавить вручную</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>Интеллектуальный перехват</item>
+        <item>Блокириовать только Ченый список</item>
+        <item>Разрешить только контакты</item>
+        <item>Разрешешить только Белый список</item>
+    </string-array>
+    <string-array name="backup_restore_mode">
+        <item>Копирование Черного списка</item>
+        <item>Копирование Белого списка</item>
+        <item>Копирование Черного/Белого списка</item>
+        <item>Восстановление резервной копии</item>
+    </string-array>
+    <string-array name="block_list_entries">
+        <item>Занято</item>
+        <item>Телефон выключен</item>
+        <item>Абонент не доступен</item>
+        <item>Неверный номер</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>Только Контакты</item>
+        <item>Толко Белый список</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>из Журнала звонков</item>
+        <item>из сообщения SMS</item>
+        <item>из Контактов</item>
+        <item>Добавить вручную</item>
+    </string-array>
+    <string-array name="array_pwd_question">
+        <item>Последние четыре цифры телефона моего отца/матери?</item>
+        <item>Имя моего учителя начальных классов?</item>
+        <item>Мой любимый фрукт?</item>
+        <item>День рождения моего отца?</item>
+        <item>Название любимой композиции?</item>
+        <item>Имя моего домашнего животного?</item>
+    </string-array>
+</resources>
