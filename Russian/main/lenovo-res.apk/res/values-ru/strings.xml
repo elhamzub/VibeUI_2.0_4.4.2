@@ -49,7 +49,7 @@
     <string name="volume_icon_description_media">Медиа</string>
     <string name="volume_icon_description_notification">Уведомления</string>
     <string name="not_support_too_long_string">Запрос поиска слишком длинный</string>
-    <string name="turn_on_mobile_data_warning">Включение передачи данных приведёт к потреблению данных GPRS. За эту операцию предусмотрено взымание платы согласно вашего тарифного плана. Продолжить?</string>
+    <string name="turn_on_mobile_data_warning">Включение передачи данных приведёт к потреблению данных GPRS. За эту операцию предусмотрено взимание платы согласно вашего тарифного плана. Продолжить?</string>
     <string name="next_time_no_warning">Больше не предупреждать</string>
     <string name="turn_on_data">Включить</string>
     <string name="turn_off_data">Выключить</string>
