@@ -950,7 +950,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="sysclear_no_opti_remanent">Нет реманентных файлов</string>
     <string name="sysclear_trash_no_sd_title">Нет SD-карты</string>
     <string name="sysclear_trash_no_sd_summary">Пожалуйста, вставьте SD-карту памяти перед использованием этой функции</string>
-    <string name="sysclear_cache_listview_delete_button">Очистить</string>
+    <string name="sysclear_cache_listview_delete_button"></string>
     <string name="sysclear_no_opti_process">Нет приложений в фоновом режиме</string>
     <string name="sysclear_no_opti_autorun">Нет приложений в автозапуске</string>
     <string name="sysclear_no_opti_cache">Нет кэш файла</string>
