@@ -1780,7 +1780,7 @@
     <string name="data_usage_app_restrict_dialog">"Если будут доступны только мобильные сети, программы, зависящие от фонового режима, могут перестать работать.
 
 Установите другие параметры передачи данных в настройках приложения."</string>
-    <string name="data_usage_restrict_denied_dialog">Ограничение фонового режима возможно только при лимитировании мобильного трафика.</string>
+    <string name="data_usage_restrict_denied_dialog">"Ограничение фонового режима возможно только при лимитировании мобильного трафика."</string>
     <string name="data_usage_auto_sync_on_dialog_title">Включить авто синхронизацию?</string>
     <string name="data_usage_auto_sync_on_dialog">"Все изменения, внесенные в аккаунты на компьютере, будут автоматически скопированы на устройство.
 
@@ -1788,7 +1788,7 @@
 
 Чтобы указать для каждого аккаунта, какие данные нужно синхронизировать, перейдите в меню \"Настройки > Аккаунты\"."</string>
     <string name="data_usage_auto_sync_off_dialog_title">Отключить автосинхронизацию?</string>
-    <string name="data_usage_auto_sync_off_dialog">Это сократит трафик и расход энергии. Однако чтобы получать новые данные, необходимо будет синхронизировать каждый аккаунт вручную. При этом уведомления об обновлениях отображаться не будут.</string>
+    <string name="data_usage_auto_sync_off_dialog">"Это сократит трафик и расход энергии. Однако чтобы получать новые данные, необходимо будет синхронизировать каждый аккаунт вручную. При этом уведомления об обновлениях отображаться не будут."</string>
     <string name="data_usage_cycle_editor_title">Удаление статистики</string>
     <string name="data_usage_cycle_editor_subtitle">День месяца:</string>
     <string name="data_usage_cycle_editor_positive">Сохранить</string>
@@ -1799,7 +1799,7 @@
 
 Во избежание дополнительных расходов старайтесь не достигать этого лимита, так как оператор и ваше устройство могут по-разному учитывать трафик."</string>
     <string name="data_usage_restrict_background_title">Ограничение фонового режима?</string>
-    <string name="data_usage_restrict_background">Если ограничить передачу данных в фоновом режиме, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi.</string>
+    <string name="data_usage_restrict_background">"Если ограничить передачу данных в фоновом режиме, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi."</string>
     <string name="data_usage_restrict_background_multiuser">"Если ограничить передачу данных в фоновом режиме, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi.
 
 Настройки будут изменены для всех пользователей устройства."</string>
@@ -1809,9 +1809,9 @@
 "<font size="12">лимит</font></string>
     <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
     <string name="data_usage_uninstalled_apps_users">Удаленные приложения и пользователи</string>
-    <string name="data_usage_received_sent">Получено: %1$s; отправлено: %2$s</string>
-    <string name="data_usage_total_during_range">%2$s: %1$s</string>
-    <string name="data_usage_total_during_range_mobile">%2$s: %1$s (трафик, определенный устройством). Данные оператора могут отличаться.</string>
+    <string name="data_usage_received_sent">%1$s получено, %2$s отправлено</string>
+    <string name="data_usage_total_during_range">%2$s: около %1$s использовано</string>
+    <string name="data_usage_total_during_range_mobile">"%2$s: около %1$s использовано. Данные оператора могут отличаться."</string>
     <string name="data_usage_metered_title">Точки доступа мобильной сети</string>
     <string name="data_usage_metered_body">Выберите сети Wi-Fi с тарификацией трафика. Возможно, приложения не смогут использовать их для работы в фоновом режиме. Кроме того, перед загрузкой больших объемов данных может появляться предупреждение.</string>
     <string name="data_usage_metered_mobile">Мобильные сети</string>
@@ -2211,6 +2211,8 @@
     <string name="com_lenovo_lsf_sso_sina_auth_cancel">Аутентификация отменить</string>
     <string name="com_lenovo_lsf_sso_sina_auth_error">Ошибка аутентификации:</string>
     <string name="com_lenovo_lsf_third_token_time_out">Токен истек</string>
+    <string name="incoming_call_ringer_title1">Звонок входящего вызова (1)</string>
+    <string name="incoming_call_ringer_title2">Звонок входящего вызова (2)</string>
     <string name="header_category_call_and_msg">вызовы и сообщения</string>
     <string name="header_category_lock_and_screen">Блокировка и экран</string>
     <string name="header_category_system_and_key">Система и кнопки</string>
@@ -2230,14 +2232,18 @@
     <string name="smart_calling_summary">Включение умного вызова</string>
     <string name="mercury_keyboard_title">Наклон клавиатуры</string>
     <string name="mercury_keyboard_summary">Когда телефон наклоняется, клавиатура тоже наклоняется</string>
+    <string name="mercury_keyboard_msg">Когда наклоняется телефон, клавиатура тоже наклонится, только циферблат</string>
     <string name="wide_touch_title">Экранное меню</string>
     <string name="wide_touch_summary">Для взаимодействия с объектом приложите к нему палец</string>
     <string name="display_smart_standby">Умный режим ожидания</string>
     <string name="smart_standby_ctrl_description">Когда наступает время отключения экрана для активации передней камеры, включите экран, направив телефон себе в лицо, затем отключите экран</string>
-    <string name="smart_roll_title">Смарт-ролл</string>
+    <string name="smart_roll_title">Умный поворот</string>
     <string name="smart_roll_summary">Для смены ориентации кнопок верхнего и нижнего баров проведите по ним от края экрана</string>
     <string name="pin_scroll_title">Прокрутка для списка контактов</string>
     <string name="pin_scroll_summary">При прокрутке списка в верхней части, приостановить на некоторое время и выпустить его, список будет закреплен для лучшего функционирования.</string>
+    <string name="single_hand_title">Одноручный микро-экран</string>
+    <string name="single_hand_summary">Помогает работать с телефоном одной рукой</string>
+    <string name="single_hand_help">Проведите пальцем сверху вниз, изображая букву С, вы сможете вызвать Одноручный микро-экран</string>
     <string name="i_know_it">ОК</string>
     <string name="try_it">Попробовать</string>
     <string name="try_swing_lock_info">Пожалуйста встряхните мобильный телефон, для его блокировки</string>
@@ -2268,7 +2274,7 @@
     <string name="display_effect_of_screen_cancel">Отменить</string>
     <string name="display_effect_of_screen_dialog_ok">Да</string>
     <string name="display_effect_of_screen_dialog_title">Эффект будет применён после следующего включения экрана!</string>
-    <string name="display_effect_of_screen_toast_title">Если вы не нажмёте Применить, конфигурация будет восстанавлена после перезагрузки</string>
+    <string name="display_effect_of_screen_toast_title">"Если вы не нажмёте \"Применить\", конфигурация будет восстанавлена после перезагрузки"</string>
     <string name="display_effect_of_screen_saturation_item0">Мягкая</string>
     <string name="display_effect_of_screen_saturation_item1">Стандарт</string>
     <string name="display_effect_of_screen_saturation_item2">Яркая</string>
@@ -2305,6 +2311,7 @@
     <string name="bluetooth_profile_ftp">Передача файлов</string>
     <string name="bluetooth_ftp_profile_summary_use_for">Использовать для передачи файлов</string>
     <string name="bluetooth_ftp_profile_summary_connected">Подключено для передачи файлов</string>
+    <string name="bluetooth_turning_on_failed">Ошибка включения Bluetooth</string>
     <string name="lockdown_vpn_already_connected">Режим Постоянно в сети уже включен для соединения.</string>
     <string name="vpn_lockdown_savelogin_error">Всегда на VPN требуется сохранить данные для входа.</string>
     <string name="vpn_delete_title">Удалить</string>
@@ -2338,8 +2345,8 @@
     <string name="wifi_switch_settings_title">Привязка Wi-Fi</string>
     <string name="wifi_popup_0">Сообщать о входе в зону действия сохраненной сети Wi-Fi</string>
     <string name="wifi_popup_1">Автоматическое подключение в зоне действия Wi-Fi</string>
-    <string name="wifi_popup_2">Не привязывать сети Wi-Fi</string>
-    <string name="show_dialog">Не напоминать в дальнейшем.</string>
+    <string name="wifi_popup_2">"Не привязывать сети Wi-Fi"</string>
+    <string name="show_dialog">"Не напоминать в дальнейшем"</string>
     <string name="wifi_switch_summary">Помнить положение точек доступа через координаты сотовых сетей</string>
     <string name="privacy_backup_userdata_category_title">Резервное копирование данных</string>
     <string name="privacy_backup_userdata_title">Резервное копирование на SD-карту</string>
