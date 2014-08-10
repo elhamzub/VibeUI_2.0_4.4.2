@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="network_settings_title">Мобильная сеть</string>
+	<string name="data_usage_metered_mobile">Мобильная сеть</string>
+	<string name="data_connect_settings_title">Передача данных</string>
+	<string name="gemini_data_connection">Передача данных</string>
+	<string name="data_connection">Передача данных</string>
+	<string name="data_usage_and_control_settings">Контроль трафика</string>
+	<string name="radioInfo_roaming_in">Роуминг</string>
+	<string name="status_roaming">Роуминг</string>
+	<string name="gemini_roaming_settings_title">Роуминг</string>
+	<string name="plmn_list_setting_title">Предпочтительные сети</string>
+	<string name="apn_settings">Точки доступа</string>
+	<string name="networks">Выбор оператора</string>
+	<string name="sum_carrier_select">Выбор оператора сети</string>
+	<string name="manual_select_title">Выбор вручную</string>
+	<string name="sum_search_networks">Поиск всех доступных сетей</string>
+	<string name="select_automatically">Выбрать автоматически</string>
+	<string name="sum_select_automatically">Автоматически выбрать подходящую сеть</string>
+	<string name="register_automatically">Автоматическая регистрация...</string>
+	<string name="registration_done">Регистрация в сети</string>
+	<string name="manual_select_dialog_msg">В ручном режиме работы, подходящую сеть выбирает пользователь. Если телефон покинет зону действия выбранной сети, необходимо выполнить регистрацию в новой сети. Рекомендуется оставить автоматический выбор оператора. Вы хотите продолжить?</string>
+	<string name="plmn_list_setting_add_plmn">Добавить</string>
+	<string name="gemini_data_roaming_title">Передача данных в роуминге</string>
+	<string name="gemini_data_roaming_summary">Выполнять передачу данных в роуминге</string>
+	<string name="gemini_roaming_reminder_title">Показать напоминание о роуминге</string>
+</resources>

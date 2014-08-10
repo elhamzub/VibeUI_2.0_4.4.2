@@ -13,9 +13,9 @@
     <string name="wifi_setup_next">Дальше</string>
     <string name="wifi_setup_back">Назад</string>
     <string name="device_status_summary">Номер телефона, сигнал и т.д.</string>
-    <string name="gemini_sim_management_title">USIM/SIM управление</string>
-    <string name="gemini_sim_info_title">USIM/SIM ИНФОРМАЦИЯ</string>
-    <string name="gemini_default_sim_title">БАЗОВЫЕ USIM/SIM НАСТРОЙКИ</string>
+    <string name="gemini_sim_management_title">SIM управление</string>
+    <string name="gemini_sim_info_title">SIM ИНФОРМАЦИЯ</string>
+    <string name="gemini_default_sim_title">БАЗОВЫЕ НАСТРОЙКИ SIM</string>
     <string name="gemini_general_settings_title">ГЛАВНЫЕ НАСТРОЙКИ</string>
     <string name="gemini_contacts_sim_title">Привязка контакта</string>
     <string name="gemini_contacts_sim_summary">Привязать контакты к конкретной SIM-карте</string>
