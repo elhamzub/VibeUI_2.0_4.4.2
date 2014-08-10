@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="pref_camera_storage_location_native">Планшет</string>
+    <string name="storage_withsd">Недостаточно места во внутренней памяти планшета. Освободите память или измените место хранения в параметрах камеры.</string>
+    <string name="storage_withoutsd">Недостаточно места во внутренней памяти планшета. Освободите память или вставьте SD-карту.</string>
+</resources>
