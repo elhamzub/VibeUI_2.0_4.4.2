@@ -184,8 +184,8 @@
     <string name="proxy_hostname_hint">proxy.example.com</string>
     <string name="proxy_error">Внимание!</string>
     <string name="proxy_error_dismiss">ОК</string>
-    <string name="proxy_error_invalid_host">Введено недействительное имя хоста.</string>
-    <string name="proxy_error_invalid_exclusion_list">Список исключений отформатирован неверно. Перечислите исключаемые домены через запятую.</string>
+    <string name="proxy_error_invalid_host">"Введено недействительное имя хоста."</string>
+    <string name="proxy_error_invalid_exclusion_list">"Список исключений отформатирован неверно. Перечислите исключаемые домены через запятую."</string>
     <string name="proxy_error_empty_port">Укажите порт.</string>
     <string name="proxy_error_empty_host_set_port">Если поле хоста не заполнено, поле порта также следует оставить пустым.</string>
     <string name="proxy_error_invalid_port">Указанный порт недействителен.</string>
@@ -234,7 +234,7 @@
     <string name="sdcard_settings_not_present_status">Нет SD-карты.</string>
     <string name="sdcard_settings_available_bytes_label">Свободно байтов:</string>
     <string name="sdcard_settings_mass_storage_status">SD-карта используется как запоминающее устройство.</string>
-    <string name="sdcard_settings_unmounted_status">SD-карту можно извлечь.</string>
+    <string name="sdcard_settings_unmounted_status">"SD-карту можно извлечь."</string>
     <string name="sdcard_settings_bad_removal_status">SD-карта была извлечена во время использования!</string>
     <string name="sdcard_settings_used_bytes_label">Использовано байтов:</string>
     <string name="sdcard_settings_scanning_status">Поиск мультимедиа на SD-карте...</string>
@@ -320,7 +320,7 @@
     <string name="crypt_keeper_dialog_need_password_title">Не указан PIN-код или пароль блокировки экрана</string>
     <string name="crypt_keeper_dialog_need_password_message">Перед шифрованием необходимо задать PIN-код или пароль блокировки экрана</string>
     <string name="crypt_keeper_confirm_title">Выполнить шифрование?</string>
-    <string name="crypt_keeper_final_desc">Если прервать шифрование, данные будут потеряны. Операция займет не менее часа, в течение которого устройство будет перезагружено несколько раз.</string>
+    <string name="crypt_keeper_final_desc">"Если прервать шифрование, данные будут потеряны. Операция займет не менее часа, в течение которого устройство будет перезагружено несколько раз."</string>
     <string name="crypt_keeper_setup_title">Шифрование</string>
     <string name="crypt_keeper_setup_description">Дождитесь завершения шифрования телефона. Выполнено: ^1%.</string>
     <string name="crypt_keeper_cooldown">Повторите попытку через ^1 с.</string>
@@ -336,7 +336,7 @@
     <string name="unlock_set_unlock_launch_picker_change_title">Изменение блок. экрана</string>
     <string name="unlock_set_unlock_launch_picker_change_summary">Смена или отключение графического ключа, PIN-кода и пароля</string>
     <string name="unlock_set_unlock_launch_picker_enable_summary">Выбрать метод блокировки экрана</string>
-    <string name="unlock_backup_info_summary">Выберите вид экрана блокировки</string>
+    <string name="unlock_backup_info_summary">"Выберите вид экрана блокировки"</string>
     <string name="unlock_set_unlock_off_title">Отключено</string>
     <string name="unlock_set_unlock_none_title">Прокрутка</string>
     <string name="unlock_set_unlock_none_summary">Слабая защита</string>
@@ -369,12 +369,12 @@
     <string name="lockpassword_password_too_long">Пароль должен содержать не более %d симв.</string>
     <string name="lockpassword_pin_too_long">PIN-код должен содержать не более %d зн.</string>
     <string name="lockpassword_pin_contains_non_digits">PIN-код должен состоять из цифр от 0 до 9.</string>
-    <string name="lockpassword_pin_recently_used">Использовать недавний PIN-код запрещено.</string>
+    <string name="lockpassword_pin_recently_used">"Использовать недавний PIN-код запрещено."</string>
     <string name="lockpassword_illegal_character">Пароль содержит недопустимые символы.</string>
     <string name="lockpassword_password_requires_alpha">Пароль должен содержать хотя бы одну букву.</string>
     <string name="lockpassword_password_requires_digit">Пароль должен содержать хотя бы одну цифру.</string>
     <string name="lockpassword_password_requires_symbol">Пароль должен содержать хотя бы один символ.</string>
-    <string name="lockpassword_password_recently_used">Использовать недавний пароль запрещено.</string>
+    <string name="lockpassword_password_recently_used">"Использовать недавний пароль запрещено."</string>
     <string name="lockpassword_ok_label">ОК</string>
     <string name="lockpassword_cancel_label">Отмена</string>
     <string name="lockpattern_tutorial_cancel_label">Отмена</string>
@@ -595,7 +595,7 @@
     <string name="wifi_failed_save_message">Не удалось сохранить сеть.</string>
     <string name="wifi_cancel">Отмена</string>
     <string name="wifi_skip_anyway">Все равно пропустить</string>
-    <string name="wifi_dont_skip">Не пропускать</string>
+    <string name="wifi_dont_skip">"Не пропускать"</string>
     <string name="wifi_skipped_message">"ВНИМАНИЕ! Возможны дополнительные расходы на услуги оператора связи.
 
 Настройка устройства может потребовать передачи большого объема данных по сети."</string>
@@ -870,8 +870,8 @@
     <string name="menu_new">Новая точка доступа</string>
     <string name="menu_save">Сохранить</string>
     <string name="menu_cancel">Отменить</string>
-    <string name="error_name_empty">Необходимо указать название.</string>
-    <string name="error_apn_empty">Необходимо указать APN.</string>
+    <string name="error_name_empty">"Необходимо указать название."</string>
+    <string name="error_apn_empty">"Необходимо указать APN."</string>
     <string name="error_mcc_not3">Поле MCC должно содержать 3 цифры.</string>
     <string name="error_mnc_not23">Поле MNC должно содержать 2 или 3 цифры.</string>
     <string name="restore_default_apn">Восстановление настроек APN по умолчанию.</string>
