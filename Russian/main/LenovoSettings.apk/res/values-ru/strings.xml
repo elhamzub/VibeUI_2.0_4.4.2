@@ -184,8 +184,8 @@
     <string name="proxy_hostname_hint">proxy.example.com</string>
     <string name="proxy_error">Внимание!</string>
     <string name="proxy_error_dismiss">ОК</string>
-    <string name="proxy_error_invalid_host">Введено недействительное имя хоста.</string>
-    <string name="proxy_error_invalid_exclusion_list">Список исключений отформатирован неверно. Перечислите исключаемые домены через запятую.</string>
+    <string name="proxy_error_invalid_host">"Введено недействительное имя хоста."</string>
+    <string name="proxy_error_invalid_exclusion_list">"Список исключений отформатирован неверно. Перечислите исключаемые домены через запятую."</string>
     <string name="proxy_error_empty_port">Укажите порт.</string>
     <string name="proxy_error_empty_host_set_port">Если поле хоста не заполнено, поле порта также следует оставить пустым.</string>
     <string name="proxy_error_invalid_port">Указанный порт недействителен.</string>
@@ -234,7 +234,7 @@
     <string name="sdcard_settings_not_present_status">Нет SD-карты.</string>
     <string name="sdcard_settings_available_bytes_label">Свободно байтов:</string>
     <string name="sdcard_settings_mass_storage_status">SD-карта используется как запоминающее устройство.</string>
-    <string name="sdcard_settings_unmounted_status">SD-карту можно извлечь.</string>
+    <string name="sdcard_settings_unmounted_status">"SD-карту можно извлечь."</string>
     <string name="sdcard_settings_bad_removal_status">SD-карта была извлечена во время использования!</string>
     <string name="sdcard_settings_used_bytes_label">Использовано байтов:</string>
     <string name="sdcard_settings_scanning_status">Поиск мультимедиа на SD-карте...</string>
@@ -320,7 +320,7 @@
     <string name="crypt_keeper_dialog_need_password_title">Не указан PIN-код или пароль блокировки экрана</string>
     <string name="crypt_keeper_dialog_need_password_message">Перед шифрованием необходимо задать PIN-код или пароль блокировки экрана</string>
     <string name="crypt_keeper_confirm_title">Выполнить шифрование?</string>
-    <string name="crypt_keeper_final_desc">Если прервать шифрование, данные будут потеряны. Операция займет не менее часа, в течение которого устройство будет перезагружено несколько раз.</string>
+    <string name="crypt_keeper_final_desc">"Если прервать шифрование, данные будут потеряны. Операция займет не менее часа, в течение которого устройство будет перезагружено несколько раз."</string>
     <string name="crypt_keeper_setup_title">Шифрование</string>
     <string name="crypt_keeper_setup_description">Дождитесь завершения шифрования телефона. Выполнено: ^1%.</string>
     <string name="crypt_keeper_cooldown">Повторите попытку через ^1 с.</string>
@@ -336,7 +336,7 @@
     <string name="unlock_set_unlock_launch_picker_change_title">Изменение блок. экрана</string>
     <string name="unlock_set_unlock_launch_picker_change_summary">Смена или отключение графического ключа, PIN-кода и пароля</string>
     <string name="unlock_set_unlock_launch_picker_enable_summary">Выбрать метод блокировки экрана</string>
-    <string name="unlock_backup_info_summary">Выберите вид экрана блокировки</string>
+    <string name="unlock_backup_info_summary">"Выберите вид экрана блокировки"</string>
     <string name="unlock_set_unlock_off_title">Отключено</string>
     <string name="unlock_set_unlock_none_title">Прокрутка</string>
     <string name="unlock_set_unlock_none_summary">Слабая защита</string>
@@ -369,12 +369,12 @@
     <string name="lockpassword_password_too_long">Пароль должен содержать не более %d симв.</string>
     <string name="lockpassword_pin_too_long">PIN-код должен содержать не более %d зн.</string>
     <string name="lockpassword_pin_contains_non_digits">PIN-код должен состоять из цифр от 0 до 9.</string>
-    <string name="lockpassword_pin_recently_used">Использовать недавний PIN-код запрещено.</string>
+    <string name="lockpassword_pin_recently_used">"Использовать недавний PIN-код запрещено."</string>
     <string name="lockpassword_illegal_character">Пароль содержит недопустимые символы.</string>
     <string name="lockpassword_password_requires_alpha">Пароль должен содержать хотя бы одну букву.</string>
     <string name="lockpassword_password_requires_digit">Пароль должен содержать хотя бы одну цифру.</string>
     <string name="lockpassword_password_requires_symbol">Пароль должен содержать хотя бы один символ.</string>
-    <string name="lockpassword_password_recently_used">Использовать недавний пароль запрещено.</string>
+    <string name="lockpassword_password_recently_used">"Использовать недавний пароль запрещено."</string>
     <string name="lockpassword_ok_label">ОК</string>
     <string name="lockpassword_cancel_label">Отмена</string>
     <string name="lockpattern_tutorial_cancel_label">Отмена</string>
@@ -595,7 +595,7 @@
     <string name="wifi_failed_save_message">Не удалось сохранить сеть.</string>
     <string name="wifi_cancel">Отмена</string>
     <string name="wifi_skip_anyway">Все равно пропустить</string>
-    <string name="wifi_dont_skip">Не пропускать</string>
+    <string name="wifi_dont_skip">"Не пропускать"</string>
     <string name="wifi_skipped_message">"ВНИМАНИЕ! Возможны дополнительные расходы на услуги оператора связи.
 
 Настройка устройства может потребовать передачи большого объема данных по сети."</string>
@@ -870,8 +870,8 @@
     <string name="menu_new">Новая точка доступа</string>
     <string name="menu_save">Сохранить</string>
     <string name="menu_cancel">Отменить</string>
-    <string name="error_name_empty">Необходимо указать название.</string>
-    <string name="error_apn_empty">Необходимо указать APN.</string>
+    <string name="error_name_empty">"Необходимо указать название."</string>
+    <string name="error_apn_empty">"Необходимо указать APN."</string>
     <string name="error_mcc_not3">Поле MCC должно содержать 3 цифры.</string>
     <string name="error_mnc_not23">Поле MNC должно содержать 2 или 3 цифры.</string>
     <string name="restore_default_apn">Восстановление настроек APN по умолчанию.</string>
@@ -2483,7 +2483,7 @@
     <string name="accessibility_script_injection_allowed">Разрешено</string>
     <string name="accessibility_script_injection_disallowed">Не разрешено</string>
     <string name="accessibility_service_security_warning_title">Использовать</string>
-    <string name="accessibility_service_security_warning_summary">Возможен сбор всех данных, которые вы набираете, кроме паролей. Включая личные данные, такие как номера кредитных карт. Также, возможно собирание данных о вашем взаимодействии с телефоном.</string>
+    <string name="accessibility_service_security_warning_summary">can collect all of the text you type, except passwords. This includes personal data such as credit card numbers. It can also collect data about your interactions with the phone.</string>
     <string name="accessibility_service_disable_warning_title">Стоп</string>
     <string name="accessibility_service_disable_warning_summary">Нажмите ОК для остановки</string>
     <string name="backup_data">Создайте резервную копию данных перед сбросом настроек телефона</string>
@@ -2491,17 +2491,17 @@
     <string name="show_password_summary" />
     <string name="unlock_set_unlock_speech_title">Разблокировка голосом</string>
     <string name="user_you_section">Вы</string>
-    <string name="wifi_setting_summary">Когда входите в зону подключения точки доступа и присутствует GRPS, привязать расположение</string>
-    <string name="show_dev_countdown">В настоящие время, вы находитесь в паре шагов, чтобы стать разработчиком.</string>
-    <string name="monotype_preference_title">Стиль шрифта</string>
-    <string name="font_settings_title">Параметры шрифта</string>
-    <string name="roaming_settings_title">Настройки роуминга</string>
-    <string name="data_usage_enable_mobile_statistics">Статистика данных</string>
+    <string name="wifi_setting_summary">When enter location of connected ap and have GRPS data，bind the location</string>
+    <string name="show_dev_countdown">You are now steps away from being a developer.</string>
+    <string name="monotype_preference_title">Font style</string>
+    <string name="font_settings_title">Font settings</string>
+    <string name="roaming_settings_title">Roaming Settings</string>
+    <string name="data_usage_enable_mobile_statistics">Data statistics</string>
     <string name="data_usage_enable_mobile_statistics_dialog">By enabling this feature power consumption will be high on high data rate networks such as LTE...</string>
-    <string name="apn_call_number">PPP номер телефона</string>
-    <string name="roaming_time_settings_category">Международные параметры роуминга</string>
+    <string name="apn_call_number">PPP phone number</string>
+    <string name="roaming_time_settings_category">International roaming settings</string>
     <string name="roaming_time_settings_zone">Recommended time zone</string>
-    <string name="roaming_time_settings_time_display">Программа отображения времени</string>
+    <string name="roaming_time_settings_time_display">Time display program</string>
     <string name="show_hw_overdraw_summary">From best to worst: blue, green, light red, red</string>
     <string name="china_telcom_push_title">China Telecom Yi Push</string>
     <string name="china_telcom_push_summary">China Telecom free push service</string>
@@ -2510,13 +2510,13 @@
     <string name="subscription_01_title">SUB 1</string>
     <string name="subscription_02_title">SUB 2</string>
     <string name="data_usage_menu_restrict_systembgdata">Permit system background data</string>
-    <string name="data_usage_tab_slot1">Слот 1</string>
-    <string name="data_usage_tab_slot2">Слот 2</string>
+    <string name="data_usage_tab_slot1">Slot 1</string>
+    <string name="data_usage_tab_slot2">Slot 2</string>
     <string name="playersTutorial_stoped">The app of PlayersTutorial has been stoped.</string>
     <string name="data_usage_disable_mobile_statistics_dialog">By disabling this feature collection of data usage statistics would be turned off.</string>
     <string name="location_consent_dialog_message">Allow location service to collect anonymous location data. Some data may be stored on your device. Collection may occur even when no apps are running.</string>
-    <string name="devices_info_products_version">Модель: Lenovo K910</string>
-    <string name="devices_info_firmwareVersion">Версия Android: %1$s</string>
+    <string name="devices_info_products_version">Model: Lenovo K910</string>
+    <string name="devices_info_firmwareVersion">Android version: %1$s</string>
     <string name="devices_info_buildNumber">Build num: %1$s</string>
     <string name="devices_info_cpu">CPU：fore-core 2.2GHz</string>
     <string name="devices_info_runMemory">RAM: 2.0GB</string>
@@ -2524,7 +2524,7 @@
     <string name="devices_info_camera">"Camera ：Front 5million  Rear 13million"</string>
     <string name="devices_info_memory">Memory：%1$s(free)</string>
     <string name="location_consent_dialog_title">Location consent</string>
-    <string name="screensaver_timeout_zero_summary">Никогда</string>
+    <string name="screensaver_timeout_zero_summary">Never</string>
     <string name="fuse_backup_data_to_cloud_title">Back up data to cloud</string>
     <string name="fuse_backup_data_to_cloud_summary">Back up phone data to cloud</string>
     <string name="fuse_recovery_data_from_cloud_title">Recover data from cloud</string>
@@ -2533,33 +2533,33 @@
 
 "<b>All user data</b> (including music, pictures, and other user data) in <b>Internal Storage</b> will be erased. Please backup your data before reset phone.</string>
     <string name="fuse_backup_data_description">Back up Contacts, Pictures, Messages, Applications and other important data before reset your phone</string>
-    <string name="select_subscription">Выберите подписку</string>
-    <string name="airplane_open_confirm">Режим "В самолёте"</string>
-    <string name="airplane_open_confirm_message">Следует ли разрешить режим "В самолёте"?</string>
+    <string name="select_subscription">Select Subscription</string>
+    <string name="airplane_open_confirm">Airplane mode</string>
+    <string name="airplane_open_confirm_message">Whether to allow open airplane mode?</string>
     <string name="preference_status_open">Вкл.</string>
     <string name="preference_status_close">Выкл.</string>
-    <string name="header_category_personalcustom_k7">Персонализированные</string>
-    <string name="settings_header_ringtone_k7">Настройки мелодии</string>
-    <string name="sel_sub_title">Настройка подписки</string>
-    <string name="sel_sub_summary">Выберите подписку Подписка 1, Подписка 2 и т.д...</string>
-    <string name="no_sim_info">"Информация SIM-карты не доступна.
-Menu не доступена"</string>
-    <string name="subs_settings">Статус подписки</string>
-    <string name="multi_sim_settings_title">Параметры мульти-SIM</string>
-    <string name="multi_sim_settings_summary">Настройка параметров мульти-SIM для голоса, данных и SMS</string>
-    <string name="voice_title">Голос/USSD/MMI</string>
-    <string name="voice_summary">Выберите подписку для голосового вызова</string>
-    <string name="data_title">Вызов данных</string>
-    <string name="data_summary">Выберите подписку для вызова данных</string>
+    <string name="header_category_personalcustom_k7">Personalized</string>
+    <string name="settings_header_ringtone_k7">Ringtone Settings</string>
+    <string name="sel_sub_title">Configure Subscriptions</string>
+    <string name="sel_sub_summary">Select the Subscription SUB1, SUB2, etc..</string>
+    <string name="no_sim_info">"SIM card info not available.
+Menu cannot be accessed"</string>
+    <string name="subs_settings">SUBS Status</string>
+    <string name="multi_sim_settings_title">Multi Sim Settings</string>
+    <string name="multi_sim_settings_summary">Set up Multi Sim Settings for Voice, Data and SMS</string>
+    <string name="voice_title">Voice/USSD/MMI</string>
+    <string name="voice_summary">Select Subscription for Voice Call</string>
+    <string name="data_title">Data Call</string>
+    <string name="data_summary">Select Subscription for Data Call</string>
     <string name="sms_title">SMS</string>
-    <string name="sms_summary">Выберите подписку для отправки SMS</string>
-    <string name="set_data_subscription_progress">Установка данных подписки</string>
-    <string name="set_dds_success">Данные подписки установлены</string>
-    <string name="set_dds_failed">Ошибка в данных подписки. Переподключите текущую сеть данных и повторите попытку.</string>
-    <string name="set_dds_error">Ошибка в данных подписки.</string>
-    <string name="set_sms_error">Ошибка в данных подписки SMS. Подписка не активна.</string>
-    <string name="set_voice_error">Ошибка в данных подписки голоса. Подписка не активна.</string>
-    <string name="set_priority_sub_error">Ошибка при установке приоритета подписки. Подписка не активна.</string>
+    <string name="sms_summary">Select the Subscription for Sending SMS</string>
+    <string name="set_data_subscription_progress">Set data subscription in progress</string>
+    <string name="set_dds_success">Set data subscription success</string>
+    <string name="set_dds_failed">Error in set data subscription. Clean up any existing data connection and try again.</string>
+    <string name="set_dds_error">Error in set data subscription.</string>
+    <string name="set_sms_error">Error in set sms subscription. Subscription not active.</string>
+    <string name="set_voice_error">Error in set voice subscription. Subscription not active.</string>
+    <string name="set_priority_sub_error">Error in set priority subscription. Subscription not active.</string>
     <string name="gps_time_sync_attention_gps_on">"Для определения координат GPS потребуется не больше 1 минуты. Однако, на определение координат GPS может не хватить времени из-за слабого сигнала.
 
 Вам достаточно времени, предоставленного GPS?"</string>
