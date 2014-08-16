@@ -1,5 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="clir_display_values">
+        <item>Настройки сети по умолчанию</item>
+        <item>Скрыть номер</item>
+        <item>Показывать номер</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE / WCDMA</item>
+        <item>LTE</item>
+        <item>Global</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Только EvDo</item>
+        <item>CDMA без EvDo</item>
+        <item>Авто CDMA/EvDo</item>
+        <item>Авто GSM/WCDMA</item>
+        <item>Только WCDMA</item>
+        <item>Только GSM</item>
+        <item>Предпочтительно GSM/WCDMA</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Английский</item>
+        <item>Французский</item>
+        <item>Испанский</item>
+        <item>Японский</item>
+        <item>Корейский</item>
+        <item>Китайский</item>
+        <item>Иврит</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Только домашняя</item>
+        <item>Автоматически</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY Выключено</item>
+        <item>TTY Полное</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Обычные</item>
+        <item>Длинные</item>
+    </string-array>
     <string-array name="gsm_umts_network_preferences_choices">
         <item>GSM/WCDMA (автоматический режим)</item>
         <item>Только WCDMA</item>
@@ -46,42 +89,5 @@
         <item>Арабский</item>
         <item>Русский</item>
         <item>Исландский</item>
-    </string-array>
-    <string-array name="clir_display_values">
-        <item>Настройки сети по умолчанию</item>
-        <item>Скрыть номер</item>
-        <item>Показывать номер</item>
-    </string-array>
-    <string-array name="preferred_network_mode_choices">
-        <item>LTE / WCDMA</item>
-        <item>LTE</item>
-        <item>Global</item>
-        <item>GSM/WCDMA/LTE</item>
-        <item>CDMA + LTE/EvDo</item>
-        <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>EvDo only</item>
-        <item>CDMA w/o EvDo</item>
-        <item>CDMA/EvDo (авторежим)</item>
-        <item>GSM/WCDMA (авторежим)</item>
-        <item>WCDMA only</item>
-        <item>GSM only</item>
-        <item>GSM/WCDMA (предпочтение)</item>
-    </string-array>
-    <string-array name="list_language_entries">
-        <item>английский</item>
-        <item>французский</item>
-        <item>испанский</item>
-        <item>японский</item>
-        <item>корейский</item>
-        <item>китайский</item>
-        <item>иврит</item>
-    </string-array>
-    <string-array name="cdma_system_select_choices">
-        <item>Только домашняя</item>
-        <item>Автоматически</item>
-    </string-array>
-    <string-array name="dtmf_tone_entries">
-        <item>Обычные</item>
-        <item>Длинные</item>
     </string-array>
 </resources>

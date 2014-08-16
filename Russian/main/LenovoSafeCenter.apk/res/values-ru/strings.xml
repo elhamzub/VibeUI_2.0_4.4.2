@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="dangdang">dangdang.com</string>
+    <string name="dangdang">Dangdang</string>
     <string name="gome">Gome</string>
     <string name="isring">Этот абонент в Черном списке, повесьте трубку!</string>
     <string name="localblack_noName">Неизвестный</string>
@@ -13,11 +13,12 @@
     <string name="signtype1">Продавец</string>
     <string name="signtype2">Перекупщик</string>
     <string name="signtype3">Мошенник</string>
-    <string name="signtype4">Страховщик</string>
-    <string name="signtype5">Инвестор</string>
-    <string name="signtype6">Агент</string>
+    <string name="signtype11">Страховщик</string>
+    <string name="signtype12">Инвестор</string>
+    <string name="signtype13">Агент</string>
     <string name="signtype7">Быстрый</string>
     <string name="signtype8">Спам-звонки</string>
+    <string name="signtype50">Другое</string>
     <string name="sendsms_fail">Сбой при отправке SMS</string>
     <string name="command_content">\#код операции.Код резервного копирования данных телефона: BF, код уничтожения данных: XH, код блокировки телефона: SD, код нахождения и отслеживания: DW, код сирены: BJ, код выполнения всего: ВСЕ — SECUREit</string>
     <string name="message">для</string>
@@ -49,7 +50,7 @@
     <string name="net_traffic_correct_sucess2">Корректировка использования трафика выполнена успешно, в этом месяце использовано:</string>
     <string name="net_traffic_correct_sucess3">Корректировка использования трафика выполнена успешно, в этом месяце осталось</string>
     <string name="title_hlmd">Список исключений</string>
-    <string name="white_list_lock_benefit">Выберите приложения, которые не будет завершаться</string>
+    <string name="white_list_lock_benefit">"Выберите приложения, которые не будет завершаться"</string>
     <string name="whitelist_suggest_check">Предложить выбор</string>
     <string name="text_add_app_empty">Нет приложений</string>
     <string name="rf_whitelist_tip">Для запрещения принудительного завершения приложения, добавьте его в Список исключений ></string>
@@ -57,11 +58,11 @@
     <string name="rf_three_party_app">User apps %1$s</string>
     <string name="stop_application">Завершение приложений</string>
     <string name="phone_acc_getting_data">Получение данных…</string>
-    <string name="task_manager_title">"Запущено приложений: %1$d . %2$s ОЗУ используется "</string>
+    <string name="task_manager_title">Запущено приложений: %1$d . %2$s ОЗУ используется</string>
     <string name="kill_process_one_key">Завершить</string>
     <string name="text_process_empty">Нет приложений для очистки.</string>
     <string name="rf_are_you_sure_end_some_app">Закрыть %1$s?</string>
-    <string name="rf_certain">OK</string>
+    <string name="rf_certain">ОК</string>
     <string name="rf_cancel">Отмена</string>
     <string name="title_autorun_manage">Автозагрузка</string>
     <string name="autorun_already_forbid">Отключено:</string>
@@ -80,7 +81,7 @@
     <string name="you_can_accelerate_2">%1$s приложений завершено, %2$s памяти освобождено</string>
     <string name="one_key_speed_title_4">Отличное состояние</string>
     <string name="ledroid_clear_manager">SD-карта</string>
-    <string name="one_key_widget_clear_just_done1">"Пусто "</string>
+    <string name="one_key_widget_clear_just_done1">Пусто</string>
     <string name="one_key_widget_clear_just_done2">Уже очищено</string>
     <string name="one_key_widget_clear_app_count">Выгружено:%1$s</string>
     <string name="one_key_widget_clear_app_size">Освобождено: %1$s МБ</string>
@@ -139,7 +140,9 @@
     <string name="notification_report_success">Отчет выполнен</string>
     <string name="notification_report_ad">Сообщить о приложении с рекламой</string>
     <string name="notification_record_btn_cancel">Отмена</string>
-    <string name="notification_record_btn_ok">OK</string>
+    <string name="notification_record_btn_ok">ОК</string>
+    <string name="notification_clean_logs_sure">Очистить все журналы?</string>
+    <string name="notification_notify">Уведомление</string>
     <string name="adv_desc">"Блокировка
    рекламы"</string>
     <string name="against_theft">Анти-вор</string>
@@ -344,8 +347,9 @@
     <string name="pwd_set">Установка пароля</string>
     <string name="qrcode_text">QR код</string>
     <string name="safe_backup">Надежная система облачного хранения</string>
+    <string name="score_text" />
     <string name="second_pwd_error_insuff">Notice: Your second password are not 6 digits. Please enter it again!</string>
-    <string name="share_dialog_detail_bluetooth_text">"На обоих устройствах должен быть включен Bluetooth.
+    <string name="share_dialog_detail_bluetooth_text">"1. На обоих устройствах должен быть включен Bluetooth.
 2. Должно быть разрешено обнаружение устройства"</string>
     <string name="share_dialog_title_text">Рекомендовать SECUREit по Bluetooth</string>
     <string name="share_email_subject">Рекомендую приложение для обеспечения безопасности</string>
@@ -463,6 +467,8 @@
     Соглашаемся."</string>
     <string name="permission_server_title">«Лицензионное соглашение»</string>
     <string name="enable_net_desc">Для защиты вашего телефона, SECUREit требуется подключение к сети, а плата взимается операторами.</string>
+    <string name="about_msg">Copyright©2014 Lenovo. Все права защищены.</string>
+    <string name="create_shortcut">Создание завершено</string>
     <string name="amg_apkfile">АРК Менеджер</string>
     <string name="amg_title">"  Управление
 приложениями"</string>
@@ -574,6 +580,7 @@
     <string name="closecloudscan_info">Эффективность Сканирование в облаке и удаление выше, при этом используется приблизительно 2 Кб данных. Действительно закрыть сканирование в облаке и удаление</string>
     <string name="detail5_no_virus_home_page">Телефон в хорошем состоянии!</string>
     <string name="detail_first_virus_home_page">Мне хотелось бы проходить регулярную проверку</string>
+    <string name="detail_num_virus_start">Обнаружено %1$d</string>
     <string name="detail_num_virus_end">Вирус(ы), пожалуйста, удалите вирус</string>
     <string name="dialogcontent">Проверка обновлений</string>
     <string name="downsuccess">Обновление загружено</string>
@@ -583,6 +590,7 @@
     <string name="local_has_virus_scan_end">Вирус(ы)</string>
     <string name="local_has_virus_scan1">Проверка с локальными базами</string>
     <string name="local_virus_scan">Проверка с локальными базами завершена, облачная проверка не выполнена.</string>
+    <string name="local_no_net_virus_scan">Во время сканирования, вирусы не обнаружены</string>
     <string name="netdesc">Ошибка подключения к сети, попробуйте позже…</string>
     <string name="netscan_switch">Облачная проверка</string>
     <string name="netscan_switchdesc">Если доступна сеть, будет выполнена облачная проверка</string>
@@ -622,6 +630,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="op_virusLab_detail">Обновление</string>
     <string name="strange_stitle">Блокировка вызовов с неопределенных номеров.</string>
     <string name="del_virus_imm">Сканировать прямо сейчас</string>
+    <string name="tip_virus_forcmcc">Требуется обновление базы вирусов</string>
     <string name="backup_to_phone_ok_">Будьте осторожны с входящей почтой</string>
     <string name="backup_no_mail">Не удалось переслать сообщение эл. почты резервного копирования данных. Безопасный почт. ящик еще не настроен</string>
     <string name="from_lesecurity">"
@@ -680,7 +689,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="sim_not_ready">Ошибка SIM-карты, не могу отправить SMS</string>
     <string name="msg_send_over">SMS было отправлено</string>
     <string name="disable_antitheft_tip">Отключение Анти-вора запретит отправку команд в случае утери телефона. Отключить?</string>
-    <string name="antithief_sumbit">OK</string>
+    <string name="antithief_sumbit">ОК</string>
     <string name="antithief_cancel">Отмена</string>
     <string name="mail_error">Введенный вами почтовый адрес имеет неверный формат.</string>
     <string name="antithief_safe_number">Экстренный контакт</string>
@@ -822,7 +831,8 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="install_failed_older_sdk">Пакет доступен только для новых версий Android.</string>
     <string name="install_failed_cpu_abi_incompatible">Приложение не совместимо с этим телефоном.</string>
     <string name="appmgr_app_version">v%s</string>
-    <string name="onekey_root_title_tip_info">Root permission denied, this function is unavailable.</string>
+    <string name="appmgr_app_version_null" />
+    <string name="onekey_root_title_tip_info">Root доступ запрещён, эта функция недоступна</string>
     <string name="appmgr_toast_no_old_version">Нет предыдущей версии</string>
     <string name="appmgr_toast_no_new_version">Нет новой версии</string>
     <string name="appmgr_toast_no_damage_version">Никаких повреждений</string>
@@ -838,7 +848,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="space_clean">Сканировать</string>
     <string name="stop_1">Стоп</string>
     <string name="space_scan">Сканировать</string>
-    <string name="hand_clean">Ручное удаление</string>
+    <string name="hand_clean">Ручное удаление ></string>
     <string name="auto_clean">Автоматическое удаление</string>
     <string name="unistall">Удалить приложение</string>
     <string name="sure_unistall">подтвердите удаление</string>
@@ -897,7 +907,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="sdcard_empty">Отсутствует SD-карта</string>
     <string name="sdcard_empty_image">На SD-карте отсутствуют изображения</string>
     <string name="sdcard_empty_video">На SD карте отсутствуют видео файлы</string>
-    <string name="reduce_weight_dialog_ok">OK</string>
+    <string name="reduce_weight_dialog_ok">ОК</string>
     <string name="reduce_weight_dialog_cancel">Отмена</string>
     <string name="sdcard_dcim_usage">Изображения</string>
     <string name="sdcard_audio_usage">Аудио файлы</string>
@@ -921,6 +931,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="sysclear_free_memory">Используется памяти: %1$s( %2$s)</string>
     <string name="sysclear_whitelist">Игнор-лист</string>
     <string name="sysclear_whitelist_tips">Игнорировать</string>
+    <string name="empty" />
     <string name="sysclear_autorun">Self-start Control</string>
     <string name="sysclear_whitelist_manage">Выбранные программы не остановят очистку</string>
     <string name="sysclear_trash_root_folder">Список остатка:</string>
@@ -1003,6 +1014,8 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="SUS_DOWNLOAD_TITLE">Выполняется загрузка SECUREit</string>
     <string name="SUS_DOWNLOAD">Отправка запроса для загрузки…</string>
     <string name="SUS_DOWNLOAD_version">Примечание. После загрузки файла установка начнется автоматически и будет выполнен выход</string>
+    <string name="new_cleanmgr_sdcard">SD-карта</string>
+    <string name="dbname">ledroid.opti.db</string>
     <string name="flow_zero">0B</string>
     <string name="float_window_dialog_remember">Запомнить выбор</string>
     <string name="float_window_dialog_msg_disable">"Закрыть гистограмму?
@@ -1385,6 +1398,32 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="permission_navigator_make_call">Совершать звонки</string>
     <string name="permission_navigator_readmms">Читать MMS</string>
     <string name="permission_location">Мое местоположение</string>
+    <string name="permission_toast_operationing_rcalllogs">%s читать журналы вызовов, заблокировано</string>
+    <string name="permission_toast_operationing_rcontact">%s читать контакты, заблокировано</string>
+    <string name="permission_toast_operationing_rcontacts">%s читать контакты и журналы вызовов, заблокировано</string>
+    <string name="permission_toast_operationing_rsms">%s читать SMS, заблокировано</string>
+    <string name="permission_toast_operationing_send_sms">%s отправлять SMS</string>
+    <string name="permission_toast_operationing_wsms">%s is writing message to message box, заблокировано</string>
+    <string name="permission_toast_operationing_readmms">%s is reading MMS, заблокировано</string>
+    <string name="permission_toast_operationing_get_contact">%s is reading contacts, заблокировано</string>
+    <string name="permission_toast_operationing_edit_contact">%s is modifying contacts, заблокировано</string>
+    <string name="permission_toast_operationing_get_calllog">%s is reading call logs, заблокировано</string>
+    <string name="permission_toast_operationing_edit_calllog">%s is modifying call logs, заблокировано</string>
+    <string name="permission_toast_operationing_get_sms">%s is reading messages, заблокировано</string>
+    <string name="permission_toast_operationing_edit_sms">%s is modifying messages, заблокировано</string>
+    <string name="permission_toast_operationing_sendmms">%s is sending MMS, заблокировано</string>
+    <string name="permission_toast_operationing_open_3g">%s is enabling Mobile Network secretly, заблокировано</string>
+    <string name="permission_toast_operationing_open_wifi">%s is enabing WLAN secretly, заблокировано</string>
+    <string name="permission_toast_operationing_open_bluetooth">%s is enabling Bluetooth secretly, заблокировано</string>
+    <string name="permission_toast_operationing_get_loc">%s is geting your phone location, заблокировано</string>
+    <string name="permission_toast_operationing_open_record">%s is opening the recording, заблокировано</string>
+    <string name="permission_toast_operationing_pen_camera">%s включать камеру, заблокировано</string>
+    <string name="permission_toast_operationing_send_mms">%s отправлять MMS, заблокировано</string>
+    <string name="permission_toast_operationing_call">%s звонить, заблокировано</string>
+    <string name="permission_toast_operationing_calendar">%s читать календарь, заблокировано</string>
+    <string name="permission_toast_operationing_read_brower_history">%s is reading browser cookies and bookmarks, blocked</string>
+    <string name="permission_tariff_warn_text">Security Warning</string>
+    <string name="permission_curr_month_sms_out_limit_warm_text">Warning: your messages usage has exceeded the limit</string>
     <string name="inputmethodswitch">Включена защита ввода паролей</string>
     <string name="intel_cpu">Intel(R) Atom(TM)</string>
     <string name="network_type">Тип сети:</string>
@@ -1485,6 +1524,11 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="hide_contacts2">Скрыть контакты, историю вызовов и текстовые сообщения</string>
     <string name="safepage">Безопасный просмотр</string>
     <string name="safepage_title">Настройка безопасного просмотра</string>
+    <string name="leshare_title">AnyShare</string>
+    <string name="machine_type">Модель:</string>
+    <string name="os_type">Вресия системы:</string>
+    <string name="phone_imsi">IMEI телефона:</string>
+    <string name="antispamlocalblack_noName">Неизвестно</string>
     <string name="antispamall_select">Выбрать все</string>
     <string name="antispamcancel_select">Отменить все</string>
     <string name="add_count">Добавить (%1$d)</string>
@@ -1796,7 +1840,6 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="antispamlocalblack_becall">[входящие]</string>
     <string name="antispamlocalblack_call">[исходящие]</string>
     <string name="antispamlocalblack_misscall">[пропущенные]</string>
-    <string name="antispamlocalblack_noName">Неизвестный</string>
     <string name="anti_tap_protect">Защита от подслушивания работает.</string>
     <string name="auto_update_mode1">Автом. обновл. только по Wi-Fi</string>
     <string name="auto_update_mode2">Ежедневно</string>
@@ -1812,7 +1855,7 @@ Click the link below to see your location:
     <string name="comma">，</string>
     <string name="cur_lat_lon">Текушие координаты телефона:</string>
     <string name="cur_location">\"SECUREit Анти-вор напоминает вам: Примерное расположение вашего потерянного телефона: &lt;string name=\"curr_month_sms_out_limit_warm_text\">Обратите внимание, что исп. SMS в этом месяце превышает квоту</string>
-    <string name="curr_month_sms_out_limit_warm_text">Warning: your messages usage has exceeded the limit</string>
+    <string name="curr_month_sms_out_limit_warm_text">Внимание: your messages usage has exceeded the limit</string>
     <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
     <string name="date">Дата:</string>
     <string name="destroy_privacy_message_ok">Все данные с вашего телефона были успешно удалены.</string>
@@ -1842,10 +1885,8 @@ Click the link below to see your location:
     <string name="no_setting_text">Не задан</string>
     <string name="no_zero_limit_input_num_text">Квота должна быть установлена больше 0.</string>
     <string name="number_onring">Звуковой сигнал:%1$s</string>
-    <string name="ok">OK</string>
-    <string name="os_type">Версия Android:</string>
+    <string name="ok">ОК</string>
     <string name="outgoing">[исходящие]</string>
-    <string name="phone_imsi">IMEI:</string>
     <string name="process_kernel_label">Android OS</string>
     <string name="pwd_error_tips">Неправельный пароль, введите пароль повторно.</string>
     <string name="receive">Полученно</string>
@@ -1929,24 +1970,4 @@ Click the link below to see your location:
     <string name="net_traffic_call_phone">Запрос использования трафика</string>
     <string name="one_key_widget_clean">Очистить</string>
     <string name="autorun_dialog_never_dialog">Никогда не запрашивать</string>
-    <string name="detail_num_virus">%1$d вирусов обнаружено</string>
-    <string name="permission_perm_calendar">Просмотр календаря</string>
-    <string name="permission_perm_call">Вызововы</string>
-    <string name="permission_perm_history">Просмотр cookies браузера и закладки</string>
-    <string name="permission_perm_rcalllogs">Просмотр журнала вызовов</string>
-    <string name="permission_perm_rcontact">Просмотр контактов</string>
-    <string name="permission_perm_rsms">Читать SMS</string>
-    <string name="permission_perm_send_sms">Отправлять SMS</string>
-    <string name="permission_perm_wsms">написать сообщение</string>
-    <string name="permission_perm_readmms">Читать MMS</string>
-    <string name="permission_edit_contact">изменить контакты</string>
-    <string name="permission_edit_calllog">изменить журнал вызовов</string>
-    <string name="permission_perm_sendmms">Отправлять MMS</string>
-    <string name="permission_perm_open_3g">включать 2G/3G</string>
-    <string name="permission_perm_open_wifi">включать WLAN</string>
-    <string name="permission_perm_open_bluetooth">включать Bluetooth</string>
-    <string name="permission_install_perm_loc">местоположение телефона</string>
-    <string name="permission_install_perm_record">открыть диктофон</string>
-    <string name="permission_install_perm_camera">открыть камеру</string>
-    <string name="permission_perm_send_mms">отправить SMS</string>
 </resources>

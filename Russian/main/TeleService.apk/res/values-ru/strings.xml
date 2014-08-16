@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="simui_intenet_call">Интернет-вызов</string>
-	<string name="ui_default_package">com.android.incallui</string>
+    <string name="ui_default_package">com.android.incallui</string>
     <string name="incall_default_class">com.android.incallui.CallHandlerService</string>
     <string name="dialer_default_class">com.android.dialer.DialtactsActivity</string>
     <string name="carrier_settings" />
@@ -35,6 +35,7 @@
     <string name="no_sim_card_inserted">Вставьте SIM-карту для запуска Инструментария SIM-карты.</string>
     <string name="airplane_mode_on">Невозможно запустить Инструментарий SIM-карты, т.к. включен режим полета.</string>
     <string name="lable_sim_not_ready">Инструментарий SIM-карты не готов или не поддерживается</string>
+    <string name="gemini_3g_indic">3G</string>
     <string name="callFailed_dsac_vt_incompatible_destination">Видеовызов не может быть настроен. Режим видеотелефона не поддерживается используемым вами телефоном, выполнить голосовой вызов?</string>
     <string name="callFailed_dsac_vt_resource_unavailable">Видеовызов не может быть настроен. Набранный вами телефонный номер вне зоны обслуживания 3G, выполнить голосовой вызов?</string>
     <string name="callFailed_dsac_vt_bearer_not_avail">Видеовызов не может быть настроен. Выполнить голосовой вызов?</string>
@@ -127,6 +128,7 @@
     <string name="vt_recording_error">Ошибка при записи.</string>
     <string name="start_record_vt">Запуск записи</string>
     <string name="stop_record_vt">Остановить запись</string>
+    <string name="sim_manage_indicator_3g">3G</string>
     <string name="cannot_answered_Video_Call">Невозможно ответить на видеовызов, так как уже имеется голосовой вызов</string>
     <string name="cannot_answered_Voice_Call">Невозможно ответить на голосовой вызов, так как уже имеется видеовызов</string>
     <string name="callDurationFormat">%1$s мин. %2$s с</string>
@@ -140,13 +142,13 @@
     <string name="dualtalk_tip_accept_disconnect_voice">Принятие этого звонка приведет к завершению голосового вызова.</string>
     <string name="dualtalk_tip_accept_disconnect_outgoing_reject_incoming">Принятие этого звонка приведет к завершению исходящего звонка и отклонению другого входящего звонка.</string>
     <string name="dualtalk_tip_accept_disconnect_current_reject_incoming">Принятие этого звонка приведет к завершению текущего звонка и отклонению другого входящего звонка.</string>
-    <string name="end_call_because_can_not_hold">Завершить текущий вызов, т.к. его удержаниезапрещено.</string>
+    <string name="end_call_because_can_not_hold">"Завершить текущий вызов, т.к. его удержаниезапрещено."</string>
     <string name="ring_only_once_title">Однократный сигнал</string>
     <string name="ring_only_once_summary">Прием видеозвонка в режиме голосового вызова после первого звукового сигнала</string>
     <string name="fdn_contact_name_number_invalid">Обязательно укажите имя или номер.</string>
     <string name="fdn_contact_number_invalid">Неверный номер контакта.</string>
     <string name="fdn_phone_book_busy">Телефонная книга в настоящий момент занята, попробуйте повторить попытку позднее.</string>
-    <string name="cdma_not_support">CDMA не поддерживает данную функцию</string>
+    <string name="cdma_not_support">"CDMA не поддерживает данную функцию"</string>
     <string name="cdma_cfu_title">China Telecom</string>
     <string name="labelCFC">Отменить переадресацию всех вызовов</string>
     <string name="cdma_cfu_dialog_sum">Всегда использовать этот номер</string>
@@ -286,10 +288,10 @@
     <string name="international_dialing_title">Помощь для выполнения международного вызова</string>
     <string name="international_dialing_select_country">Обнаружено, что вы осуществляете международный вызов. Выберите место назначения.</string>
     <string name="international_dialing_add_country_code" formatted="false">Обнаружено, что вы набираете номер в: %s. Добавить код страны: (+%s)?</string>
-    <string name="international_dialing_add_country_code_and_area_code">Обнаружено, что вы набираете номер в: %1$s, %2$s. Добавить код страны и города: (+%3$s)?</string>
+    <string name="international_dialing_add_country_code_and_area_code">"Обнаружено, что вы набираете номер в: %1$s, %2$s. Добавить код страны и города: (+%3$s)?"</string>
     <string name="international_dialing_change_country_prefix">"Обнаружено, что вы набираете номер из: %s. Сменить префикс международного набора на: '+'?"</string>
-    <string name="international_dialing_add_country_code_input_area_code">Обнаружено, что вы набираете номер в: %s. Если это так, укажите код города.</string>
-    <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">Обнаружено, что вы набираете номер в: %s. Если номер вызываемого абонента не находится в городе %s, укажите код города.</string>
+    <string name="international_dialing_add_country_code_input_area_code">"Обнаружено, что вы набираете номер в: %s. Если это так, укажите код города."</string>
+    <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">"Обнаружено, что вы набираете номер в: %s. Если номер вызываемого абонента не находится в городе %s, укажите код города."</string>
     <string name="international_dialing_need_area_code">Для осуществления вызова необходимо указать код города вызываемого абонента.</string>
     <string name="international_dialing_input_area_code">Введите сюда код города</string>
     <string name="international_dialing_dialed_number">Набор номера:</string>
@@ -311,6 +313,7 @@
     <string name="voice_command_notification_title">Голосовое управление</string>
     <string name="voice_command_notification_message">Для телефона включено голосовое управление</string>
     <string name="callFailed_simError">Ошибка SIM-карты или SIM-карта не установлена</string>
+    <string name="callFailed_simError_cdma">Нет SIM-карты, или ошибка</string>
     <string name="callFailed_simError_slotNumber">Нет SIM-карты или ошибка SIM-карты в слоте %s</string>
     <string name="callFailed_cdma_notEmergency">Возможны только экстренные вызовы</string>
     <string name="buttonTxtContinue">Продолжить</string>
@@ -333,11 +336,14 @@
     <string name="cipher_indication_notification_title">Без шифрования речи</string>
     <string name="cipher_indication_notification_message">По сети выключено шифрование речи</string>
     <string name="network_type">Тип сети</string>
-    <string name="femtocell_point_list_title">Femtocells</string>
+    <string name="network_type_2g">2G</string>
+    <string name="network_type_3g">3G</string>
+    <string name="network_type_4g">4G</string>
+    <string name="femtocell_point_list_title">Фемтосоты</string>
     <string name="in_search_femtocell_networks_wait_tip">Поиск...</string>
     <string name="sum_search_femtocell_networks">Вручную выбрать фемтосот</string>
     <string name="register_femtocell_point_wait_tip">Регистрация %s ...</string>
-    <string name="register_femtocell_point_result_fail_tip">Не удается подключиться к этой сети прямо сейчас. Повторите попытку позже.</string>
+    <string name="register_femtocell_point_result_fail_tip">"Не удается подключиться к этой сети прямо сейчас. Повторите попытку позже."</string>
     <string name="anc_title">Активное шумоподавление</string>
     <string name="anc_on">ANC вкл</string>
     <string name="anc_off">ANC выкл</string>
@@ -348,6 +354,9 @@
     <string name="throttle_status_subtext">"%1$s (%2$d٪) из %3$s (максимум)
 Следующий период начнется в течение %4$d дн. (%5$s)"</string>
     <string name="throttle_data_usage_subtext">%1$s (%2$d٪) из %3$s (максимум)</string>
+    <string name="sip_always">SIP_ALWAYS</string>
+    <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
+    <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
     <string name="domain_address">Домен SIP</string>
     <string name="username">Имя пользователя</string>
     <string name="password">Пароль</string>
@@ -359,7 +368,9 @@
     <string name="set_primary">Основной аккаунт</string>
     <string name="advanced_settings_container">Дополнительные параметры</string>
     <string name="auth_username">Имя пользователя</string>
-    <string name="throttle_help_subtext">Подробнее о политике передачи данных вашего оператора мобильной связи</string>
+    <string name="default_port">5060</string>
+    <string name="default_transport">UDP</string>
+    <string name="throttle_help_subtext">"Подробнее о политике передачи данных вашего оператора мобильной связи"</string>
     <string name="throttle_time_frame_subtext">"%1$d٪ цикла прошло
 Следующий период начинается в %2$d дней (%3$s)"</string>
     <string name="phoneAppLabel">Телефон</string>
@@ -376,6 +387,7 @@
     <string name="cancel">Отмена</string>
     <string name="enter_input" formatted="false">USSD-сообщение должно быть от %d до %d символов. Пожалуйста, попробуйте снова.</string>
     <string name="manageConferenceLabel">Управление конференц-связью</string>
+    <string name="ok">ОК</string>
     <string name="audio_mode_speaker">Динамик</string>
     <string name="audio_mode_earpiece">Телефон</string>
     <string name="audio_mode_wired_headset">Проводная гарнитура</string>
@@ -585,6 +597,9 @@
     <string name="multi_category_disable">Подборка из нескольких категорий отключена</string>
     <string name="network_lte">LTE (рекомендуется)</string>
     <string name="network_4G">4G (рекомендуется)</string>
+    <string name="network_3G">3G</string>
+    <string name="network_2G">2G</string>
+    <string name="network_1x">1x</string>
     <string name="network_global">Глобальные</string>
     <string name="cdma_system_select_title">Выбор системы</string>
     <string name="cdma_system_select_summary">Изменить режим роуминга CDMA</string>
@@ -631,8 +646,8 @@
     <string name="deleting_fdn_contact">Выполняется удаление номера ограниченного набора…</string>
     <string name="fdn_contact_deleted">Номер ограниченного набора удален.</string>
     <string name="pin2_invalid">Разрешенный номер не обновлен, так как введен неверный PIN-код.</string>
-    <string name="fdn_invalid_number">Разрешенный номер не обновлен, т. к. не может содержать более 20 цифр.</string>
-    <string name="pin2_or_fdn_invalid">Список разрешенных номеров не обновлен. Указан неверный PIN2 или номер телефона.</string>
+    <string name="fdn_invalid_number">"Разрешенный номер не обновлен, т. к. не может содержать более 20 цифр."</string>
+    <string name="pin2_or_fdn_invalid">"Список разрешенных номеров не обновлен. Указан неверный PIN2 или номер телефона."</string>
     <string name="fdn_failed">Операция FDN удалось.</string>
     <string name="simContacts_emptyLoading">Считывание с SIM-карты…</string>
     <string name="simContacts_empty">На SIM-карте нет контактов.</string>
@@ -772,7 +787,7 @@
     <string name="phone_entered_ecm_text">Телефон переведен в режим экстренных обратных вызовов</string>
     <string name="phone_in_ecm_notification_title">Режим экстренных обратных вызовов</string>
     <string name="phone_in_ecm_call_notification_text">Передача данных отключена</string>
-    <string name="alert_dialog_in_ecm_call">Выбранное действие невозможно при экстренном вызове.</string>
+    <string name="alert_dialog_in_ecm_call">"Выбранное действие невозможно при экстренном вызове."</string>
     <string name="progress_dialog_exiting_ecm">Выход из режима экстренных обратных вызовов</string>
     <string name="alert_dialog_yes">Да</string>
     <string name="alert_dialog_no">Нет</string>
@@ -892,11 +907,13 @@
     <string name="voicemail_notification_vibarte_when_dialog_title">Вибросигнал</string>
     <string name="voicemail_notification_ringtone_title">Рингтон</string>
     <string name="default_notification_description">Рингтон по умолчанию(%1$s)</string>
+    <string name="voicemail_notification_vibrate_when_default">Никогда</string>
     <string name="ringtone_title">Рингтон</string>
     <string name="vibrate_on_ring_title">Вибросигнал и рингтон</string>
     <string name="dtmf_tone_enable_title">Звук клавиш</string>
     <string name="dial_pad_autocomplete">Автозаполнение</string>
     <string name="preference_category_ringtone">Рингтон &amp; Вибра</string>
+    <string name="call_settings_title_font_family">sans-serif-light</string>
     <string name="roaming_settings_title">Настройки роуминга</string>
     <string name="gemini_roaming_settings_title">Роуминг</string>
     <string name="network_settings_title">Параметры сети</string>
@@ -944,10 +961,14 @@
     <string name="voice_record_save_notifi_msg">Запись была сохранена</string>
     <string name="voice_record_save_content_text">Нажмите для просмотра</string>
     <string name="app_name">Snoopy Тема</string>
+    <string name="component">Экран вызова</string>
+    <string name="author">Автор Lenovo</string>
     <string name="description">Lenovo PhoneApp Snoopy Тема</string>
     <string name="receiver_quality">Качество получателя</string>
+    <string name="le_conference">Умная конференция</string>
     <string name="le_conference_summary">Автоматическое переключение на режим конференции, примерный радиус, 5 метров</string>
     <string name="receiver_quality_standard">Стандартный</string>
     <string name="receiver_quality_light">Освещение</string>
     <string name="receiver_quality_soft">Мягкий</string>
+    <string name="incall_revert_content_summery">"Я сейчас за рулём. Я отвечу вам позже."</string>
 </resources>
