@@ -1876,7 +1876,6 @@ Click the link below to see your location:
     <string name="le_battery_disable">Не возможно запустить Lenovo Power Master, скорее всего отключен в системе</string>
     <string name="lecloud_disable">Ошибка запуска Lenovo Sync, возможно приложение отключено в системе</string>
     <string name="lesafe_tariff_warn_text">Напоминание о расходах</string>
-    <string name="machine_type">Модель телефона:</string>
     <string name="misstype">[пропущенные]</string>
     <string name="month_used_Traffic_Check">Корректировка использования трафика</string>
     <string name="name">Имя:</string>
