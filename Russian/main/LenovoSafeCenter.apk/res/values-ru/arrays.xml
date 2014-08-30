@@ -3,9 +3,9 @@
     <string-array name="array_pwd_question">
         <item>Имя моего первого школьного учителя?</item>
         <item>Мой любимый фрукт?</item>
-        <item>День рождения моего отца?</item>
+        <item>"День рождения моего отца?"</item>
         <item>Название любимой композиции?</item>
-        <item>Имя моего домашнего животного?</item>
+        <item>"Имя моего домашнего животного?"</item>
     </string-array>
     <string-array name="menu_items">
         <item>Настройки</item>
@@ -14,6 +14,12 @@
         <item>Справка</item>
         <item>О программе</item>
         <item>Рекомендовать</item>
+    </string-array>
+    <string-array name="menu_items_cmcc">
+        <item>Настройки</item>
+        <item>Обновление</item>
+        <item>Поддержка</item>
+        <item>Помощь</item>
     </string-array>
     <string-array name="traffic_month_sheet_date">
         <item>1-е число</item>
