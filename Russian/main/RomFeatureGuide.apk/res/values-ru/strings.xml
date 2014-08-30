@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Новое в прошивке</string>
+    <string name="change_theme_title">Попробуйте новую тему</string>
+    <string name="change_theme_content_hj">Наслаждайтесь новой темой МИРАЖ!</string>
+    <string name="change_theme_content_hj_paopao">Наслаждайтесь новой темой МИРАЖ и ПУЗЫРЬКОВЫМ экраном блокировки!</string>
+    <string name="change_theme_content_paopao">Наслаждайтесь новым ПУЗЫРЬКОВЫМ экраном блокировки!</string>
+    <string name="btn_ok">ОК</string>
+    <string name="rf_btn_cancel">Отмена</string>
+    <string name="btn_wait">Подождите...</string>
+</resources>

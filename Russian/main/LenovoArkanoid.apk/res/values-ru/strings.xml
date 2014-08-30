@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lenovo_arkanoid_gamename">Арканоид</string>
+    <string name="lenovo_arkanoid_newgame">ПЕРЕЗАГРУЗКА</string>
+    <string name="lenovo_arkanoid_quit">ВЫХОД</string>
+    <string name="lenovo_arkanoid_share">ПОКАЗАТЬ</string>
+    <string name="lenovo_arkanoid_countdown">Время:</string>
+    <string name="lenovo_arkanoid_history">История рекордов:</string>
+    <string name="lenovo_arkanoid_score">Очков</string>
+    <string name="share_text">Просто мечта!</string>
+    <string name="share_title">ПОКАЗАТЬ</string>
+</resources>

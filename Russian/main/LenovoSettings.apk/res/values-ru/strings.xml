@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="additional_system_update" />
+    <string name="additional_system_update_menu" />
+    <string name="input_method_selector_show_automatically_value">0</string>
+    <string name="input_method_selector_always_show_value">1</string>
+    <string name="input_method_selector_always_hide_value">2</string>
+    <string name="input_method_selector_visibility_default_value">0</string>
     <string name="disturb_settings_title">Режим Не беспокоить</string>
     <string name="disturb_settings">Режим Не беспокоить</string>
     <string name="disturb_enable">Включить режим Не беспокоить</string>
@@ -135,6 +141,7 @@
     <string name="bluetooth_disconnected">Отключено</string>
     <string name="bluetooth_disconnecting">Отключение...</string>
     <string name="bluetooth_connecting">Подключение...</string>
+    <string name="bluetooth_unknown" />
     <string name="bluetooth_pairing">Сопряжение...</string>
     <string name="bluetooth_device">Bluetooth-устройство без названия</string>
     <string name="progress_scanning">Поиск</string>
@@ -164,6 +171,7 @@
     <string name="bluetooth_map_acceptance_dialog_text">%1$s хочет получить доступ к сообщениям. Дать доступ к %2$s?</string>
     <string name="date_and_time">Настройки даты и времени</string>
     <string name="choose_timezone">Выбрать часовой пояс</string>
+    <string name="default_date_format">MM/dd/yyyy</string>
     <string name="normal_date_format">По умолчанию (%s)</string>
     <string name="display_preview_label">Предварительный просмотр:</string>
     <string name="display_font_size_label">Размер шрифта:</string>
@@ -176,6 +184,7 @@
     <string name="proxy_settings_title">Настройки прокси-сервера</string>
     <string name="proxy_clear_text">Очистить</string>
     <string name="proxy_port_label">Порт прокси-сервера</string>
+    <string name="proxy_port_hint">8080</string>
     <string name="proxy_exclusionlist_label">Не использовать прокси-сервер для:</string>
     <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
     <string name="proxy_defaultView_text">Восстановить настройки по умолчанию</string>
@@ -184,13 +193,13 @@
     <string name="proxy_hostname_hint">proxy.example.com</string>
     <string name="proxy_error">Внимание!</string>
     <string name="proxy_error_dismiss">ОК</string>
-    <string name="proxy_error_invalid_host">Введено недействительное имя хоста.</string>
-    <string name="proxy_error_invalid_exclusion_list">Список исключений отформатирован неверно. Перечислите исключаемые домены через запятую.</string>
+    <string name="proxy_error_invalid_host">"Введено недействительное имя хоста."</string>
+    <string name="proxy_error_invalid_exclusion_list">"Список исключений отформатирован неверно. Перечислите исключаемые домены через запятую."</string>
     <string name="proxy_error_empty_port">Укажите порт.</string>
     <string name="proxy_error_empty_host_set_port">Если поле хоста не заполнено, поле порта также следует оставить пустым.</string>
-    <string name="proxy_error_invalid_port">Указанный порт недействителен.</string>
+    <string name="proxy_error_invalid_port">"Указанный порт недействителен."</string>
     <string name="proxy_warning_limited_support">Прокси-сервер HTTP используется браузером, но недоступен для других приложений.</string>
-    <string name="proxy_url">URL файла автоконфигурации прокси-сервера:</string>
+    <string name="proxy_url">"URL файла автоконфигурации прокси-сервера:"</string>
     <string name="radio_info_signal_location_label">Местоположение:</string>
     <string name="radio_info_neighboring_location_label">Соседний CID:</string>
     <string name="radio_info_cellinfo_label">Индекс сети:</string>
@@ -297,6 +306,7 @@
     <string name="owner_info_settings_title">Сведения о владельце</string>
     <string name="security_enable_widgets_title">Включить виджеты</string>
     <string name="security_enable_widgets_disabled_summary">Отключено администратором</string>
+    <string name="owner_info_settings_summary" />
     <string name="owner_info_settings_edit_text_hint">Введите текст для показа на экране блокировки</string>
     <string name="show_user_info_on_lockscreen_label">Показывать введенный ниже текст на экране блокировки</string>
     <string name="user_info_settings_title">Сведения о пользователе</string>
@@ -338,6 +348,7 @@
     <string name="unlock_set_unlock_launch_picker_enable_summary">Выбрать метод блокировки экрана</string>
     <string name="unlock_backup_info_summary">Выберите вид экрана блокировки</string>
     <string name="unlock_set_unlock_off_title">Отключено</string>
+    <string name="unlock_set_unlock_off_summary" />
     <string name="unlock_set_unlock_none_title">Прокрутка</string>
     <string name="unlock_set_unlock_none_summary">Слабая защита</string>
     <string name="unlock_set_unlock_biometric_weak_title">Фейсконтроль</string>
@@ -407,6 +418,7 @@
     <string name="bluetooth_display_passkey_pin_msg">Для подключения к устройству &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br> введите на нем код &lt;br>&lt;b>%2$s&lt;/b>, а затем нажмите клавишу Return или Enter.</string>
     <string name="bluetooth_pairing_accept">Сопряжение</string>
     <string name="bluetooth_pairing_decline">Отмена</string>
+    <string name="bluetooth_error_title" />
     <string name="bluetooth_pairing_error_message">Не удалось подключиться к устройству \"%1$s\".</string>
     <string name="bluetooth_pairing_pin_error_message">Не удалось подключиться к устройству \"%1$s\", так как введен неверный PIN-код или пароль.</string>
     <string name="bluetooth_pairing_device_down_error_message">Не удается установить соединение с устройством \"%1$s\".</string>
@@ -486,6 +498,7 @@
     <string name="wifi_display_wps_config">Настройки WPS</string>
     <string name="wifi_display_listen_channel">Прослушать канал</string>
     <string name="wifi_display_operating_channel">Рабочий канал</string>
+    <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">Разрешить обмен данными при совмещении телефона с другим устройством</string>
     <string name="android_beam_settings_title">Android Beam</string>
     <string name="android_beam_on_summary">Обмен данными по NFC</string>
@@ -561,6 +574,7 @@
     <string name="wifi_status">Статус</string>
     <string name="wifi_speed">Скорость связи</string>
     <string name="wifi_ip_address">IP-адрес</string>
+    <string name="wifi_ip_address_hint">192.168.1.128</string>
     <string name="wifi_eap_method">Метод EAP</string>
     <string name="please_select_phase2">2-й этап аутентификации</string>
     <string name="wifi_eap_ca_cert">Сертификат центра сертификации</string>
@@ -581,7 +595,19 @@
     <string name="wifi_wps_available_second_item">" (доступно WPS)"</string>
     <string name="wifi_secured_first_item">Защита %1$s</string>
     <string name="wifi_secured_second_item">, защита %1$s</string>
+    <string name="wifi_security_short_wep">WEP</string>
+    <string name="wifi_security_short_wpa">WPA</string>
+    <string name="wifi_security_short_wpa2">WPA2</string>
+    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
+    <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">Нет</string>
+    <string name="wifi_security_wep">WEP</string>
+    <string name="wifi_security_wpa">WPA PSK</string>
+    <string name="wifi_security_wpa2">WPA2 PSK</string>
+    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
+    <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_scan_always_turnon_message">"Чтобы повысить точность местоположения и для других целей, %1$s хочет включить сканирование сети, даже когда Wi-Fi отключен.
 
 Разрешить это для всех приложений?"</string>
@@ -615,9 +641,13 @@
     <string name="wifi_ip_settings_invalid_dns">Введите действительный DNS-адрес.</string>
     <string name="wifi_ip_settings_invalid_network_prefix_length">Укажите длину префикса сети (от 0 до 32).</string>
     <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns1_hint">8.8.8.8</string>
     <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_dns2_hint">8.8.4.4</string>
     <string name="wifi_gateway">Шлюз</string>
+    <string name="wifi_gateway_hint">192.168.1.1</string>
     <string name="wifi_network_prefix_length">Длина префикса сети</string>
+    <string name="wifi_network_prefix_length_hint">24</string>
     <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_device_info">Информация об устройстве</string>
     <string name="wifi_p2p_persist_network">Запомнить это соединение</string>
@@ -656,6 +686,9 @@
     <string name="wifi_state_label">Статус Wi-Fi:</string>
     <string name="network_state_label">Состояние сети:</string>
     <string name="supplicant_state_label">Запрос состояния:</string>
+    <string name="rssi_label">RSSI:</string>
+    <string name="bssid_label">BSSID:</string>
+    <string name="ssid_label">SSID:</string>
     <string name="hidden_ssid_label">Скрыть SSID:</string>
     <string name="ipaddr_label">IP адрес:</string>
     <string name="macaddr_label">MAC адрес:</string>
@@ -673,6 +706,7 @@
     <string name="display_settings_title">Экран</string>
     <string name="sound_settings">Звук</string>
     <string name="ringtone_title">Рингтон</string>
+    <string name="ringtone_summary" />
     <string name="all_volume_title">Громкость</string>
     <string name="musicfx_title">Звуковые эффекты</string>
     <string name="ring_volume_title">Громкость звонка</string>
@@ -712,7 +746,7 @@
     <string name="dock_not_found_text">Чтобы настроить док-станцию, установите в нее телефон.</string>
     <string name="dock_sounds_enable_title">Звук при установке в док-станцию</string>
     <string name="dock_sounds_enable_summary_on">Воспроизводить звук при установке или извлечении телефона</string>
-    <string name="dock_sounds_enable_summary_off">Не воспроизводить звук при установке или извлечении телефона</string>
+    <string name="dock_sounds_enable_summary_off">"Не воспроизводить звук при установке или извлечении телефона"</string>
     <string name="account_settings">Аккаунты</string>
     <string name="search_settings">Поиск</string>
     <string name="search_settings_summary">Настроить параметры и управлять историей поиска</string>
@@ -738,6 +772,7 @@
     <string name="screensaver_settings_button">Настройки</string>
     <string name="automatic_brightness">Автонастройка</string>
     <string name="title_font_size">Размер шрифта</string>
+    <string name="summary_font_size">%1$s</string>
     <string name="dialog_title_font_size">Размер шрифта</string>
     <string name="sim_lock_settings">Настройки блокировки SIM-карты</string>
     <string name="sim_lock_settings_category">Настроить блокировку</string>
@@ -754,7 +789,7 @@
     <string name="sim_reenter_new">Введите новый PIN повторно</string>
     <string name="sim_change_pin">PIN-код SIM-карты</string>
     <string name="sim_bad_pin">Неверный PIN-код</string>
-    <string name="sim_pins_dont_match">PIN-коды не совпадают</string>
+    <string name="sim_pins_dont_match">"PIN-коды не совпадают"</string>
     <string name="sim_change_failed">"Не удается изменить PIN.
 Возможно, код введен неверно."</string>
     <string name="sim_change_succeeded">PIN-код SIM-карты успешно изменен</string>
@@ -781,8 +816,14 @@
     <string name="storage_settings">Память</string>
     <string name="storage_settings_title">Настройки хранилища</string>
     <string name="storage_settings_summary">Отключение SD-карты, сведения о доступной памяти</string>
+    <string name="status_imei">IMEI</string>
+    <string name="status_imei_sv">IMEI SV</string>
     <string name="status_number">Мой номер телефона</string>
+    <string name="status_min_number">MIN</string>
+    <string name="status_msid_number">MSID</string>
     <string name="status_prl_version">Версия PRL</string>
+    <string name="status_meid_number">MEID</string>
+    <string name="status_icc_id">ICCID</string>
     <string name="status_network_type">Тип мобильной сети</string>
     <string name="status_latest_area_info">Информация об операторе</string>
     <string name="status_data_state">Передача данных в мобильной сети</string>
@@ -813,6 +854,7 @@
     <string name="sd_eject_summary">Отключение SD-карты для ее безопасного извлечения из устройства</string>
     <string name="sd_insert_summary">Вставьте SD-карту для подключения</string>
     <string name="sd_mount">Подключить SD-карту</string>
+    <string name="sd_mount_summary" />
     <string name="sd_format">Очистить SD-карта</string>
     <string name="sd_format_summary">Удаляет все данные с SD - карты, например, музыку и фотографии</string>
     <string name="memory_clear_cache_title">Очистить кэш?</string>
@@ -820,7 +862,8 @@
     <string name="mtp_ptp_mode_summary">Функция MTP или PTP активирована</string>
     <string name="dlg_confirm_unmount_title">Отключить SD-карту?</string>
     <string name="dlg_confirm_unmount_text">Если отключить SD-карту, некоторые приложения перестанут работать и могут оставаться недоступными до ее подключения.</string>
-    <string name="dlg_error_unmount_text">Не удалось отключить SD-карту. Повторите попытку позже.</string>
+    <string name="dlg_error_unmount_title" />
+    <string name="dlg_error_unmount_text">"Не удалось отключить SD-карту. Повторите попытку позже."</string>
     <string name="unmount_inform_text">SD-карта будет отключена.</string>
     <string name="sd_ejecting_title">Извлечение</string>
     <string name="sd_ejecting_summary">Выполняется извлечение</string>

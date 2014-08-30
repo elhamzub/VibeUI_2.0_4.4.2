@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lenovo_arkanoid_gamename">Пузырьки</string>
+    <string name="lenovo_arkanoid_newgame">ПЕРЕЗАГРУЗКА</string>
+    <string name="lenovo_arkanoid_quit">ВЫХОД</string>
+    <string name="lenovo_arkanoid_share">ПОКАЗАТЬ</string>
+    <string name="lenovo_arkanoid_countdown">Время:</string>
+    <string name="lenovo_arkanoid_history">История рекордов:</string>
+    <string name="lenovo_arkanoid_score">Очков</string>
+    <string name="share_text">Это пузырьки!</string>
+    <string name="share_title">ПОКАЗАТЬ</string>
+    <string name="msg_exit">Выйти?</string>
+    <string name="msg_accept">ОК</string>
+    <string name="msg_game_help">Помощь</string>
+    <string name="msg_game_coefficient">Настройка чувствительности</string>
+    <string name="msg_game_fast">Быстро</string>
+    <string name="msg_game_slow">Медленно</string>
+</resources>
