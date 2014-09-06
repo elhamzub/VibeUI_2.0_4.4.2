@@ -460,7 +460,7 @@
     <string name="help_tv_1">Анти-вор</string>
     <string name="help_tv_2">Ваш охранник данных, когда ваш телефон потерян</string>
     <string name="thank_user" />
-    <string name="feedback_first_network_unavaliable">Welcome to use SECUREit feedback system. Please connect your network and communicate with us!</string>
+    <string name="feedback_first_network_unavaliable">Добро пожаловать в систему обратной связи SECUREit. Подключитесь к сети и свяжитесь с нами!</string>
     <string name="feedback_first_network_avaliable">Добро пожаловать в SECUREit системы обратной связи</string>
     <string name="feedback_null_string" />
     <string name="feedback_feedback_msg">Feedback in app</string>
@@ -1034,7 +1034,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
 Можно повторно активировать окно гистограммы в параметрах гистограммы."</string>
     <string name="info_failed">Сбой операции. Повторите попытку…</string>
     <string name="save">Сохранить</string>
-    <string name="traffic_limit_setting">Установка лимита трафика</string>
+    <string name="traffic_limit_setting">Лимит трафика</string>
     <string name="data_usage_empty">В текущем месяце передача данных приложениями не зафиксирована.</string>
     <string name="nac">Режим управления мобильной сетью</string>
     <string name="app_can_conn_net">Приложений: %1$d</string>
@@ -1729,11 +1729,11 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="night_harssmode1">Режим блокировки: разрешены только Контакты</string>
     <string name="night_harssmode2">Режим блокировки: рарешен только Белый список</string>
     <string name="no_harass_call">Заблокированные звонки будут здесь.</string>
-    <string name="no_harass_sms">Заблокированные SMS сообщения будут здесь.</string>
+    <string name="no_harass_sms">Заблокированные SMS сообщения будут здесь</string>
     <string name="nonumber_confirm">Номер отображается как неизвестное, будь то, чтобы нарушить ваш?</string>
     <string name="nonumber_ok">Да, после отклонения</string>
     <string name="no_signtype">Выберите категорию меток</string>
-    <string name="no_simcard">Пожалуйста, ознакомьтесь с SIM-картой статуса</string>
+    <string name="no_simcard">Ознакомьтесь со статусом SIM-карты</string>
     <string name="noticecontent">Добавляемый номер присутствует в Черном списке, при продолжении он будет удален из Черного списка. Продолжить?</string>
     <string name="night_callharsstitle">Блокировка звонков ночью</string>
     <string name="night_harssebegin">Время начала</string>
