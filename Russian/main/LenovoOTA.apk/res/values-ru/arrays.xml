@@ -10,4 +10,9 @@
         <item>Резервное копирование</item>
         <item>Восстановление</item>
     </string-array>
+    <string-array name="menu_list">
+        <item>Помощь сообщества</item>
+        <item>Инструментарий</item>
+        <item>О приложении</item>
+    </string-array>
 </resources>
