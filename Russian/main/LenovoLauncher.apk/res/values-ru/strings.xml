@@ -620,7 +620,7 @@
     <string name="relaunch_launcher">Перезапуск Lenovo Лаунчера...</string>
     <string name="backup_extract_settings">Извлечение параметров...</string>
     <string name="backup_extract_items">Извлечение рабочего стола...</string>
-    <string name="desktop_first_launching">Загрузка рабочего стола впервые</string>
+    <string name="desktop_first_launching">Загрузка, подождите...</string>
     <string name="failed_to_unmix">Файл не является файлом стандартного профиля!</string>
     <string name="theme_appling_progress_info">Применение темы, пожалуйста, подождите</string>
     <string name="no_profile_num_cloud">Нет резервной копии</string>
