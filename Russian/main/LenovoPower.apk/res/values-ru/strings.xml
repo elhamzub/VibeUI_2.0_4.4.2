@@ -36,6 +36,7 @@
     <string name="usage_type_cpu">Общее время работы ЦП</string>
     <string name="usage_type_cpu_foreground">ЦП</string>
     <string name="usage_type_wake_lock">Оставаться в активном режиме</string>
+    <string name="usage_type_alarm">Система пробуждения</string>
     <string name="usage_type_gps">GPS</string>
     <string name="usage_type_wifi_running">Wi-Fi работает</string>
     <string name="usage_type_data_send">Отправлено данных</string>
@@ -357,12 +358,26 @@
     <string name="screen_lock_network_applist_title">Управление приложениями белого списка</string>
     <string name="screen_lock_network_applist_summary">Приложение белого списка работает без завершения соединения</string>
     <string name="screen_lock_network_applist_summary_inner">Избирательно применяется во время работы, сохраняя сеть открытой</string>
+    <string name="onekey_exam">Оптимизация</string>
+    <string name="onekey_exam_check_process">Проверка</string>
+    <string name="onekey_exam_onekeyoptimize">Проверка сохранения энергии</string>
+    <string name="onekey_exam_optimize_ing">Оптимизация...</string>
+    <string name="onekey_exam_one_key_clean">Немедленная оптимизация</string>
+    <string name="onekey_exam_one_clean_complete">Оптимизация завершена</string>
+    <string name="onekey_exam_open_tips">Поддерживать текущий статус</string>
     <string name="onekey_exam_close">Выкл.</string>
     <string name="onekey_exam_open">Вкл.</string>
-    <string name="onekey_exam_optimize">оптимизация</string>
+    <string name="onekey_exam_optimize">Оптимизация</string>
+    <string name="onekey_exam_clean">Очистка</string>
+    <string name="onekey_exam_cleaning">Очистка...</string>
+    <string name="onekey_exam_recovery">Восстановление</string>
+    <string name="onekey_exam_battery_suggest_optimized">Предложение оптимизации питания</string>
+    <string name="onekey_exam_clean_optimized">Питание, оптимизация для вас...</string>
+    <string name="onekey_exam_check_hardware_free">Проверка системы</string>
     <string name="onekey_exam_brighteness">освещенность</string>
-    <string name="onekey_exam_suggest_smart_brightness">, предложение откр. интеллект. освещенности</string>
-    <string name="onekey_exam_sreen_time_out">тайм-аут:</string>
+    <string name="onekey_exam_suggest_smart_brightness">, предложение активации умной подсветки</string>
+    <string name="onekey_exam_opened_smart_brightness">,умная подсветка включена</string>
+    <string name="onekey_exam_sreen_time_out">Время ожидания:</string>
     <string name="onekey_exam_suggest_optimized">, предложение оптимизации</string>
     <string name="onekey_exam_bluetooth_free">Bluetooth свободно</string>
     <string name="onekey_exam_bluetooth_opened">Bluetooth включён</string>
@@ -370,13 +385,30 @@
     <string name="onekey_exam_gps_opened">GPS включён</string>
     <string name="onekey_exam_wifi_opened">Wi-Fi включён</string>
     <string name="onekey_exam_data_opened">Передача данных включена</string>
+    <string name="onekey_exam_auto_clean">Очищено автоматически</string>
+    <string name="onekey_exam_consume_process2">Выполнение</string>
+    <string name="onekey_exam_consume_process">"Выполнение,
+предлагается очистка"</string>
+    <string name="onekey_exam_check_background">Проверка в фоне</string>
+    <string name="onekey_exam_save_time">"Сохранённое время Питанием
+"</string>
+    <string name="onekey_exam_endurance">",время выносливости
+батареи"</string>
     <string name="onekey_exam_check">проверить</string>
     <string name="onekey_exam_change">изменить</string>
     <string name="onekey_exam_mobiledataconnect_opened">подключение моб. передачи данных</string>
     <string name="onekey_exam_simcard1">SIM-Карта 1</string>
     <string name="onekey_exam_simcard2">SIM-Карта 2</string>
-    <string name="smart_ctrl_title">Смарт-параметры</string>
+    <string name="prompt_rotate_smart">Умное вращение</string>
+    <string name="smart_ctrl_title">Умные параметры</string>
     <string name="smart_ctrl_summery">Автоматически использовать функции на основании параметров</string>
+    <string name="power_manager_dialog_title">Уведомление замороженного приложения</string>
+    <string name="power_manager_dialog_content">Не удаляйте Питание, или эта функция будет отключена</string>
+    <string name="old_dialog_title">Проверить уведомления</string>
+    <string name="old_dialog_content">Обнаружена старая версия Питания, заморозьте её в Настройки->В заморозке</string>
+    <string name="preference_create_classic_shortcut_sub_title">Создать ярлык Обычного режима</string>
+    <string name="preference_create_classic_shortcut_title">Создать ярлык Обычного режима</string>
+    <string name="toast_create_classic_shortcut_text">Создан ярлык Обычного режима</string>
     <string name="action_settings">Параметры</string>
     <string name="classicmode_exit_hint_text">Для выхода из режима экстренного энергосбережения коснитесь кнопки \"Закрыть\".</string>
     <string name="power_low_than_15">Менее 15%</string>
@@ -430,10 +462,10 @@
     <string name="settings_title_set_system">Параметры системы</string>
     <string name="setttings_app_alarm">Включение гибернации с блокировкой экрана</string>
     <string name="setttings_app">Контроль приложений</string>
-	<string name="fragment_tab_clear">Закрывать</string>
+    <string name="fragment_tab_clear">Закрывать</string>
     <string name="fragment_tab_net">Отключение</string>
     <string name="fragment_tab_alarm">Сон</string>
-	<string name="usage_type_wakelock_screen">Предотвращать просыпание экрана</string>
+    <string name="usage_type_wakelock_screen">Предотвращать просыпание экрана</string>
     <string name="usage_type_wakelock_cpu">Предотвращать просыпание процессора</string>
     <string name="create_eye_icon">Создать ярлык на рабочем столе</string>
     <string name="eye_notification_content">Включена защита глаз</string>
@@ -442,7 +474,7 @@
     <string name="smart_brightness_pop_content">Питание сохраняет мощность экрана</string>
     <string name="smart_brightness_pop_exit">Питание сохраннило мощность экрана</string>
     <string name="smart_brightness_pop_show">Включите "Умную яркость" для снижения потребления энергии на 5-20%</string>
-	<string name="eye_pop_show">Включить защиту глаз чтобы защитить ваши глаза</string>
+    <string name="eye_pop_show">Включить защиту глаз чтобы защитить ваши глаза</string>
     <string name="notificaition_new">Включён режим защиты во время зарядки</string>
     <string name="notificaition_charging_completed_new">Полный заряд, Питание защищает батарею</string>
     <string name="smart_brightness_open">Включена "Умная яркость"</string>
@@ -467,7 +499,7 @@
     <string name="settings_frozen_detail">Заморозка редко используемых приложений для экономии энергии и освобождения памяти.</string>
     <string name="settings_consume">Энергопотребление</string>
     <string name="settings_frozen">В заморозке</string>
-	<string name="settings_noti">Показывать в статут-баре</string>
+    <string name="settings_noti">Показывать в статут-баре</string>
     <string name="settings_notification">Показывать уведомления</string>
     <string name="settings_updater">Проверка обновления</string>
     <string name="noti_cut_connect_gps">GPS</string>
@@ -563,7 +595,7 @@
     <string name="SUS_VERSIONUPDATE">Найдена новая версия!</string>
     <string name="SUS_UPDATEDESC">Описание:</string>
     <string name="SUS_UPDATESIZEPROMPT_WLAN">Для загрузки рекомендуется Wi-Fi!</string>
-    <string name="SUS_DOWNLOAD_TITLE">Загрузка SUS</string>
+    <string name="SUS_DOWNLOAD_TITLE">Загрузка обновления</string>
     <string name="SUS_NOTIFICATION_TITLE">Подсказка</string>
     <string name="SUS_NOTIFICATION_UPDATINGPROMPT">Выполняется обновление... Подождите!</string>
     <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">Тайм-аут сети. Еще раз...</string>
@@ -595,4 +627,7 @@
 	<string name="settings_timeout_disconn">Авто-отключение</string>
 	<string name="settings_led">LED уведомления</string>
 	<string name="settings_classicmode_shortcut">Ярлык</string>
+    <string name="smart_brightness_pop_exit_with_saving_time">Lenovo Power is conserving screen power and will extend battery life by about %d minutes</string>
+    <string name="create_classicmode_desktop_shortcut_menu">Создать ярлык на рабочем столе</string>
+    <string name="classicmode_exit_menu">Закрыть для выхода</string>
 </resources>

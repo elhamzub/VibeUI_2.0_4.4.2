@@ -18,17 +18,34 @@
         <item>Ниже 30%</item>
     </string-array>
     <string-array name="wifi_timeout_entries">
-        <item>1 мин</item>
-        <item>2 мин</item>
-        <item>5 мин</item>
-        <item>10 мин</item>
+        <item>1 мин.</item>
+        <item>2 мин.</item>
+        <item>5 мин.</item>
+        <item>10 мин.</item>
     </string-array>
     <string-array name="screen_timeout_entries">
-        <item>15 с</item>
-        <item>30 с</item>
-        <item>1 мин</item>
-        <item>2 мин</item>
-        <item>5 мин</item>
-        <item>10 мин</item>
+        <item>15 с.</item>
+        <item>30 с.</item>
+        <item>1 мин.</item>
+        <item>2 мин.</item>
+        <item>5 мин.</item>
+        <item>10 мин.</item>
+    </string-array>
+    <string-array name="netWakeup_during">
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+    </string-array>
+    <string-array name="netWakeup_delay">
+        <item>5 мин.</item>
+        <item>15 мин.</item>
+        <item>25 мин.</item>
+        <item>35 мин.</item>
+        <item>45 мин.</item>
+    </string-array>
+    <string-array name="netWakeup_lasting">
+        <item>5 мин.</item>
+        <item>15 мин.</item>
+        <item>30 мин.</item>
     </string-array>
 </resources>

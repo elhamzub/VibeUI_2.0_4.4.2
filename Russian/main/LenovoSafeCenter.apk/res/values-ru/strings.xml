@@ -225,12 +225,12 @@
     <string name="scan_auto_update_detail">Автоматическое обновление базы данных не Включено</string>
     <string name="scan_bootapp_detail">Проверить приложения, загруженные при запуске</string>
     <string name="scan_cache_detail">Сканировать кэш-память телефона</string>
-    <string name="scan_can_backup_contact_lecloud">Адресная книга изменена. Выполните резервное копирование системы безопасности. (рекомендуется)</string>
+    <string name="scan_can_backup_contact_lecloud">Адресная книга изменена. Выполните резервное копирование системы безопасности (рекомендуется)</string>
     <string name="scan_harass_intercept_detail">Анти-спам</string>
     <string name="scaning_text">Сканирование…</string>
     <string name="scan_lecloud_can_update">Доступна новая резервная копия системы безопасности</string>
     <string name="scan_lowmemory_detail">Внутренний объем хранения работает менее, чем на 20%</string>
-    <string name="scan_nerver_backup_contact_lecloud">Резервное копирование адресной книги с помощью системы безопасности. (рекомендуется)</string>
+    <string name="scan_nerver_backup_contact_lecloud">Резервное копирование адресной книги с помощью системы безопасности (рекомендуется)</string>
     <string name="scan_no_install_lecloud">Загрузить резервную копию системы безопасности (рекомендуется)</string>
     <string name="scan_nosetTrafficLimit_detail">Тарифный план не установлен</string>
     <string name="scan_nosetTrafficLimit_title">Установить тарифный план сейчас?</string>

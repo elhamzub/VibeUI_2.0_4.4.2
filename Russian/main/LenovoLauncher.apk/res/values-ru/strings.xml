@@ -625,4 +625,13 @@
     <string name="theme_appling_progress_info">Применение темы, пожалуйста, подождите</string>
     <string name="no_profile_num_cloud">Нет резервной копии</string>
     <string name="no_profile_num_restore_toast">Сначала сделайте резервную копию</string>
+    <string name="network_settings_title">Использование мобильной сети</string>
+	<string name="launcher_network_settings_summary">Отключение использования мобильной сети после выключения экрана</string>
+    <string name="network_settings_category_title">Следующие функции разрешают использование мобильной сети</string>
+	<string name="recommend_network_settings_title">Рекомендации приложений и загрузки</string>
+	<string name="recommend_network_settings_summary">Использовать мобильную сеть для рекомендуемых приложениями загрузок</string>
+	<string name="allow_gather_games_settings_title">Умная организация игр</string>
+	<string name="settings_title_settings_category">Настройки названий</string>
+	<string name="settings_title_color">Цвет текста</string>
+	<string name="settings_title_shadow">Тень названия</string>
 </resources>
