@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Центр уведомлений Плюс</string>
-    <string name="flashlight_notification_title">Выключить фонарик</string>
-    <string name="flashlight_notification_text">Нажмите, чтобы закрыть фонарик</string>
+    <string name="app_notification_manager_title">Запрет/активация уведомлений</string>
+    <string name="app_notification_optimized_title">Приоритеты уведомлений</string>
+    <string name="lenovo_app_closed_notifications_manager_title">Уведомления запрещены</string>
+    <string name="lenovo_app_opened_notifications_manager_title">Уведомления разрешены</string>
+    <string name="lenovo_progress_dialog_message">Загрузка...</string>
+    <string name="app_disable_notifications_dlg_title">Отключить уведомления?</string>
+    <string name="app_disable_notifications_dlg_text">В случае отключения уведомлений для данного приложения вы можете пропустить важную информацию и обновления.</string>
+    <string name="app_add_optimized_notifications_title">Обычные приложения</string>
+    <string name="app_del_optimized_notifications_title">Приоритетные приложения</string>
+    <string name="app_vip_notifications_title">Приложение VIP</string>
+    <string name="app_close_optimized_notifications_title">Уведомление о закрытом приложении</string>
+    <string name="app_close_optimized_notifications_summary">Приложения можно устанавливать как предпочтительные только после включения для них уведомлений в меню управления уведомлениями приложений</string>
+    <string name="lenovo_app_add_optimized_notification_toast_text">"Приоритет установлен:«%1$s» "</string>
+    <string name="lenovo_app_add_notification_toast_text">"Уведомления разрешены:«%1$s» "</string>
+    <string name="lenovo_no_app_nofitication">Нет выбранных приложений</string>
+    <string name="app_del_optimized_notifications_dlg_title">Изменить приоритет?</string>
+    <string name="app_del_optimized_notifications_dlg_text">Изменив приоритет приложения, вы можете пропустить важные оповещения.</string>
 </resources>
