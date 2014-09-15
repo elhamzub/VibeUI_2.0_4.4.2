@@ -14,10 +14,10 @@
     <string name="not_support">Ваш телефон не поддерживает эту функцию</string>
     <string name="plz_close_airplane_mode_or_insert_sim_card">Пожалуйста, отключите режим полёта/вставьте SIM-карту</string>
     <string name="process_clear_info_">Очищено</string>
-    <string name="process_usage_rate_">Объем памяти:</string>
+    <string name="process_usage_rate_">"Объем памяти: "</string>
     <string name="process_usage_rate_bai">%</string>
-    <string name="process_usage_size_">Использовано памяти:</string>
-    <string name="process_usage_size_m">Mb</string>
+    <string name="process_usage_size_">"Использовано памяти: "</string>
+    <string name="process_usage_size_m">Мб</string>
     <string name="prompt_already">Сообщено</string>
     <string name="safecenter">SECUREit</string>
     <string name="security_action_off">Отключение</string>
@@ -143,7 +143,8 @@
     <string name="net_title3">Корректировка использования трафика</string>
     <string name="net_title4">Выбор оператора</string>
     <string name="net_today">Сегодня</string>
-    <string name="net_traffic_anto_deny_desc">Напоминать об отключении передачи данных при достижении ежемесячного ограничения</string>
+    <string name="net_traffic_anto_deny_desc">"Напоминать об отключении передачи данных
+при достижении ежемесячного ограничения"</string>
     <string name="net_traffic_anto_deny_summary">Месячный лимит (%1$s) трафика был использован, отключить передачу данных?</string>
     <string name="net_traffic_anto_deny_title">Сообщать о превышении</string>
     <string name="net_traffic_background_app_useage">Трафик в фоне: %1$s</string>
@@ -177,11 +178,11 @@
     <string name="net_today_used">Трафик за сегодня:</string>
     <string name="net_traffic_anto_deny_noti_title">Важная информация</string>
     <string name="net_traffic_continue_to_use">Продолжить</string>
-    <string name="net_traffic_mobile_back_data_text">2G/3G отправлено:</string>
-    <string name="net_traffic_mobile_fore_data_text">2G/3G получено:</string>
+    <string name="net_traffic_mobile_back_data_text">"2G/3G отправлено: "</string>
+    <string name="net_traffic_mobile_fore_data_text">"2G/3G получено: "</string>
     <string name="net_traffic_show_donot_notice">Больше не спрашивать</string>
-    <string name="net_traffic_wlan_back_data_text">Wi-Fi отправлено:</string>
-    <string name="net_traffic_wlan_fore_data_text">Wi-Fi получено:</string>
+    <string name="net_traffic_wlan_back_data_text">"Wi-Fi отправлено: "</string>
+    <string name="net_traffic_wlan_fore_data_text">"Wi-Fi получено: "</string>
     <string name="not_root_net_control">" требуется наличие доступа с правами root для изменения прав доступа интернет-приложения"</string>
     <string name="net_carry_info_set_title">Установка лимита трафика</string>
     <string name="net_next">Далее</string>
@@ -192,14 +193,15 @@
     <string name="net_day2">День</string>
     <string name="net_traffic_package_limit">Месячный лимит</string>
     <string name="traffic_correct_parameter_desc">Настройки параметров синхронизации использования трафика</string>
-    <string name="net_traffic_notice_message">Использование передачи данных по мобильной сети будет запрещено для всех приложений.</string>
-    <string name="net_traffic_notice_message2">Использование передачи данных по будет запрещено для всех приложений.</string>
+    <string name="net_traffic_notice_message">Использование передачи данных по мобильной сети будет запрещено для всех приложений</string>
+    <string name="net_traffic_notice_message2">Использование передачи данных по будет запрещено для всех приложений</string>
     <string name="net_traffic_notice_title">Информация</string>
     <string name="net_sys_app">Система</string>
     <string name="net_operators_m">China Mobile</string>
     <string name="net_operators_cdma">China Telecom</string>
     <string name="net_operators_u">China Unicom</string>
-    <string name="nonet_float_window_close">"При отсутствии подключения к сети, окно будет скрываться"</string>
+    <string name="nonet_float_window_close">"При отсутствии подключения к сети, виджет
+будет скрываться"</string>
     <string name="traffic_limit_setting">Установка лимита трафика</string>
     <string name="data_usage_empty">В текущем месяце передача данных приложениями не зафиксирована</string>
     <string name="set_net_text">Настройка сети</string>
@@ -226,8 +228,8 @@
     <string name="net_error_code7">Операция выполнена успешно (синхронизация, получение параметров синхронизации и т.д.)</string>
     <string name="net_error_code8">Неизвестная ошибка</string>
     <string name="net_error_code9">Ошибка установки атрибутов</string>
-    <string name="net_traffic_correct_sucess2">Корректировка использования трафика выполнена успешно, в этом месяце использовано:</string>
-    <string name="net_traffic_correct_sucess3">Корректировка использования трафика выполнена успешно, в этом месяце осталось</string>
+    <string name="net_traffic_correct_sucess2">"Корректировка использования трафика выполнена успешно, в этом месяце использовано: "</string>
+    <string name="net_traffic_correct_sucess3">"Корректировка использования трафика выполнена успешно, в этом месяце осталось: "</string>
     <string name="net_operators_u_2">Unicom 3G</string>
     <string name="net_operators_u_1">Unicom 2G</string>
     <string name="netfilter_notice_textview_desc">Приложение %1$s, которому ограничен доступ, требует доступ в сеть, разрешить?</string>
@@ -239,7 +241,7 @@
     <string name="netfilter_sort_day">Сортировка по дням</string>
     <string name="net_lock_screen_traffic_reminder">Советы по безопасности</string>
     <string name="net_lock_screen_traffic_title">Уведомление о передаче данных на экране блокировки</string>
-    <string name="net_lock_screen_traffic_stat">锁屏耗流量:%1$s</string>
+    <string name="net_lock_screen_traffic_stat">Расход трафика в фоне: %1$s</string>
     <string name="net_lock_screen_disable_des">禁止的应用，在锁屏期间不能使用移动数据</string>
     <string name="net_lock_screen_traffic_summary_1">%1$s общее потребление %2$s трафика</string>
     <string name="net_lock_screen_traffic_summary_2">在%1$s-%2$s共消耗%3$s的流量</string>
@@ -267,7 +269,7 @@
     <string name="net_send_traffic_message_tip_desc">已发送校准短信至运营商</string>
     <string name="net_m">Мб</string>
     <string name="net_traffic_package_limit_des">Задайте лимит трафика на месяц для предотвращения переиспозьзования</string>
-    <string name="net_correct_config_desc">Настройки для автоматической корректировки использования трафика:</string>
+    <string name="net_correct_config_desc">"Настройки для автоматической корректировки использования трафика: "</string>
     <string name="net_correct_cancel">Отмена</string>
     <string name="net_correct_setting_desc">В соответствии с параметрами заданными используемой SIM-картой необходимо указать настройки для проведения корректировки с данными оператора</string>
     <string name="net_card1">SIM1</string>
@@ -291,7 +293,7 @@
     <string name="no_null_limit_input_num_text">Значение не должно быть пустым</string>
     <string name="check_traffic_input_num_error">Пожалуйста, введите правильный номер</string>
     <string name="curr_month_traffic_out_limit_warm_text">Месячный лимит трафика исчерпан</string>
-    <string name="curr_today_traffic_out_limit_warning">Сегодня превышен лимит (%1$s Mb) трафика</string>
+    <string name="curr_today_traffic_out_limit_warning">Сегодня превышен лимит (%1$s Мб) трафика</string>
     <string name="process_kernel_label">Android OS</string>
     <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
     <string name="tether_settings_title_all">В режиме модема и точки доступа</string>
@@ -317,8 +319,8 @@
     <string name="net_traffic">сегодня %1$s</string>
     <string name="exceed_text">Превышает</string>
     <string name="net_traffic_correct_sucess">Калибровка данных %1$s выполнена успешно</string>
-    <string name="net_traffic_notify_exceed" formatted="false">Сегодня %s，перерасход %s</string>
-    <string name="net_traffic_notify_left" formatted="false">Сегодня %s，осталось %s</string>
+    <string name="net_traffic_notify_exceed" formatted="false">Сегодня %s, перерасход %s</string>
+    <string name="net_traffic_notify_left" formatted="false">Сегодня %s, осталось %s</string>
     <string name="net_traffic_detail_msg">Возврат значения</string>
     <string name="net_traffic_daily_top_three">Мобильный трафик за день: TOP 3</string>
     <string name="net_traffic_month_top_three">Мобильный трафик за месяц: TOP 3</string>
@@ -327,8 +329,8 @@
     <string name="remain_data_taffic_out">Перерасход &lt;strong>%s&lt;/strong> </string>
     <string name="to_billy_day">距离结算日还有 &lt;strong>%d&lt;/strong> 天，</string>
     <string name="traffic_data_has_out">Трафик закончился</string>
-    <string name="remain_data_taffic_reminder3">建议每天流量不要超过 &lt;strong>%s&lt;/strong> ！</string>
-    <string name="remain_data_taffic_reminder_out">建议使用流量要慎重哦！</string>
+    <string name="remain_data_taffic_reminder3">建议每天流量不要超过 &lt;strong>%s&lt;/strong> !</string>
+    <string name="remain_data_taffic_reminder_out">建议使用流量要慎重哦!</string>
     <string name="modify_daily_reminder">修改日流量提醒</string>
     <string name="month_used_data">Трафик в этом месяце</string>
     <string name="net_traffic_daily_detail">Детали</string>
@@ -410,7 +412,9 @@
     <string name="disable_safepayment_tip">После отключения SECUREit не сможет обеспечивать защиту покупок, совершаемых через Интернет, в режиме реального времени</string>
     <string name="payment_open">Включить Анти-фишинг</string>
     <string name="disable_safeinput_tip">После отключения SECUREit не сможет обеспечивать защиту аккаунта в режиме реального времени</string>
-    <string name="paymentapp">Банковые операции и покупки с защитой в реальном времени</string>
+    <string name="paymentapp">"Операции с банком и
+покупки с защитой в
+реальном времени"</string>
     <string name="payment_message">Онлайн-банкинг, покупки в интернет-магазинах, автоматическая идентификация легитивности приложений и предотвращение фишинга</string>
     <string name="dian">…</string>
     <string name="safeinputmethod">Защита паролей</string>
@@ -493,7 +497,7 @@
     <string name="down_now">Загрузить сейчас</string>
     <string name="down_safebox">Для использования данной функции требуется установка хранилища и блокировки приложения. Загрузить и установить их</string>
     <string name="error_diff">Введенные пароли не совпадают. Повторите ввод</string>
-    <string name="error_password_set">Не используйте настоящий пароль в качестве фиктивного пароля страницы. Повторите попытку.</string>
+    <string name="error_password_set">Не используйте настоящий пароль в качестве фиктивного пароля страницы. Повторите попытку</string>
     <string name="error_pwdtitle">Установка пароля ложного интерфейса</string>
     <string name="formattime">[%1$s]</string>
     <string name="hand_name">Примечание</string>
@@ -514,7 +518,7 @@
     <string name="no_app">Приложение не установлено</string>
     <string name="no_name">Неизвестный</string>
     <string name="no_notify">Не уведомлять</string>
-    <string name="installing_text">Установка…</string>
+    <string name="installing_text">Установка...</string>
     <string name="no_replaysms">Я свяжусь с вами позже</string>
     <string name="noticecontent">Добавляемый номер присутствует в Черном списке, при продолжении он будет удален из Черного списка. Продолжить?</string>
     <string name="notify1">Сообщение в панели уведомлений и просигналить</string>
@@ -525,8 +529,8 @@
     <string name="p_ctitle">Текст уведомления о пропущенном звонке</string>
     <string name="p_icon">Значок моего личного пространства</string>
     <string name="p_name">Изменение названия Сейфа</string>
-    <string name="pri_adddesc">"Нажмите кнопку Добавить для добавленияu
-приватного контакта."</string>
+    <string name="pri_adddesc">"Нажмите кнопку Добавить для добавления
+приватного контакта"</string>
     <string name="pri_nocall">Отсутствуют приватные звонки</string>
     <string name="pri_nosms">Отсутствуют приватные сообщения</string>
     <string name="pri_percente">(%1$d/%2$d)</string>
@@ -564,7 +568,7 @@
     <string name="smsmodesetting">Настройки приватных SMS</string>
     <string name="smsnotifymode_title">Уведомление о приватном SMS</string>
     <string name="sumbit">OK</string>
-    <string name="waitting">Импортирование, подождите…</string>
+    <string name="waitting">Импортирование, подождите...</string>
     <string name="waitting_background">Импортирование в фоновом режиме…</string>
     <string name="whitecount">Всего %1$s приватных контактов</string>
     <string name="add">Добавить</string>
@@ -577,7 +581,7 @@
     <string name="hand_number_hit">Номер</string>
     <string name="harass_switch_desc">Перехват нежелательных SMS сообщений и звонков</string>
     <string name="input_pwd_again">Повторите ввод пароля</string>
-    <string name="private_title">Защита вашей приватности…</string>
+    <string name="private_title">Защита вашей приватности...</string>
     <string name="recovery_sms">Восстановить во входящие</string>
     <string name="replay_sms_card2">"SIM2 "</string>
     <string name="send_smshint">Введите ответ</string>
@@ -597,13 +601,13 @@
     <string name="pwd_error_tips">Неправельный пароль, введите пароль повторно</string>
     <string name="net_notavilable">Служба SMS недоступна</string>
     <string name="retrieve_password_text">Забыли пароль</string>
-    <string name="question_text">Вопрос:</string>
-    <string name="password_answer_set_text">Ответ:</string>
+    <string name="question_text">"Вопрос: "</string>
+    <string name="password_answer_set_text">"Ответ: "</string>
     <string name="lesafe_pwd">Пароль</string>
     <string name="first_use_password_setting_note_input_1">Введите 6-значный пароль</string>
     <string name="first_use_password_setting_note_input_2">Введите пароль еще раз</string>
     <string name="antispamhand_number_hit">Обязательно</string>
-    <string name="password_question_text">Вопрос:</string>
+    <string name="password_question_text">"Вопрос: "</string>
     <string name="title_set_pwd">Установите пароль</string>
     <string name="title_set_pwd_question">Настройка защиты паролем</string>
     <string name="entry_pwd_question">Вопросы защиты паролем</string>
@@ -638,7 +642,7 @@
     <string name="no">Нет</string>
     <string name="next">Далее</string>
     <string name="reboot_info">Гостевой режим будет выключен после включения Детского режима, также потребуеться перезхагрузка. Включить Детский режим?</string>
-    <string name="info_failed">Сбой операции. Повторите попытку…</string>
+    <string name="info_failed">Сбой операции. Повторите попытку...</string>
     <string name="hide_contacts2">Скрыть контакты, историю вызовов и текстовые сообщения</string>
     <string name="update_lab_notice_text">Оповещение об обновлении SECUREit</string>
     <string name="safe_main_install">Установить</string>
@@ -658,13 +662,13 @@
     <string name="modify_password">Изменить пароль</string>
     <string name="modify_password_answer">Изменить пароль</string>
     <string name="modify_password_answer_success">Защита паролем установлена</string>
-    <string name="private_space_fake_prompt">Функция в разработке，будет готова позже!</string>
+    <string name="private_space_fake_prompt">Функция в разработке, будет готова позже!</string>
     <string name="unlock_apps">未加锁</string>
     <string name="locked_apps">已加锁</string>
     <string name="locked">已加入保护程序列表</string>
     <string name="protected_end">)</string>
     <string name="protected_begin">(</string>
-    <string name="unlock">解除锁定</string>
+    <string name="unlock">Разблокировать</string>
     <string name="lockpattern_set_sucess_prompt">图形锁密码仅用于应用锁，请牢记！</string>
     <string name="old_safebox_user_prompt">应用锁支持图形密码了，原数字密码已失效，请设置图形密码继续使用！</string>
     <string name="lock">加锁</string>
@@ -701,7 +705,7 @@
     <string name="hadupload_log">Сообщено</string>
     <string name="info_all">Открыть все</string>
     <string name="last_time">"Последний раз: "</string>
-    <string name="localblack_successNotice">Сообщение отправлено успешно.</string>
+    <string name="localblack_successNotice">Сообщение отправлено успешно</string>
     <string name="neterror">Ошибка подключения к сети</string>
     <string name="notice1">Заблокирован</string>
     <string name="safe_defense_notify">Советы</string>
@@ -735,9 +739,9 @@
     <string name="app_logs">Журнал доступа к приватной информации</string>
     <string name="app_privacy_info">Чтение приватной информации</string>
     <string name="clean_log">Очистить</string>
-    <string name="find_tap_apps">Обнаружено приложение для подслушивания разговоров.</string>
-    <string name="nodate">Не системные приложения не должны запрашивать это разрешение.</string>
-    <string name="nologdate">Записи отсутствуют.</string>
+    <string name="find_tap_apps">Обнаружено приложение для подслушивания разговоров</string>
+    <string name="nodate">Не системные приложения не должны запрашивать это разрешение</string>
+    <string name="nologdate">Записи отсутствуют</string>
     <string name="recent_logs">Записи отсутствуют</string>
     <string name="report">Сообщить</string>
     <string name="permission_set">Настройки</string>
@@ -746,15 +750,15 @@
     <string name="unobtain_root2">Для установки требуются самые высокие системные привилегии (доступ с правами root)</string>
     <string name="antivirusvirus_notifyadvice">Уровень риска: Высокий. Рекомендуется удалить</string>
     <string name="detail_perm2">Это доверенное приложение</string>
-    <string name="detail_perm3">Приложение может выполнять следующие операции:</string>
+    <string name="detail_perm3">"Приложение может выполнять следующие операции: "</string>
     <string name="find_antivirus">Обнаружен вирус. Пожалуйста, не устанавливайте!</string>
     <string name="install_adv_stitle_off">Запретить сообщения в панели уведомлений</string>
     <string name="install_adv_stitle_on">Разрешить сообщения в панели уведомлений</string>
     <string name="install_boot_stitle_off">Запретить самозапуск при старте аппарата</string>
     <string name="install_boot_stitle_on">Разрешить самозапуск при старте аппарата</string>
-    <string name="install_fail">Установка не удалась.</string>
-    <string name="installing">Установка…</string>
-    <string name="install_success">Установка выполнена успешно.</string>
+    <string name="install_fail">Ошибка установки</string>
+    <string name="installing">Установка...</string>
+    <string name="install_success">Установка завершена</string>
     <string name="no_premit">Это приложение не относится к разрешенным</string>
     <string name="permission_installation_without_antivirus">Установка без проверки антивирусом</string>
     <string name="prase_error">Неизвестная ошибка</string>
@@ -768,11 +772,11 @@
     <string name="install_perm_loc">Местоположение телефона</string>
     <string name="install_perm_record">Использовать диктофон</string>
     <string name="install_perm_camera">Использовать камеру</string>
-    <string name="virus_name">Название вируса:%1$s</string>
+    <string name="virus_name">Название вируса: %1$s</string>
     <string name="permission_back">Назад</string>
     <string name="permission_checking_virus">Антивирусная проверка...</string>
     <string name="permission_complete">ОК</string>
-    <string name="detail_perm">Это приложение использует:</string>
+    <string name="detail_perm">"Это приложение использует: "</string>
     <string name="detail_text">Подробнее</string>
     <string name="install">Установить</string>
     <string name="install_adv_title">Сообщение в панели уведомлений</string>
@@ -785,12 +789,12 @@
     <string name="suggest_uninstall">Вирус обнаружен в приложении. Пожалуйста, удалите!</string>
     <string name="virus_detail">Степень риск: %1$s</string>
     <string name="virus_risk">Вирус: %1$s</string>
-    <string name="phonenum_null">Не введен номер телефона.</string>
+    <string name="phonenum_null">Не введен номер телефона</string>
     <string name="send_off2">Не отправлено (%1$ds)</string>
-    <string name="smscontent">Текст сообщения:</string>
-    <string name="sms_content_null">Отсутствует текст SMS сообщения.</string>
+    <string name="smscontent">"Текст сообщения: "</string>
+    <string name="sms_content_null">Отсутствует текст SMS сообщения</string>
     <string name="unknownapp">Неизвестное приложение</string>
-    <string name="upsuccess">Отправлено успешно.</string>
+    <string name="upsuccess">Отправлено</string>
     <string name="send_off_report">Сообщить</string>
     <string name="title">Предупреждение об отправке сообщения в фоне</string>
     <string name="install_failed_invalid_apk">Установочный пакет поврежден</string>
@@ -828,13 +832,13 @@
     <string name="limit">Ограничить разрешения приложения</string>
     <string name="app_can">"Следующие приложения могут "</string>
     <string name="sms_background">Сообщения</string>
-    <string name="to_sms_back">Отправка SMS в фоновом режиме.</string>
+    <string name="to_sms_back">Отправка SMS в фоновом режиме</string>
     <string name="call_background">Вызовы</string>
     <string name="to_call_back">вызовы в фоне</string>
     <string name="internet_backbround">Трафик</string>
     <string name="to_internet_back">использование 2G/3G</string>
     <string name="no_tariff_log">No apps charging behaviors recently</string>
-    <string name="month_tariff">Ежемесячная статистика тарифов:</string>
+    <string name="month_tariff">"Ежемесячная статистика тарифа: "</string>
     <string name="sms_setting_text">Установки SMS</string>
     <string name="sms_month_limit_setting_text">Ограничение SMS</string>
     <string name="sms_month_warm_text">Напомнить о лимите</string>
@@ -846,7 +850,8 @@
     <string name="permission_minute">минуты</string>
     <string name="input_sms_month_num_text">Установить месячный лимит SMS</string>
     <string name="input_notice_text">Параметры SMS-пакетов</string>
-    <string name="set_tips">Введите количество сообщений для отправления ежемес. пакетом SMS:</string>
+    <string name="set_tips">"Введите количество сообщений для отправки
+ежемесячно, пакетом SMS: "</string>
     <string name="tariff_behavior">Связь</string>
     <string name="privacy_behavior">Конфиденциальность</string>
     <string name="neton_perm_manage">Беспроводные соединения</string>
@@ -891,7 +896,7 @@
     <string name="permission_notice_intercep_phonenum_null">Номер телефона не указан</string>
     <string name="permission_notice_intercep_send_off2">Отмена(%1$ds)</string>
     <string name="permission_notice_intercep_smscontent">Текст сообщения:</string>
-    <string name="permission_notice_intercep_sms_content_null">Отсутствует текст SMS сообщения.</string>
+    <string name="permission_notice_intercep_sms_content_null">Отсутствует текст SMS сообщения</string>
     <string name="permission_notice_intercep_unknownapp">Неизвестное приложение</string>
     <string name="permission_notice_intercep_upsuccess">Отчет выполнен</string>
     <string name="permission_notice_intercep_hadupload_log">Отчет об этом уже отправлен</string>
@@ -899,7 +904,7 @@
     <string name="permission_notice_intercep_net_unavilable">Сеть недоступна</string>
     <string name="permission_notice_intercep_ignore_current_setting">Не замечать больше</string>
     <string name="permission_notice_intercep_remenber">Запомнить выбор</string>
-    <string name="permission_notice_intercep_cancel">отмена(%1$ds)</string>
+    <string name="permission_notice_intercep_cancel">Отмена(%1$ds)</string>
     <string name="permission_notice_intercep_deny">Запретить(%1$ds)</string>
     <string name="permission_notice_intercep_allow">Разрешить</string>
     <string name="permission_notice_intercep_notice">Подтвердить</string>
@@ -912,7 +917,7 @@
     <string name="permission_records_when_calling">При звонке</string>
     <string name="permission_dialog_never_notice">Не напоминать</string>
     <string name="permission_confirm">Подтвердить</string>
-    <string name="permission_known">ОК, я знаю</string>
+    <string name="permission_known">ОК</string>
     <string name="permission_cancel">Отмена</string>
     <string name="permission_forbid">Запретить</string>
     <string name="permission_is_update_lab_text">Обновить?</string>
@@ -959,7 +964,7 @@
     <string name="permission_record_date_today">Сегодня</string>
     <string name="permission_record_date_yesterday">Вчера</string>
     <string name="permission_record_date_last_week">На прошлой неделе</string>
-    <string name="permission_list_loadding">Загрузка!</string>
+    <string name="permission_list_loadding">Загрузка</string>
     <string name="permission_list_empty">Отсутствуют риски конфиденциальности!</string>
     <string name="permission_app_permisions_one_key_optimize">Оптимизация</string>
     <string name="permission_app_permisions_one_key_optimize_done">Готово</string>
@@ -1005,7 +1010,7 @@
     <string name="uninstall_update_title">Удаление обновления</string>
     <string name="uninstall_application_text">Вы хотите удалить приложение?</string>
     <string name="uninstall_update_text">Хотите обновить это приложение?</string>
-    <string name="uninstall_activity_text">%1$sПринадлежит к следующим приложениям:</string>
+    <string name="uninstall_activity_text">"%1$s принадлежит к следующим приложениям: "</string>
     <string name="permission_ok">ОК</string>
     <string name="manage_device_administrators">Управление диспетчером устройств</string>
     <string name="app_not_found_dlg_text">Не найдено в списке установленных приложений</string>
@@ -1066,7 +1071,8 @@
     <string name="guestmode_switch_to_guest_mode">Переключиться в режим гостя</string>
     <string name="permission_guest_mode">Режим гостя</string>
     <string name="guestmode_closed">Режим гостя отключен</string>
-    <string name="guestmode_message">Скрывает контакты и историю вызовов</string>
+    <string name="guestmode_message">"Скрывает контакты и историю
+вызовов"</string>
     <string name="guestmode_hide_contacts">Скрыть контакты, историю звонков, SMS сообщения</string>
     <string name="guestmode_show_contacts">Восстановить контакты, историю звонков, SMS сообщения</string>
     <string name="guestmode_failed_to_operate">Ошибка, повторите попытку...</string>
@@ -1226,8 +1232,8 @@
     <string name="cleanmgr_rem_space">Свободно: %1$s</string>
     <string name="cleanmgr_used_space">Занято: %1$s</string>
     <string name="cleanmgr_can_clean_space">Может быть высвобождено %1$s памяти</string>
-    <string name="cleanmgr_is_scanning">Сканирование…</string>
-    <string name="cleanmgr_is_cleaning">Очистка…</string>
+    <string name="cleanmgr_is_scanning">Сканирование...</string>
+    <string name="cleanmgr_is_cleaning">Очистка...</string>
     <string name="cleanmgr_already_cleared">Готово</string>
     <string name="cleanmgr_scan_finish">Сканирование завершено</string>
     <string name="cleanmgr_scan_stop">Сканирование остановлено</string>
@@ -1264,7 +1270,7 @@
     <string name="cleanmgr_nophoto_check_select">Выберите фото %1$s</string>
     <string name="cleanmgr_photo_dialog_delete">Удалить %1$d изображение(й)?</string>
     <string name="cleanmgr_item_label_photo">Удалить</string>
-    <string name="cleanmgr_photo_total_size">Всего размер:%1$s</string>
+    <string name="cleanmgr_photo_total_size">Всего: %1$s</string>
     <string name="cleanmgr_media_title">Аудио и видео файлы</string>
     <string name="cleanmgr_audio_delete_successed">Удалено аудио файлов: %1$d, высвобождено %2$s места</string>
     <string name="cleanmgr_video_delete_successed">Удалено видео файлов: %1$d, высвобождено %2$s места</string>
@@ -1273,7 +1279,7 @@
     <string name="cleanmgr_cache_file">Кэш-файлы</string>
     <string name="cleanmgr_unused_app">Редко используемые</string>
     <string name="cleanmgr_big_file">Большой файл</string>
-    <string name="cleanmgr_comma">，</string>
+    <string name="cleanmgr_comma">", "</string>
     <string name="cleanmgr_rubbish_clear">Удалить большие файлы</string>
     <string name="cleanmgr_sysclear_finish">Готово</string>
     <string name="cleanmgr_sysclear_cancel">Отмена</string>
@@ -1286,7 +1292,7 @@
     <string name="cleanmgr_sysclear_autorun">Управление авто-запуском</string>
     <string name="cleanmgr_sysclear_whitelist_manage">Выбранные программы не остановят очистку</string>
     <string name="cleanmgr_sysclear_trash_root_folder">Список остатка:</string>
-    <string name="cleanmgr_sysclear_trash_searching">Сканирование…</string>
+    <string name="cleanmgr_sysclear_trash_searching">Сканирование...</string>
     <string name="cleanmgr_sysclear_trash_empty_folder_num">Пустые папки: %1$s</string>
     <string name="cleanmgr_sysclear_trash_searching_title">Проверка: %1$s</string>
     <string name="cleanmgr_sysclear_trash_clean_undetected">Нет %1$s</string>
@@ -1295,7 +1301,7 @@
     <string name="cleanmgr_sysclear_trash_title">Остальное</string>
     <string name="cleanmgr_sysclear_clear_finish">Готово</string>
     <string name="cleanmgr_sysclear_clear_one_key">Очистка</string>
-    <string name="cleanmgr_sysclear_clear_report_done">Освобождено: %1$sМБ</string>
+    <string name="cleanmgr_sysclear_clear_report_done">Освобождено: %1$sМб</string>
     <string name="cleanmgr_sysclear_cache_tips">для очистки: #%1$s#</string>
     <string name="cleanmgr_sysclear_cache_empty_title">Нет кэш файла</string>
     <string name="cleanmgr_sysclear_phone_storage">Использовано</string>
@@ -1319,7 +1325,7 @@
     <string name="cleanmgr_sysclear_opti_item_list">Оптимизированные элементы</string>
     <string name="cleanmgr_sysclear_opti_one_btn">Оптимизация</string>
     <string name="cleanmgr_sysclear_scan_finish">Готово</string>
-    <string name="cleanmgr_sysclear_scanning">Сканирование…</string>
+    <string name="cleanmgr_sysclear_scanning">Сканирование...</string>
     <string name="cleanmgr_sysclear_scan_comment">Улучшить сейчас</string>
     <string name="cleanmgr_sysclear_optiing">Оптимизация...</string>
     <string name="cleanmgr_sysclear_opti_finish">Готово</string>
@@ -1344,7 +1350,7 @@
     <string name="cleanmgr_SUS_MSG_LATESTVERSION">Обновление отсутствует!</string>
     <string name="cleanmgr_SUS_MSG_NOTFOUND">Обновление отсутствует!</string>
     <string name="cleanmgr_SUS_MSG_FAIL_NETWORKUNAVAILABLE">В настоящий момент сеть не доступна</string>
-    <string name="cleanmgr_SUS_MSG_DOWNLOADCOMPLETE">Загрузка завершена, установка…</string>
+    <string name="cleanmgr_SUS_MSG_DOWNLOADCOMPLETE">Загрузка завершена, установка...</string>
     <string name="cleanmgr_SUS_MSG_UPDATE_EXCEPTION">Ошибка обновления. Повторите позже!</string>
     <string name="cleanmgr_SUS_SETTINGS_NEVERPROMPT">Не напоминать снова</string>
     <string name="cleanmgr_SUS_MSG_INSUFFICIENTSTORAGESPACE">Недостаточно места!</string>
@@ -1368,10 +1374,10 @@
     <string name="cleanmgr_SUS_INSTALL_SUCCEED">Готово</string>
     <string name="cleanmgr_dialog_update_title">Запрос обновления SECUREit</string>
     <string name="cleanmgr_dialog_update_msg">Самая последняя версия SECUREit загружена через беспроводную Wi-Fi, щелкните для установки</string>
-    <string name="cleanmgr_app_name">ApkManager</string>
+    <string name="cleanmgr_app_name">Менеджер приложений</string>
     <string name="cleanmgr_hello_world">Hello world!</string>
-    <string name="cleanmgr_menu_settings">Settings</string>
-    <string name="cleanmgr_title_activity_main">MainActivity</string>
+    <string name="cleanmgr_menu_settings">Настройки</string>
+    <string name="cleanmgr_title_activity_main">Основаня часть</string>
     <string name="cleanmgr_appmgr_clear">Удалить(%d)</string>
     <string name="cleanmgr_appmgr_apk_files_install">Установить</string>
     <string name="cleanmgr_appmgr_dialog_canceling_title">Уведомление</string>
@@ -1470,7 +1476,7 @@
     <string name="new_cleanmgr_already_cacel">Отменено</string>
     <string name="dialog_cachegarbage_description">它是%1$s的%2$s，</string>
     <string name="dialog_cachegarbage_description_end">Удаление не влияет на использование</string>
-    <string name="dialog_cachegarbage_size">Размер%1$s</string>
+    <string name="dialog_cachegarbage_size">Размер: %1$s</string>
     <string name="dialog_cachegarbage_filecount_pre">"Содержит: "</string>
     <string name="dialog_cachegarbage_filecount">%1$s файлов</string>
     <string name="dialog_cachegarbage_cancel">Отмена</string>
@@ -1583,13 +1589,13 @@
     <string name="can_move_phone_size">На SD-карту можно переместить %1$s приложение(й)</string>
     <string name="can_move_sd_size">В телефон можно переместить %1$s приложение(й)</string>
     <string name="check_sdcard">"Проверьте, присутствует ли в телефоне SD-карта
-или отключите режим накопителя, если телефон подключен к ПК."</string>
+или отключите режим накопителя, если телефон подключен к ПК"</string>
     <string name="deling">Удаление:</string>
     <string name="del_over">Приложения навсегда удалены</string>
     <string name="disable_msg">"Удаление приложений, которые не рекомендуется удалять, может привести к сбою в системе или невозможности загрузки телефона.
-Вы уверенны, что хотите удалить %1$s приложений, которые рекомендуется не удалять??"</string>
+Вы уверенны, что хотите удалить %1$s приложений, которые рекомендуется не удалять?"</string>
     <string name="disable_over">Было удалено %1$s приложение(й)</string>
-    <string name="disabling">Удаление:</string>
+    <string name="disabling">"Удаление: "</string>
     <string name="empty_app_select">Сначала выберите приложения, которые вы хотите переместить</string>
     <string name="empty_sys_app_select">Выберите приложения, которые вы хотите удалить</string>
     <string name="enable_over">Восстановление приложения завершено</string>
@@ -1616,7 +1622,7 @@
     <string name="sys_app_uninstall">Заморозка</string>
     <string name="uninstall_all">"Удалить "</string>
     <string name="uninstall_msg">Вы хотите удалить %1$s приложений?</string>
-    <string name="used">Занято %1$s</string>
+    <string name="used">Занято: %1$s</string>
     <string name="app_move_summary">Рациональное распределение места для хранения</string>
     <string name="app_share">Поделиться приложениями</string>
     <string name="app_share_summary">AnyShare без данных</string>
@@ -1629,9 +1635,9 @@
     <string name="sys_app_uninstall_summary">Удалите предустановленные приложения, которые не используются</string>
     <string name="sys_storage">"Память
 телефона"</string>
-    <string name="suggest_hold">"Рекоменд.
+    <string name="suggest_hold">"Рекомендуется
 не удалять"</string>
-    <string name="suggest_restore">"Рекомендует.
+    <string name="suggest_restore">"Рекомендуется
 восстановить"</string>
     <string name="del_btn">Удалить безвозвратно</string>
     <string name="reagin_app">Восстановить</string>
@@ -1639,8 +1645,8 @@
     <string name="no_enable_app">Нет приложений которые могут быть разморожены</string>
     <string name="disable_app_title">Не удаленые</string>
     <string name="enable_app_title">Удаленые</string>
-    <string name="freezing">Удаление:</string>
-    <string name="unfreezing">Взврат:</string>
+    <string name="freezing">"Удаление: "</string>
+    <string name="unfreezing">"Взврат: "</string>
     <string name="disable_btn">Удалить</string>
     <string name="enable_btn">Вернуть</string>
     <string name="empty_freeze_select">Выберите приложение которое нужно удалить</string>
@@ -1649,7 +1655,7 @@
     <string name="unfreezed">%1$s приложений возвращены</string>
     <string name="freeze_prompt">Удаление приложений, которые не используются, может сохранить энергию и освободить память</string>
     <string name="amg_apkfile">АРК Менеджер</string>
-    <string name="remanet_msg">"Откройте для себя%1sУдалите остатки
+    <string name="remanet_msg">"Откройте для себя %1s, удалите остатки
 "</string>
     <string name="remanet_msg2">Очистить?</string>
     <string name="sys_app_optimize">Размер системы</string>
@@ -1816,7 +1822,7 @@
     <string name="dialog_cancel">Отмена</string>
     <string name="btn_default">По-умолчанию</string>
     <string name="appmgr_apk_files_delete">Удалить</string>
-    <string name="appmgr_clear">Удалить （%d）</string>
+    <string name="appmgr_clear">Удалить (%d)</string>
     <string name="appmgr_install">Установить(%d)</string>
     <string name="appmgr_apk_files_install">Установить</string>
     <string name="appmgr_dialog_canceling_title">Подсказка</string>
@@ -1868,14 +1874,14 @@
     <string name="antiviruslogdescpart5">Обнаружено %1$s вирус(ов)</string>
     <string name="antivirusrealtime_title">Контроль вирусов в реальном времени</string>
     <string name="antivirusscan_log">Журнал</string>
-    <string name="antivirusvirus_dangerousdesc">Вирусы часто используют имя ПО, которое чаще всего используется для привлечения пользователей установить загруженные данные. Без ведома пользователя некоторые вирусы снимают со счета деньги, обрекая пользователя на экономические потери</string>
-    <string name="antivirusvirusname">Название вируса:%1$s</string>
+    <string name="antivirusvirus_dangerousdesc">Вирусы часто используют имя ПО, которые чаще всего используется для привлечения пользователей установить загруженные данные. Без ведома пользователя некоторые вирусы снимают со счета деньги, обрекая пользователя на экономические потери</string>
+    <string name="antivirusvirusname">Название вируса: %1$s</string>
     <string name="antivirusvirusnomatch">Программа имеет тот же сертификат подписи, что и вирусная программа. Будьте внимательны</string>
     <string name="antivirusvirus_readvice">Рекомендации: %1$s</string>
     <string name="antivirusvirus_readviceone">Рекомендуется удалить</string>
     <string name="antivirusvirus_readvicetwo">Рекомендуется отключение или удаление</string>
     <string name="antivirusvirus_scaning">Проверено: %1$s</string>
-    <string name="antivirusvirus_scaning_find_malicious_app">Обнаружено вредоносное приложение:%1$s</string>
+    <string name="antivirusvirus_scaning_find_malicious_app">Обнаружено вредоносное приложение: %1$s</string>
     <string name="malicious_app">Вредоносное приложение:%1$s</string>
     <string name="antivirusvirus_size">Размер: %1$s</string>
     <string name="antivirusvirus_state">Уровень риска: %1$s</string>
@@ -1883,8 +1889,8 @@
     <string name="antivirusvirus_statedesctwo">Будьте осторожны</string>
     <string name="antivirusvirus_version">Версия: %1$s</string>
     <string name="button_kill_virus_home_page">Антивирус</string>
-    <string name="closeantivirus_info">После отключения SECUREit не сможет отслеживать вирусы и программы-трояны в режиме реального времени. Закрыть</string>
-    <string name="closecloudscan_info">Эффективность Сканирование в облаке и удаление выше, при этом используется приблизительно 2 Кб данных. Действительно закрыть сканирование в облаке и удаление</string>
+    <string name="closeantivirus_info">После отключения SECUREit не сможет отслеживать вирусы и программы-трояны в режиме реального времени. Закрыть?</string>
+    <string name="closecloudscan_info">Эффективность Сканирование в облаке и удаление выше, при этом используется приблизительно 2 Кб данных. Действительно закрыть сканирование в облаке и удаление?</string>
     <string name="detail5_no_virus_home_page">Телефон в хорошем состоянии!</string>
     <string name="detail_first_virus_home_page">Мне хотелось бы проходить регулярную проверку</string>
     <string name="detail_num_virus_start">Обнаружено %1$d</string>
@@ -1908,12 +1914,12 @@
     <string name="local_has_virus_scan1">Проверка с локальными базами</string>
     <string name="local_virus_scan">Проверка с локальными базами завершена, облачная проверка не выполнена</string>
     <string name="local_no_net_virus_scan">Ошибка облачной проверки, отсутствует подключение к Интернету</string>
-    <string name="netdesc">Ошибка подключения к сети, попробуйте позже…</string>
+    <string name="netdesc">Ошибка подключения к сети, попробуйте позже</string>
     <string name="netscan_switch">Облачная проверка</string>
     <string name="netscan_switchdesc">Если доступна сеть, будет выполнена облачная проверка</string>
     <string name="net_virus_scaning">Облачная проверка</string>
     <string name="notice_no_net_text">Ошибка облачной проверки, отсутствует подключение к Интернету?</string>
-    <string name="scanfinish1">Просканировано %1$d объектов</string>
+    <string name="scanfinish1">Проверено %1$d объектов</string>
     <string name="scanfinish2">Время проверки: %1$d сек.</string>
     <string name="scanfinish3">При облачной проверке потреблено %1$s трафика</string>
     <string name="scanfinish4">Вирусы не обнаружены</string>
@@ -1933,13 +1939,13 @@
 Защищает от вредоносного поведения."</string>
     <string name="antivirusinfo4">"Основные разработчики:
 Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu Fenglong and Liu Chang"</string>
-    <string name="antivirusinfo5">"Самый лучший способ найти окрашенные яйца и восстановить украденный телефон. :-)
+    <string name="antivirusinfo5">"Самый лучший способ найти посхальные яйца и восстановить украденный телефон.
  Девушка это сделала. Она отправила текстовое сообщение на свой украденный телефон: Я вернулась домой после того, как взяла $10 000, которые я тебе должна, с XX. Можешь прийти и забрать их сегодня вечером. В результате вора поймали с поличным."</string>
     <string name="antivirusnologdate">Журнал очищен</string>
     <string name="antiviruspermissions_label">Разрешения</string>
     <string name="antivirusresulttitle">Отчет Антивируса</string>
-    <string name="antivirussecurity_settings_desc">Это приложение имеет доступ к:</string>
-    <string name="antivirusvirus_advice">Предлогается удалить</string>
+    <string name="antivirussecurity_settings_desc">"Это приложение имеет доступ к: "</string>
+    <string name="antivirusvirus_advice">Предлагается удалить</string>
     <string name="antivirusvirus_dangerous">Опасно</string>
     <string name="antivirusvirus_uninstall">Удалить</string>
     <string name="ignore">Игнорировать</string>
@@ -1958,7 +1964,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="antivirusvirus_notifycontent">%1$s является вредоносной программой. Рекомендуеться удалить</string>
     <string name="install_safe">Безопасная установка, гарантия полной уверенности</string>
     <string name="test_report">Тестовый отчет</string>
-    <string name="virus_scaning">Проверка %1$s…</string>
+    <string name="virus_scaning">Проверка %1$s...</string>
     <string name="virus_scan_ok">已扫描“%s”，请放心使用。</string>
     <string name="lesafe_notify">Советы по безопасности</string>
     <string name="show_cloudscanok">убийство</string>
@@ -1966,9 +1972,9 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="antiviruslogdescsms">Блокировать SMS мошенничества</string>
     <string name="notuninstall">Не удалено</string>
     <string name="uninstalled">Удалено</string>
-    <string name="antivirus_smsappname">Вредоносные приложения:</string>
-    <string name="antivirus_smstel">Фальшивые номера:</string>
-    <string name="antivirus_smscontent">Содержание сообщения:</string>
+    <string name="antivirus_smsappname">"Вредоносные приложения: "</string>
+    <string name="antivirus_smstel">"Фальшивые номера: "</string>
+    <string name="antivirus_smscontent">"Содержание сообщения: "</string>
     <string name="find_smsfraud">发现诈骗短信</string>
     <string name="smsfraud_content">以下短信，是由%1$s应用恶意伪造，不是真实发件人发送，建议卸载!</string>
     <string name="not_delete_now">下次再说</string>
@@ -1986,7 +1992,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="antivirus_system_bug">Исправление ошибок</string>
     <string name="antivirus_system_bug_fix">Очистка(%1$s)</string>
     <string name="fix_completed">Завершено</string>
-    <string name="viruslog">查杀记录</string>
+    <string name="viruslog">Лог антивируса</string>
     <string name="intercept_logs_cleaned">Записи были очищены</string>
     <string name="notfind_systembugs">未发现漏洞</string>
     <string name="select_fix_bug">请选择要修复的漏洞</string>
@@ -2019,10 +2025,10 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="antitheft_lock_screen_ok">Телефон заблокирован</string>
     <string name="antitheft_receive">Получить</string>
     <string name="antitheft_stranger">Странный номер</string>
-    <string name="antitheft_smsbody">Содержание:</string>
+    <string name="antitheft_smsbody">"Содержание: "</string>
     <string name="antitheft_send">Отправить</string>
-    <string name="antitheft_name">Имя:</string>
-    <string name="antitheft_date">Дата:</string>
+    <string name="antitheft_name">"Имя: "</string>
+    <string name="antitheft_date">"Дата: "</string>
     <string name="antitheft_cannot_location">很抱歉，由于网络原因暂时无法解析地理位置，请稍后重试！</string>
     <string name="anti_theft">Анти-вор</string>
     <string name="antitheft_Complete">Завершить</string>
@@ -2082,11 +2088,12 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="antitheft_edit_msg_title">Редактировать содержание SMS</string>
     <string name="antitheft_help_tv1">Как получить свой потерянный телефон?</string>
     <string name="antitheft_help_tv2">Подтвердите что позволяете Анти-вор управлять телефоном</string>
-    <string name="antitheft_help_tv3">Номер потерянного телефона:</string>
-    <string name="antitheft_help_tv4">SECUREit пароль потерянного телефона:</string>
-    <string name="antitheft_help_tv5">Анти-вор команды:</string>
+    <string name="antitheft_help_tv3">"Номер потерянного телефона: "</string>
+    <string name="antitheft_help_tv4">"SECUREit пароль потерянного телефона: "</string>
+    <string name="antitheft_help_tv5">"Команды Анти-вора: "</string>
     <string name="antitheft_send_on">Отправить</string>
-    <string name="antitheft_recommend">Выберите способ для отправки предложения установить SECUREit</string>
+    <string name="antitheft_recommend">"   Выберите способ для отправки предложения
+   установить SECUREit"</string>
     <string name="antitheft_help_1_tv">"1 Убедитесь, что на телефоне включен Анти-вор. Помните ваш SECUREit пароль
 2 Если ваш телефон потерян, но SIM-карта не изменился, отправьте ваши команды Анти-вора вашему пропавшему телефону, чтобы можно было избежать утечки конфиденциальности.
 3 Если ваш телефон отсутствует, и ваш SIM-карта была изменена, SECUREit пошлет SMS, в котором содержится новый номер SIM-карты, на ваш экстренной связи. Вы можете посылать команды противоугонные на новый номер SIM-карты, чтобы избежать конфиденциальность утечки "</string>
@@ -2099,9 +2106,9 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="antitheft_dialog_set_mail">Если ваш телефон потерян, вы можете посылать команды резервного копирования данных на ваш телефон, так что данные в телефоне могут быть зарезервированы на ваш почтовый ящик</string>
     <string name="antitheft_pwd_set">Установка пароля</string>
     <string name="antitheft_password_set_text">Установка пароля</string>
-    <string name="antitheft_password_answer_set_text">Ответ:</string>
+    <string name="antitheft_password_answer_set_text">"Ответ: "</string>
     <string name="antitheft_password_question_set_text">Контрольный вопрос</string>
-    <string name="antitheft_password_question_text">Вопрос:</string>
+    <string name="antitheft_password_question_text">"Вопрос: "</string>
     <string name="antitheft_first_use_password_setting_note_input_1">Введите 6-значный пароль</string>
     <string name="antitheft_first_use_password_setting_note_input_2">Введите пароль еще раз</string>
     <string name="antitheft_antispamhand_number_hit">Обязательно</string>
@@ -2128,7 +2135,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="antitheft_locking">Блокировка экрана активирована SECUREit</string>
     <string name="antitheft_call_user_tv">Связаться с владельцем</string>
     <string name="antitheft_pwd_error_tips">Неправельный пароль, введите пароль повторно</string>
-    <string name="antitheft_info1">恭喜找到彩蛋:-)</string>
+    <string name="antitheft_info1">Поздравляем, вы нашли пасхальные яйца</string>
     <string name="antitheft_info2">Вы всегда под защитой</string>
     <string name="antitheft_info3">"轻量节能，内核防御
 恶意行为，一网打尽"</string>
@@ -2136,10 +2143,10 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
 鲍春冬、董春燕、冯春丽、李艳萍、李芬、刘雪、陈军、陈实、段利军、郭昌盛、顾正华、林洋、刘永峰、魏民、谢潮鸿、于海航、朱雷、张毅然"</string>
     <string name="antitheft_info5">"找到彩蛋，找回被盗手机最佳方法:-)
  一个女孩这样做，给自己手机发短信：我回老家了，欠你的1万元钱放在XX处，下午都可以过来，结果那小贼被生擒了。"</string>
-    <string name="antitheft_password">密码</string>
-    <string name="antitheft_command">密码#SD</string>
-    <string name="antitheft_reenter">重新输入</string>
-    <string name="antitheft_unlock">解锁</string>
+    <string name="antitheft_password">Пароль</string>
+    <string name="antitheft_command">Пароль#SD</string>
+    <string name="antitheft_reenter">Введите ещё раз</string>
+    <string name="antitheft_unlock">Разблокировать</string>
     <string name="anti_tap_protect">Защита от подслушивания работает</string>
     <string name="sign_net">%1$d помечен как %2$s</string>
     <string name="sign_sogou">&lt;font color=#ff8800>%2$s&lt;/font></string>
@@ -2158,8 +2165,8 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
 [Lenovo]"</string>
     <string name="harass_call">Звонки</string>
     <string name="intercept">Недавно заблокированые</string>
-    <string name="comma">，</string>
-    <string name="number_onring">Звуковой сигнал:%1$s</string>
+    <string name="comma">", "</string>
+    <string name="number_onring">Звуковой сигнал: %1$s</string>
     <string name="harass_message">Нежелательные сообщения</string>
     <string name="antitheft_sms">Напоминание о безопасности</string>
     <string name="antispamall_select">Выбрать все</string>
@@ -2168,10 +2175,10 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="antispamaddfromphone">Добавление в Белый список</string>
     <string name="antispamaddwhiteperson">Добавление в Белый список</string>
     <string name="antispamapp_name">Анти-спам</string>
-    <string name="antispamdata_limit1">Достигнуто максимальное число (500) записей， Удалите некоторые записи перед добавлением новых.</string>
+    <string name="antispamdata_limit1">Достигнуто максимальное число (500) записей, Удалите некоторые записи перед добавлением новых</string>
     <string name="antispamhand_name">Примечание</string>
-    <string name="antispamhand_number_error1">Этот номер уже присутствует в Черном списке.</string>
-    <string name="antispamhand_number_error3">Этот номер уже присутствует в Белом списке.</string>
+    <string name="antispamhand_number_error1">Этот номер уже присутствует в Черном списке</string>
+    <string name="antispamhand_number_error3">Этот номер уже присутствует в Белом списке</string>
     <string name="antispamhand_number_null">Введите номер</string>
     <string name="antispaminter_netblacktype_endcall1">Интеллектуальная блокировка: Черный список и распознавание SMS-спама</string>
     <string name="antispaminter_netblacktype_endcall2">Перехватываеться только Черный список</string>
@@ -2185,7 +2192,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="antispam_black_list">Черный список</string>
     <string name="antispam_white_list">Белый список</string>
     <string name="antispam_backup_restore">Копирование и восстановление</string>
-    <string name="antispamnetdesc">Ошибка подключения к сети, попробуйте позже.</string>
+    <string name="antispamnetdesc">Ошибка подключения к сети, попробуйте позже</string>
     <string name="antispamno">Нет</string>
     <string name="antispamno_content">Без темы</string>
     <string name="minute">мин.</string>
@@ -2196,8 +2203,8 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="antispam_smsbot">Пометить номер</string>
     <string name="antispamsmsharss">Настройки блокировки</string>
     <string name="antispammarks">Метка</string>
-    <string name="antispamupload_desc">Выпоняеться загрузка, подождите…</string>
-    <string name="antispamupload_state">Выполнение, подождите…</string>
+    <string name="antispamupload_desc">Выпоняеться загрузка, подождите...</string>
+    <string name="antispamupload_state">Выполнение, подождите...</string>
     <string name="antispamyes">Да</string>
     <string name="antivirusserver_disconnect">Сеть не доступна. Проверте настройки сети</string>
     <string name="add_telnumber">Добавить локальный код региона</string>
@@ -2218,7 +2225,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="causeprex1">Режим перехвата: %1$s</string>
     <string name="change">Изменить</string>
     <string name="confirm_title">Номер %1$s</string>
-    <string name="confirm_mes">Я думаю этот номер от:</string>
+    <string name="confirm_mes">"Я думаю этот номер от: "</string>
     <string name="del_blackinfo">Удалить этот номер из Черного списка?</string>
     <string name="del_harsscall">Очистить весь список нежелательных звонков?</string>
     <string name="del_harsssms">Удалить все нежелательные сообщения?</string>
@@ -2245,15 +2252,15 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="harsssign_lin">Звонки с неопределенных номеров</string>
     <string name="hasnosign_title">Непомеченные звонки</string>
     <string name="havedup">Ваше сообщение отправлено.</string>
-    <string name="h_del2">Номер (%1$s) в Черном списке. Если вы хотите получать с него сообщения, удалите его из Черного списка.</string>
-    <string name="h_del3">Номер был удален из Черного списка.</string>
-    <string name="h_del4">Номер больше не будет блокироваться.</string>
+    <string name="h_del2">Номер (%1$s) в Черном списке. Если вы хотите получать с него сообщения, удалите его из Черного списка</string>
+    <string name="h_del3">Номер был удален из Черного списка</string>
+    <string name="h_del4">Номер больше не будет блокироваться</string>
     <string name="h_del5">Удалить сейчас</string>
     <string name="h_del6">Позже</string>
     <string name="harass_switch_title">Служба Анти-спама</string>
     <string name="harss_firstdesc">Этот значок будет указывать на то, что приложение SECUREit заблокировало нежелательный Вызовы и SMS. Перетащите вниз строку уведомлений для просмотра сведений</string>
     <string name="harss_set">Политика блокировки</string>
-    <string name="h_del1">Не SMS-спам? Коснитесь, чтобы восстановить его в папку входящие, и этот номер не будет больше блокироваться.</string>
+    <string name="h_del1">Не SMS-спам? Коснитесь, чтобы восстановить его в папку входящие, и этот номер не будет больше блокироваться</string>
     <string name="localblack_becall">Звонки</string>
     <string name="antispamlocalblack_incommingcall">[Звонки]</string>
     <string name="localblack_successNotice_new">举报成功，感谢您的贡献</string>
@@ -2288,7 +2295,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="report_sign">Помечено как: %1$s</string>
     <string name="report_success">Отправлено. Спсибо вам за ваш вклад.</string>
     <string name="report_tonet">Этот номер и сообщения с него будут оправлены в базу SECUREit и добавлены в сетевой Черный список, для помощи другим пользователям в улучшении блокировки SMS-спама. Продолжить?</string>
-    <string name="report_tonet1">Этот номер будет оправлен в базу LeSafe и добавлены в сетевой Черный список, для помощи другим пользователям в улучшении блокировки нежелательных звонков.Продолжить?</string>
+    <string name="report_tonet1">Этот номер будет оправлен в базу LeSafe и добавлены в сетевой Черный список, для помощи другим пользователям в улучшении блокировки нежелательных звонков. Продолжить?</string>
     <string name="seconds">сек.</string>
     <string name="sign">Предупреждения LeSafe</string>
     <string name="sign_actinfo">Звонок от неизвестного номера %1$s длился очень короткое время. Это вас беспокоит?</string>
@@ -2359,16 +2366,16 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="title_autorun_manage">Автозагрузка</string>
     <string name="autorun_already_forbid">Отключено:</string>
     <string name="autorun_sign_boot">[при включении телефона]</string>
-    <string name="autorun_sign_background">后台自启</string>
+    <string name="autorun_sign_background">[работает в фоне]</string>
     <string name="autorun_application_disabled">应用处于冻结状态，无法更改自启状态。请先解冻应用。</string>
-    <string name="autorun_system_app">系统应用</string>
-    <string name="autorun_three_party_app">用户应用</string>
+    <string name="autorun_system_app">Системные приложения</string>
+    <string name="autorun_three_party_app">Сторонние приложение</string>
     <string name="autorun_not_control_app">不禁止应用</string>
-    <string name="autorun_all_user_deny">禁止全部用户应用</string>
-    <string name="autorun_all_deny_title">风险提示</string>
-    <string name="autorun_all_user_content">禁止全部用户应用自启可能影响手机正常使用，要继续操作吗？</string>
-    <string name="autorun_one_system_content">禁止该系统应用自启可能影响手机正常使用，要继续操作吗？</string>
-    <string name="autorun_all_user_has_deny">用户应用已全部禁止</string>
+    <string name="autorun_all_user_deny">Отключить все сторонние</string>
+    <string name="autorun_all_deny_title">Предупреждение</string>
+    <string name="autorun_all_user_content">Блокировка автозапуска всех сторонних приложений, всех пользователей. Это может повлечь за собой непредвиденные последствия. Продолжить?</string>
+    <string name="autorun_one_system_content">Блокировка автозапуска всех системных приложений. Это может повлечь за собой непредвиденные последствия. Продолжить?</string>
+    <string name="autorun_all_user_has_deny">Отключены все сторонние приложения всех пользователей</string>
     <string name="one_user_has_deny">已禁止该用户应用自启</string>
     <string name="one_system_has_deny">已禁止该系统应用自启</string>
     <string name="dialog_continue">Продолжить</string>
@@ -2378,15 +2385,15 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="phone_acc_running_app" formatted="false">Запущено приложений: %1$s</string>
     <string name="phone_acc_running_app2">Выполняется %d запуск</string>
     <string name="one_key_speed_btn">Ускорить</string>
-    <string name="phone_acc_disable">应用冻结</string>
+    <string name="phone_acc_disable">Отключено</string>
     <string name="phone_acc_app_uninstall">Удаление приложения</string>
-    <string name="to_other_page">手机速度还能更快，马上进入</string>
+    <string name="to_other_page">Нажмите сюда, чтобы проверить приложения в автозагрузке</string>
     <string name="no_app_to_clear">暂无可清理应用</string>
-    <string name="boot_time">Время запуска%s</string>
+    <string name="boot_time">Время запуска: %s</string>
     <string name="boot_minute">мин.</string>
     <string name="boot_second">сек.</string>
-    <string name="opti_used_time">使用时间：</string>
-    <string name="phone_acc_release_memory">已释放内存%1$s</string>
+    <string name="opti_used_time">"Время использования: "</string>
+    <string name="phone_acc_release_memory">Освободилось %1$s</string>
     <string name="phone_acc_to_whitelist_tip">有不想结束的应用吗？马上设置保护名单</string>
     <string name="phone_has_best">Телефон находится в хорошем состоянии</string>
     <string name="phone_no_app_to_clear">Нет приложений для очистки</string>
@@ -2403,7 +2410,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="one_key_widget_clear_app_count">Выгружено:%1$s</string>
     <string name="one_key_widget_clear_app_size">Освобождено: %1$s Мб</string>
     <string name="shortcut_enter_protected_list">Игнорируемые</string>
-    <string name="shortcut_enter_space_clean">空间清理</string>
+    <string name="shortcut_enter_space_clean">Ярлык приложения очистки</string>
     <string name="one_key_widget_clean">Очистка</string>
     <string name="autorun_dialog_title">Оповещение SECUREit</string>
     <string name="autorun_dialog_message">%d приложений в автозапуске, отключите их, для ускорения телефона</string>
@@ -2416,15 +2423,16 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="action_settings">Параметры</string>
     <string name="pause">Пауза</string>
     <string name="complete">ОК</string>
-    <string name="doing">正在%1$s</string>
-    <string name="r_sobad">手机状态糟透了！</string>
+    <string name="doing">Проверка: %1$s</string>
+    <string name="r_sobad">Телефон в плохом состоянии</string>
     <string name="r_result">超越了%1$d%%的用户</string>
     <string name="opened">Включено</string>
     <string name="seted">Установлено</string>
     <string name="no_set">Не установлено</string>
     <string name="updated">Обновлено</string>
     <string name="can_update">Может быть обновлено</string>
-    <string name="rt_monitor">Мониторинг в реальном времени</string>
+    <string name="rt_monitor">"слежение
+в реальном времени"</string>
     <string name="can_do">Может быть выполнено</string>
     <string name="done">Выполнено</string>
     <string name="safe_item">Безопасные</string>
@@ -2435,36 +2443,36 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="update">Обновление</string>
     <string name="clean">Очистить</string>
     <string name="safe">Безопасность</string>
-    <string name="adv">Реклама</string>
+    <string name="adv">"Реклама: "</string>
     <string name="virus_lib">Вирусная библиотека</string>
     <string name="against_theft">Анти-вор</string>
-    <string name="traffic">Трафик</string>
+    <string name="traffic">"Трафик: "</string>
     <string name="traffic_limit">Доступный трафик</string>
-    <string name="virus_protecting">Антивирус работает</string>
-    <string name="safepaymen_protect">Магазин безопасности</string>
-    <string name="safeinputmethod_protect">Защищенно паролем</string>
-    <string name="antitapping">Защита от нажатий</string>
-    <string name="harass_intercept">骚扰拦截服务</string>
-    <string name="protect_private">Конфиденциальность</string>
+    <string name="virus_protecting">"Антивирус: "</string>
+    <string name="safepaymen_protect">"Безопасные покупки: "</string>
+    <string name="safeinputmethod_protect">"Защита паролем: "</string>
+    <string name="antitapping">"Защита от нажатий: "</string>
+    <string name="harass_intercept">"Перехват спама: "</string>
+    <string name="protect_private">"Конфиденциальность: "</string>
     <string name="charge_safe">Контроль расходов</string>
-    <string name="storage">Место установки</string>
-    <string name="app_install">Установка приложения</string>
-    <string name="unkonw_number_sign">Странный номер маркировки</string>
+    <string name="storage">"Место установки: "</string>
+    <string name="app_install">"Установка приложения: "</string>
+    <string name="unkonw_number_sign">"Неизвестные номера: "</string>
     <string name="no_virus">Вирусы не найдены</string>
-    <string name="exist_virus">发现病毒%1$d个</string>
-    <string name="kill_virus">清理病毒%1$d个</string>
-    <string name="boot_app_num">自启应用%1$d个</string>
-    <string name="boot_app_configed">已配置自启应用</string>
+    <string name="exist_virus">Обнаружен вирус в %1$d</string>
+    <string name="kill_virus">Удалён вирус из %1$d</string>
+    <string name="boot_app_num">В автозагрузке %1$d приложений</string>
+    <string name="boot_app_configed">Настройка запуска приложений</string>
     <string name="boot_app_safe">无可配置的自启应用</string>
-    <string name="killed_running_app">结束应用%1$d个，释放内存%2$s</string>
+    <string name="killed_running_app">Закрыто %1$d приложений, освобождено %2$s</string>
     <string name="no_running_app">无可清理的后台应用</string>
-    <string name="clear_cache_size">Очищено %1$s кэш-данных системы</string>
+    <string name="clear_cache_size">Очищено %1$s из кэша</string>
     <string name="deep_clean">Полная очистка</string>
     <string name="detil_bootapp">检查可配置的自启应用</string>
     <string name="detil_cache">Очистка системного кэша</string>
     <string name="detil_runningapp">Очистка запущенных приложений</string>
     <string name="detil_scanvirus">Проверить на вирусы</string>
-    <string name="scaning_text">Сканирование…</string>
+    <string name="scaning_text">Сканирование...</string>
     <string name="canoptimize_text">Улучшить</string>
     <string name="optimizeing_text">Оптимизация</string>
     <string name="optimize_done_text">Оптимизация завершена</string>
@@ -2504,7 +2512,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="click_done">Нажмите кнопку Назад</string>
     <string name="click_pause">Нажмите кнопку Пауза</string>
     <string name="detail_auto_update_off_note">Отключено. Обновление вручную</string>
-    <string name="detail_update_version_rate">Текущая версия：</string>
+    <string name="detail_update_version_rate">"Текущая версия: "</string>
     <string name="dialog_update_msg">Самая последняя версия SECUREit загружена через беспроводную Wi-Fi, щелкните для установки</string>
     <string name="dialog_update_title">Запрос обновления SECUREit</string>
     <string name="do_health_check">Регулярная проверка</string>
@@ -2620,14 +2628,16 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="safe_homepage_title">Веб-сайт безопасности Lenovo</string>
     <string name="safe_homepage_msg">Высокая скорость, сохранение данных, безопасность при работе в Интернете</string>
     <string name="block_icon">Блокировка всплывающих окон</string>
-    <string name="block_icon_info">Показывать сообщение о блокировке опасного содержимого</string>
+    <string name="block_icon_info">"Показывать сообщение о блокировке опасного
+содержимого"</string>
     <string name="tap_switch">Плавающее окно для Анти-шпиона.</string>
     <string name="tap_switch_des">Защита безопасности звонков, для предотвращения подслушивания.</string>
     <string name="setting_password_text">Установить пароль</string>
     <string name="setting_shortcut_add_title">Ярлык очистки</string>
     <string name="setting_shortcut_add_des">Добавить ярлык очистки памяти на рабочий стол</string>
-    <string name="desktop_clear_float_desc">Умное напоминание ускорения рабочего стола</string>
-    <string name="period_tip_clear">Совет, регулярно очищайте ваш телефон, для повышения скорости работы</string>
+    <string name="desktop_clear_float_desc">Умное напоминание очистки</string>
+    <string name="period_tip_clear">"Регулярно выполняйте очистку вашего телефона,
+для повышения скорости работы"</string>
     <string name="floatwindow_title">Плавающее окно очистки памяти</string>
     <string name="floatwindow_des_state_on">Вкл.</string>
     <string name="floatwindow_des_state_off">Выкл.</string>
@@ -2840,31 +2850,32 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="permission_server_title">«Лицензионное соглашение»</string>
     <string name="permission_server">«Лицензионное соглашение»</string>
     <string name="safe_appstore_title_new">安全市场</string>
-    <string name="battery_center_new">联想省电</string>
-    <string name="dayly_tools_new">特色工具</string>
+    <string name="battery_center_new">Питание Lenovo</string>
+    <string name="dayly_tools_new">Рекомендуемые инструменты</string>
     <string name="ipset_new">IP拨号</string>
-    <string name="number_space_new">常用号码</string>
-    <string name="opti_main_sys_exam_new">系统检测</string>
+    <string name="number_space_new">Часто используемые номера</string>
+    <string name="opti_main_sys_exam_new">Проверка системы</string>
     <string name="phoneinfo_number_search_new">号码归属</string>
     <string name="privacy_safe_new">私密空间</string>
     <string name="safe_synchr_new">安全备份</string>
     <string name="safe_page_new">安全导航</string>
     <string name="text_safepayment_new">网购安全</string>
-    <string name="leshare_title_new">茄子快传</string>
-    <string name="safe_tools">安全工具</string>
-    <string name="safe_menu">菜单</string>
-    <string name="necessary_tools">实用工具</string>
-    <string name="feature_tools">特色工具</string>
+    <string name="leshare_title_new">Безопасные покупки</string>
+    <string name="safe_tools">Средства безопасности</string>
+    <string name="safe_menu">Меню безопасности</string>
+    <string name="necessary_tools">Утилиты</string>
+    <string name="feature_tools">Рекомендуемое</string>
     <string name="toolbox_safecharge">吸费克星</string>
     <string name="notification">Советы по безопасности</string>
-    <string name="hasknown">知道了</string>
+    <string name="hasknown">ОК</string>
     <string name="startupdate">Обновление до новой версии</string>
     <string name="newevent">活动</string>
     <string name="safe_feedback_hint">乐安全尝鲜版！&lt;br>尚未正式发布，替我们保密奥！&lt;br>在使用过程中，如遇到问题&lt;br>请登录&lt;font color=#FF9000>联想乐工厂&lt;/font>与我们联系！&lt;br>或者直接QQ&lt;br>乐安全小伙伴： &lt;font color=#FF9000>2403446246&lt;/font></string>
     <string name="safe_first_show">乐安全尝鲜版！&lt;br> &lt;font color=#2b9ee7>尚未正式发布，替我们保密奥！&lt;/font>&lt;br>在使用过程中，如遇到问题&lt;br>请登录&lt;font color=#FF9000>联想乐工厂&lt;/font>与我们联系！&lt;br>或者直接QQ&lt;br>乐安全小伙伴： &lt;font color=#FF9000>2403446246&lt;/font></string>
     <string name="skip">Пропустить</string>
     <string name="loading_error">Загрузка не завершена, попробуйте позже</string>
-    <string name="adv_desc">Блокировка рекламы</string>
+    <string name="adv_desc">"         Блокировка
+                    рекламы"</string>
     <string name="backup_text">Резервные копии</string>
     <string name="boot_app_healthcheckup_safe">Автозагрузка приложений отключена</string>
     <string name="boot_app_healthcheckup_scan">Можно отключить загрузку для %1$d приложений</string>
@@ -2923,7 +2934,8 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="virus_protect">Проверка на вирусы в режиме реального времени</string>
     <string name="init_perm">Инициализация данных разрешений приложений</string>
     <string name="one_key_optimization">Улучшить</string>
-    <string name="permission_contract">Программа по улучшению квалификации пользователя SECUREit</string>
+    <string name="permission_contract">"Программа по улучшению квалификации
+пользователя SECUREit"</string>
     <string name="title_virus_lab">База данных вирусов</string>
     <string name="virus_lab_updated_text">Закончилось обновление базы данных вирусов</string>
     <string name="virus_lab_updated_newest">Последняя версия базы данных вирусов</string>
@@ -2940,7 +2952,8 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="notification_ad_skip_text">Включить блокирование рекламы</string>
     <string name="notification_ad_switch_onekey">Включить</string>
     <string name="notification_adbase_title">Блокировка рекламы</string>
-    <string name="anti_privacy">Контроль доступа приложений</string>
+    <string name="anti_privacy">"  Контроль доступа
+        приложений"</string>
     <string name="lesafe_updating">Обновление новой версии</string>
     <string name="lesafe_update_failure">Не удалось обновить</string>
     <string name="lesafe_update_lastst">Уже последняя версия</string>
@@ -2952,7 +2965,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="le_appstore_disable">安全市场无法启动，请检查是否被禁用</string>
     <string name="healthcheck_scaning">Сканирование</string>
     <string name="status_good">Идеально</string>
-    <string name="appdownload_file_notfound">抱歉，无法下载所需的文件！</string>
+    <string name="appdownload_file_notfound">Невозможно загрузить необходимые файлы</string>
     <string name="continue_opt">Продолжить</string>
     <string name="guide1_main_des">Новый интерфейс</string>
     <string name="guide1_sub_des">绿色、橙色、红色，V6 ● Value ● 为爱而生</string>
@@ -2989,8 +3002,8 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
  您已清楚本软件所使用的权限并同意
  使用该软件，如不需要使用请退出客户端。"</string>
     <string name="SUS_MSG_NOTFOUND">Обновление отсутствует!</string>
-    <string name="SUS_UPDATEVERPROMPT_VERNAME">Версия：</string>
-    <string name="SUS_UPDATEVERPROMPT_VERSIZE">Размер：</string>
+    <string name="SUS_UPDATEVERPROMPT_VERNAME">"Версия: "</string>
+    <string name="SUS_UPDATEVERPROMPT_VERSIZE">"Размер: "</string>
     <string name="SUS_VERSIONUPDATE">Обнаружена новая версия!</string>
     <string name="SUS_UPDATE">Обновить</string>
     <string name="SUS_DOWNLOAD_NOW">Начать загрузку</string>

@@ -1,17 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="network_speed_refresh_time_interval">
+        <item>3 сек.</item>
+        <item>6 сек.</item>
+        <item>9 сек.</item>
+    </string-array>
+    <string-array name="network_speed_refresh_time_interval_value">
+        <item>3</item>
+        <item>6</item>
+        <item>9</item>
+    </string-array>
     <string-array name="lenovo_signal_text_list">
         <item>"Уровень сигнала
-Очень Слабый     "</item>
+Плохой     "</item>
         <item>"Уровень сигнала
 Слабый     "</item>
         <item>"Уровень сигнала
 Средний   "</item>
         <item>"Уровень сигнала
-Сильный    "</item>
+Высокий    "</item>
     </string-array>
     <string-array name="battery_style_list">
-        <item>Стандартный</item>
-        <item>С процентами</item>
+        <item>Графический</item>
+        <item>В процентах</item>
     </string-array>
+    <string-array name="battery_style_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <array name="origin_carrier_names" />
+    <array name="locale_carrier_names" />
 </resources>
