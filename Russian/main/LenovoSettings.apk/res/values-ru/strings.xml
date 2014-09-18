@@ -1802,7 +1802,7 @@
     <string name="animator_duration_scale_title">Скорость анимации</string>
     <string name="overlay_display_devices_title">Эмуляция дополнительных экранов</string>
     <string name="debug_applications_category">Приложения</string>
-    <string name="immediately_destroy_activities">Не сохранять действия</string>
+    <string name="immediately_destroy_activities">"Не сохранять действия"</string>
     <string name="immediately_destroy_activities_summary">Удалять сводку действий после их завершения</string>
     <string name="app_process_limit_title">Лимит фоновых процессов</string>
     <string name="show_all_anrs">Все ANR</string>
@@ -1816,7 +1816,7 @@
     <string name="data_usage_menu_show_ethernet">Показывать загрузку Ethernet</string>
     <string name="data_usage_menu_metered">Точки доступа мобильной сети</string>
     <string name="data_usage_menu_auto_sync">Автосинхронизация данных</string>
-    <string name="data_usage_change_cycle">Изменить...</string>
+    <string name="data_usage_change_cycle">Изменение</string>
     <string name="data_usage_pick_cycle_day">День месяца, когда сбрасывается цикл использования данных:</string>
     <string name="data_usage_empty">В этот период не было трафика от приложений.</string>
     <string name="data_usage_label_foreground">Активный режим</string>
@@ -1838,25 +1838,25 @@
     <string name="data_usage_enable_3g">Передача данных по сетям 2G/3G</string>
     <string name="data_usage_enable_4g">Передача данных 4G</string>
     <string name="data_usage_app_settings">Настройки приложения</string>
-    <string name="data_usage_app_restrict_background">Лимит фон. данных</string>
+    <string name="data_usage_app_restrict_background">Лимит фоновых данных</string>
     <string name="data_usage_app_restrict_background_summary">Отключить фоновый режим для мобильных сетей (использовать другие сети)</string>
-    <string name="data_usage_app_restrict_background_summary_disabled">Сначала установите лимит для мобильного трафика.</string>
-    <string name="data_usage_app_restrict_dialog_title">Ограничение фонового режима?</string>
+    <string name="data_usage_app_restrict_background_summary_disabled">Сначала установите лимит для мобильного трафика</string>
+    <string name="data_usage_app_restrict_dialog_title">Ограничить фоновый режим?</string>
     <string name="data_usage_app_restrict_dialog">"Если будут доступны только мобильные сети, программы, зависящие от фонового режима, могут перестать работать.
 
-Установите другие параметры передачи данных в настройках приложения."</string>
-    <string name="data_usage_restrict_denied_dialog">Ограничение фонового режима возможно только при лимитировании мобильного трафика.</string>
-    <string name="data_usage_auto_sync_on_dialog_title">Включить авто синхронизацию?</string>
+Установите другие параметры передачи данных в настройках приложения"</string>
+    <string name="data_usage_restrict_denied_dialog">"Ограничение фонового режима возможно только при лимитировании мобильного трафика"</string>
+    <string name="data_usage_auto_sync_on_dialog_title">Включить авто-синхронизацию?</string>
     <string name="data_usage_auto_sync_on_dialog">"Все изменения, внесенные в аккаунты на компьютере, будут автоматически скопированы на устройство.
 
 В некоторых случаях также выполняется обратная синхронизация.
 
-Чтобы указать для каждого аккаунта, какие данные нужно синхронизировать, перейдите в меню \"Настройки > Аккаунты\"."</string>
+Чтобы указать для каждого аккаунта, какие данные нужно синхронизировать, перейдите в меню Настройки -> Аккаунты"</string>
     <string name="data_usage_auto_sync_off_dialog_title">Отключить автосинхронизацию?</string>
-    <string name="data_usage_auto_sync_off_dialog">Это сократит трафик и расход энергии. Однако чтобы получать новые данные, необходимо будет синхронизировать каждый аккаунт вручную. При этом уведомления об обновлениях отображаться не будут.</string>
+    <string name="data_usage_auto_sync_off_dialog">"Это сократит трафик и расход энергии. Однако чтобы получать новые данные, необходимо будет синхронизировать каждый аккаунт вручную. При этом уведомления об обновлениях отображаться не будут"</string>
     <string name="data_usage_cycle_editor_title">Удаление статистики</string>
     <string name="data_usage_cycle_editor_subtitle">День месяца:</string>
-    <string name="data_usage_cycle_editor_positive">Сохранить</string>
+    <string name="data_usage_cycle_editor_positive">Установить</string>
     <string name="data_usage_warning_editor_title">Настройка предупреждения</string>
     <string name="data_usage_limit_editor_title">Лимитирование трафика</string>
     <string name="data_usage_limit_dialog_title">Объем трафика ограничен</string>
@@ -1864,24 +1864,24 @@
 
 Во избежание дополнительных расходов старайтесь не достигать этого лимита, так как оператор и ваше устройство могут по-разному учитывать трафик."</string>
     <string name="data_usage_restrict_background_title">Ограничение фонового режима?</string>
-    <string name="data_usage_restrict_background">Если ограничить передачу данных в фоновом режиме, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi.</string>
+    <string name="data_usage_restrict_background">"Если ограничить передачу данных в фоновом режиме, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi"</string>
     <string name="data_usage_restrict_background_multiuser">"Если ограничить передачу данных в фоновом режиме, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi.
 
-Настройки будут изменены для всех пользователей устройства."</string>
+Настройки будут изменены для всех пользователей устройства"</string>
     <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
-"<font size="12">Предупреждение</font></string>
+"<font size="12">внимание</font></string>
     <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>"
 "<font size="12">лимит</font></string>
     <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
     <string name="data_usage_uninstalled_apps_users">Удаленные приложения и пользователи</string>
     <string name="data_usage_received_sent">%1$s получено, %2$s отправлено</string>
     <string name="data_usage_total_during_range">%2$s: около %1$s использовано</string>
-    <string name="data_usage_total_during_range_mobile">%2$s: около %1$s использовано. Данные оператора могут отличаться.</string>
+    <string name="data_usage_total_during_range_mobile">"%2$s: около %1$s использовано. Данные оператора могут отличаться"</string>
     <string name="data_usage_metered_title">Точки доступа мобильной сети</string>
-    <string name="data_usage_metered_body">Выберите сети Wi-Fi с тарификацией трафика. Возможно, приложения не смогут использовать их для работы в фоновом режиме. Кроме того, перед загрузкой больших объемов данных может появляться предупреждение.</string>
+    <string name="data_usage_metered_body">Выберите сети Wi-Fi с тарификацией трафика. Возможно, приложения не смогут использовать их для работы в фоновом режиме. Кроме того, перед загрузкой больших объемов данных может появляться предупреждение</string>
     <string name="data_usage_metered_mobile">Мобильные сети</string>
     <string name="data_usage_metered_wifi">Сети Wi-Fi</string>
-    <string name="data_usage_metered_wifi_disabled">Чтобы выбрать точку доступа, включите Wi-Fi.</string>
+    <string name="data_usage_metered_wifi_disabled">Чтобы выбрать точку доступа, включите Wi-Fi</string>
     <string name="cryptkeeper_emergency_call">Вызов службы экстренной помощи</string>
     <string name="cryptkeeper_return_to_call">Вернуться к вызову</string>
     <string name="vpn_name">Название сети</string>

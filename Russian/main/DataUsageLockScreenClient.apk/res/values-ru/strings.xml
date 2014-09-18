@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
-    <string name="hello_world">Добро пожаловать!</string>
-    <string name="menu_settings">Параметры настройки</string>
+<resources>
+    <string name="app_name">DataUsageLcokScreenClient</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="title_activity_main">MainActivity</string>
 </resources>
