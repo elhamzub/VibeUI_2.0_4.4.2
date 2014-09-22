@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="frequency_question">
+        <item>Какой у SYNCit пароль по-умолчанию? Как изменить пароль? Что делать, если я забыл свой пароль?</item>
+        <item>Бесплатен ли SYNCit?</item>
+        <item>Что такое синхронизация контактов?</item>
+        <item>Почему количество контактов уменьшилось после синхронизации?</item>
+        <item>Как управлять моими данными, когда я выполнил полное резервное копирование?</item>
+        <item>Безопасен ли SYNCit? Не украдут ли мой номер телефона или мои данные?</item>
+        <item>Как выйти?</item>
+        <item>Как восстановить мои контакты если я удалил их по ошибке?</item>
+        <item>Мой телефон не от Lenovo. Могу ли я использовать SYNCit?</item>
+        <item>Поддерживает ли SYNCit другие платформы?</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>"Пароль по-умолчанию: Once automatic registration is complete, you will receive a SMS from Lenovo containing your password. If you do not receive the SMS after some time, please check that it has not been blocked by your security software (such as 360se, etc.). In event that that the SMS does not reach you or has been lost, please refer to Password Retrieval. 
+
+Для изменения пароля: Посетите http://cloud.lenovo.com on your PC, then login to your account to change your password. 
+Восстановление пароля: Посетите http://cloud.lenovo.com, click on the login button at the top right hand corner to retrieve your password."</item>
+        <item>Although SYNCit can be downloaded for free, you may be charged by your network provider for data usage.</item>
+        <item>All contacts stored locally will be synchronized with those stored on the cloud. No contact information will be lost in the process.</item>
+        <item>During synchronization, SYNCit automatically merges duplicated contacts with identical local phone numbers and names. No contact information will be lost in the process.</item>
+        <item>Login to http://cloud.lenovo.com on your PC to manage your backup data through delete, modify, add and other operations.</item>
+        <item>Transfer and storage of information using SYNCit is protected by online banking-level encryption to ensure the security of your personal data.</item>
+        <item>Для выхода, click on Account at the top left hand corner, then choose [Logout].</item>
+        <item>In event that you accidentally delete a contact on your phone, the deleted information may be retrieved using the [Retrieve Contact] function as long as the contact has been synced previously. After retrieving the contact, please sync again to prevent loss of data.</item>
+        <item>Да. There are different versions of the software that are compatible with mobile phones running on Android 2.2 and above, iOS5, Symbian or other Java-supporting OS.</item>
+        <item>Да, it is compatible with Android and Symbian mobile phones, iPhones and other Java-supporting phones.</item>
+    </string-array>
+</resources>

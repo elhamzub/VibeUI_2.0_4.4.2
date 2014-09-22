@@ -34,7 +34,7 @@
         <item>Перезвоните, пожалуйста!</item>
         <item>Извините, я сейчас на совещании.</item>
         <item>Скоро перезвоню.</item>
-        <item>Не волнуйся, я в порядке.</item>
+        <item>"Не волнуйся, я в порядке."</item>
         <item>Еду домой.</item>
         <item>Скоро буду.</item>
         <item>Обязательно приходи!</item>
@@ -442,30 +442,6 @@
         <item>silent</item>
         <item>never</item>
     </string-array>
-    <string-array name="language_list_values">
-        <item>Все языки</item>
-        <item>Немецкий</item>
-        <item>Английский</item>
-        <item>Итальянский</item>
-        <item>Французский</item>
-        <item>Испанский</item>
-        <item>Голландский</item>
-        <item>Шведский</item>
-        <item>Датский</item>
-        <item>Португальский</item>
-        <item>Финский</item>
-        <item>Норвежский</item>
-        <item>Греческий</item>
-        <item>Турецкий</item>
-        <item>Венгерский</item>
-        <item>Польский</item>
-        <item>Другие</item>
-        <item>Чехия</item>
-        <item>Иврит</item>
-        <item>Арабский</item>
-        <item>Русский</item>
-        <item>Исландский</item>
-    </string-array>
     <string-array name="language_list_id">
         <item>-1</item>
         <item>0</item>
@@ -497,6 +473,30 @@
     <string-array name="number_match_style_value">
         <item>11</item>
         <item>7</item>
+    </string-array>
+    <string-array name="language_list_values">
+        <item>Все языки</item>
+        <item>Немецкий</item>
+        <item>Английский</item>
+        <item>Итальянский</item>
+        <item>Французский</item>
+        <item>Испанский</item>
+        <item>Голландский</item>
+        <item>Шведский</item>
+        <item>Датский</item>
+        <item>Португальский</item>
+        <item>Финский</item>
+        <item>Норвежский</item>
+        <item>Греческий</item>
+        <item>Турецкий</item>
+        <item>Венгерский</item>
+        <item>Польский</item>
+        <item>Другие</item>
+        <item>Чехия</item>
+        <item>Иврит</item>
+        <item>Арабский</item>
+        <item>Русский</item>
+        <item>Исландский</item>
     </string-array>
     <item type="array" name="blade_full_sections">false</item>
     <item type="array" name="blade_indicator_tops">false</item>

@@ -104,7 +104,7 @@
     <string name="com_lenovo_lsf_choose_location_title" />
     <string name="com_lenovo_lsf_bind_third">Привязка учётных записей социальных сетей</string>
     <string name="com_lenovo_lsf_webview_error_text1">Не удается подключиться к Интернету</string>
-    <string name="com_lenovo_lsf_webview_error_text2">Пожалуйста проверьте сетевое подключение</string>
+    <string name="com_lenovo_lsf_webview_error_text2">Проверьте сетевое подключение</string>
     <string name="com_lenovo_lsf_webview_error_text3">重新</string>
     <string name="com_lenovo_lsf_webview_error_text4">Обновить</string>
     <string name="com_lenovo_lsf_sina_login">SINA weibo аккаунт</string>
@@ -514,9 +514,9 @@
     <string name="change_string_confirm">Отправить</string>
     <string name="change_string_confirmset">Отправить</string>
     <string name="change_string_setpassword">Установить пароль</string>
-    <string name="change_string_please_input_oldpassword">Введите текущий пароль.</string>
-    <string name="change_string_please_input_newpassword">Введите новый пароль.</string>
-    <string name="change_string_please_input_newpassword_senced">Введите новый пароль еще раз.</string>
+    <string name="change_string_please_input_oldpassword">Введите текущий пароль</string>
+    <string name="change_string_please_input_newpassword">Введите новый пароль</string>
+    <string name="change_string_please_input_newpassword_senced">Введите новый пароль еще раз</string>
     <string name="myaccount_string_myaccount">Моя учетная запись</string>
     <string name="myaccount_string_account">Lenovo ID:</string>
     <string name="myaccount_string_accountinfo">abc@example.com</string>
@@ -640,14 +640,14 @@
     <string name="unlock_get_account_error">Ошибка при получении системной учетной записи</string>
     <string name="unlock_password_error">Ошибка пароля</string>
     <string name="unlock_parse_tgt_error">Ошибка возврата значения tgt сервером синтаксического анализа</string>
-    <string name="boot_regist_login_error">Сбой автоматической регистрации кода LenovoID. Нажмите здесь, чтобы зарегистрироваться вручную.</string>
-    <string name="boot_login_error">Ошибка автоматического входа под кодом LenovoID. Нажмите здесь, чтобы зарегистрироваться вручную.</string>
-    <string name="boot_regist_login_notification_msg">Введен код LenovoID, вызовите центр учетных записей и воспользуйтесь дополнительными услугами.</string>
-    <string name="boot_wizard_tips"><html>Сообщения, контакты, фотографии... Lenovo предоставляет вам<font color="#0d74ff">облачный сервис</font>，чтобы помочь вам<font color="#0d74ff">сохранить данные.</font></html></string>
-    <string name="boot_wizard_tips_1">Сообщения, контакты, фотографии... Lenovo предоставляет вам </string>
-    <string name="boot_wizard_tips_2">облачный сервис </string>
-    <string name="boot_wizard_tips_3">чтобы помочь вам </string>
-    <string name="boot_wizard_tips_4">сохранить данные.</string>
+    <string name="boot_regist_login_error">Сбой автоматической регистрации кода LenovoID. Нажмите здесь, чтобы зарегистрироваться вручную</string>
+    <string name="boot_login_error">Ошибка автоматического входа под кодом LenovoID. Нажмите здесь, чтобы зарегистрироваться вручную</string>
+    <string name="boot_regist_login_notification_msg">Введен код LenovoID, вызовите центр учетных записей и воспользуйтесь дополнительными услугами</string>
+    <string name="boot_wizard_tips"><html>Сообщения, контакты, фотографии... Lenovo предоставляет вам <font color="#0d74ff">облачный сервис</font>, чтобы помочь вам <font color="#0d74ff"> сохранить данные</font></html></string>
+    <string name="boot_wizard_tips_1">"Сообщения, контакты, фотографии... Lenovo предоставляет вам "</string>
+    <string name="boot_wizard_tips_2">"облачный сервис "</string>
+    <string name="boot_wizard_tips_3">"чтобы помочь вам "</string>
+    <string name="boot_wizard_tips_4">сохранить данные</string>
     <string name="boot_wizard_registerbythis">Уже зарегистрирован</string>
     <string name="boot_wizard_iwantregister">Я хочу зарегистрироваться</string>
     <string name="boot_wizard_login_email">Адрес электронной почты</string>
@@ -657,7 +657,7 @@
 	<string name="com_lenovo_lsf_string_contact_method">Контакт</string>
 	<string name="com_lenovo_lsf_string_check_update">Проверка обновления</string>
 	<string name="myaccount_string_chooseaccount">Выберите учетную запись</string>
-    <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Откройте WLAN!</string>
+    <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Включите Wi-Fi!</string>
     <string name="SUS_MSG_LATESTVERSION">Установлена текущая версия!</string>
     <string name="SUS_MSG_NOTFOUND">Нет обновлений!</string>
     <string name="SUS_MSG_FAIL_NETWORKUNAVAILABLE">Сеть недоступна!</string>
@@ -671,18 +671,18 @@
     <string name="SUS_UPDATEDESC">Описание:</string>
     <string name="SUS_UPDATEVERPROMPT_VERNAME">Имя:</string>
     <string name="SUS_UPDATEVERPROMPT_VERSIZE">Размер:</string>
-    <string name="SUS_UPDATESIZEPROMPT_WLAN">Для загрузки рекомендуется WLAN!</string>
+    <string name="SUS_UPDATESIZEPROMPT_WLAN">Для загрузки рекомендуется Wi-Fi!</string>
     <string name="SUS_UPDATE">Обновить</string>
     <string name="SUS_CANCEL">Позже</string>
     <string name="SUS_DOWNLOAD_TITLE">Загрузка SUS</string>
     <string name="SUS_CANCELBUTTON">Отмена</string>
     <string name="SUS_NOTIFICATION_TITLE">Подсказка</string>
     <string name="SUS_NOTIFICATION_UPDATINGPROMPT">Выполняется обновление... Подождите!</string>
-    <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">Тайм-аут сети. Еще раз...</string>
+    <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">Время ожидния истекло. Попробуйте ещё раз</string>
     <string name="SUS_NOTIFICATION_HIDE_BUTTONTEXT">Я знаю</string>
     <string name="SUS_NOTIFICATION_ABORTUPDATE_BUTTONTEXT">Прервать</string>
     <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(Это окно будет скрыто через</string>
-    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_2">с)</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_2">с.)</string>
     <string name="SUS_NOTIFICATION_INSTALLAPK_TITLE">Коснитесь для установки!</string>
     <string name="SUS_NOTIFICATION_INSTALLAPK">Коснитесь для установки:</string>
 </resources>

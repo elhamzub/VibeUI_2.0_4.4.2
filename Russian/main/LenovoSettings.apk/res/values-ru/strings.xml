@@ -870,7 +870,7 @@
     <string name="storage_low_title">Заканчивается свободное место</string>
     <string name="storage_low_summary">Некоторые системные функции (например, синхронизация) могут работать неправильно. Попробуйте освободить пространство. Для этого удалите или уберите из офлайн-просмотра приложения и мультимедийный контент.</string>
     <string name="storage_menu_usb">USB-подключение к компьютеру</string>
-    <string name="storage_title_usb">Параметры USB-подключения</string>
+    <string name="storage_title_usb">Настройка USB</string>
     <string name="usb_connection_category">Подключить как</string>
     <string name="usb_mtp_title">Медиаустр-во (MTP)</string>
     <string name="usb_mtp_summary">Позволяет передавать файлы мультимедиа в ОС Windows или использовать для этого Android File Transfer в ОС Mac (см. www.android.com/filetransfer)</string>
@@ -2057,7 +2057,8 @@
     <string name="auto_popup">Не показывать это меню</string>
     <string name="autopop_warning_title">Больше не показывать?</string>
     <string name="autopop_warning_message">Снимите галочку с данного элемента, чтобы окно не показывалось при последующих подключениях телефона к компьютеру. Чтобы зайти в это окно, щелкните системное оповещение.</string>
-    <string name="wifi_display_settings_empty_list_wifi_display_off">чтобы увидеть устройства, включите беспроводной дисплей.</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_off">"Чтобы увидеть устройства,
+включите Беспроводной дисплей"</string>
     <string name="com_lenovo_lsf_app_name">UserFramework</string>
     <string name="com_lenovo_lsf_lenovouser_app_name">Lenovo ID</string>
     <string name="com_lenovo_lsf_lenovouser_btn_ok">ОК</string>
@@ -2576,7 +2577,7 @@
 
 "<b>All user data</b> (including music, pictures, and other user data) in <b>Internal Storage</b> will be erased. Please backup your data before reset phone.</string>
     <string name="fuse_backup_data_description">Back up Contacts, Pictures, Messages, Applications and other important data before reset your phone</string>
-    <string name="select_subscription">Выберите подписку</string>
+    <string name="select_subscription">Выберите SIM-крту</string>
     <string name="airplane_open_confirm">Режим "В самолёте"</string>
     <string name="airplane_open_confirm_message">Следует ли разрешить режим "В самолёте"?</string>
     <string name="preference_status_open">Вкл.</string>
@@ -2584,18 +2585,18 @@
     <string name="header_category_personalcustom_k7">Персонализированные</string>
     <string name="settings_header_ringtone_k7">Настройки мелодии</string>
     <string name="sel_sub_title">Настройка подписки</string>
-    <string name="sel_sub_summary">Выберите подписку Подписка 1, Подписка 2 и т.д...</string>
+    <string name="sel_sub_summary">Выберите SIM, SIM 1, SIM 2 и т.д...</string>
     <string name="no_sim_info">"Информация SIM-карты не доступна.
 Menu не доступена"</string>
     <string name="subs_settings">Статус подписки</string>
     <string name="multi_sim_settings_title">Параметры мульти-SIM</string>
     <string name="multi_sim_settings_summary">Настройка параметров мульти-SIM для голоса, данных и SMS</string>
     <string name="voice_title">Голос/USSD/MMI</string>
-    <string name="voice_summary">Выберите подписку для голосового вызова</string>
+    <string name="voice_summary">Выберите SIM-карту для голосового вызова</string>
     <string name="data_title">Вызов данных</string>
-    <string name="data_summary">Выберите подписку для вызова данных</string>
+    <string name="data_summary">Выберите SIM-карту для вызова данных</string>
     <string name="sms_title">SMS</string>
-    <string name="sms_summary">Выберите подписку для отправки SMS</string>
+    <string name="sms_summary">Выберите SIM-карту для отправки SMS</string>
     <string name="set_data_subscription_progress">Установка данных подписки</string>
     <string name="set_dds_success">Данные подписки установлены</string>
     <string name="set_dds_failed">Ошибка в данных подписки. Переподключите текущую сеть данных и повторите попытку.</string>

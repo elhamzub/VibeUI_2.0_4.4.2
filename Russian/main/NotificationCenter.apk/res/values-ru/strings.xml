@@ -355,7 +355,7 @@
     <string name="str_custom_switch_pos_text">Иконки показанные в панели переключателей</string>
     <string name="screenshot_flie_name_template">Screenshot_%s.jpeg</string>
     <string name="screenshot_tip">Выберите область</string>
-    <string name="widget_text_user_feedback">Обратная связь</string>
+    <string name="widget_text_user_feedback">Отзывы</string>
     <string name="remind_next_time">Напомнить в следующий раз</string>
     <string name="confirm_radio_msg">%1$sсейчас выключена. Включить эту SIM-карту?</string>
     <string name="dlg_batteryWarehouse_bcheck_warning">Не показывать предупреждения в следующий раз</string>
