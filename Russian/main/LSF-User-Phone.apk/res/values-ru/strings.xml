@@ -678,7 +678,7 @@
     <string name="SUS_CANCELBUTTON">Отмена</string>
     <string name="SUS_NOTIFICATION_TITLE">Подсказка</string>
     <string name="SUS_NOTIFICATION_UPDATINGPROMPT">Выполняется обновление... Подождите!</string>
-    <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">Время ожидния истекло. Попробуйте ещё раз</string>
+    <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">Время ожидания истекло. Попробуйте ещё раз</string>
     <string name="SUS_NOTIFICATION_HIDE_BUTTONTEXT">Я знаю</string>
     <string name="SUS_NOTIFICATION_ABORTUPDATE_BUTTONTEXT">Прервать</string>
     <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(Это окно будет скрыто через</string>
