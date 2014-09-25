@@ -277,7 +277,7 @@
     <string name="network_speed_refresh_time_interval_summary">Скорость сети обновляется раз в %1$s с</string>
     <string name="current_network_speed">%1$s/c</string>
     <string name="screenshot_success_no_notification_title">Не уведомлять о скриншотах</string>
-    <string name="lenovo_show_wlan_status_top_remind_title">Строка состояния WLAN</string>
+    <string name="lenovo_show_wlan_status_top_remind_title">Строка состояния Wi-Fi</string>
     <string name="folding_notificationbar_after_clicked_title">Свернуть панель по нажатию</string>
     <string name="expanding_notificationbar">Активная строка уведомлений</string>
     <string name="about_notification_center">О центре уведомлений</string>
