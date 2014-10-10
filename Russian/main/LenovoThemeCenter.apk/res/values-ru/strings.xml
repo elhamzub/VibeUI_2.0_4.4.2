@@ -527,7 +527,7 @@
     <string name="fb_setting_input_userid">Введите ваш ID</string>
     <string name="fb_setting_name">Ник</string>
     <string name="fb_setting_input_name">Введите ваш ник</string>
-    <string name="fb_setting_email">Email</string>
+    <string name="fb_setting_email">Почта</string>
     <string name="fb_setting_input_email">Введите ваш Email</string>
     <string name="fb_setting_phone">Телефон</string>
     <string name="fb_setting_input_phone">Введите ваш телефон</string>
@@ -676,9 +676,9 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="fb_not_allow_official">The name may not contain Lenovo Official. Please reenter it</string>
     <string name="fb_switch_account">Switch accounts</string>
     <string name="fb_input_feedback_jar">Please enter feedback</string>
-    <string name="fb_error_phone">Invalid phone number. Please reenter it</string>
+    <string name="fb_error_phone">Incorrect number format. Remember to add the area code for landlines. Please reenter it</string>
     <string name="fb_error_email">Invalid email address. Please reenter it</string>
-    <string name="fb_image">Submit pictures</string>
+    <string name="fb_image">Приложенное изображение</string>
     <string name="fb_commit_datausage">Размер сообщения :</string>
     <string name="fb_commit_datausageforB">Б</string>
     <string name="fb_commit_datausageforKB">Кб</string>
@@ -711,8 +711,8 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="fb_pull_to_refresh_footer_refreshing_label">Загрузка...</string>
     <string name="fb_pull_to_refresh_last_update_time">Last update: %s</string>
     <string name="fb_qq">QQ</string>
-    <string name="fb_input_qq">Please enter your QQ</string>
-    <string name="fb_error_qq">Invalid QQ. Please reenter it</string>
+    <string name="fb_input_qq">Введите ваш QQ</string>
+    <string name="fb_error_qq">Неверный QQ. Please reenter it</string>
     <string name="fb_content_title">Feedback：</string>
     <string name="fb_appname_title">App name：</string>
     <string name="fb_time_title">Feedback time：</string>
@@ -859,7 +859,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="download_error_invalid_ddversion">Неверная DDверсия</string>
     <string name="download_error_attribute_mismatch">Атрибут несовместим</string>
     <string name="download_paused">Пауза</string>
-    <string name="authenticate_dialog_title">Пожалуйста, введите имя и пароль.</string>
+    <string name="authenticate_dialog_title">Пожалуйста, введите имя и пароль</string>
     <string name="username">Имя</string>
     <string name="password">Пароль</string>
     <string name="action">Войти</string>
@@ -875,14 +875,14 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="resume">Продолжить</string>
     <string name="delete_failed_with_SDcard">Не могу удалить файл. SD-карта не доступна</string>
     <string name="share_download">Часть</string>
-    <string name="share_failed_with_download_error">Не удалось загрузить.</string>
+    <string name="share_failed_with_download_error">Не удалось загрузить</string>
     <string name="pull_to_refresh_pull_label">Потяните для обновления...</string>
     <string name="pull_to_refresh_release_label">Отпустите для обновления...</string>
     <string name="pull_to_refresh_refreshing_label">Загрузка…</string>
     <string name="pull_to_refresh_footer_release_label">Отпустите для обновления...</string>
     <string name="pull_to_refresh_footer_pull_label">Потяните для обновления...</string>
     <string name="pull_to_refresh_footer_refreshing_label">Загрузка…</string>
-    <string name="pull_to_refresh_last_update_time">Последнее обновление:%s</string>
+    <string name="pull_to_refresh_last_update_time">Последнее обновление: %s</string>
     <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
     <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
     <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
@@ -1324,5 +1324,7 @@ Lenovo</string>
     <string name="ring_no_download_toast">"Нельзя установить, загрузите этот рингтон"</string>
     <string name="ring_local_isdeled_music_path">Ресурс не найден, обновите</string>
     <string name="ring_is_downloading_toast">В очереди</string>
+    <string name="ring_no_frequent_click">"Не нажимайте слишком часто"</string>
+    <string name="wallpaper_tailor_button">ОК</string>
     <string name="sus_channel">full_zip</string>
 </resources>

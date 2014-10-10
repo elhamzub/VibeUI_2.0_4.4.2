@@ -28,8 +28,8 @@
         <item>Создать свой</item>
     </string-array>
     <string-array name="special_locale_names">
-        <item>Китайский (упрощ.)</item>
-        <item>Китайский (традиц.)</item>
+        <item>Китайский (упрощённый)</item>
+        <item>Китайский (традиционный)</item>
     </string-array>
     <string-array name="zzzzz_lightadjust_general_preference_profile_values">
         <item>День</item>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string name="keyguard_pinword_enter_pinword_code">Введите PIN-код для разблокировки</string>
     <string name="badPin2">Введенный PIN2 неправильный</string>
     <string name="badPuk2">Введенный PUK2 неправильный</string>
@@ -18,7 +18,7 @@
     <string name="permlab_receiveCbSms">Получено CB SMS</string>
     <string name="permdesc_receiveCbSms">Разрешить приложениям получать и обрабатывать CB SMS. Вредоносные приложения могут отслеживать Ваши сообщения или удалять их, не показывая Вам</string>
     <string name="keyguard_password_enter_puk_code">Введите PUK</string>
-    <string name="invalidPuk">Введите 8 цифр.</string>
+    <string name="invalidPuk">Введите 8 цифр</string>
     <string name="pin_length_indicate">(4-8 цифр)</string>
     <string name="puk_length_indicate">(8 цифр)</string>
     <string name="one_retry_left">Осталась одна попытка</string>
@@ -108,7 +108,7 @@
     <string name="wifi_display_wifi_p2p_disconnect_wfd_connect">При подключении Wi-Fi-дисплея текущее подключение Wi-Fi Direct будет прервано. Продолжить?</string>
     <string name="sdcard_ready_title">SD-карта готова</string>
     <string name="sdcard_select_default_path">Хотите изменить диск для записи по умолчанию?</string>
-    <string name="sdcard_default_path_change">Диск для записи по умолчанию был изменен.</string>
+    <string name="sdcard_default_path_change">Диск для записи по умолчанию был изменен</string>
     <string name="undoAll">Отменить все</string>
     <string name="new_sim">Новая SIM</string>
     <string name="edit">Редактировать</string>
@@ -121,10 +121,10 @@
     <string name="usb_storage_ready_title">Внешний USB-накопитель готов</string>
     <string name="wifi_display_reconnect">Повторное подключение</string>
     <string name="wifi_display_disconnect_then_reconnect">Беспроводной дисплей отключен. Восстановить подключение?</string>
-    <string name="wifi_display_disconnected">Беспроводной дисплей отключен.</string>
+    <string name="wifi_display_disconnected">Беспроводной дисплей отключен</string>
     <string name="wifi_wps_failed_overlap">Другая WPS сессия была обнаружена. Пожалуйста, попробуйте еще раз через несколько минут.</string>
-    <string name="wifi_display_wfd_and_wifi_are_turned_on">Беспроводной дисплей и WLAN включены.</string>
-    <string name="wifi_display_sound_path_reminder">Мультимедиа звук не будет играть с гарнитуры.</string>
+    <string name="wifi_display_wfd_and_wifi_are_turned_on">Беспроводной дисплей и Wi-Fi включены</string>
+    <string name="wifi_display_sound_path_reminder">Мультимедиа звук не будет играть с гарнитуры</string>
     <string name="for_first_simcard">Для SIM1</string>
     <string name="for_second_simcard">Для SIM2</string>
     <string name="for_third_simcard">Для SIM3</string>
@@ -135,9 +135,9 @@
     <string name="lockscreen_password_too_many_failed_attempts_dialog_message" formatted="false">"Вы неправильно ввели пароль %d раз. 
 
 Попробуйте еще раз через %d сек."</string>
-    <string name="wifi_display_change_resolution_reminder">Change resolution will reconnect wireless display automatically.</string>
-    <string name="wifi_display_do_not_remind_again">Не напоминать.</string>
-    <string name="wifi_display_wifi_ap_affects_quality">Текущий AP WLAN может повлиять на качество беспроводного дисплея.</string>
+    <string name="wifi_display_change_resolution_reminder">Изменение разрешения автоматически произведёт переподключение беспроводного дисплея</string>
+    <string name="wifi_display_do_not_remind_again">Не напоминать</string>
+    <string name="wifi_display_wifi_ap_affects_quality">Текущая точка доступа Wi-Fi может повлиять на качество работы беспроводного дисплея</string>
     <string name="data_conn_only">Только мобильная сеть</string>
     <string name="aerr_application_lowstorage">Внутренняя память заканчивается, по этому приложение было остановлено. Освободите место и попробуйте еще раз.</string>
     <string name="aerr_process_lowstorage">Внутренняя память заканчивается, по этому процесс был остановлен. Освободите место и попробуйте еще раз.</string>

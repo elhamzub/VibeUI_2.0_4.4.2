@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string name="cancel">Отмена</string>
     <string name="copy">Копировать</string>
     <string name="copyUrl">Копировать URL</string>
@@ -692,7 +692,7 @@
     <string name="imProtocolYahoo">Yahoo</string>
     <string name="imProtocolSkype">Skype</string>
     <string name="imProtocolQq">QQ</string>
-    <string name="imProtocolGoogleTalk">Google Talk</string>
+    <string name="imProtocolGoogleTalk">Hangouts</string>
     <string name="imProtocolIcq">ICQ</string>
     <string name="imProtocolJabber">Jabber</string>
     <string name="imProtocolNetMeeting">NetMeeting</string>
@@ -935,9 +935,11 @@
     <string name="clearDefaultHintMsg">Удаляет настройки по умолчанию в меню \"Настройки > Приложения > Загруженные\".</string>
     <string name="chooseActivity">Выберите действие</string>
     <string name="chooseUsbActivity">Выбор приложения для USB-устройства</string>
-    <string name="noApplications">Действие не поддерживается ни в одном приложении.</string>
-    <string name="aerr_application">В приложении \"%1$s\" произошла ошибка.</string>
-    <string name="aerr_process">В приложении \"%1$s\" произошла ошибка.</string>
+    <string name="noApplications">Действие не поддерживается ни в одном приложении</string>
+    <string name="aerr_title" />
+    <string name="aerr_application">В приложении \"%1$s\" произошла ошибка</string>
+    <string name="aerr_process">В приложении \"%1$s\" произошла ошибка</string>
+    <string name="anr_title" />
     <string name="anr_activity_application">"Приложение \"%2$s\" не отвечает.
 
 Закрыть его?"</string>
@@ -955,16 +957,16 @@
 
 Закрыть ее?"</string>
     <string name="launch_warning_title">Приложение перенаправлено</string>
-    <string name="launch_warning_replace">Приложение %1$s выполняется.</string>
+    <string name="launch_warning_replace">Выполняется приложение %1$s</string>
     <string name="launch_warning_original">Изначально было запущено приложение %1$s.</string>
     <string name="screen_compat_mode_scale">Масштаб</string>
     <string name="screen_compat_mode_show">Всегда показывать</string>
     <string name="screen_compat_mode_hint">Включить эту функцию можно в меню \"Настройки > Приложения > Загруженные\".</string>
     <string name="smv_application">Приложение \"%1$s\" (процесс: %2$s) нарушило собственную политику StrictMode.</string>
-    <string name="smv_process">Процесс %1$s нарушил собственную политику StrictMode.</string>
+    <string name="smv_process">Процесс %1$s нарушил собственную политику StrictMode</string>
     <string name="android_upgrading_title">Обновление Android...</string>
-    <string name="android_upgrading_apk">Оптимизация приложения %1$d из %2$d.</string>
-    <string name="android_upgrading_starting_apps">Запуск приложений.</string>
+    <string name="android_upgrading_apk">Оптимизация приложения %1$d из %2$d</string>
+    <string name="android_upgrading_starting_apps">Запуск приложений</string>
     <string name="android_upgrading_complete">Окончание загрузки...</string>
     <string name="heavy_weight_notification">Приложение %1$s запущено</string>
     <string name="heavy_weight_notification_detail">Нажмите, чтобы переключиться на приложение</string>
@@ -999,8 +1001,8 @@
     <string name="wifi_watchdog_network_disabled">Не удалось подключиться к сети WLAN</string>
     <string name="wifi_watchdog_network_disabled_detailed">" – плохое интернет-соединение."</string>
     <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
-    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
-    <string name="wifi_p2p_turnon_message">Начните WLAN Direct. Это полностью выключит WLAN клиент / точки доступа.</string>
+    <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
+    <string name="wifi_p2p_turnon_message">Начните Wi-Fi Direct. Это полностью выключит WLAN клиент / точки доступа.</string>
     <string name="wifi_p2p_failed_message">Не удалось запустить WLAN Direct.</string>
     <string name="wifi_p2p_enabled_notification_title">WLAN Direct включен</string>
     <string name="wifi_p2p_enabled_notification_message">Нажмите, чтобы открыть настройки</string>
@@ -1064,7 +1066,7 @@
     <string name="usb_accessory_notification_title">USB-устройство подключено</string>
     <string name="usb_notification_message">Нажмите, чтобы открыть список опций</string>
     <string name="extmedia_format_title">Отформатировать SD-карту?</string>
-    <string name="extmedia_format_message">Все данные будут удалены с карты.</string>
+    <string name="extmedia_format_message">Все данные будут удалены с карты</string>
     <string name="extmedia_format_button_format">Формат</string>
     <string name="adb_active_notification_title">Отладка по USB разрешена</string>
     <string name="adb_active_notification_message">Нажмите, чтобы отключить отладку по USB.</string>
@@ -1086,10 +1088,10 @@
     <string name="ext_media_badremoval_notification_title">%s неожиданно удалено</string>
     <string name="ext_media_badremoval_notification_message">Демонтируйте %s перед удалением во избежание потери данных.</string>
     <string name="ext_media_safe_unmount_notification_title">%s можно удалить</string>
-    <string name="ext_media_safe_unmount_notification_message">Можно безопасно удалить %s.</string>
+    <string name="ext_media_safe_unmount_notification_message">Можно безопасно удалить %s</string>
     <string name="ext_media_nomedia_notification_title">Удалено %s</string>
-    <string name="ext_media_nomedia_notification_message">%s удалено. Установите новый.</string>
-    <string name="activity_list_empty">Подходящих действий не найдено.</string>
+    <string name="ext_media_nomedia_notification_message">%s удалено. Установите новый</string>
+    <string name="activity_list_empty">Подходящих действий не найдено</string>
     <string name="permlab_pkgUsageStats">обновлять статистику использования компонентов</string>
     <string name="permdesc_pkgUsageStats">Приложение сможет изменять собранную статистику использования компонентов. Это разрешение не используется обычными приложениями.</string>
     <string name="permlab_copyProtectedData">копирование контента</string>
@@ -1099,15 +1101,15 @@
     <string name="permlab_access_keyguard_secure_storage">Блокировка клавиатуры Доступ безопасное хранение</string>
     <string name="permdesc_access_keyguard_secure_storage">Приложение сможет получить доступ к keguard безопасное хранение.</string>
     <string name="permlab_control_keyguard">Контроль отображения и скрытия блокировки клавиатуры</string>
-    <string name="permdesc_control_keyguard">Приложение сможет контролировать keguard.</string>
+    <string name="permdesc_control_keyguard">Приложение сможет контролировать keguard</string>
     <string name="tutorial_double_tap_to_zoom_message_short">Нажмите дважды для изменения масштаба</string>
-    <string name="gadget_host_error_inflating">Не удалось добавить виджет.</string>
+    <string name="gadget_host_error_inflating">Не удалось добавить виджет</string>
     <string name="ime_action_go">Выбрать</string>
     <string name="ime_action_search">Поиск</string>
     <string name="ime_action_send">Отправить</string>
     <string name="ime_action_next">Далее</string>
     <string name="ime_action_done">Готово</string>
-    <string name="ime_action_previous">Пред.</string>
+    <string name="ime_action_previous">Назад</string>
     <string name="ime_action_default">Выполнить</string>
     <string name="dial_number_using">"Набрать номер
 %s"</string>
@@ -1120,7 +1122,7 @@
     <string name="deny">Отклонить</string>
     <string name="permission_request_notification_title">Разрешение запрошено</string>
     <string name="permission_request_notification_with_subtitle">"Требуется разрешение
-для аккаунта %s."</string>
+для аккаунта %s"</string>
     <string name="input_method_binding_label">Способ ввода</string>
     <string name="sync_binding_label">Синхр.</string>
     <string name="accessibility_binding_label">Спец. возможности</string>
@@ -1129,7 +1131,7 @@
     <string name="notification_listener_binding_label">Прослушиватель уведомлений</string>
     <string name="vpn_title">Сеть VPN активна</string>
     <string name="vpn_title_long">Сеть VPN активирована приложением %s</string>
-    <string name="vpn_text">Нажмите, чтобы открыть настройки.</string>
+    <string name="vpn_text">Нажмите, чтобы открыть настройки</string>
     <string name="vpn_text_long">Сеть VPN подключена: %s. Нажмите, чтобы открыть настройки.</string>
     <string name="vpn_lockdown_connecting">Подключение…</string>
     <string name="vpn_lockdown_connected">Подключено</string>
@@ -1140,8 +1142,8 @@
     <string name="reset">Сбросить</string>
     <string name="submit">Отправить</string>
     <string name="car_mode_disable_notification_title">Включен режим \"Штурман\"</string>
-    <string name="car_mode_disable_notification_message">Чтобы выйти, нажмите здесь.</string>
-    <string name="tethered_notification_title">USB-модем/точка доступа WLAN используется</string>
+    <string name="car_mode_disable_notification_message">Чтобы выйти, нажмите здесь</string>
+    <string name="tethered_notification_title">Используется USB-модем или точка доступа Wi-Fi</string>
     <string name="tethered_notification_message">Нажмите для настройки.</string>
     <string name="back_button_label">Назад</string>
     <string name="next_button_label">Далее</string>
@@ -1164,8 +1166,8 @@
     <string name="share">Отправить</string>
     <string name="find">Найти</string>
     <string name="websearch">Веб-поиск</string>
-    <string name="find_next">Cлед.</string>
-    <string name="find_previous">Пред.</string>
+    <string name="find_next">Далее</string>
+    <string name="find_previous">Назад</string>
     <string name="gpsNotifTicker">Пользователь %s запрашивает ваше местоположение</string>
     <string name="gpsNotifTitle">Запрос местоположения</string>
     <string name="gpsNotifMessage">Запрашивает %1$s (%2$s)</string>
