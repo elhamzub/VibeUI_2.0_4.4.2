@@ -10,7 +10,6 @@
     <string name="title_act_language">Язык</string>
     <string name="title_act_network">Настройки сети</string>
     <string name="title_act_server">Настройка профиля</string>
-    <string name="title_act_transfer">Передача одним касанием</string>
     <string name="network_data_title">Передача данных</string>
     <string name="netwrok_data_summary">Вы можете использовать SIM-карты для доступа в Интернет. Использование этой службы будет создавать заметный поток данных</string>
     <string name="network_wlan_title">Wi-Fi</string>
@@ -25,17 +24,14 @@
     <string name="server_lenovo_exp_span_text">Присоединяйтесь к программе расширенной поддержки Lenovo</string>
     <string name="server_lenovo_exp_agree">Согласен присоединиться к программе расширенной поддержки Lenovo</string>
     <string name="server_lenovo_exp_dialog_title">Подсказка</string>
-    <string name="server_lenovo_exp_tip">Предлагаем вам присоединиться к программе расширенной поддержки Lenovo для получения более качественных услуг и расширения мобильного опыта.</string>
+    <string name="server_lenovo_exp_tip">Предлагаем вам присоединиться к программе расширенной поддержки Lenovo для получения более качественных услуг и развития использования телефона.</string>
     <string name="server_lenovo_exp_skip">Пропустить</string>
     <string name="server_lenovo_exp_not_skip">"Не пропускать"</string>
-    <string name="tranfser_later">"Для продолжения нажмите сюда
-	"</string>
-    <string name="tranfser_summary">"     Попрощайтесь с вашим старым
-     телефоном и %1$s ваши контакты,
-	 сообщения, картинки и программы</string>
-    <string name="tranfser_color_text1">перенесите все</string>
-    <string name="tranfser_from_old_phone">"Переместить данные со старого
-телефона на новый"</string>
-    <string name="tranfser_from_old_phone_summary">"Это возможно только если ваш предыдущий телефон тоже использовал систему Android. "</string>
-    <string name="tranfser_from_old_phone_help">Руководство по эксплуатации старого телефона</string>
+    <string name="pad_welcome_summary">Начните ваше приключение с Lenovo</string>
+    <string name="pad_server_lenovo_exp_tip">Предлагаем вам присоединиться к программе расширенной поддержки Lenovo для получения более качественных услуг и развития использования планшета.</string>
+    <string name="pad_complete_congratulations">Поздравляем</string>
+    <string name="pad_complete_summary">Вы завершили начальную настройку и можете начать использовать ваш планшет!</string>
+    <string name="pad_complete_thanks">Спасибо, за выбор телефона Lenovo!</string>
+    <string name="pad_complete_start">Начните использование вашего телефона</string>
+    <string name="complete_summary">Вы завершили начальную настройку и можете начать использовать ваш телефон!</string>
 </resources>
