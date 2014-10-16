@@ -32,9 +32,9 @@
 +    <string name="pad_server_lenovo_exp_tip">Предлагаем вам присоединиться к программе расширенной поддержки Lenovo для получения более качественных услуг и развития использования планшета.</string>
 +    <string name="pad_complete_congratulations">Поздравляем</string>
 +    <string name="pad_complete_summary">Вы завершили начальную настройку и можете начать использовать ваш планшет!</string>
-+    <string name="pad_complete_thanks">Спасибо, за выбор телефона Lenovo!</string>
-+    <string name="pad_complete_start">Начните использование вашего телефона</string>
-+    <string name="complete_summary">Вы завершили начальную настройку и можете начать использовать ваш телефон!</string>
++    <string name="pad_complete_thanks">Спасибо, за выбор Lenovo!</string>
++    <string name="pad_complete_start">Начните использование вашего устройства</string>
++    <string name="complete_summary">Начать использование!</string>
 
 
 </resources>
