@@ -335,7 +335,7 @@
     <string name="com_lenovo_lsf_lenovouser_userinfo_registerlegalt">Lenovo проходит условия предоставления услуг</string>
     <string name="com_lenovo_lsf_lenovouser_onekey_error_titlt">Ошибка входа</string>
     <string name="com_lenovo_lsf_lenovouser_onekey_imeiinvalid">Число IMEI является недействительным</string>
-    <string name="com_lenovo_lsf_psauthen_text15">Один или несколько приложение запрашивают доступ к вашей учетной записи</string>
+    <string name="com_lenovo_lsf_psauthen_text15">Одно или несколько приложений запрашивают доступ к вашей учетной записи</string>
     <string name="com_lenovo_lsf_psauthen_text16">Принять</string>
     <string name="com_lenovo_lsf_psauthen_text17">Отказать</string>
     <string name="com_lenovo_lsf_psauthen_text18">Согласны ли вы с этим запросом?</string>
@@ -1269,7 +1269,7 @@ Lenovo</string>
     <string name="wallpaper_select_video">Видео</string>
     <string name="wallpaper_select_animal">Животные</string>
     <string name="app_chname">Центр тем</string>
-    <string name="mobile_data_remind_message">Уважаемые клиенты, для Центра тем от Lenovo требуется доступ в Интернет, стоймость передачи данных соответствует стоймости указанной вашим оператором.</string>
+    <string name="mobile_data_remind_message">Внимание! Центру тем от Lenovo требуется доступ в Интернет. При передаче данных по сети мобильной связи может взиматься плата по тарифам вашего оператора. </string>
     <string name="toast_no_network">Не удается подключиться к сети</string>
     <string name="mobile_network_dialog_hint">Вы используете сеть 2G/3G</string>
     <string name="mobile_network_dialog_nexttime">"Не напоминать"</string>
