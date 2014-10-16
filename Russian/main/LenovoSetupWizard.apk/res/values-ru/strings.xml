@@ -19,22 +19,20 @@
     <string name="network_skip_tips">Для лучшего обслуживания и поддержки, рекомендуем вам подключиться к Интернету</string>
     <string name="network_skip">Пропустить</string>
     <string name="network_not_skip">"Не пропускать"</string>
-    <string name="server_lenovo_exp_summary">Зайдите сюда для %1$s данных поддерки ПО и %2$s услуг</string>
-    <string name="exp_color_text1">последних</string>
-    <string name="exp_color_text2">настройки</string>
-    <string name="server_lenovo_exp_span_text">Присоединяйтесь к программе расширенной поддержки Lenovo</string>
+    <string name="server_lenovo_exp_summary">Здесь можно %1$s профиль для обновления програмного обеспечения и получения других %2$s и услуг.</string>
+    <string name="exp_color_text1">настроить</string>
+    <string name="exp_color_text2">сервисов</string>
+    <string name="server_lenovo_exp_span_text">   Условия подключения к программе расширенной поддержки Lenovo</string>
     <string name="server_lenovo_exp_agree">Согласен присоединиться к программе расширенной поддержки Lenovo</string>
     <string name="server_lenovo_exp_dialog_title">Подсказка</string>
     <string name="server_lenovo_exp_tip">Предлагаем вам присоединиться к программе расширенной поддержки Lenovo для получения более качественных услуг и расширения возможностей вашего устройства.</string>
     <string name="server_lenovo_exp_skip">Пропустить</string>
     <string name="server_lenovo_exp_not_skip">"Не пропускать"</string>
     <string name="pad_welcome_summary">Начните ваше приключение с Lenovo</string>
-+    <string name="pad_server_lenovo_exp_tip">Предлагаем вам присоединиться к программе расширенной поддержки Lenovo для получения более качественных услуг и развития использования планшета.</string>
-+    <string name="pad_complete_congratulations">Поздравляем</string>
-+    <string name="pad_complete_summary">Вы завершили начальную настройку и можете начать использовать ваш планшет!</string>
-+    <string name="pad_complete_thanks">Спасибо, за выбор Lenovo!</string>
-+    <string name="pad_complete_start">Начните использование вашего устройства</string>
-+    <string name="complete_summary">Начать использование!</string>
-
-
+    <string name="pad_server_lenovo_exp_tip">Предлагаем вам присоединиться к программе расширенной поддержки Lenovo для получения более качественных услуг и развития использования планшета.</string>
+    <string name="pad_complete_congratulations">Поздравляем</string>
+    <string name="pad_complete_summary">Вы завершили начальную настройку и можете начать использовать ваш планшет!</string>
+    <string name="pad_complete_thanks">Спасибо, за выбор Lenovo!</string>
+    <string name="pad_complete_start">Начать использование!</string>
+    <string name="complete_summary">Вы завершили первоначальные настройки. Ваше устройство готово к использованию.</string>
 </resources>
