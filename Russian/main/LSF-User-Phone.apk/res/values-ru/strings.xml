@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string name="com_lenovo_lsf_lenovouser_app_name">Учётная запись Lenovo</string>
     <string name="com_lenovo_lsf_lenovouser_btn_ok">ОК</string>
     <string name="com_lenovo_lsf_lenovouser_btn_cancel">Отмена</string>
@@ -220,7 +220,7 @@
     <string name="com_lenovo_lsf_login_common_et_hint_password">Пароль</string>
     <string name="com_lenovo_lsf_login_common_findpassword">Получить пароль</string>
     <string name="com_lenovo_lsf_login_common_button_login">Вход</string>
-    <string name="com_lenovo_lsf_login_common_logining">Входа в систему, подождите...</string>
+    <string name="com_lenovo_lsf_login_common_logining">Вход в систему, подождите...</string>
     <string name="com_lenovo_lsf_login_common_loginsuccess_toast">Успешный вход</string>
     <string name="com_lenovo_lsf_logout_are_you_sure_logout_lenovo_account">OK для выхода из учётной записи</string>
     <string name="com_lenovo_lsf_account_binding_password">Пароль</string>
