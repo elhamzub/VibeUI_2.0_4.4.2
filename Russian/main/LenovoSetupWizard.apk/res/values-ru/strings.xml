@@ -22,7 +22,7 @@
     <string name="server_lenovo_exp_summary">Здесь можно %1$s профиль для обновления програмного обеспечения и получения других %2$s и услуг.</string>
     <string name="exp_color_text1">настроить</string>
     <string name="exp_color_text2">сервисов</string>
-    <string name="server_lenovo_exp_span_text">   Условия подключения к программе расширенной поддержки Lenovo</string>
+    <string name="server_lenovo_exp_span_text">     Условия подключения к программе расширенной поддержки Lenovo</string>
     <string name="server_lenovo_exp_agree">Согласен присоединиться к программе расширенной поддержки Lenovo</string>
     <string name="server_lenovo_exp_dialog_title">Подсказка</string>
     <string name="server_lenovo_exp_tip">Предлагаем вам присоединиться к программе расширенной поддержки Lenovo для получения более качественных услуг и расширения возможностей вашего устройства.</string>
