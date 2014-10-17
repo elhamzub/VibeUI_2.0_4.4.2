@@ -113,12 +113,4 @@
         <item>из Контактов</item>
         <item>Добавить вручную</item>
     </string-array>
-    <string-array name="array_pwd_question">
-        <item>Последние четыре цифры телефона моего отца/матери?</item>
-        <item>Имя моего учителя начальных классов?</item>
-        <item>Мой любимый фрукт?</item>
-        <item>День рождения моего отца?</item>
-        <item>Название любимой композиции?</item>
-        <item>Имя моего домашнего животного?</item>
-    </string-array>
 </resources>
