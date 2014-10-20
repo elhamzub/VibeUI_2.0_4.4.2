@@ -24,14 +24,14 @@
     <string name="server_lenovo_exp_span_text">Присоединяйтесь к программе расширенной поддержки Lenovo</string>
     <string name="server_lenovo_exp_agree">Согласен присоединиться к программе расширенной поддержки Lenovo</string>
     <string name="server_lenovo_exp_dialog_title">Подсказка</string>
-    <string name="server_lenovo_exp_tip">Предлагаем вам присоединиться к программе расширенной поддержки Lenovo для получения более качественных услуг и развития использования телефона.</string>
+    <string name="server_lenovo_exp_tip">Предлагаем вам присоединиться к программе расширенной поддержки Lenovo для получения более качественных услуг и расширения возможностей вашего телефона.</string>
     <string name="server_lenovo_exp_skip">Пропустить</string>
     <string name="server_lenovo_exp_not_skip">"Не пропускать"</string>
     <string name="pad_welcome_summary">Начните ваше приключение с Lenovo</string>
-    <string name="pad_server_lenovo_exp_tip">Предлагаем вам присоединиться к программе расширенной поддержки Lenovo для получения более качественных услуг и развития использования планшета.</string>
+    <string name="pad_server_lenovo_exp_tip">Предлагаем вам присоединиться к программе расширенной поддержки Lenovo для получения более качественных услуг и расширения возможностей вашего планшета.</string>
     <string name="pad_complete_congratulations">Поздравляем</string>
     <string name="pad_complete_summary">Вы завершили начальную настройку и можете начать использовать ваш планшет!</string>
-    <string name="pad_complete_thanks">Спасибо, за выбор телефона Lenovo!</string>
-    <string name="pad_complete_start">Начните использование вашего телефона</string>
+    <string name="pad_complete_thanks">Спасибо, за выбор Lenovo!</string>
+    <string name="pad_complete_start">Начать использование!</string>
     <string name="complete_summary">Вы завершили начальную настройку и можете начать использовать ваш телефон!</string>
 </resources>
