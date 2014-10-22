@@ -715,6 +715,7 @@
     <string name="localblack_successNotice">Сообщение отправлено успешно</string>
     <string name="neterror">Ошибка подключения к сети</string>
     <string name="notice1">Заблокирован</string>
+    <string name="not_control">"Наблюдение SECUREit отключено"</string>
     <string name="safe_defense_notify">Советы</string>
     <string name="not_to_appmanager">Приложение было удалено</string>
     <string name="off_all">Выключить всё</string>
@@ -766,7 +767,7 @@
     <string name="install_fail">Ошибка установки</string>
     <string name="installing">Установка...</string>
     <string name="install_success">Установка завершена</string>
-    <string name="no_premit">Это приложение не относится к разрешенным</string>
+    <string name="no_premit">"Это приложение не относится к разрешенным"</string>
     <string name="permission_installation_without_antivirus">Установка без проверки антивирусом</string>
     <string name="prase_error">Неизвестная ошибка</string>
     <string name="replace_tip">"Это приложение заменит предыдущее.
@@ -909,13 +910,13 @@
     <string name="permission_notice_intercep_hadupload_log">Отчет об этом уже отправлен</string>
     <string name="permission_notice_intercep_neterror">Сеть недоступна</string>
     <string name="permission_notice_intercep_net_unavilable">Сеть недоступна</string>
-    <string name="permission_notice_intercep_ignore_current_setting">Не замечать больше</string>
+    <string name="permission_notice_intercep_ignore_current_setting">"Не замечать больше"</string>
     <string name="permission_notice_intercep_remenber">Запомнить выбор</string>
     <string name="permission_notice_intercep_cancel">Отмена(%1$ds)</string>
     <string name="permission_notice_intercep_deny">Запретить(%1$ds)</string>
     <string name="permission_notice_intercep_allow">Разрешить</string>
-    <string name="permission_notice_intercep_notice">Подтвердить</string>
     <string name="permission_notice_intercep_alert">Оповестить</string>
+    <string name="permission_notice_intercep_notice">Подтвердить</string>
     <string name="permission_notice_intercep_system_open_3g_wifi_confirm">Вы переключаетесь на %1$s, это займет %2$s данных, продолжить?</string>
     <string name="permission_notice_intercep_message">Если отправить %s sms, может нанести вред системе, вы уверены, что хотите отправить SMS?</string>
     <string name="permission_notice_intercep_enable_net_confirm">%1$s пытается внести изменения в фоновом режиме, если открыть доступ %2$s трафик, разрешить?</string>
@@ -923,11 +924,12 @@
     <string name="default_app_name">Неизвестное Имя</string>
     <string name="permission_records_when_calling">При звонке</string>
     <string name="permission_dialog_never_notice">Не напоминать</string>
+    <string name="permission_ok">ОК</string>
     <string name="permission_confirm">Подтвердить</string>
     <string name="permission_known">ОК</string>
     <string name="permission_cancel">Отмена</string>
-    <string name="permission_forbid">Запретить</string>
     <string name="permission_is_update_lab_text">Обновить?</string>
+    <string name="permission_forbid">Запретить</string>
     <string name="permission_no_null_limit_input_num_text">Нельзя оставлять пустым</string>
     <string name="permission_no_zero_limit_input_num_text">Тарифный план не может быть равен 0</string>
     <string name="permission_hour_text">часов</string>
@@ -1018,7 +1020,6 @@
     <string name="uninstall_application_text">Вы хотите удалить приложение?</string>
     <string name="uninstall_update_text">Хотите обновить это приложение?</string>
     <string name="uninstall_activity_text">"%1$s принадлежит к следующим приложениям: "</string>
-    <string name="permission_ok">ОК</string>
     <string name="manage_device_administrators">Управление диспетчером устройств</string>
     <string name="app_not_found_dlg_text">Не найдено в списке установленных приложений</string>
     <string name="uninstall_failed_device_policy_manager">Это приложение активно в диспетчере устройств и не может быть удалено</string>
@@ -1100,16 +1101,16 @@
     <string name="permission_perm_tap_calling">Камера и рекордер</string>
     <string name="permission_lowercase_wsms">%s писать сообщения</string>
     <string name="permission_lowercase_readmms">%s читать MMS</string>
-    <string name="permission_get_contact">Просмотр контактов</string>
-    <string name="permission_get_calllog">Просмотр журнала вызовов</string>
-    <string name="permission_get_sms">Читать сообщения</string>
     <string name="permission_time_d">День</string>
     <string name="permission_time_m">Месяц</string>
+    <string name="permission_get_contact">Просмотр контактов</string>
     <string name="permission_lowercase_get_contact">%sЧитать контакты</string>
     <string name="permission_lowercase_edit_contact">%s изменять контакты</string>
+    <string name="permission_get_calllog">Просмотр журнала вызовов</string>
     <string name="permission_lowercase_get_calllog">%sЧитать историю звонков</string>
     <string name="permission_lowercase_edit_calllog">%s изменять журналы вызовов</string>
     <string name="permission_sms">SMS</string>
+    <string name="permission_get_sms">Читать сообщения</string>
     <string name="permission_lowercase_get_sms">%sЧтение текстовых сообщений</string>
     <string name="permission_lowercase_edit_sms">%sЗапись/удаление мультимедийных сообщений</string>
     <string name="permission_lowercase_sendmms">%sОтправка мультимедийного сообщения</string>
@@ -3027,5 +3028,5 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="auto_update_mode1">Авто-обновление по Wi-Fi</string>
     <string name="auto_update_mode2">Ежедневно</string>
     <string name="auto_update_mode3">Еженедельно</string>
-    <string name="install_now">Установить сейчас</string>
+    <string name="install_now">Установить</string>
 </resources>
