@@ -6,6 +6,16 @@
         <item>Другой</item>
         <item>Создать свой</item>
     </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
     <string-array name="organizationTypes">
         <item>Рабочий</item>
         <item>Другое</item>
@@ -39,8 +49,8 @@
     </string-array>
     <string-array name="zzzzz_lightadjust_general_preference_policy_values">
         <item>Авто</item>
-        <item>Changeifincrease</item>
-        <item>Changeifdecrease</item>
+        <item>Изменение при увеличении</item>
+        <item>Изменение при уменьшении</item>
     </string-array>
     <string-array name="zzzzz_lightadjust_general_preference_light_sensor_poll_rate_values">
         <item>Быстро</item>

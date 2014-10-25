@@ -6,8 +6,8 @@
     <string name="dialog_text">Это место было связано с точкой доступа, включить Wi-Fi?</string>
     <string name="disable_dialog_title">Отключить Wi-Fi?</string>
     <string name="disable_dialog_text">Это место находится далеко от ближайших точек доступа, отключить Wi-Fi?</string>
-    <string name="show_dialog">Не напоминать</string>
-    <string name="disable_show_dialog">Не напоминать</string>
+    <string name="show_dialog">"Не напоминать"</string>
+    <string name="disable_show_dialog">"Не напоминать"</string>
     <string name="wifi_enable_text">Близко к точке доступа</string>
     <string name="wifi_enable_summary">При попадении в зону действия точки доступа с уровнем сигнала 3 или выше и используется передача данных, включить Wi-Fi</string>
     <string name="wifi_disable_text">Далеко от точки доступа</string>
@@ -18,7 +18,7 @@
     <string name="wifi_auto_disable">Автоматическое отключение</string>
     <string name="wifi_popup_0">Когда произойдет соединение, введите данные в всплывающее окно</string>
     <string name="wifi_popup_1">Когда произойдет соединение, введите данные в всплывающее окно</string>
-    <string name="wifi_popup_2">Не напоминать</string>
+    <string name="wifi_popup_2">"Не напоминать"</string>
     <string name="confirm_yes">Да</string>
     <string name="confirm_no">Нет</string>
     <string name="enable_wifi_hint">Включена сеть Wi-Fi, для снижения потребления мобильных данных</string>

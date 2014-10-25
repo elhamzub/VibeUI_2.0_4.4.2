@@ -1,0 +1,2215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dangdang">Dangdang</string>
+    <string name="gome">Gome</string>
+    <string name="isring">Это спам-звонок, пожалуйста, повесьте трубку!</string>
+    <string name="localblack_noName">Неизвестно</string>
+    <string name="newcall">У вас есть новое системное сообщение</string>
+    <string name="no_replaysms">Извините! Я вам перезвоню!</string>
+    <string name="notify">Внимание</string>
+    <string name="safe_noti1">Безопасность активирована</string>
+    <string name="sign_local">Этот номер отмечен как %1$s</string>
+    <string name="sign_net">%1$d контакт отмечен как %2$s</string>
+    <string name="signtype1">Advertisement</string>
+    <string name="signtype2">Agency</string>
+    <string name="signtype3">Scam</string>
+    <string name="signtype11">Insurance</string>
+    <string name="signtype12">Financial Investment</string>
+    <string name="signtype13">After-sale Service</string>
+    <string name="signtype7">Express</string>
+    <string name="signtype8">Spam Calls</string>
+    <string name="signtype50">Other</string>
+    <string name="sendsms_fail">Fail to send the SMS</string>
+    <string name="command_content">Password#operation code. Phone data backup code:BF. Data deletion code: XH. Locking phone code: SD. Locating code: DW. Alarm sounding code: BJ--Security.</string>
+    <string name="message">It is send a SMS to</string>
+    <string name="message1">Are you sure to send it?</string>
+    <string name="notice"> It is </string>
+    <string name="notice1">, have blocked</string>
+    <string name="sendsms_no_service">No SMS service</string>
+    <string name="simSerialNumber_changed">Your phone has been locked as inserted an unknown SIM card. You can send commands:</string>
+    <string name="sms_content_11">I am</string>
+    <string name="sms_content_22">"【Security anti-theft alert】 SIM has changed！Please contact this number to confirm his identity. If his phone is lost,you can send these instructions to this phone number and help him retrieve phone.
+ Code#SD phone lock;
+ Code#BJ Alarm sound;
+ Code#DW Localization;
+ Code#XH data destroy."</string>
+    <string name="allow">Allow </string>
+    <string name="net_correct_fail">Fail to calibrate. The carrier data service may close.</string>
+    <string name="net_error_code">Require configuration information</string>
+    <string name="net_error_code1">Wrong configuration information</string>
+    <string name="net_error_code10">Fail to calibrate data usage</string>
+    <string name="net_error_code11">Fail to calibrate data usage, please calibrate manually</string>
+    <string name="net_error_code2">Fail to update configuration information</string>
+    <string name="net_error_code3">Matching rules missing</string>
+    <string name="net_error_code4">Fail to update matching rules</string>
+    <string name="net_error_code5">Carrier returns error</string>
+    <string name="net_error_code6">Parameter error</string>
+    <string name="net_error_code7">Operation is successful(get synchronization parameters and so on)</string>
+    <string name="net_error_code8">Unknown error</string>
+    <string name="net_error_code9">Attribution settings error</string>
+    <string name="net_no_able">Network error</string>
+    <string name="net_no_sim">SIM card is unavailable</string>
+    <string name="net_notice">The free data calibration SMS has been sent</string>
+    <string name="net_notice2">Fail to send data calibration SMS!</string>
+    <string name="net_traffic_correct_sucess2">The using data is</string>
+    <string name="net_traffic_correct_sucess3">The remaining data is</string>
+    <string name="back">Back</string>
+    <string name="opti_ani_text_memory_title">RAM</string>
+    <string name="one_key_speed_title_1">Optimize your phone performance.</string>
+    <string name="one_key_speed_notice_2">Accelerating</string>
+    <string name="title_hlmd">Ignore List</string>
+    <string name="white_list_lock_benefit">"Checked app(s) won't be disabled by Speed-up"</string>
+    <string name="whitelist_suggest_check">Suggest select</string>
+    <string name="text_add_app_empty">No apps</string>
+    <string name="rf_whitelist_tip">Add to Ignore List></string>
+    <string name="rf_system_app">System apps %1$s</string>
+    <string name="rf_three_party_app">User apps %1$s</string>
+    <string name="stop_application">End the apps</string>
+    <string name="phone_acc_getting_data">Getting data...</string>
+    <string name="task_manager_title">%1$d app(s) can be ended, %2$s memory used</string>
+    <string name="kill_process_one_key">End</string>
+    <string name="text_process_empty">Currently, no app needs cleanup.</string>
+    <string name="rf_are_you_sure_end_some_app">Are you sure to stop “%1$s”?</string>
+    <string name="rf_certain">OK</string>
+    <string name="rf_cancel">Cancel</string>
+    <string name="title_autorun_manage">Auto-start Apps</string>
+    <string name="autorun_already_forbid">Forbidden</string>
+    <string name="autorun_sign_boot">[Auto-start at the boot]</string>
+    <string name="autorun_sign_connectivity">[Auto-start when networking]</string>
+    <string name="autorun_sign_user_present">[Auto-start when unlocking]</string>
+    <string name="title_autonrun_boot">Auto-start at the boot</string>
+    <string name="title_autonrun_connectivity">Auto-start when networking</string>
+    <string name="suggest_forbid">Suggest to forbid</string>
+    <string name="opti_name">Speed-up</string>
+    <string name="phone_acc_used_memory">Used Memory</string>
+    <string name="one_key_speed_notice_0">Scanning your phone</string>
+    <string name="phone_acc_running_app">%1$s app(s) could be disabled</string>
+    <string name="one_key_speed_btn">Boost</string>
+    <string name="one_key_speed_btn_ok">Finish</string>
+    <string name="you_can_accelerate_2">End %1$s apps, release %2$s RAM</string>
+    <string name="one_key_speed_title_4">Your phone is in good condition</string>
+    <string name="ledroid_clear_manager">Space cleaning</string>
+    <string name="one_key_widget_clear_just_done1">None App(s)</string>
+    <string name="one_key_widget_clear_just_done2">need to clean</string>
+    <string name="one_key_widget_clear_app_count">End &lt;font color=#348213>%1$s&lt;/font> apps</string>
+    <string name="one_key_widget_clear_app_size">Release &lt;font color=#348213>%1$s&lt;/font> RAM</string>
+    <string name="shortcut_enter_protected_list">Set Ignore List</string>
+    <string name="autorun_dialog_title">Security Notice:</string>
+    <string name="autorun_dialog_message">%d app(s) auto-starting, please forbid them to boost your phone</string>
+    <string name="autorun_dialog_action_negative">Cancel</string>
+    <string name="autorun_dialog_action_positive">Enter</string>
+    <string name="notice_no_rooted_for_boot">You can not enable it without root privilege(root access)</string>
+    <string name="notification_scan_app_progress">(%1$d/%2$d)</string>
+    <string name="intercept_record_none">No content</string>
+    <string name="intercept_record_clearn_all">Logs have been cleared</string>
+    <string name="notificatio_ad_action_detail">Consume a little data</string>
+    <string name="notification_adbase_title">Ad Blocker</string>
+    <string name="notification_ad_count">Contain &lt;font color=#EE3B3B>&lt;b>%1$d&lt;/b>&lt;/font> ad-plugs</string>
+    <string name="notification_ad_count_title">" &lt;font color=#EE3B3B>&lt;b>%1$d&lt;/b>&lt;/font> apps can push ads"</string>
+    <string name="notification_need_root">Ad Blocker can be launched only with administrator privilege(root access)</string>
+    <string name="notification_noti_count_title">" &lt;font color=#EE3B3B>&lt;b>%1$d&lt;/b>&lt;/font> apps can push notification bar ad"</string>
+    <string name="notification_record_allow">Allowed</string>
+    <string name="notification_record_forbid">Forbidden</string>
+    <string name="notification_record_intercept">Notification Message Logs</string>
+    <string name="notification_ad_skip_text">Enable blocking ads in the apps</string>
+    <string name="notification_ad_switch_onekey">Enable</string>
+    <string name="notification_scan_summary">Scanning ads...</string>
+    <string name="notification_send_going_record">" &lt;font color=#EE3B3B>&lt;b> being pushed:&lt;/b>&lt;/font> %1$s"</string>
+    <string name="notification_send_record">Pushed &lt;font color=#EE3B3B>&lt;b>%1$d&lt;/b>&lt;/font> notification bar ad</string>
+    <string name="not_to_appmanager">This app has been uninstalled!</string>
+    <string name="radiobutton_notification_adinline">Ads-in-app</string>
+    <string name="radiobutton_notification_notification">Notification Bar Ad</string>
+    <string name="forbid_total">Forbidden</string>
+    <string name="notificatio_ad_action">Ad Action</string>
+    <string name="notificatio_adinline_ad_style">Style of Ads-in-app</string>
+    <string name="notificatio_adnoti_ad_style">Style of Notification Bar Ad</string>
+    <string name="notificatio_apps_constain_notify">Notification Ad</string>
+    <string name="notificatio_apps_contain_plugin">Plug-in Ad</string>
+    <string name="notification_adscan_reuslt_already_intercept">Blocked</string>
+    <string name="notification_have_no_yet">No Notification Bar Ad Detected</string>
+    <string name="notification_notiinfo_title">Manage ad-apps</string>
+    <string name="notificatio_record_title">Logs of Notification Bar Ad</string>
+    <string name="notificatio_report_adinlie_text">Detected Plug-in Ad</string>
+    <string name="notificatio_report_both_text">Both have</string>
+    <string name="notificatio_report_caluse">Report Reason</string>
+    <string name="notificatio_report_net_tips">*Your report will upload to database when network is available.</string>
+    <string name="notificatio_report_notificaiton_text">Detected Notification Bar Ad</string>
+    <string name="record_button_clear">Clear logs</string>
+    <string name="unobtain_root2">You need to get root access before setting up</string>
+    <string name="ad_report_summary">Plug-in ad</string>
+    <string name="notification_report_summary">Notification bar ad</string>
+    <string name="both_report_summary">Notification bar ad and Plug-in ad</string>
+    <string name="notification_record_remove">Delete</string>
+    <string name="notification_report">Report</string>
+    <string name="notification_already_report">Have reported</string>
+    <string name="notification_report_success">Report successfully</string>
+    <string name="notification_report_ad">Report ad-apps</string>
+    <string name="notification_report_ad_tips">Report ad_app needs traffic charged by operator</string>
+    <string name="notification_record_btn_cancel">Cancel</string>
+    <string name="notification_record_btn_ok">OK</string>
+    <string name="notification_clean_logs_sure">Clear all logs?</string>
+    <string name="notification_notify">Notification</string>
+    <string name="adv_desc">Ad Blocker</string>
+    <string name="against_theft">Anti-theft</string>
+    <string name="backup_text">Backup</string>
+    <string name="boot_app_healthcheckup_safe">Forbid apps auto-starting which are not necessary</string>
+    <string name="boot_app_healthcheckup_scan">%1$d auto-starting apps</string>
+    <string name="can_optimization76_99">Optimize to work in a better condition!</string>
+    <string name="can_optimization_item">Auto-optimized items</string>
+    <string name="canoptimize_text">Optimize</string>
+    <string name="charge_safe">Charge Guard</string>
+    <string name="clear_cache_done">Have cleaned cache %1$s</string>
+    <string name="clear_cache_scan">%1$s cache need to be cleaned</string>
+    <string name="clear_text">Clean</string>
+    <string name="danger_item">Dangerous items</string>
+    <string name="detail_killed_virus_num">%1$d virus(es) have been eliminated</string>
+    <string name="detail_no_virus"> No virus detected</string>
+    <string name="healthcheck_detail_num_virus">%1$d virus(es) detected, please eliminate them now.</string>
+    <string name="detail_running_app_process">%1$d app(s) are running, occupied %2$s memory</string>
+    <string name="has_optimization_item">Items have been optimized</string>
+    <string name="health_checking_item">Scanning: %1$s</string>
+    <string name="healthcheck_readPrivacy_can_op">%1$d app(s) can get your privacy</string>
+    <string name="healthcheck_readPrivacy_op">Have limited %1$d app(s) getting your privacy</string>
+    <string name="healthcheck_readPrivacy_safe">Security has forbidden app(s) getting your privacy which are not necessary.</string>
+    <string name="healthcheck_sendsms_can_op">%1$d apps can send SMS secretly</string>
+    <string name="healthcheck_sendsms_op">Have limited %1$d app(s) sending SMS secretly</string>
+    <string name="healthcheck_sendsms_safe">Security has forbidden app(s) sending SMS secretly.</string>
+    <string name="health_detail_lecloud">Contacts Backup</string>
+    <string name="killed_running_app_process">Stopped %1$d app(s), release %2$s memory</string>
+    <string name="kill_virus_dialog_content">The un-installation will begin to eliminate the virus app</string>
+    <string name="lesafe_nomal_checkup_item">Regular items…</string>
+    <string name="lesafe_sole_checkup_item">Special items…</string>
+    <string name="local_killvirus_text">Local Anti-virus</string>
+    <string name="main_tab_harass">Anti-spam</string>
+    <string name="main_tab_private">Privacy Guard</string>
+    <string name="manual_item">Optimizable items</string>
+    <string name="manual_optimizition_protect_thief_dialog_content">"Notice: You don't set up Security password. You can not enable Anti-theft without Security password."</string>
+    <string name="netscaning_sure">Cloud Scan</string>
+    <string name="net_virus_scaning">Cloud Scanning...</string>
+    <string name="no_open">Disabled</string>
+    <string name="no_open_anti">Anti-theft Disabled</string>
+    <string name="op_advertise_intercept_detail">Enable Ad Blocker</string>
+    <string name="op_auto_update_detail">Virus database auto-updating is enabled</string>
+    <string name="op_backup_contact_lecloud">Contacts backup successfully</string>
+    <string name="op_cache_detail">Clean cache</string>
+    <string name="open">Open</string>
+    <string name="open_theft">Enable Anti-theft</string>
+    <string name="op_harass_intercept_detail">Enable Anti-spam</string>
+    <string name="op_install_lecloud">Backup installed successfully</string>
+    <string name="op_lecloud_is_new">Backup updated successfully</string>
+    <string name="op_nosetTrafficLimit_detail">Data plan has been set</string>
+    <string name="op_protect_privacy_detail">Enable Privacy Guard</string>
+    <string name="op_protect_traffic_detail">Enable Charge Guard</string>
+    <string name="op_protect_virus_detail">Virus monitoring</string>
+    <string name="op_readPrivacyApp_detail">Disable all apps which read privacy information</string>
+    <string name="op_running_app_process_detail">Disable the running apps</string>
+    <string name="op_safehomepage_detail">Lenovo safe browser is enabled</string>
+    <string name="op_safeinput_method_detail">Enable password input protection</string>
+    <string name="op_safepaymen_detail">Enable on-line shopping protection</string>
+    <string name="op_sendsms_frombackgroud_detail">Disable all apps which send SMS secretly</string>
+    <string name="optimization_datail_num_item">%1$d item(s) need to optimize</string>
+    <string name="optimize_done_text">Optimization is completed</string>
+    <string name="optimizeing_text">Optimizing</string>
+    <string name="optimize_pause_text">Pause</string>
+    <string name="optimizition">Optimize</string>
+    <string name="paymentapp">Shopping Protection</string>
+    <string name="protecting_text">It is in protection</string>
+    <string name="safe">Safe</string>
+    <string name="safeinputmethod">Password Protection</string>
+    <string name="safeinputmethod_protecting">Password input protecting</string>
+    <string name="safe_item">Safe items</string>
+    <string name="safepaymen_protecting">On-line shopping monitoring</string>
+    <string name="scan_advertise_intercept_detail">Ad Blocker</string>
+    <string name="scan_auto_update_detail">Virus database auto-updating is not enabled</string>
+    <string name="scan_bootapp_detail">Scan auto-start apps</string>
+    <string name="scan_cache_detail">Scan cache</string>
+    <string name="scan_can_backup_contact_lecloud">Contacts has updated, please backup it</string>
+    <string name="scan_harass_intercept_detail">Anti-spam</string>
+    <string name="scaning_text">Scanning</string>
+    <string name="scan_lecloud_can_update">Backup has a new version</string>
+    <string name="scan_lowmemory_detail">The memory can be used is less than 20%</string>
+    <string name="scan_nerver_backup_contact_lecloud">Recommend you to backup contacts now</string>
+    <string name="scan_no_install_lecloud">Suggest you to use Lenovo Backup</string>
+    <string name="scan_nosetTrafficLimit_detail">Data plan is not set</string>
+    <string name="scan_nosetTrafficLimit_title">Set your data plan now?</string>
+    <string name="scan_protect_privacy_detail">Privacy Guard</string>
+    <string name="scan_protect_traffic_detail">Charge Guard</string>
+    <string name="scan_protect_virus_detail">Virus monitoring</string>
+    <string name="scan_readPrivacyApp_detail">Scan the apps reading privacy information</string>
+    <string name="scan_running_app_process_detail">Scan the running apps</string>
+    <string name="scan_safehomepage_detail">Lenovo Safe Browser</string>
+    <string name="scan_safehomepage_titledetail">Lenovo Safe Browser</string>
+    <string name="scan_safeinput_method_detail">Password input protection</string>
+    <string name="scan_safepaymen_detail">On-line shopping monitoring</string>
+    <string name="scan_sendsms_frombackgroud_detail">Scan the apps sending SMS secretly</string>
+    <string name="scan_traffic_monitor_detail">Scan the apps reading privacy information</string>
+    <string name="scan_virus">Scan the virus:</string>
+    <string name="set">Settings</string>
+    <string name="traffic_monitor">Data Usage</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="update_note_text">This operation may consume data. Are you sure that you are using WLAN?</string>
+    <string name="virus_protect">Virus monitoring</string>
+    <string name="virus_protecting">Anti-virus is active</string>
+    <string name="safe_main_install">Install</string>
+    <string name="init_perm">Initializing apps permission data</string>
+    <string name="one_key_optimization">Optimize</string>
+    <string name="download_app_link">Download</string>
+    <string name="can_backup_contact_txt">%1$d contacts numbers are need backup</string>
+    <string name="op_backup_contact_txt">Contacts has been backup</string>
+    <string name="wlan_auto_update_title">Auto-Updates Virus Database</string>
+    <string name="virus_lab_updated_text">Virus database update success.</string>
+    <string name="virus_lab_updated_newest">Virus database is up-to-date.</string>
+    <string name="virus_lab_updated_neterror">Update virus database ,no net or error.</string>
+    <string name="harass_lab_updated_text">Harassment database update success.</string>
+    <string name="harass_lab_updated_newest">Harassment database is up-to-date.</string>
+    <string name="harass_lab_updated_neterror">Update Harassment database ,no net or error.</string>
+    <string name="sign_call_lab_updated_text">Tag database update success.</string>
+    <string name="sign_call_lab_update_newest_text">Tag database is up-to-date.</string>
+    <string name="sign_call_lab_update_neterror_text">Tag database update success.</string>
+    <string name="permission_contract">《Security User Experience Improvement Program》</string>
+    <string name="permission_server">《Security Software License and Services Agreement》</string>
+    <string name="safecenter">Security</string>
+    <string name="share_to_firent_by_qrcode_detail_text">Sweep the QR code above, download me!</string>
+    <string name="share_to_firent_choose_mode_text">Share Security to your friends</string>
+    <string name="title_virus_lab">Virus Database</string>
+    <string name="us_bbs">Forum</string>
+    <string name="us_weibo">Weibo</string>
+    <string name="SUS_INSTALL_SUCCEED">Finish</string>
+    <string name="about">About</string>
+    <string name="all_update_lab_is_new_text">Virus, harassment, tag database has been updated!</string>
+    <string name="antivirusupdatepolicy_hand">Update manually</string>
+    <string name="app_lock_must_update">App Lock has an important update. Please download and install it for your normal using.</string>
+    <string name="battery_center">Lenovo Power</string>
+    <string name="biaoji_lab">Tag database</string>
+    <string name="click_cancel">Cancel</string>
+    <string name="click_done">Back</string>
+    <string name="click_pause">Pause</string>
+    <string name="detail_auto_update_off_note">Please update manually</string>
+    <string name="detail_update_version_rate">Current version:</string>
+    <string name="dialog_update_msg">The latest Security has been downloaded with WLAN, please install it!</string>
+    <string name="dialog_update_title">Security Upgrade Notice</string>
+    <string name="do_health_check">Run checkup!</string>
+    <string name="download_app_battery1">Lenovo Power is the most suitable system power-saving tool for Lenovo phone</string>
+    <string name="download_app_battery2">Intelligent power-saving, prolong more than 50% using time</string>
+    <string name="download_app_battery3">Master your battery information at the real time</string>
+    <string name="download_app_battery4">Find and end power-waste apps when locking screen</string>
+    <string name="download_app_cloud_sync1">Complete data backup</string>
+    <string name="download_app_cloud_sync2">Convenient quick sync</string>
+    <string name="download_app_cloud_sync3">Intelligent cloud control</string>
+    <string name="download_app_cloud_sync4">Easily photo sharing</string>
+    <string name="download_app_kidmode1">Child-exclusive, more humanity</string>
+    <string name="download_app_kidmode2">Child app control</string>
+    <string name="download_app_kidmode3">Limit using time for child</string>
+    <string name="download_app_lock_sync1">Add private contacts</string>
+    <string name="download_app_lock_sync2">Protect your private call logs and SMS against peeping</string>
+    <string name="download_app_lock_sync3">Encrypt photo, video and files, prevent privacy leaking</string>
+    <string name="download_app_lock_sync4">Lock private apps, keep your Vault</string>
+    <string name="email_text">Email</string>
+    <string name="error_diff">"Warning: You don't enter the same password at the second time. Please enter it again!"</string>
+    <string name="first_checkup">Launch for first</string>
+    <string name="first_pwd_error_insuff">Notice: Your first password is not 6 digits. Please enter it again!</string>
+    <string name="get_error">Information getting error</string>
+    <string name="go_">Enter</string>
+    <string name="harass_lab_text">Harassment database</string>
+    <string name="harass_lab_version">Harassment database:</string>
+    <string name="has_lab_update_note_message">%1$s has a new version, do you want to update now?</string>
+    <string name="has_new_update_note_text">Detect new version</string>
+    <string name="health_can_optimization100">"%1$d scores!
+Perfect!"</string>
+    <string name="health_can_optimization59">"%1$d scores!
+Terrible!"</string>
+    <string name="health_can_optimization60_84">"%1$d scores!
+Can be better!"</string>
+    <string name="health_can_optimization85_99">%1$d scores!</string>
+    <string name="health_check_but_no_optimiza">%1$d scores can be optimized!</string>
+    <string name="health_optimize_nofinished">The last optimization is not finished</string>
+    <string name="init_virus">Initializing virus database</string>
+    <string name="installed_text">Completed</string>
+    <string name="installing_text">Installing</string>
+    <string name="install_succeeded">Finished!</string>
+    <string name="kid_mode">Kid Mode</string>
+    <string name="kid_mode_detail">A safe kid paradise</string>
+    <string name="last_time_do">Ask me later</string>
+    <string name="lecloud">Lenovo Sync</string>
+    <string name="lecloud_safebackup">Backup professor</string>
+    <string name="never_updated_text">Never update</string>
+    <string name="new_help_text2">OK</string>
+    <string name="new_use">Launch</string>
+    <string name="next_step">Next step</string>
+    <string name="no_browser">Please install a browser app to watch it.</string>
+    <string name="no_health_check_2to7_day">%1$d days no check-up</string>
+    <string name="no_health_check_9_day">No check-up for a long time</string>
+    <string name="password_answer_no_null_text">The answer can not be null</string>
+    <string name="password_notice">Vault, Anti-theft are using the same Security password, please remember it!</string>
+    <string name="password_notice_title">Password is set up successfully!</string>
+    <string name="password_question_no_null_text">Password protecting answer can not be null</string>
+    <string name="privacy_safe">Vault</string>
+    <string name="pwd_set">Password Settings</string>
+    <string name="qrcode_text">QR code</string>
+    <string name="safe_backup">Backup-Lenovo Sync</string>
+    <string name="score_text" />
+    <string name="second_pwd_error_insuff">Notice: Your second password are not 6 digits. Please enter it again!</string>
+    <string name="share_dialog_detail_bluetooth_text">"1. Your partner has to turn on bluetooth
+2. Your partner has to open: let your device be detected"</string>
+    <string name="share_dialog_title_text">Share Security with bluetooth</string>
+    <string name="share_email_subject">Share you a wonderful security app</string>
+    <string name="share_sms_text">Hi, share you a wonderful security app---Security! It can block spam calls, messages and advertisements, monitor your data usage and protect you against virus and privacy peeping. The downloading link is http://safe.lenovo.com/laq/lesafe.apk</string>
+    <string name="share_to_firent_by_qrcode_title_text">Install with QR code</string>
+    <string name="share_to_firent_title_text">Share Security</string>
+    <string name="share_weixin_text">I have installed Security, a free security app. It can block spam calls and messages, monitor your data usage and protect you against virus and privacy peeping. The downloading link is http://safe.lenovo.com/laq/lesafe.apk</string>
+    <string name="signCall_lab_version">Tag database:</string>
+    <string name="sms">SMS</string>
+    <string name="switcher_bluetooth">Bluetooth</string>
+    <string name="title_auto_update">Auto-update</string>
+    <string name="title_update_version_rate">Security upgrade</string>
+    <string name="title_virus_lab_version">Virus database:</string>
+    <string name="update">Update</string>
+    <string name="update_and_pwd">Update</string>
+    <string name="update_date">Database update</string>
+    <string name="updateing_lab_wording_isquerying">Querying, please wait...</string>
+    <string name="update_text">Update</string>
+    <string name="update_version">Version upgrade</string>
+    <string name="weibo_text">Weibo</string>
+    <string name="weixin_text">WeChat</string>
+    <string name="first_use_password_setting_note_input_1">Enter 6-digit password</string>
+    <string name="first_use_password_setting_note_input_2">Enter password again</string>
+    <string name="go">Experience it now</string>
+    <string name="home_page">Visit official website</string>
+    <string name="password_answer_set_text">Answer:</string>
+    <string name="password_question_set_text">Password question</string>
+    <string name="password_question_text">Question:</string>
+    <string name="password_set_text">Password settings</string>
+    <string name="feedback">Feedback</string>
+    <string name="feedback_content">Your feedback</string>
+    <string name="feedback_mail">Your Email</string>
+    <string name="feedback_upload">Submit</string>
+    <string name="feedback_content_">Please modify your feedback content</string>
+    <string name="feedback_mail_">Email format error</string>
+    <string name="feedback_mail_null">Please enter your email address</string>
+    <string name="feedback_upload_done">Submit successfully! Thanks for your feedback!</string>
+    <string name="feedback_msg">Please describe your problem or suggestions in detail. We will try our best to solve them and improve our experience.</string>
+    <string name="feedback_mail_msg">Reply you if solved.</string>
+    <string name="feedback_progress">Sending the feedback, please wait...</string>
+    <string name="feedback_error">Network error. Your feedback has been saved, please try it later.</string>
+    <string name="installed_wigdet4x1_decrip">Clean-up widget installed successfully. You can add it to main screen manually.</string>
+    <string name="other_set">Other settings</string>
+    <string name="install_wigdet4x1">Install clean-up widget</string>
+    <string name="install_wigdet4x1_decrip">Click to install clean-up widget</string>
+    <string name="safe_homepage_title">Lenovo safe website</string>
+    <string name="safe_homepage_msg">Quickly, data-saving and safely searching the Internet</string>
+    <string name="block_icon">Blocking notice</string>
+    <string name="block_icon_info">Prompt when app(s) have dangerous behavior</string>
+    <string name="tap_switch">Anti-eavesdropping floating window</string>
+    <string name="tap_switch_des">Protect your call against eavesdropping.</string>
+    <string name="modify_password">Change password</string>
+    <string name="setting_password_text">Set up password</string>
+    <string name="nonet_float_window_close">Auto-hide when no network connection</string>
+    <string name="setting_shortcut_add_title">Clean-up shortcut</string>
+    <string name="setting_shortcut_add_des">Add clean-up shortcut to main screen</string>
+    <string name="net_traffic_window_fixed">Fixed data bar</string>
+    <string name="net_traffic_window_fixed_des">Fixed data bar on desktop</string>
+    <string name="net_traffic_window_desc">Data bar</string>
+    <string name="question1">FAQ 1. What are the advantages of Security?</string>
+    <string name="question2">FAQ 2. Where is Security available to download and how is it upgraded?</string>
+    <string name="question3">FAQ 3. Can Security be reinstalled after it is uninstalled?</string>
+    <string name="question4">FAQ 4. What if Security PIN is forgotten?</string>
+    <string name="question5">FAQ 5. Does mobile root or refresh have influence on normal use of Security?</string>
+    <string name="question6">FAQ 6. What is a tag?</string>
+    <string name="question7">FAQ 7. Does Security support dual-card phone?</string>
+    <string name="answer1">Answer: Security is a mobile security application designed by Lenovo. With such functions as Anti-spam, Privacy shield and Charge shield, Security can protect your mobile against any hacker attacks, fraud, charging and privacy spy. In addition, by clearing spam files and data from your mobile, it can boost your system and optimize your mobile to ultimate performance. It really achieves We have what others have not, and ours are Better in quality than others with its exclusive root permissions.</string>
+    <string name="answer2">Answer: Security is pre-installed into the mobile by default. You can upgrade it using Update on the mobile, or download and install it from safe.lenovo.com.</string>
+    <string name="answer3">Answer: Security is pre-installed into LePhone and can not be restored once uninstalled. You can download the official firmware from LEHUO FORUM or contact the after-sales center to restore the original system.</string>
+    <string name="answer4">"Answer: Security is not set with any initial password.
+For Security V3.6 or lower, the password can not be retrieved. If forgetting the password, do the following:
+Step 1: Back up the data (SYNCit recommended).
+Step 2: Restore the factory settings.
+Step 3: Upgrade Security.
+Step 4: Set a safe password in Security.
+For Security V4.1 on, you can retrieve the password by answering the security questions."</string>
+    <string name="answer5">Answer: Mobile root or refresh may affect normal use of Security. It is recommended to use it in the original system environment.</string>
+    <string name="answer6">Answer: Tag is one of the functions of Security to block unwanted calls. When there is an incoming call from an unknown number, we will provide the tag of this number, to help you confirm his/her identity. Meanwhile, you can also tag his or her identity after answering the call.</string>
+    <string name="answer7">Answer: Security supports Lenovo dual-card phone with Security V3.5 and above version preloaded.</string>
+    <string name="question1_3rd">Q1. What are the advantages of Security?</string>
+    <string name="question2_3rd">Q2. Where is Security available to download and how is it upgraded?</string>
+    <string name="question3_3rd">Q3. What if Security PIN is forgotten?</string>
+    <string name="question4_3rd">Q4. What is root? How to get it?</string>
+    <string name="question5_3rd">Q5. What you can get if you granted Security root privilege?</string>
+    <string name="question6_3rd">Q6. What is tag?</string>
+    <string name="answer1_3rd">Answer: Security is a mobile security application designed by Lenovo. With such functions as Anti-spam, Privacy shield and Charge shield, Security can protect your mobile against any hacker attacks, fraud, charging and privacy spy. In addition, by clearing spam files and data from your mobile, it can boost your system and optimize your mobile to ultimate performance. It really achieves We have what others have not, and ours are Better in quality than others with its exclusive root permissions.</string>
+    <string name="answer2_3rd">Answer: Security is pre-installed into the mobile by default. You can upgrade it using Update on the mobile, or download and install it from safe.lenovo.com.</string>
+    <string name="answer3_3rd">"Answer: Security is not set with any initial password.
+For Security V3.6 or lower, the password can not be retrieved. If forgetting the password, do the following:
+Step 1: Back up the data (SYNCit recommended).
+Step 2: Restore the factory settings.
+Step 3: Upgrade Security.
+Step 4: Set a safe password in Security.
+For Security V4.1 on, you can retrieve the password by answering the security questions."</string>
+    <string name="answer4_3rd">Root privilege is the system administrator privilege. You can monitor apps if you have root access. You can not have root access without system break. There is no official way to get root access, you have to use third-party apps to get it. And the acquisition process is risky.</string>
+    <string name="answer5_3rd">"Privacy Guard, restricts apps from accessing your privacy.
+Charge Guard, restricts apps from dialling and sending SMS in the background.
+Speed-up, restricts apps from auto-starting in the boot.
+Booster, ends the running apps.
+Network Firewall, restricts apps from networking secretly in the background."</string>
+    <string name="answer6_3rd">“Tag” is one function of Security that can help you against spam calls. When an unknown number comes, Security will provide you the tag information about this number. In addition, you can also tag this unknown number after you answering it.</string>
+    <string name="help">Help</string>
+    <string name="antispamhand_number_hit">Required</string>
+    <string name="Complete">Finish</string>
+    <string name="continue_Optimization">Continue to optimize</string>
+    <string name="health_checkup">Check-up</string>
+    <string name="help_tv_1">- Anti-theft -</string>
+    <string name="help_tv_2">Your data guard when your phone is lost</string>
+    <string name="thank_user" />
+    <string name="feedback_first_network_unavaliable">Welcome to use Security feedback system. Please connect your network and communicate with us!</string>
+    <string name="feedback_first_network_avaliable">Welcome to Security feedback system</string>
+    <string name="feedback_null_string" />
+    <string name="feedback_feedback_msg">Feedback in app</string>
+    <string name="feedback_send">Send</string>
+    <string name="feedback_send_msg_empty">The content can not be null!</string>
+    <string name="feedback_receive_msg">%s get your reply</string>
+    <string name="feedback_send_msg">%s send the message</string>
+    <string name="permission_server_detail">"Security Software License and Services Agreement
+ 重要须知:
+ 联想（北京）有限公司在此特别提醒用户认真阅读、充分理解本《软件许可及服务协议》（下称《协议》）--- 用户应认真阅读、充分理解本《协议》中各条款，特别涉及免除或者限制联想责任的免责条款，对用户的权利限制的条款，约定争议解决方式、司法管辖、法律适用的条款。请您审慎阅读并选择接受或不接受本《协议》（未成年人应在法定监护人陪同下阅读）。除非您接受本《协议》所有条款，否则您无权下载、安装或使用本软件及其相关服务。您的下载、安装、使用、帐号获取和登录等行为将视为对本《协议》的接受，并同意接受本《协议》各项条款的约束。 本《协议》是您（下称“用户”）与联想（北京）有限公司（下称“联想”）及其运营合作单位（下称“合作单位”）之间关于用户下载、安装、使用、复制“乐安全“ 以及使用联想公司相关服务所订立的协议。本《协议》描述联想与用户之间关于“软件”许可使用及服务相关方面的权利义务。“用户”是指通过联想提供的获取软件授权和帐号注册的途径获得软件产品及号码授权许可以及使用联想公司相关服务的个人或组织。 本《协议》可由联想随时更新，更新后的协议条款一旦公布即代替原来的协议条款，恕不再另行通知。用户可重新下载安装本软件或网站查阅最新版协议条款。在联想修改《协议》条款后，如果用户不接受修改后的条款，请立即停止使用联想提供的软件和服务，用户继续使用联想提供的软件和服务将被视为已接受了修改后的协议。 除本《协议》有明确规定外，本《协议》并未对利用本“软件”使用的联想或合作单位的其他服务规定相关的服务条款。对于这些服务，一般有单独的服务条款加以规范，用户须在使用有关服务时另行了解与确认。单独的服务条款与本协议有冲突的地方，以单独的服务条款为准。如用户使用该服务，视为对相关服务条款的接受。
+ 一．总则
+ 1．乐安全软件许可及服务协议（以下简称本软件及服务）是联想提供的安装在包括但不限于移动电话、PAD等各种无线手持终端上的拦截垃圾短信、骚扰电话、应用联网权限管理、病毒查杀等功能的软件和服务。
+ 2．乐安全软件及服务的所有权和运营权，以及业务规则及活动的解释权均归联想公司所有。
+ 3．本协议可视为《联想乐安全软件许可及服务协议》及《联想网站服务条款》的补充条款，与其构成统一整体，您对本协议的接受即受全部条款的约束，包括接受联想公司对任一服务条款随时所做的任何修改，这些条款可由联想公司随时更新，且毋须另行通知。（《联想乐安全软件许可及服务协议》及《联想网站服务条款》可于联想公司官方网站或相关产品中获得。）
+ 4. 若有违反本条款之规定，联想公司有权不经通知终止相关服务。
+
+ 二、知识产权声明
+ 1．“乐安全”软件是由联想开发。乐安全的一切版权、商标权、专利权、商业秘密等知识产权，以及与“软件”相关的所有信息内容，包括但不限于：文字表述及其组合、图标、图饰、图表、色彩、界面设计、版面框架、有关数据、印刷材料、或电子文档等均受中华人民共和国著作权法、商标法、专利法、反不正当竞争法和相应的国际条约以及其他知识产权法律法规的保护，除涉及第三方授权的软件或技术外，联想享有上述知识产权。
+ 2．未经联想书面同意，用户不得为任何营利性或非营利性的目的自行实施、利用、转让或许可任何三方实施、利用、转让上述知识产权，联想保留追究上述未经许可行为的权利。
+ 3．未经联想书面同意，用户不得对联想乐安全进行反向工程（reverse engineer）、反向编译（decompile）或反汇编（disassemble），联想保留追究上述未经许可行为的权利。
+
+ 三、联想“乐安全”软件授权范围
+ 1．用户可以为非商业目的在手机或其他无线手持终端上安装、使用、显示、运行本“软件”。用户不得为商业运营目的安装、使用、运行本“软件”，不可以对该软件或者该软件运行过程中释放到任何无线手持终端内存中的数据及该软件运行过程中客户端与服务器端的交互数据进行复制、更改、修改、挂接运行或创作任何衍生作品，形式包括但不限于使用插件、外挂或非经授权的第三方工具/服务接入本“软件”和相关系统。
+ 2．用户不得未经联想许可，将本“软件”安装在未经联想明示许可的其他终端设备上。包括但不限于机顶盒、游戏机、电视机、DVD机等。
+ 3．保留权利：未明示授权的其他一切权利仍归联想所有，用户使用其他权利时须另外取得联想的书面同意。
+ 4.用户在遵守法律及本《协议》的前提下可依本《协议》使用本“软件”，用户不得实施如下行为（包括但不限于）：
+ 4.1删除本软件及其他副本上一切关于版权的信息；
+ 4.2对本软件进行反向工程，如反汇编、反编译等；
+ 4.3修改、破坏本软件原状；
+ 4.4任何人进行任何危害网络安全的行为，包括但不限于：使用未经许可的数据或进入未经许可的服务器/帐户；未经允许进入公众网络或者他人操作系统并删除、修改、增加存储信息；未经许可企图探查、扫描、测试本“软件”系统或网络的弱点或其它实施破坏网络安全的行为； 企图干涉、破坏本“软件”系统或网站的正常运行，故意传播恶意程序或病毒以及其他破坏干扰正常网络信息服务的行为；伪造TCP/IP数据包名称或部分名称；
+ 4.5用户通过非联想公司开发、授权或认可的第三方兼容软件、系统登录或使用联想软件及服务，用户针对联想公司的软件和服务使用非联想公司开发、授权或认证的插件和外挂；
+ 4.6对于本“软件”相关信息等，未经联想书面同意，用户擅自实施包括但不限于下列行为：使用、出租、出借、复制、修改、链接、转载、汇编、发表、出版，建立镜像站点、擅自借助本“软件”发展与之有关的衍生产品、作品、服务、插件、外挂、兼容、互联等；
+ 4.7利用本“软件”发表、传送、传播、储存违反国家法律、危害国家安全、祖国统一、社会稳定、公序良俗的内容，或任何不当的、侮辱诽谤的、淫秽的、暴力的及任何违反国家法律法规政策的内容；
+ 4.8利用本“软件”发表、传送、传播、储存侵害他人知识产权、商业秘密权等合法权利的内容；
+ 4.9利用本“软件”批量发表、传送、传播广告信息及垃圾信息；
+ 4.10传送或散布以其他方式实现传送含有受到知识产权法律保护的图像、相片、软件或其他资料的文件，作为举例（但不限于此）：包括版权或商标法（或隐私权或公开权），除非用户拥有或控制着相应的权利或已得到所有必要的认可；
+ 4.11使用任何包含有通过侵犯商标、版权、专利、商业机密或任何一方的其他专有权利的方式利用本“软件”获得的图像或相片的资料或信息；
+ 4.12通过修改或伪造软件作品运行中的指令、数据、数据包，增加、删减、变动软件的功能或运行效果，不得将用于上述用途的软件通过信息网络向公众传播或者运营；
+ 4.13将本软件及联想提供的服务用于核设施运行、生命维持或其他会使人类及其财产处于危险之中的重大设备。用户明白本软件及联想提供的服务并非为以上目的而设计，如果因为软件和服务的原因导致以上操作失败而带来的人员伤亡、严重的财产损失和环境破坏，联想将不承担任何责任；
+ 4.14在未经联想公司书面明确授权前提下，出售、出租、出借、散布、转移或转授权软件和服务或相关的链接或从使用软件和服务或软件和服务的条款中获利，无论以上使用是否为直接经济或金钱收益；
+ 4.15其他以任何不合法的方式、为任何不合法的目的、或以任何与本协议不一致的方式使用本软件和和联想提供的其他服务；
+ 4.16用户若违反上述规定，联想有权采取终止、完全或部分中止、限制用户使用本软件的功能。
+ 5．使用本“软件”必须遵守国家有关法律和政策等，维护国家利益，保护国家安全，并遵守本《协议》。对于用户违法或违反本《协议》的使用而引起的一切责任，由用户负全部责任，一概与联想及合作单位无关；导致联想及合作单位损失的，联想及合作单位有权要求用户赔偿。
+ 6．如果用户未遵守本《协议》的任何一项条款，联想公司有权立即终止本《协议》，并保留通过法律途径追究责任的权利。
+ 7．本软件为免费软件。用户可以非商业性地下载、安装、复制和散发本软件产品。如果需要进行商业性的销售、复制和散发，例如软件预装和捆绑，必须获得联想公司的书面授权和许可。
+ 8．本软件为免费软件，使用本软件由用户承担风险，用户应具备本软件产品运行所需的条件，用户必须保证有权使用其运行所需操作系统。在适用法律允许的最大范围内，联想公司在任何情况下不就用户因使用或不能使用本软件产品所发生的特殊的、意外的、直接的或间接的侵权或遭致损失承担赔偿责任。即使已事先被告知该损害发生的可能性。
+
+ 四、使用须知
+ 特别提醒用户，使用互联网必须遵守国家有关的政策和法律，如刑法、国家安全法、保密法、计算机信息系统安全保护条例、知识产权法等，保护国家利益，保护国家安全，对于违法使用互联网络而引起的一切责任，由用户负全部责任。
+ 1．用户不得使用本软件进行违反国家法律制度的行为。
+ 2．本软件同大多数移动通讯终端软件一样，易受到各种安全及使用问题的困扰，联想均不承担相关责任。包括但不限于：
+ 2.1下载安装的其它软件中含有“特洛伊木马”等病毒，威胁到个人信息和数据的安全，继而威胁对本软件的使用。
+ 2.2浏览访问某些恶意网页时，导致移动通讯终端中毒、受损。
+ 2.3由于被下载文件提供者或网络、用户使用的软件及硬件设备等原因，导致无法正常下载。 3．用户应加强个人资料的保护意识，以免对个人生活造成不必要的骚扰。
+ 4．本“软件”的替换、修改和升级：联想保留在任何时候通过为您提供本“软件”替换、修改、升级版本的权利以及为替换、修改或升级收取费用的权利。本“软件”为用户默认开通“升级提示”功能，视用户使用的“软件”版本差异，联想提供给用户自行选择是否需要开通此功能。软件新版本发布后，联想不保证旧版本软件的继续可用。联想保留因业务发展需要，单方面对软件的部分功能效果进行改变或进行限制，用户需承担此风险。
+ 5.青少年上网应该在父母和老师的指导下，正确学习使用网络。青少年避免沉迷于虚拟的网络世界而影响了日常的学习和生活。
+ 6.联想公司敬请用户按照联想公司的指定网站或指定方式下载安装本软件产品。谨防在非指定网站下载本软件，以免移动通讯终端感染能破坏用户数据和获取用户隐私信息的恶意程序。
+ 7.尊重及保护用户信息的合法权益是联想公司一贯的制度。用户同意联想公司采取以下方式处理用户信息：
+ 7.1根据产品功能特点，经过用户许可，联想公司可能收集以下数据：
+ 7.1.1为对用户反馈意见进行用户回访或者在用户参加活动等的情况下，可能会要求用户输入或者上报用户手机号码，电子邮件地址信息等；
+ 7.1.2为了给用户提供云查杀等服务器计算的并下发指令的功能，会上报用户手机安装软件的相关信息；
+ 7.1.3根据用户的拦截设置，在启用智能拦截功能情况下，会向服务器上报需要拦截和处理的短信和疑似扣费短信；
+ 7.1.4为了给用户提供云查杀等需要服务器计算并下发指令的功能，会上报用户手机安装软件的相关信息；
+ 7.1.5用户对本软件的操作状态和使用行为信息等一些明确且客观反映在联想公司服务器端的基本记录信息和其相关信息，例如：手机IMEI，软件使用情况，软件升级请求信息，用户自行请求的信息或账号同步，用户登录使用本软件的地理位置信息等。
+ 7.1.6 其他提高软件服务的信息。
+ 7.2 用户对本软件的操作状态和使用行为信息等一些明确且客观反应在联想公司服务器端的基本记录信息和其他相关信息。例如：软件升级请求信息等。
+ 7.3用户同意联想公司基于下列原因需要使用用户的信息资源： 7.3.1执行软件验证服务；
+ 7.3.2执行软件升级服务；
+ 7.3.3提高用户的使用安全性并提供客户支持。 7.3.4改善或提高软件的技术和服务，例如，帮助我们了解用户使用软件和服务时遇到的问题，帮助我们改善我们软件和服务的质量、性能和安全性；
+ 7.3.5在用户同意的情况下，将根据用户信息所作出的统计数据、行为分析等非关联用户身份识别的信息提供给合作单位，用于呈现合作效果；
+ 7.3.6为用户发送通知及联想公司提供的服务信息；
+ 7.3.7 其他有利于用户利益和实现本软件功能的使用行为，例如，为用户扫描短信记录，以便于告知用户有扣费嫌疑的短信。
+ 7.4联想公司将会采取合理的措施保护用户信息，不向第三方公开、透露用户信息，除以下情形之外：
+ 7.4.1基于法律或法律赋予权限的政府部门要求；
+ 7.4.2用户同意联想公司公开、透露用户信息的；
+ 7.4.3用户与联想公司及第三方合作单位之间就用户信息公开或使用另有约定的；
+ 7.5 因用户使用第三方服务或者设备，可能导致用户信息通过其他方式透露给第三方，用户需自行了解第三方对用户信息保护的相关条款，联想公司不承担由此产生的风险。上述情形包括但不限于：
+ 7.5.1 由于本软件需通过移动运营商提供的网络向用户提供服务，运营商可能获取用户的部分信息。用户可查阅移动运营商的用户信息保护策略了解运营商处理用户信息的详情；
+ 7.5.2用户在移动设备上使用第三方应用程序。因第三方应用程序收集的用户信息可能发送至第三方进行处理。
+ 7.6 本软件的某些功能可能会让第三方知晓用户的信息。例如：用户通过乐安全提交的产品建议，乐安全可以公开。用户了解此本部分的信息公开和透露可能会给用户带来潜在风险，用户自行承担由此造成的风险，联想公司不为此承担责任。
+ 7.7用户可以选择不向联想公司提供用户信息，或者根据产品设置取消联想公司收集某些信息。因用户未向联想公司提供信息导致相关服务功能无法实现，联想公司不为此承担责任。 8 用户必须自行配备手机等无线手持终端上网和使用电信增值业务所徐的设备，自行负担个人手机等无线手持终端上网或第三方（包括但不限于电信或移动通信提供商）收取的通讯费、信息费等有关费用。如涉及电信增值服务的，我们建议您与您的点心增值服务提供商确认相关的费用问题。
+ 9. 您可使用本软件及服务发表属于您原创或您有权发表的观点看法、数据局、文字、信息、用户名、图片、照片、个人信息、音频、视频文件、链接等。您必须保证，您拥有你所上传内容的著作权已获得合法授权，您使用本软件及服务的任何行为未侵犯任何第三方之合法权益。
+ 10.本软件中可能存在网友等第三方提供之内容，您了解并且同意联想公司不能为用户行为负责。使用本软件及服务产生的所有风险由您个人承担，联想公司不对本软件及服务的适用性、合法性、安全性、无毒性做任何形式的保证。如果您发现本软件及服务中存在任何违法违规行为，有义务及时向联想公司举报。
+ 11. 用户不得利用本软件及服务进行故意制作、传播计算机病毒等破坏性程序，不得针对本服务、与本软件及服务连接的服务器或网络制造干扰、混乱，或违反连接本软件及服务的网络的任何要求、程序、政策或规则，否则联想将保留追究其法律责任的权利并有权将其提交给相关部门处理。
+ 12. 用户不得利用本软件及服务传播、复制、发送、上传和发布任何妨碍社会治安或非法、虚假、骚扰性、侮辱性、恐吓性、伤害性、破坏性、挑衅性、淫秽色情性等内容的信息。
+ 13. 用户依本协议条款所取得的服务权利不可转让。
+ 14. 如用户违反国家法律法规或本协议条款，本公司和合作公司将有权停止向用户提供服务而不需承担任何责任。如导致联想或其合作公司遭受任何损害或遭受任何来自第三方的纠纷、诉讼、索赔要求等，用户须向本公司或合作公司赔偿相应的损失，用户并需对其违反服务条款所产生的一切后果负全部法律责任。联想有权认定和删除用户所发表的任何不符合国家法律、法规和政策、本服务条款的任何文章、资料、图片、图表等内容，且不需要对用户另行通知。
+ 15. 联想公司保留在任何时候因为任何原因拒绝向任何人提供服务的权利。
+ 16. 用户须遵守包括但不限于以下严禁事宜：
+ 16.1 利用本软件及服务传播反对宪法所确定的基本原则的内容；
+ 16.2 利用本软件及服务传播危害国家安全，泄露国家秘密，颠覆国家政权，破坏国家统一的内容；
+ 16.3 利用本软件及服务传播损害国家荣誉和利益的内容；
+ 16.4 利用本软件及服务传播煽动民族仇恨、民族歧视，破坏民族团结的内容；
+ 16.5 利用本软件及服务传播破坏国家宗教政策，宣扬邪教和封建迷信的内容；
+ 16.6 利用本软件及服务散布谣言，扰乱社会秩序，破坏社会稳定的内容；
+ 16.7 利用本软件及服务散布淫秽、色情、赌博、暴力、凶杀、恐怖或者教唆犯罪的内容；
+ 16.8 利用本软件及服务传播侮辱或者诽谤他人，侵害他人合法权益的内容；
+ 16.9 利用本软件及服务传播含有法律、行政法规禁止的其他内容；
+ 16.10 利用本软件及服务上传任何病毒，木马，或者蠕虫等危害网络健康的内容；
+ 16.11 制作、发布、传播用于窃取QQ帐号及他人专属信息、财产、保密信息的软件；
+ 16.12 在未经联想公司书面明确授权的前提下，出售、出租、出借、散布、转移或转授权软件和服务或相关链接或从使用软件和服务或软件和服务的条款中获利，无论以上使用是否为直接经济利益或者金钱收益。
+ 16.13 其他以任何不合法的方式、为任何不合法的目的、或以任何与本协议不一致的方式使用本软件和联想提供的其他服务。
+ 17. 联想公司有权在服务中或经过服务投放各种广告和宣传信息，该广告可能以系统消息或弹出窗口等形式出现。
+ 18. 如因用户不遵守本条上述任意一款或者几款的规定，联想公司有权在不事先通知用户的情况下将相应的内容删除或采取终止、完全或部分中止、限制用户帐号的使用功能或停止用户使用本软件或服务，由此而造成的任何用户损失，由用户自行承担；如造成联想公司损失的，联想公司有权要求用户给予相应的赔偿，包括但不限于联想公司因此被国家机关予以行政处罚，或者被第三方通过诉讼或其他的方式索赔，赔偿范围包括但不限于罚款、赔偿金以及联想公司支付的相应的诉讼费、律师费。
+
+ 五、服务风险及免责声明
+ 1．利用的许可
+ 1.1 许可利用您的移动通讯终端：为了得到本“软件”所提供的利益，用户在此许可联想利用用户各种终端资源的处理器和带宽，用作容许其它联想“本软件及服务”软件使用者与用户通讯联络的有限目的。
+ 1.2 保护用户的移动通讯终端资源：用户认可本软件及服务将会尽其商业上的合理努力以保护用户的各种终端资源的隐私性和完整性，但是， 用户承认和同意联想不能就此事提供任何保证。
+ 2．联想公司特别提请用户注意，联想公司为了保障公司业务发展和调整的自主权，联想公司拥有随时修改或中断服务而不需通知用户的权利，联想公司行使修改或中断服务的权利不需对用户或任何第三方负责。用户必须在同意本条款的前提下，联想公司才开始对用户提供服务。
+ 3．用户违反本《协议》或相关的服务条款的规定，导致或产生的任何第三方主张的任何索赔、要求或损失，包括合理的律师费，用户同意赔偿联想与合作公司、关联公司，并使之免受损害。
+ 4．用户因第三方如通讯线路故障、技术问题、网络、移动通讯终端故障、系统不稳定性及其他各种不可抗力原因而遭受的一切损失，联想及合作单位不承担责任。
+ 5．因技术故障等不可抗事件影响到服务的正常运行的，联想及合作单位承诺在第一时间内与相关单位配合，及时处理进行修复，但用户因此而遭受的一切损失，联想及合作单位不承担责任。
+ 6.本软件及服务仅依其当前所呈现的状况提供，本软件及服务涉及到互联网及移动通讯等服务，可能会受到各个环节不稳定因素的影响。因此软件及服务存在因上述不可抗力、计算机病毒或黑客攻击、系统不稳定、用户所在位置、用户关机、GSM等移动网络、互联网络、通信线路原因等造成的服务中断或不能满足用户要求的风险。用户应加强信息安全及使用者资料的保护意识，要注意加强密码保护，以免遭致损失和骚扰。
+ 7. 如本公司的系统发生故障而影响到本服务的正常运行，本公司承诺在最短时间内与相关单位配合，及时处理进行修复。但用户因此而产生的经济损失，本公司和合作公司不承担责任。此外，联想保留不经事先通知为维修保养、升级或其他目的暂停本服务任何部分的权利。
+ 8. 非经联想或者联想授权开发并正式发布的其他任何由本软件衍生的软件均属非法、下载、安装、使用此类软件，将可能导致不可预知的风险，由此产生的一切法律责任与纠纷一概与联想无关。
+ 9.用户在使用本软件及服务时，须自行承担如下包括但不限于来自联想公司不可掌控的风险内容：
+ 9.1 由于无线网络信号不稳定、无线网络带宽小等原因，所引起的页面打开速度慢、软件下载速度慢等风险。
+ 9.2 用户必须选择与所安装电脑操作系统及手机操作系统相匹配的联想乐安全版本，否则，由于软件与终端设备不相匹配所导致的任何软件问题、终端问题或损害，均由用户自行承担。
+ 9.3 用户终端隐私信息在使用本软件及服务时可能产生的信息安全风险。
+ 9.4本软件中可能存在来自第三方的软件或信息内容，如您在使用过程中涉及第三方软件或信息内容，请遵循相应软件使用规则及用户协议。该部分内容由内容提供方承担相关全部责任，联想不保证其安全性、准确性、有效性及其他不确定的风险，由此若引发的任何争议及损害，与联想无关，联想不承担任何责任。
+ 10. 用户须明白，在使用本软件产品存在有来自任何他人的包括威胁性的、诽谤性的、令人反感的或非法的内容或行为或对他人权利的侵犯（包括知识产权）的匿名或冒名的信息的风险，用户须承担以上风险，本公司和合作公司对服务不作任何类型的担保，不论是明确的或隐含的，包括所有有关信息真实性、适商性、适于某一特定用途、所有权和非侵权性的默示担保和条件，对因此导致任何因用户不正当或非法使用服务产生的直接、间接、偶然、特殊及后续的损害，不承担任何责任。
+ 11．因用户使用本软件或要求联想提供特定服务时，本软件可能会调用第三方系统或第三方软件内容等支持用户的使用或访问，使用或访问的结果由该第三方提供，联想不保证通过第三方系统支持实现的结果的安全性、准确性、有效性及其他不确定的风险，由此若引发的任何争议及损害，与联想无关，联想不承担任何责任。
+ 12. 非经联想或联想授权开发并正式发布的其它任何由本“软件”衍生的软件均属非法，下载、安装、使用此类软件，将可能导致不可预知的风险，由此产生的一切法律责任与纠纷一概与联想无关。若用户因下载、安装、登陆、使用本软件等行为时接入由联想以外的其他软件提供者提供的软件、程序及其他内容等引发的任何争议或纠纷的，由相应的软件提供者独立负责解决和承担全部责任，与联想无关，用户应直接与软件提供者联系解决相关事项。
+ 13.本“软件”同大多数互联网软件一样，受包括但不限于用户原因、网络服务质量、社会环境等因素的差异影响，可能受到各种安全问题的侵扰，如他人利用用户的资料，造成现实生活中的骚扰；用户下载安装的其它软件或访问的其他网站中含有“特洛伊木马”等病毒，威胁到用户的移动通讯终端信息和数据的安全，继而影响本“软件”的正常使用等等。用户应加强信息安全及使用者资料的保护意识，要注意加强密码保护，以免遭致损失和骚扰。
+ 14. 本公司定义的信息内容包括：文字、软件、声音、相片、录像、图表；在广告中全部内容；本公司为用户提供的商业信息，所有这些内容受版权、商标权、和其它知识产权和所有权法律的保护。所以，用户只能在本公司和广告商授权下才能使用这些内容，而不能擅自复制、修改、编撰这些内容、或创造与内容有关的衍生产品。
+ 15.使用本“软件”必须遵守国家有关法律和政策等，维护国家利益，保护国家安全，并遵守本《协议》。对于用户违法或违反本《协议》的使用而引起的一切责任，由用户负全部责任，一概与联想及合作单位无关；导致联想及合作单位损失的，联想及合作单位有权要求用户赔偿，并有权保留相关记录。
+ 16. 非经联想或联想授权开发并正式发布的其它任何由本“软件”衍生的软件均属非法，下载、安装、使用此类软件，将可能导致不可预知的风险，由此产生的一切法律责任与纠纷一概与联想无关。用户不得轻易下载、安装、使用此类软件，否则，联想有权在不事先通知用户的情况下单方面终止用户对本软件的使用资格。
+ 17.您了解并且同意只要您使用本软件功能，您将遵守本条款中的权利义务，对一切行为负责；
+ 17.1您了解并且同意联想公司不能为用户行为负责。使用本软件及服务产生的所有风险由您个人承担，联想公司不对本软件及服务的适用性、合法性、安全性、无毒性做任何形式的保证。如果您发现本软件及服务中存在任何违法违规行为，有义务及时向联想公司举报。
+ 17.2用户不得利用本软件及服务进行故意制作、传播计算机病毒等破坏性程序，不得针对本服务、与本系统软件及服务连接的服务器或网络制造干扰、混乱，或违反连接本系统软件及服务的网络的任何要求、程序、政策或规则，否则联想公司将保留追究其法律责任的权利并有权将其提交给相关部门处理。
+ 17.3用户不得利用本软件及服务传播、复制、发送、上传和发布任何妨碍社会治安或非法、虚假、骚扰性、侮辱性、恐吓性、伤害性、破坏性、挑衅性、淫秽色情性等内容的信息。
+ 17.4用户依本协议条款所取得的服务权利不可转让。
+ 17.5如用户违反国家法律法规或本协议条款，本公司将有权停止向用户提供服务而不需承担任何责任。如导致联想公司遭受任何损害或遭受任何来自第三方的纠纷、诉讼、索赔要求等，用户须向本公司赔偿相应的损失，用户并需对其违反服务条款所产生的一切后果负全部法律责任。
+
+ 六. 服务及协议条款的变更
+ 联想公司有权在必要时修改本协议条款，协议条款一旦发生变动，将会在相关页面上公布修改后的协议条款。联想不负有另行通知用户的义务，用户应自行登录本系统查阅最新版协议条款。如果不同意所改动的内容，用户应主动取消此项服务。如果用户继续使用服务，则视为接受协议条款的变动。
+ 联想公司和合作公司有权按需要修改或变更所提供的收费服务、收费标准、收费方式、服务费、及服务条款。联想在提供服务时，可能现在或日后对部分服务的用户开始收取一定的费用如用户拒绝支付该等费用，则不能在收费开始后继续使用相关的服务。联想和合作公司将尽最大努力通过电邮或其他有效方式通知用户有关的修改或变更。
+
+ 七、争议管辖及适用法律
+ 本协议条款之效力和解释均适用中华人民共和国之法律。如协议条款之任何一部分与中华人民共和国法律相抵触，则该部分条款应按法律规定重新解释，部分条款之无效或重新解释不影响其它条款之法律效力。用户和联想一致同意凡因本服务所产生的纠纷双方应协商解决，协商不成任何一方可提交联想公司所在地北京市有管辖权的法院诉讼裁决。 联想等本文中提及的系统和服务名称有可能为联想的注册商标或商标，受法律保护。 联想版权所有，保留一切解释权利。
+
+ 八、联想乐安全用户体验改进计划
+ 欢迎您加入“联想乐安全用户体验改进计划”，为了改善产品的用户体验，联想乐安全（以下简称“乐安全”）会根据需要对产品的各项功能使用情况进行统计，我们可以通过分析统计数据持续不断地提升产品操作体验、运行性能，改善功能设计等，并且推出对用户有帮助的创新安全服务。在统计时，我们只对乐安全自身的内容进行统计，绝不涉及用户的个人隐私数据。
+ 1. 产品功能使用统计
+ 为及时应对不同手机平台新出现的恶意软件及木马的威胁，最大化地满足大多数用户的主要需求，我们会持续改善产品功能，因此我们需要了解每个产品功能的使用量，即有多少用户在使用这个产品功能，以便我们能够对每个产品功能的重要性做出正确判断，进而指导乐安全调整产品功能研发的优先级。乐安全会将用户点击某项功能按钮的次数回传到联想公司的服务器用以统计产品功能的使用次数，在此过程中，并不会涉及用户个人隐私数据。 例如通过统计，发现使用A功能的用户非常多，而使用B功能的用户非常少，那么我们可能会将更多的研发资源投入到A功能，快速改进A功能，让您有更好的使用体验。
+ 2. 产品升级统计
+ 我们希望通过对用户反馈的信息分析，尽最大的努力提升乐安全的易用性、稳定性、实用性。具体包括：
+ 1）及时更新到最新的病毒特征库，更准确更及时更彻底地查杀手机木马；
+ 2）更精准更智能地拦截骚扰电话和短信，让用户远离骚扰；
+ 3）让您更加安全、安心地使用数据云端备份功能； 4）使您更加便捷地使用手机各项开关、设置项及常用功能；
+ 5）增大您在手机不幸丢失时的找回机率并防止个人隐私信息泄露；
+ 6）提升乐安全的易用性，使用户操作更简便流畅；
+ 7）提供乐安全在不同手机环境中的稳定性、兼容性、美观度和功能体验等。
+ 3. 参加用户体验改进计划不会侵犯您的隐私
+ 联想乐安全严格遵守遵照国家有关的法律法规，本计划对相关数据信息的收集是完全匿名的，同时我们不会将收集的信息与其他任何个人信息进行匹配存储。我们仅为了提高软件对用户的服务质量和效率而收集相关信息，并将这些信息用于努力改善软件体验，绝不会因此而向您推送任何与软件和服务无关的信息。
+ 4. 确认加入“乐安全用户体验改进计划”
+ 安装乐安全，点击“立即体验”即代表参与乐安全用户体验改进计划。
+ 联想（北京）有限公司"</string>
+    <string name="permission_server_title">Security Software License and Services Agreement</string>
+    <string name="update_warnning">Please update the Security virus database, harassment database and mark database in time to protect your phone!</string>
+    <string name="net_warnning">This is 2G/3G network now. It will consume 2G/3G data if you updating Security, virus database, etc. And the data consumed will be charged by your car rier. So we suggest you to update with the WLAN!</string>
+    <string name="feedback_warnning">Attention: This is 2G/3G network now. It will use 2G/3G data to send feedback and it will be charged by your carrier.</string>
+    <string name="about_msg">Copyright©2014 Lenovo. All Rights Reserved.</string>
+    <string name="enable_net_desc">To protect your phone and privacy, Security requires network connection,read sms,read calllogs. and the fee will be charged by the operators.</string>
+    <string name="create_shortcut">Create success</string>
+    <string name="amg_apkfile">Apk Manager</string>
+    <string name="amg_title">App Manager</string>
+    <string name="app_in_phone">Downloaded</string>
+    <string name="app_in_sd">Internal SD card</string>
+    <string name="app_move">App Mover</string>
+    <string name="app_uninstall">App Uninstall</string>
+    <string name="available">Left: %1$s</string>
+    <string name="can_move_phone_size">%1$s apps can be removed to SD card</string>
+    <string name="can_move_sd_size">%1$s apps can be removed to phone</string>
+    <string name="check_sdcard">"Please check your whether you have inserted SD card
+or disconnect the memory mode between phone and computer."</string>
+    <string name="deling">Deleting:</string>
+    <string name="del_over">The app has deleted</string>
+    <string name="dialog_temp">Collecting data...</string>
+    <string name="disable_msg">Uninstall important system programs may induce crash or boot failure. Are you sure to uninstall %1$s apps selected?</string>
+    <string name="disable_over">%1$s apps uninstallation finished</string>
+    <string name="disabling">Uninstalling:</string>
+    <string name="empty_app_select">Select the app(s) need to remove</string>
+    <string name="empty_sys_app_select">Select the app(s) to uninstall</string>
+    <string name="enable_over">App recovery finished</string>
+    <string name="enabling">Restoring:</string>
+    <string name="installed_app">Apps installed:%1$s</string>
+    <string name="loading">Please wait...</string>
+    <string name="move_failed">%1$s app(s) fail to remove</string>
+    <string name="move_succeeded">%1$s app(s) succeed to remove</string>
+    <string name="move_to_phone">Remove to phone</string>
+    <string name="move_to_sd">Remove to SD card</string>
+    <string name="moving">Removing:</string>
+    <string name="no_move_phone_app">No apps can be removed to phone</string>
+    <string name="no_move_sd_app">No apps can be removed to SD card</string>
+    <string name="no_optimize_app">No apps can be uninstalled</string>
+    <string name="no_regain_app">No system apps can be recovered</string>
+    <string name="no_sdcard">No SD card</string>
+    <string name="no_uninstall_app">No apps can be uninstalled</string>
+    <string name="phone_available">ROM remaining: %1$s</string>
+    <string name="phone_no_move">"Your apps don't have to remove"</string>
+    <string name="phone_no_move_">"Data storage and internal storage share the same memory space, so you don't have to remove apps"</string>
+    <string name="recycle_bin">Recycle Bin</string>
+    <string name="share_dialog_msg">0 date, sharing apps quickly, install it now!</string>
+    <string name="share_disabled">Cannot launch Anyshare, is AnyShare disabled?</string>
+    <string name="sys_app_uninstall">App Freezing</string>
+    <string name="uninstall_all">Quick Uninstall</string>
+    <string name="uninstalling">Uninstalling…</string>
+    <string name="uninstall_msg">Do you want to uninstall %1$s app(s) selected?</string>
+    <string name="used">Used %1$s</string>
+    <string name="app_move_summary">Distribute storage space rationally</string>
+    <string name="app_share">App Sharing</string>
+    <string name="app_share_summary">AnyShare with no data consumed</string>
+    <string name="app_uninstall_summary">Manage third-party apps easily</string>
+    <string name="important_msg">"Uninstall important system programs may induce crash or boot failure. Please use it cautiously.
+If you have problems after uninstallation, you can recover it from Recycle Bin."</string>
+    <string name="power_off">"Please don't turn off your phone during operation"</string>
+    <string name="root_title">You can not use App Freezing without root access</string>
+    <string name="sd_storage">SD card</string>
+    <string name="sd_umount">not exist</string>
+    <string name="sys_app_uninstall_summary">Delete the pre-installed apps which are not used</string>
+    <string name="sys_storage">Memory</string>
+    <string name="suggest_hold">Suggest to retain</string>
+    <string name="suggest_restore">Suggest to recover</string>
+    <string name="del_btn">Delete permanently</string>
+    <string name="reagin_app">Recover</string>
+    <string name="no_disable_app">No apps can be frozen</string>
+    <string name="no_enable_app">No apps can be unfrozen</string>
+    <string name="disable_app_title">Unfrozen apps</string>
+    <string name="enable_app_title">Frozen apps</string>
+    <string name="freezing">Freezing:</string>
+    <string name="unfreezing">Unfreezing:</string>
+    <string name="disable_btn">Freeze</string>
+    <string name="enable_btn">Unfreeze</string>
+    <string name="empty_freeze_select">Please select the app(s) need to freeze</string>
+    <string name="empty_unfreeze_select">Please select the app(s) need to unfreeze</string>
+    <string name="freezed">%1$s app(s) frozen</string>
+    <string name="unfreezed">%1$s app(s) unfrozen</string>
+    <string name="freeze_prompt">Freezing app(s) that are not used commonly can save power and release memory</string>
+    <string name="vir_cloud_content">Your phone works well</string>
+    <string name="vir_cloud_nottitle">Cloud scanning finished</string>
+    <string name="antiviruslogdesc1">%1$s, no virus detected.</string>
+    <string name="antiviruslogdesc2">%1$s, virus detected.</string>
+    <string name="vir_cloud_title">Security Cloud Service Report</string>
+    <string name="antivirusapp_name">Anti-virus</string>
+    <string name="antivirusfull_system_scan2">Start Security Anti-virus Engine</string>
+    <string name="antivirusfull_system_scan3">Activate Tencent Virus Database</string>
+    <string name="antivirusfull_system_scan4">Activate BitDefender Virus Database</string>
+    <string name="antiviruslogdescfull4">No virus detected</string>
+    <string name="antiviruslogdescpart5">%1$s viruses detected</string>
+    <string name="antivirusrealtime_title">Virus Monitor</string>
+    <string name="antivirusscan_log">Logs</string>
+    <string name="antivirusvirus_dangerousdesc">Virus often disguise itself as an app to entice users to install. It will bring economic and other losses to users secretly.</string>
+    <string name="antivirusvirusname">Virus name: %1$s</string>
+    <string name="antivirusvirusnomatch">The signature of this app is the same with some virus, please use it cautiously.</string>
+    <string name="antivirusvirus_notifyadvice">Risk level: High. Suggest to uninstall</string>
+    <string name="antivirusvirus_readvice">Advice: %1$s</string>
+    <string name="antivirusvirus_readviceone">Suggest to uninstall</string>
+    <string name="antivirusvirus_readvicetwo">Suggest to stop or uninstall it</string>
+    <string name="antivirusvirus_scaning">Have scanned %1$s</string>
+    <string name="antivirusvirus_size">Size: %1$s</string>
+    <string name="antivirusvirus_state">Risk Level: %1$s</string>
+    <string name="antivirusvirus_statedescone">High Risk</string>
+    <string name="antivirusvirus_statedesctwo">Be cautious</string>
+    <string name="antivirusvirus_version">Version: %1$s</string>
+    <string name="button_kill_virus_home_page">Anti-virus</string>
+    <string name="clean_logs_sure">Clear all logs?</string>
+    <string name="closeantivirus_info">If closing Anti-virus, Security can not monitor virus and trojan. Are you sure to close it?</string>
+    <string name="closecloudscan_info">There will have better effect with Cloud Scanning, and it just consumes 2KB data. Are you sure to close Cloud Scanning?</string>
+    <string name="detail5_no_virus_home_page">Your phone is in good condition</string>
+    <string name="detail_first_virus_home_page">Please scan the app when first launches</string>
+    <string name="detail_num_virus_start">Detected %1$d</string>
+    <string name="detail_num_virus_end">virus(es), please clean virus</string>
+    <string name="dialogcontent">Checking for updates...</string>
+    <string name="downsuccess">Update successfully</string>
+    <string name="durtion_scan_virus">No scan for %1$d days</string>
+    <string name="durtion_scan_virus1">No scan for a long time</string>
+    <string name="local_has_virus_scan">Local scanning, detected %1$d</string>
+    <string name="local_has_virus_scan_end">virus(es)</string>
+    <string name="local_has_virus_scan1">Local scanning</string>
+    <string name="local_virus_scan">No virus detected by local scanning, now prepare for cloud scanning</string>
+    <string name="netdesc">Fail to connect network, please try again later...</string>
+    <string name="netscan_switch">Cloud Scanning</string>
+    <string name="netscan_switchdesc">If network is available, cloud scanning will launch automatically</string>
+    <string name="notice_no_net_text">Fail to connect network. Set the network to continue cloud scanning?</string>
+    <string name="scanfinish1">Have scanned %1$d core areas</string>
+    <string name="scanfinish2">Consume %1$d seconds</string>
+    <string name="scanfinish3">Cloud scanning consumes %1$s data</string>
+    <string name="scanfinish4">No virus app detected</string>
+    <string name="scan_virus_finish">Finish</string>
+    <string name="Seetings">Settings</string>
+    <string name="try_again">Try again</string>
+    <string name="versiondesc">Already the latest</string>
+    <string name="virus_info">Details of virus</string>
+    <string name="anti_setcouldbtitle">Tips of Security Cloud</string>
+    <string name="anti_setcouldstitle">If close, Security will never remind you of virus updating information.</string>
+    <string name="antispamswitch">Spam calls and messages</string>
+    <string name="antivirusapp_uninstall">Uninstall</string>
+    <string name="antivirusappvirus_nodeal">Ignore</string>
+    <string name="antivirusinfo1">Congratulations! Find eggs!:-)</string>
+    <string name="antivirusinfo2">Security! Always protecting you!</string>
+    <string name="antivirusinfo3">"Effective and Efficient
+Against all threats"</string>
+    <string name="antivirusinfo4">"Staff: 
+ Yongfeng Liu, Chunyan Dong, Jingchun Ruan, Cheng Zhang, Gan Li, Dapeng Yang, Fenglong Wu, Chang Liu, Xue Liu, Chuanchuan Yin, Haihang Yu, Li Wang"</string>
+    <string name="antivirusinfo5">"Find eggs! It is the best way to recover your stolen phone:-)
+ A girl sent a message to her stolen phone: I will go back home, the money I owed you is put in ***, you can come and get it. And then the thief who stole the phone was caught."</string>
+    <string name="antivirusnologdate">Logs have been cleared</string>
+    <string name="antiviruspermissions_label">Permission</string>
+    <string name="antivirusresulttitle">Scanning Report</string>
+    <string name="antivirussecurity_settings_desc">This app has the access to the contents in your phone</string>
+    <string name="antivirusvirus_advice">Suggest to uninstall</string>
+    <string name="antivirusvirus_dangerous">Risk Introduction</string>
+    <string name="antivirusvirus_uninstall">Uninstall</string>
+    <string name="clean_log">Clear logs</string>
+    <string name="ignore">Ignore</string>
+    <string name="now_kill_virus_home_page">Remove it</string>
+    <string name="op_virusLab_detail">Update</string>
+    <string name="strange_stitle">Block unknown number when enabling it</string>
+    <string name="del_virus_imm">Scan right now</string>
+    <string name="tip_virus_forcmcc">Update the virus database requires the use of a small amount of flow, charges will be charged by the operator</string>
+    <string name="backup_to_phone_ok_">)。</string>
+    <string name="backup_no_mail">【Security anti-theft alert】Sorry,The owner did not set up a backup mail.</string>
+    <string name="from_lesecurity">"
+--Security"</string>
+    <string name="backup_to_phone_no">【Security anti-theft alert】Sorry,something wrong with the network and data backup failed.</string>
+    <string name="backup_to_phone_ok">【Security anti-theft alert】 “data backup”command executed,please download data from your email(</string>
+    <string name="safeing">Security is active</string>
+    <string name="lock_screen_ok">【Security anti-theft alert】“phone lock”command executed,lost phone’s screen has been locked.</string>
+    <string name="distant_com">"Anti-theft commands instruction: Once other's phone is missing, you can send anti-theft commands to reduce the loss.
+The commands content:"</string>
+    <string name="prompt_content">"【Security anti-theft alert】I’m using the anti-theft feature of lenovo lesafe,if SIM has changed,your phone will receive a message. Please keep this massage.Once you lost your phone, you can send the following code to find your phone back through any device.
+ Code#SD lock your phone
+ Code#BJ sound the alarm 
+ Code#DW Localization
+ Code#BF data backup
+ Code#XH data destroy
+ By the way, I strongly recommend you to using Lesafe as well, to protect our photo together."</string>
+    <string name="prompt_content_cmcc">"【Security anti-theft alert】I’m using the anti-theft feature of lenovo lesafe,if SIM has changed,your phone will receive a message. Please keep this massage.Once you lost your phone, you can send the following code to find your phone back through any device.
+ Code#SD lock your phone
+ Code#BJ sound the alarm 
+ Code#DW Localization
+ Code#XH data destroy
+ By the way, I strongly recommend you to using Lesafe as well, to protect our photo together."</string>
+    <string name="call_user">Hello, I pick up the phone which set your number as the emergency number. Please call me back as soon as possible!--Security.</string>
+    <string name="takepicture">"Your phone has been locked. And someone tried to unlock it without your password.%1s
+Open the link above to see the photo taken by your phone front camera, which may be useful to you.--Security"</string>
+    <string name="icon_lock">Lock the phone:</string>
+    <string name="icon_lock_content">You can lock your stolen phone by sending the password #SD to it. Nobody can unlock your phone with your Security password. If entering the wrong password for 3 times, Security will take a photo with front camera in your phone and send it to your Safe Mobile Number</string>
+    <string name="icon_lock_content_nofront_camera">You can lock your stolen phone by sending the password #SD to it. Nobody can unlock your phone with your Security password</string>
+    <string name="icon_location">Locating:</string>
+    <string name="icon_location_content">You can locate your stolen phone by sending the password #DW to it</string>
+    <string name="icon_alarm">Alarm sounding:</string>
+    <string name="icon_alarm_content">You can launch the alarm sounding in your stolen phone by sending the password #BJ to it</string>
+    <string name="icon_backup">Data backup:</string>
+    <string name="icon_backup_content">You can back up your SMS and contacts to your backup mailbox by sending password #BF to it</string>
+    <string name="icon_dele">Data deletion:</string>
+    <string name="icon_dele_content">You can delete your private info and data in your stolen phone by sending password #XH to it</string>
+    <string name="send_prompt_btn">Backup Anti-theft commands</string>
+    <string name="send_prompt_info">Notice: Backup Anti-theft commands will send a SMS to carrier</string>
+    <string name="antithief_help">Retrieve phone</string>
+    <string name="antithief_help_">Help</string>
+    <string name="antithief_prompt">Introduction</string>
+    <string name="open_antithief">Enable Anti-theft</string>
+    <string name="open_antithief_content">Please enable Anti-theft right now</string>
+    <string name="antithief_protection">Anti-theft enabled</string>
+    <string name="tv_lock">Lock phone</string>
+    <string name="tv_location">Locating</string>
+    <string name="tv_alarm">Alarm sounding</string>
+    <string name="tv_backup">Data backup</string>
+    <string name="tv_dele">Data deletion</string>
+    <string name="tv_sim_change">SIM changed</string>
+    <string name="theft">Anti-theft</string>
+    <string name="antithief_settings">Anti-theft settings</string>
+    <string name="antithief_settings_service">Service switch</string>
+    <string name="antithief_settings_service_switch_tv1">Anti-theft service</string>
+    <string name="antithief_settings_other">Other settings</string>
+    <string name="antithief_settings_sim_change_set">SIM card changing settings</string>
+    <string name="antithief_settings_change_sim">Sending SMS when changed</string>
+    <string name="antithief_settings_backup_to_mail">Data backup mailbox</string>
+    <string name="antithief_set_mail">Set up data backup mailbox</string>
+    <string name="antithief_no_set_mail">Has not yet set up data backup mailbox</string>
+    <string name="antithief_no_set_number">Has not yet set up mobile phone number</string>
+    <string name="antithief_settings_backup_prompt">Backup Anti-theft commands</string>
+    <string name="input_phone_number">Please enter the phone number</string>
+    <string name="antithief_input_password">enter password</string>
+    <string name="phonenumber_error">The number you entered has incorrect format!</string>
+    <string name="antithief_password_fromt_error">The password is not correct!</string>
+    <string name="open_error_sim_not_ready">SIM card error</string>
+    <string name="sim_not_ready">SIM card error, can not send SMS</string>
+    <string name="msg_send_over">SMS has been sent</string>
+    <string name="disable_antitheft_tip">Are you sure to disable Anti-theft?</string>
+    <string name="antithief_sumbit">OK</string>
+    <string name="antithief_cancel">Cancel</string>
+    <string name="mail_error">The mailbox address you entered has incorrect format!</string>
+    <string name="antithief_safe_number">Emergency contact</string>
+    <string name="antithief_set_safe_number">Set up emergency contact</string>
+    <string name="antithief_edit_msg">Edit the SMS content when SIM card changed</string>
+    <string name="antithief_edit_msg_title">Edit the SMS content</string>
+    <string name="antithief_help_tv1">How to retrieve your missing phone?</string>
+    <string name="antithief_help_tv2">Please confirm enabling Anti-theft in your missing phone</string>
+    <string name="antithief_help_tv3">The number of stolen phone:</string>
+    <string name="antithief_help_tv4">The Security password of stolen phone:</string>
+    <string name="antithief_help_tv5">Anti-theft commands:</string>
+    <string name="send_on">Send</string>
+    <string name="antithief_recommend">Share Security to your friends</string>
+    <string name="help_1_tv">"1 Make sure your phone has enabled Anti-theft. Remember your Security password.
+
+2 If your phone is missing but SIM card is not changed, please send your Anti-theft commands to your missing phone so that you can avoid privacy leak.
+
+3 If your phone is missing and your SIM card has been changed, Security will send a SMS, which contains the new SIM card number, to your emergency contact. You can send Anti-theft commands to the new SIM card number to avoid privacy leaking."</string>
+    <string name="sms_content_1">Yes, I am</string>
+    <string name="sms_content_2">"【Security anti-theft alert】 SIM has changed！Please contact this number to confirm his identity. If his phone is lost,you can send these instructions to this phone number and help him retrieve phone.
+ Password#SD Phone Lock;
+ Password#BJ Alarm Sound;
+ Password#DW Localization;
+ Password#XH Data Destroy."</string>
+    <string name="antithief_no_set">"Don't set up"</string>
+    <string name="open_sucess">Congratulations! You have enabled Anti-theft!</string>
+    <string name="n1">1</string>
+    <string name="n2">2</string>
+    <string name="n3">3</string>
+    <string name="n4">4</string>
+    <string name="n5">5</string>
+    <string name="n6">6</string>
+    <string name="n7">7</string>
+    <string name="n8">8</string>
+    <string name="n9">9</string>
+    <string name="n0">0</string>
+    <string name="antithief_reset">Re-enter</string>
+    <string name="login">Unlock</string>
+    <string name="input_le_pwd">enter password</string>
+    <string name="locking">Security has locked the screen</string>
+    <string name="call_user_tv">Contact the owner</string>
+    <string name="call_user_over">The SMS has been sent to owner, thank you!</string>
+    <string name="dialog_change_sim">Your emergency contact will get the SMS when SIM card is changed</string>
+    <string name="dialog_set_mail">If your phone is missing, you can send data backup commands to your missing phone so that the data in your phone can be backup to your mailbox</string>
+    <string name="backup_mail_set">Backup email settings</string>
+    <string name="backup_to_phone_no_activity">Fail to send data backup email. Data network is unavailable.</string>
+    <string name="backup_to_phone_ok_activity">Please check the email in time</string>
+    <string name="first_set_safephone">Please set up your safe mobile number first!</string>
+    <string name="insert_sim">Please insert SIM card or close off-line mode!</string>
+    <string name="mail_send">The email has been sent,</string>
+    <string name="no_edit">No change</string>
+    <string name="remind">Anti-theft commands instruction</string>
+    <string name="safe_mail_address_save_no">Safe email is not set</string>
+    <string name="safe_phone_number_save_no">Safe mobile number is not set</string>
+    <string name="safe_phone_number_set">Safe mobile number settings</string>
+    <string name="sending">The backup email is sending</string>
+    <string name="send_off_">Stop to send</string>
+    <string name="send_sms_info">Security will send anti-theft commands content to your safe mobile number. It will consume one message cost, do you want to send it?</string>
+    <string name="set_now">Set up now</string>
+    <string name="setting_pwdok">Setting up successfully</string>
+    <string name="sim_pin">SIM card is in PIN/PUK state, you can not enable this function.</string>
+    <string name="againsttheft_Prompt">Anti-theft commands instruction</string>
+    <string name="alarm">Alarm sounding</string>
+    <string name="alarm_">Password#BJ</string>
+    <string name="all">Execute all</string>
+    <string name="all_">Password#ALL</string>
+    <string name="anti_theft">Anti-theft</string>
+    <string name="antitheft_remind">Anti-theft commands instruction:</string>
+    <string name="antitheft_remind1">1. The safe phone number will get a SMS when unknown SIM card inserted</string>
+    <string name="antitheft_remind2">2. Security password remote control needs sending the password to your missing phone. Security password#operation code as following:</string>
+    <string name="backup_now">Backup now</string>
+    <string name="backup_set_mail">Set up the backup email:</string>
+    <string name="bakup">Data backup</string>
+    <string name="bakup_">Password#BF</string>
+    <string name="destroy">Data deletion</string>
+    <string name="destroy_">Password#XH</string>
+    <string name="locate">Locating</string>
+    <string name="locate_">Password#DW</string>
+    <string name="locked">Locking the phone</string>
+    <string name="locked_">Password#SD</string>
+    <string name="mail_remind">Backup email instruction:</string>
+    <string name="mail_remind1">1. Backup range: contacts, SMS</string>
+    <string name="mail_remind2">2. Backup requirement: correct email address, network is available</string>
+    <string name="mail_remind3">3. Backup trigger: auto backup data to email inbox before data deletion or click Backup now</string>
+    <string name="mail_remind4">4. Email content: The email contains using method and two attachments. You can launch it with using method and attachments</string>
+    <string name="phone_remind">Please do not set your number as safe phone number</string>
+    <string name="safe_mail_title">Data Backup Mailbox</string>
+    <string name="safe_phone_number">Safe mobile number</string>
+    <string name="safe_phone_set_number">Set up safe mobile number:</string>
+    <string name="send_sms_promt">SMS with Anti-theft commands instruction</string>
+    <string name="send_sms_promt_is">Security will send Anti-theft commands instruction to safe mobile number</string>
+    <string name="send_to_phone">Send to phone</string>
+    <string name="sim_alarm_screen">Auto-lock screen</string>
+    <string name="sim_alarm_screen_msg">Auto-lock screen when unknown SIM card inserted. You need Security password to unlock it</string>
+    <string name="sim_alarm_set">Unknown SIM card inserting settings</string>
+    <string name="sim_alarm_sms">SMS notice</string>
+    <string name="sim_alarm_sms_msg">Security will send a SMS to safe mobile number when unknown SIM card inserted</string>
+    <string name="use_one_sms">It will consume a SMS</string>
+    <string name="dialog_use_one_sms">(It will consume a SMS)</string>
+    <string name="sumbit">Yes</string>
+    <string name="app_name">ApkManager</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="btn_default">Default</string>
+    <string name="appmgr_apk_files_delete">Delete</string>
+    <string name="appmgr_clear">Delete(%d)</string>
+    <string name="appmgr_apk_files_install">Install</string>
+    <string name="appmgr_dialog_canceling_title">Prompt</string>
+    <string name="item_label_apk_mgr">Apk Files</string>
+    <string name="menu_check_newversion">Select new version</string>
+    <string name="menu_check_oldversion">Select old version</string>
+    <string name="menu_check_damagedversion">Select damaged version</string>
+    <string name="menu_check_duplicateversion">Select duplicate version</string>
+    <string name="appmgr_install_state_installed">Installed</string>
+    <string name="appmgr_install_state_no_install">Not installed</string>
+    <string name="appmgr_install_title_installed">Installed:%1$s</string>
+    <string name="appmgr_install_title_no_install">Not installed:%1$s</string>
+    <string name="appmgr_no_target_to_delete">Select the app(s) to delete</string>
+    <string name="appmgr_no_target_to_install">Select the app(s) to install</string>
+    <string name="appmgr_apks_manager_uninstall_old_version">Old version</string>
+    <string name="appmgr_apks_manager_uninstall_new_version">New version</string>
+    <string name="appmgr_apks_manager_uninstall_damaged_version">Damaged</string>
+    <string name="appmgr_confirm_install_failed_title">Prompt</string>
+    <string name="install_failed">Fail to install</string>
+    <string name="appmgr_confirm_install_failed_message">%1$s failed to install: because %2$s</string>
+    <string name="appmgr_apks_manager_damaged_msg">%1$s installation package is damaged, delete it now?</string>
+    <string name="install_failed_out_of_space_dlg_text">Fail to install %1$s, please release memory and try it again.</string>
+    <string name="appmgr_damaged_apk_to_install">%1$d package(s) are damaged in selected packages, please deselect the damaged and then install.</string>
+    <string name="appmgr_root_install_message_init">Installing</string>
+    <string name="appmgr_root_install_message_result_all_success">%d app(s) installed successfully!</string>
+    <string name="appmgr_root_install_message_result_all_faild">%d app(s) failed to install!</string>
+    <string name="appmgr_root_install_finish_title">Install successfully</string>
+    <string name="appmgr_apks_manager_empty_title">No installation package</string>
+    <string name="appmgr_apks_manager_empty_summary">Put APK package into your SD card so that you can install it later.</string>
+    <string name="appmgr_apks_manager_installed_list_empty">No installation package</string>
+    <string name="appmgr_apks_manager_uninstall_list_empty">No uninstalled package</string>
+    <string name="appmgr_confirm_delete_title">Prompt</string>
+    <string name="appmgr_delete_opti_cache_tip">Delete %1$d package(s), free %2$s memory</string>
+    <string name="appmgr_popup_delete_confirm_message">Delete %1$d package(s) selected?</string>
+    <string name="dialog_cancel_message">Canceling, please wait…</string>
+    <string name="install_failed_invalid_apk">This package has been broken.</string>
+    <string name="install_failed_inconsistent_certificates">The package signature has existed.</string>
+    <string name="install_failed_older_sdk">This package is only available to advanced Android version.</string>
+    <string name="install_failed_cpu_abi_incompatible">This app is not compatible with your phone.</string>
+    <string name="appmgr_app_version">v%s</string>
+    <string name="appmgr_app_version_null" />
+    <string name="onekey_root_title_tip_info">Root permission denied, this function is unavailable.</string>
+    <string name="appmgr_toast_no_old_version">No apk in old version</string>
+    <string name="appmgr_toast_no_new_version">No apk in new version</string>
+    <string name="appmgr_toast_no_damage_version">No apk in damaged version</string>
+    <string name="appmgr_toast_no_duplicate_version">No apks in duplicate version</string>
+    <string name="appmgr_no_uninstall_apk">No apk uninstalled</string>
+    <string name="diskmgr_module_name">Space Clean-up</string>
+    <string name="title_activity_clean_main">Clean-up Master</string>
+    <string name="all_rubbish_files">Rubbish Files</string>
+    <string name="apk_delete">Clean</string>
+    <string name="low_usage_soft">Not-often-used Apps</string>
+    <string name="redundance_apk">APK Files</string>
+    <string name="radio_video_file">Media Files</string>
+    <string name="space_clean">Disk Scan</string>
+    <string name="stop_1">Stop</string>
+    <string name="space_scan">Disk Scan</string>
+    <string name="hand_clean">Manually ></string>
+    <string name="auto_clean">AutoClean</string>
+    <string name="unistall">Uninstall</string>
+    <string name="sure_unistall">Confirm to uninstall</string>
+    <string name="sure_delete">Confirm to delete</string>
+    <string name="month_not_use">month(s) with no use</string>
+    <string name="fifteen_days_not_use">No use for 15 days</string>
+    <string name="recommend_delete">Recommend</string>
+    <string name="recommend_unistall">Recommend</string>
+    <string name="other">Others</string>
+    <string name="other_apk">Others not installed</string>
+    <string name="clean_immediatly">Clean immediately</string>
+    <string name="sure_clean">Confirm to clean</string>
+    <string name="old_version">Old version</string>
+    <string name="apk_version">Version</string>
+    <string name="system_soft">System</string>
+    <string name="personal_soft">User</string>
+    <string name="video_and_radio">Meida</string>
+    <string name="photo">Photos</string>
+    <string name="space_detail">Details of Storage Space</string>
+    <string name="release_space">Release %1$s space</string>
+    <string name="operation_bar_size">(%1$s)</string>
+    <string name="repeat">Repeat</string>
+    <string name="have_cleaned">Finish</string>
+    <string name="cancle_dialog_message">Exit will terminate scanning</string>
+    <string name="cancle">Cancel</string>
+    <string name="not_found_sdcard">No SD card</string>
+    <string name="no_sdcard_deep_clean">No SD card</string>
+    <string name="deep_clean_contain">Space scanning contains</string>
+    <string name="phone">Phone</string>
+    <string name="sdcard">SD card</string>
+    <string name="rem_space">Free %1$s</string>
+    <string name="used_space">Used %1$s</string>
+    <string name="can_clean_space">Space can be cleaned %1$s</string>
+    <string name="is_scanning">Scanning...</string>
+    <string name="is_cleaning">Cleaning...</string>
+    <string name="already_cleared">Finish</string>
+    <string name="scan_finish">Scanning finishes</string>
+    <string name="scan_stop">Scanning stopped</string>
+    <string name="clean_done">Space clean-up is completed</string>
+    <string name="can_go_on_clean">Continue to clean-up</string>
+    <string name="have_release_space">Release memory %1$s</string>
+    <string name="sdcard_empty_audio">Your SD card does not have music</string>
+    <string name="used_totoal">%1$s/%2$s</string>
+    <string name="clear_rubbish">Rubbish Files</string>
+    <string name="apk_management">Apk Files</string>
+    <string name="media_information">Media Files</string>
+    <string name="novideo_check_select">Select the video needs delete</string>
+    <string name="video_dialog_delete">Delete the %1$d selected video?</string>
+    <string name="item_label_video">Delete Video</string>
+    <string name="video_total_size">Video size : %1$s</string>
+    <string name="audio_clear">Delete (%d)</string>
+    <string name="noaudio_check_select">Select the audio needs delete</string>
+    <string name="audio_dialog_delete">Delete the %1$d selected audio?</string>
+    <string name="item_label_audio">Delete Audio</string>
+    <string name="audio_total_size">Audio size : %1$s</string>
+    <string name="sdcard_empty">SD card Empty</string>
+    <string name="sdcard_empty_image">No photo in your SD card</string>
+    <string name="sdcard_empty_video">No video in your SD card</string>
+    <string name="reduce_weight_dialog_ok">OK</string>
+    <string name="reduce_weight_dialog_cancel">Cancel</string>
+    <string name="sdcard_dcim_usage">Photo</string>
+    <string name="sdcard_audio_usage">Audio</string>
+    <string name="sdcard_video_usage">Video</string>
+    <string name="nophoto_check_select">Select the photo needs %1$s</string>
+    <string name="photo_dialog_delete">Are you sure to delete the %1$d photo(s) selected?</string>
+    <string name="item_label_photo">Delete the photo(s)</string>
+    <string name="photo_total_size">Photo size: %1$s</string>
+    <string name="media_title">Audio and Video Files</string>
+    <string name="audio_delete_successed">Delete: %1$d audio(s), release %2$s</string>
+    <string name="video_delete_successed">Delete: %1$d video(s), release %2$s</string>
+    <string name="video_notexist">No video player</string>
+    <string name="audio_notexist">No audio player</string>
+    <string name="cache_file">Cache Files</string>
+    <string name="cleandiskcomma">,</string>
+    <string name="rubbish_clear">Clear Redundant Files</string>
+    <string name="sysclear_finish">Finish</string>
+    <string name="sysclear_cancel">Cancel</string>
+    <string name="sysclear_clear_one_key_process">Quick Clean (%d)</string>
+    <string name="sysclear_background_process">%s</string>
+    <string name="sysclear_free_memory">Used memory: %1$s(%2$s)</string>
+    <string name="sysclear_whitelist">Ignore List</string>
+    <string name="sysclear_whitelist_tips">Ignore</string>
+    <string name="empty" />
+    <string name="sysclear_autorun">Self-start Control</string>
+    <string name="sysclear_whitelist_manage">App(s) selected will not stop when Quick Clean</string>
+    <string name="sysclear_trash_root_folder">Residue list:</string>
+    <string name="sysclear_trash_searching">Scanning...</string>
+    <string name="sysclear_trash_empty_folder_num">Empty folders: &lt;font color=#ff8000>%1$s&lt;/font></string>
+    <string name="sysclear_trash_searching_title">Scanning: %1$s</string>
+    <string name="sysclear_trash_clean_undetected">No %1$s</string>
+    <string name="sysclear_cache_title">Cache</string>
+    <string name="sysclear_system_title">System</string>
+    <string name="sysclear_trash_title">Remanent</string>
+    <string name="sysclear_clear_finish">Finish</string>
+    <string name="sysclear_clear_one_key">Quick Clean</string>
+    <string name="sysclear_clear_report_done">Release %s memory</string>
+    <string name="sysclear_cache_tips">Items to clean:#%1$s#</string>
+    <string name="sysclear_cache_empty_title">No cache file</string>
+    <string name="sysclear_phone_storage">Used Memory</string>
+    <string name="sysclear_used_storage">Used: %s</string>
+    <string name="sysclear_free_storage">Remaining: %s</string>
+    <string name="sysclear_cate_system_temp">System Temporary Files</string>
+    <string name="sysclear_cate_thumbnail">Thumbnail Cache Files</string>
+    <string name="sysclear_cate_log">App Log Files</string>
+    <string name="sysclear_cate_lost_dir">Useless Files</string>
+    <string name="sysclear_cate_empty_dir">Blank Files List</string>
+    <string name="sysclear_cate_file_num">Files:&lt;font color=#ff8000>%1$s&lt;/font>, occupy &lt;font color=#ff8000>%2$s&lt;/font> memory</string>
+    <string name="sysclear_cate_scan_result">Redundant files: %1$s</string>
+    <string name="sysclear_trash_total_file_num">remanent lists: %1$s</string>
+    <string name="sysclear_no_opti_remanent">No remanent files</string>
+    <string name="sysclear_trash_no_sd_title">No SD card</string>
+    <string name="sysclear_trash_no_sd_summary">Please insert an SD card before using this function</string>
+    <string name="sysclear_cache_listview_delete_button">Clean-up</string>
+    <string name="sysclear_no_opti_process">No apps needs to clean in the background</string>
+    <string name="sysclear_no_opti_autorun">No start-up items need to optimize</string>
+    <string name="sysclear_no_opti_cache">No cache files</string>
+    <string name="sysclear_opti_item_list">Optimized items</string>
+    <string name="sysclear_opti_one_btn">Optimize</string>
+    <string name="sysclear_scan_finish">Finish</string>
+    <string name="sysclear_scanning">Scanning...</string>
+    <string name="sysclear_scan_comment">Optimize immediately</string>
+    <string name="sysclear_optiing">Optimizing...</string>
+    <string name="sysclear_opti_finish">Finish</string>
+    <string name="sysclear_opti_now_tip">Clean-up to accelerate your phone</string>
+    <string name="sysclear_opti_often_tip">Your phone will be in good condition with regularly clean-up</string>
+    <string name="sysclear_scan_process_tip">\#%1$d# app(s) running in the background, remaining #%2$s# memory</string>
+    <string name="sysclear_scan_cache_tip">\#%1$s# rubbish detected, occupy #%2$s# memory</string>
+    <string name="sysclear_scan_remanent_tip">\#%1$s# residue detected, occupy #%2$s# memory</string>
+    <string name="sysclear_scan_system_tip">\#%1$s# redundant files detected, occupy #%2$s# memory</string>
+    <string name="sysclear_scan_autorun_tip">\#%1$s# auto-start app(s) detected, #%2$s# of them are not necessary</string>
+    <string name="sysclear_scan_autorun_igore_tip">\#%1$s# auto-start app(s) detected, #%2$s# of them are in Ignore List</string>
+    <string name="sysclear_opti_process_tip">Stop #%1$s# app(s) in the background, release #%2$s# memory</string>
+    <string name="sysclear_opti_remanent_tip">Clean #%1$s# redundant files, release #%2$s# memory</string>
+    <string name="sysclear_opti_system_tip">Clean #%1$s# rubbish files, release #%2$s# memory</string>
+    <string name="sysclear_opti_cache_tip">Clean %1$d Cache, release memory</string>
+    <string name="sysclear_opti_cache_result">Clean %1$d Cache, release #%2$s# memory</string>
+    <string name="sysclear_opti_autorun_tip">Stop #%1$s# auto-start apps</string>
+    <string name="sysclear_opti_autorun_need_root">Stop auto-start apps needs root</string>
+    <string name="download_safecenter">Download Security to experience more features</string>
+    <string name="is_update_lable">Network Settings</string>
+    <string name="no_net_update_failure">Network error. Connect the network now?</string>
+    <string name="SUS_MSG_LATESTVERSION">It is the latest version!</string>
+    <string name="SUS_MSG_NOTFOUND">No updated version detected!</string>
+    <string name="SUS_MSG_FAIL_NETWORKUNAVAILABLE">Network is unavailable!</string>
+    <string name="SUS_MSG_DOWNLOADCOMPLETE">Downloading successfully, it is installing</string>
+    <string name="SUS_MSG_UPDATE_EXCEPTION">Fail to update, please try it later!</string>
+    <string name="SUS_SETTINGS_NEVERPROMPT">Never remind</string>
+    <string name="SUS_MSG_INSUFFICIENTSTORAGESPACE">Inadequate memory!</string>
+    <string name="SUS_VERSIONUPDATE">New version detected!</string>
+    <string name="SUS_UPDATEDESC">Update description:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERNAME">Version name:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERSIZE">Version size:</string>
+    <string name="SUS_UPDATESIZEPROMPT_WLAN">Suggest you to download with WLAN if DATA is not enough!</string>
+    <string name="SUS_UPDATE">Update</string>
+    <string name="SUS_CANCEL">Cancel</string>
+    <string name="SUS_NOTIFICATION_TITLE">Notice</string>
+    <string name="SUS_NOTIFICATION_UPDATINGPROMPT">Updating...Please wait!</string>
+    <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">Network error. Try to update it again now...</string>
+    <string name="SUS_NOTIFICATION_HIDE_BUTTONTEXT">OK, got it</string>
+    <string name="SUS_NOTIFICATION_ABORTUPDATE_BUTTONTEXT">Cancel updating</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(The window will auto-hide in</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_2">seconds)</string>
+    <string name="SUS_DOWNLOAD_TITLE">Security is downloading...</string>
+    <string name="SUS_DOWNLOAD">Inquire for downloading...</string>
+    <string name="SUS_DOWNLOAD_version">Notice: It will auto-install the new version when it downloads completely.</string>
+    <string name="new_cleanmgr_sdcard">SD Card</string>
+    <string name="sdcard_inner">Default SD</string>
+    <string name="sdcard_exteral">Exteral SD</string>
+    <string name="dbname">ledroid.opti.db</string>
+    <string name="flow_zero">0B</string>
+    <string name="float_window_dialog_remember">Remember my choice</string>
+    <string name="float_window_dialog_msg_disable">Are you sure to close data bar? You can re-launch it in Security Settings.</string>
+    <string name="info_failed">Operation error, please try it again...</string>
+    <string name="save">Save</string>
+    <string name="traffic_limit_setting">Set up data plan</string>
+    <string name="data_usage_empty">No data flow this month</string>
+    <string name="nac">Mobile network control</string>
+    <string name="app_can_conn_net">Apps: %1$d</string>
+    <string name="net_app_title">Network Firewall</string>
+    <string name="net_auto_correct_traffic_set">Auto-calibrate Periodically</string>
+    <string name="net_auto_correct_traffic_set_time">Auto-calibration Period</string>
+    <string name="net_cancel">Close</string>
+    <string name="net_correct_desc">Calibrate</string>
+    <string name="net_correct_limit_type">SIM card attribution</string>
+    <string name="net_correct_update_config">Retrieve from Cloud</string>
+    <string name="net_correct_update_config_input_null_error">Please fill the fields</string>
+    <string name="net_correct_update_config_net_error">Network error, unable to update</string>
+    <string name="net_correct_update_config_notice">Already using the latest</string>
+    <string name="net_correct_update_config_progress">Loading from Cloud...</string>
+    <string name="net_day">%1$d</string>
+    <string name="net_day_notice_title3">Daily data usage notice</string>
+    <string name="net_error_code13">Acquiring query instruction failed, please try again later.</string>
+    <string name="net_every_ten">Every 10 days</string>
+    <string name="net_first_select_provice">Province</string>
+    <string name="net_first_set_notice">Please set up your attribution first!</string>
+    <string name="net_month_free">Remaining</string>
+    <string name="net_monthly_balance_sheet_date">Billing date</string>
+    <string name="net_month_out_desc">Exceeded</string>
+    <string name="net_notice_desc">Tips</string>
+    <string name="net_notice_title">Data usage reminder</string>
+    <string name="net_ok">OK</string>
+    <string name="net_operators_u">中国联通</string>
+    <string name="net_operators_m">中国移动</string>
+    <string name="net_package_des1">No data plan</string>
+    <string name="net_selsect">Choose</string>
+    <string name="net_settings">Settings</string>
+    <string name="net_simcard_error3">No SIM card detected</string>
+    <string name="net_simcard_error4">No SIM</string>
+    <string name="net_sim_current_used_text">in use</string>
+    <string name="net_sim_location_set">Set up carrier info</string>
+    <string name="net_start_correct">Calibrate</string>
+    <string name="net_title1">SIM 1 Attribution Area</string>
+    <string name="net_title2">SIM 2 Attribution Area</string>
+    <string name="net_title3">Data Usage Calibration</string>
+    <string name="net_title4">SIM Card Attribution Area Settings</string>
+    <string name="net_today">Today</string>
+    <string name="net_traffic_anto_deny_desc">Disconnect network usage exceeding alert</string>
+    <string name="net_traffic_anto_deny_summary">Monthly %1$s data plan has reached, Do you want to cut off the network?</string>
+    <string name="net_traffic_anto_deny_noti_title">Notice</string>
+    <string name="net_traffic_anto_deny_title">Warning close the network</string>
+    <string name="net_traffic_background_app_useage">Background usage: %1$s</string>
+    <string name="net_traffic_check">Calibrate manually</string>
+    <string name="net_traffic_control">Data Usage</string>
+    <string name="net_traffic_daily_detail_title">Daily Detail</string>
+    <string name="net_traffic_daily_detail_title2">Daily Data Usage State</string>
+    <string name="net_traffic_daily_detail_title_app">Top 2G/3G Data-usage today</string>
+    <string name="net_traffic_daily_detail_title_app2">Top Data-usage today</string>
+    <string name="net_traffic_deny_text">Cut off(%1$ds)</string>
+    <string name="net_traffic_ignore">Ignore</string>
+    <string name="net_traffic_lookup">Check</string>
+    <string name="net_traffic_mobile_app_useage">DATA:%1$s</string>
+    <string name="net_traffic_phone_sim">SIM card</string>
+    <string name="net_traffic_show_data_noti_summary">A week has passed, please check the data usage state.</string>
+    <string name="net_traffic_show_data_noti_title">Notice</string>
+    <string name="net_traffic_sms_query_config_set">Calibrating Parameters Settings</string>
+    <string name="net_traffic_wlan_app_useage">WLAN:%1$s</string>
+    <string name="net_week">Every week</string>
+    <string name="traffic_month_limit_setting_text">Monthly data limit</string>
+    <string name="data_usage_empty_daily">No data flow today</string>
+    <string name="net_action_traffic_correct">Calibrate></string>
+    <string name="net_app_manager">Firewall</string>
+    <string name="net_correct_sms_content">SMS content</string>
+    <string name="net_correct_sms_to">Send number</string>
+    <string name="net_month_limit">Monthly data plan</string>
+    <string name="net_notice_sumary1">Wrong tariff settings will result in usage state error. Please call local carrier for details.</string>
+    <string name="net_notice_sumary2">"Calibrated data usage will be slightly different to the real data usage due to carrier's statistics delay."</string>
+    <string name="net_set_traffic_package">Set up data plan</string>
+    <string name="net_today_used">Today used</string>
+    <string name="net_traffic_continue_to_use">Continue</string>
+    <string name="net_traffic_mobile_fore_data_text">DATA Fore:</string>
+    <string name="net_traffic_mobile_back_data_text">DATA Back:</string>
+    <string name="net_traffic_show_donot_notice">Never remind</string>
+    <string name="net_traffic_wlan_fore_data_text">WLAN Fore:</string>
+    <string name="net_traffic_wlan_back_data_text">WLAN Back:</string>
+    <string name="not_root_net_control">"   Root privilege required"</string>
+    <string name="net_carry_info_set_title">Set up data plan</string>
+    <string name="net_next">Next</string>
+    <string name="net_correct_notice_title3">Calibration success notification</string>
+    <string name="net_every_day">Every day</string>
+    <string name="net_every_three_day">Every 3 days</string>
+    <string name="net_day2">Day</string>
+    <string name="net_traffic_package_limit">Data plan</string>
+    <string name="traffic_correct_parameter_desc">Calibration parameter settings</string>
+    <string name="net_traffic_notice_message">All Apps will be unable to use mobile data network when switching off, continue?</string>
+    <string name="net_traffic_notice_message2">All Apps will be unable to use WLAN when switching off, continue?</string>
+    <string name="net_traffic_notice_title">Notice</string>
+    <string name="net_traffic_notice_title6">Show data usage on notification bar</string>
+    <string name="net_traffic_notice_title7">Data usage showing Settings</string>
+    <string name="net_traffic_notice_title8">Set up notification bar showing card</string>
+    <string name="traffic_carry_mobile">China Mobile</string>
+    <string name="traffic_carry_un">China Unicom</string>
+    <string name="traffic_carry_tel">China Telecom</string>
+    <string name="traffic_no_sim">No SIM</string>
+    <string name="traffic_no_plan_set">Null</string>
+    <string name="net_cmcc_traffic_notice">Calibration requires a small amount of traffic,charged by the operator</string>
+    <string name="net_cmcc_traffic_notice2">Query code requires a small amount of traffic,charged by the operator</string>
+    <string name="permission_allow">Allow</string>
+    <string name="permission_deny">Forbid</string>
+    <string name="permission_notify">Notice</string>
+    <string name="permission_log_forbid">Forbid to </string>
+    <string name="allow_all_tip">Allow all may bring you security risk. Are you sure to allow all?</string>
+    <string name="allow_total">Allowed</string>
+    <string name="anti_privacy">Privacy Guard</string>
+    <string name="anti_privacy_closed">Privacy Guard has closed,</string>
+    <string name="anti_privacy_perm">Block Privacy-stolen Behavior</string>
+    <string name="anti_tariff_closed">Charge Guard has closed,</string>
+    <string name="anti_tariff_perm">Block Charge-stolen Behavior</string>
+    <string name="apply_perm">%1$d apps apply for permission,</string>
+    <string name="forbid_perm">%1$d apps forbidden</string>
+    <string name="apply_perm_nums">Apply %1$d permission,</string>
+    <string name="appmandesc">App permission</string>
+    <string name="apps_manage">Sort by apps</string>
+    <string name="app_tap_calling">Recording and Photographing</string>
+    <string name="close">Close</string>
+    <string name="deny_apps_count">%1$d apps can %2$s, %3$d forbidden</string>
+    <string name="exec_state">Executing</string>
+    <string name="forbid_perm_nums">%1$d forbidden</string>
+    <string name="full_trust">Total trust has been launched</string>
+    <string name="hadupload_log">Reported</string>
+    <string name="info_all">Notice all</string>
+    <string name="last_time">The latest recording time:</string>
+    <string name="localblack_successNotice">Report successfully</string>
+    <string name="neterror">Network connecting error</string>
+    <string name="not_control">"Security doesn't monitor"</string>
+    <string name="off_all">Forbid all</string>
+    <string name="on_all">Allow all</string>
+    <string name="perm_control_fail">Error</string>
+    <string name="perms_manage">Sort by permission</string>
+    <string name="privacy_perm_manage">permission Management</string>
+    <string name="privacy_record">Logs</string>
+    <string name="real_time_monitor">Monitoring</string>
+    <string name="report_sure">Are you sure to report this app?</string>
+    <string name="suggest">Suggest</string>
+    <string name="suggest_allow">Suggest to allow</string>
+    <string name="tariff_perm_manage">Charge Management</string>
+    <string name="times">times</string>
+    <string name="toast_allow_all">Have set to allow all</string>
+    <string name="toast_deny_all">Have set to forbid all</string>
+    <string name="toast_deny_num">Have forbidden %1$d apps %2$s</string>
+    <string name="toast_suggest">Have launched suggested configuration</string>
+    <string name="toast_tip_all">Have set to prompt all</string>
+    <string name="antispamnotice">Notice</string>
+    <string name="app_location_info">Get your location secretly</string>
+    <string name="app_logs">Logs</string>
+    <string name="app_privacy_info">Get your private information secretly</string>
+    <string name="find_tap_apps">Detect eavesdropping apps</string>
+    <string name="nodate">No non-system apps applying for permission</string>
+    <string name="nologdate">No logs</string>
+    <string name="recent_logs">No recent logs</string>
+    <string name="report">Report</string>
+    <string name="trust_apps">Trust apps</string>
+    <string name="detail_perm2">This app is a trust app</string>
+    <string name="detail_perm3">This app can do:</string>
+    <string name="find_antivirus">Virus detected. Please do not install!</string>
+    <string name="get_phoneloc">Get the location of your phone</string>
+    <string name="install_adv_stitle_off">Forbidden notification messages</string>
+    <string name="install_adv_stitle_on">Allowed notification messages</string>
+    <string name="install_boot_stitle_off">Forbidden self-start when boot</string>
+    <string name="install_boot_stitle_on">Allowed self-start when boot</string>
+    <string name="install_fail">Fail to install</string>
+    <string name="installing">Installing…</string>
+    <string name="install_success">Install successfully</string>
+    <string name="no_premit">"This app doesn't apply for any permission"</string>
+    <string name="pass_antivirus">No virus detected by Security</string>
+    <string name="permission_control">Privacy guard</string>
+    <string name="prase_error">Fail to resolve</string>
+    <string name="privacy_contact">Contacts,</string>
+    <string name="privacy_detail2">Get your private information(%1$s)</string>
+    <string name="privacy_history">Internet cookies,</string>
+    <string name="privacy_schedule">Schedule,</string>
+    <string name="privacy_sms">SMS,</string>
+    <string name="replace_tip">"This app will replace another app.
+
+System will save all your previous data."</string>
+    <string name="replace_tip_title">Are you sure to replace the previous app?</string>
+    <string name="safe_tip">"Forbid %1$s%2$s
+
+You can re-enable %3$s of Security"</string>
+    <string name="install_perm_loc">Get your phone location</string>
+    <string name="install_perm_record">Open the recording</string>
+    <string name="install_perm_camera">Open the camera</string>
+    <string name="virus_name">Virus name: %1$s</string>
+    <string name="checking_virus">Virus detecting…</string>
+    <string name="detail_perm">This app has those behaviors:</string>
+    <string name="detail_text">Details</string>
+    <string name="install">Install</string>
+    <string name="install_adv_title">Notification Bar Messages</string>
+    <string name="install_boot_title">Start in the boot</string>
+    <string name="installlocation">Select install location</string>
+    <string name="no_tip">Never remind</string>
+    <string name="run">Enable</string>
+    <string name="suggest_uninstall">Virus detected in the app. Please uninstall!</string>
+    <string name="virus_detail">Risk introduction: %1$s</string>
+    <string name="virus_risk">Virus: %1$s</string>
+    <string name="phonenum_null">The phone number can not be null</string>
+    <string name="send_off2">Deny(%1$ds)</string>
+    <string name="smscontent">SMS content:</string>
+    <string name="sms_content_null">The SMS content is null</string>
+    <string name="unknownapp">Unknown app</string>
+    <string name="upsuccess">Report successfully</string>
+    <string name="send_off_report">Report</string>
+    <string name="title">Warning</string>
+    <string name="install_failed_sd_full">Inadequate memory</string>
+    <string name="perm_send_sms">Send SMS</string>
+    <string name="perm_call">Dialing calls</string>
+    <string name="perm_rsms"> accessing SMS</string>
+    <string name="perm_rcontacts"> accessing Contacts and Call logs</string>
+    <string name="perm_history"> accessing browser history and bookmarks</string>
+    <string name="perm_calendar"> accessing Calendar</string>
+    <string name="perm_wsms"> writing messages to Inbox</string>
+    <string name="perm_rcalllogs"> accessing Call logs</string>
+    <string name="perm_rcontact"> accessing Contacts</string>
+    <string name="safe_defense_allow">Allow to </string>
+    <string name="safe_defense_deny">Forbid to </string>
+    <string name="safe_defense_notify">Notice to </string>
+    <string name="lesafe_pwd">Password</string>
+    <string name="input_password_answer_right">The answer is correct. Please re-set up your password!</string>
+    <string name="callings">Calls</string>
+    <string name="sendmsges">SMS</string>
+    <string name="tariff_record">logs</string>
+    <string name="tariff_set">Charge Guard Settings</string>
+    <string name="limit">Prevent apps to</string>
+    <string name="app_can">The following apps can</string>
+    <string name="sms_background">Forbid to charge secretly by SMS</string>
+    <string name="to_sms_back">Send SMS in the background</string>
+    <string name="call_background">Forbid to charge secretly by Calls</string>
+    <string name="to_call_back">Call in the background</string>
+    <string name="internet_backbround">Forbid to use data secretly by apps</string>
+    <string name="to_internet_back">Networking with DATA</string>
+    <string name="no_tariff_log">No secret-charging recently</string>
+    <string name="month_tariff">Monthly Charge Statistics</string>
+    <string name="sms_setting_text">SMS package settings</string>
+    <string name="sms_month_limit_setting_text">Monthly SMS package</string>
+    <string name="sms_month_warm_text">Monthly SMS package exceeding alert</string>
+    <string name="no_sms_package">No SMS package</string>
+    <string name="thismonth_send_sms_num">Send</string>
+    <string name="answer_call">Answer</string>
+    <string name="outgoing_call">Call</string>
+    <string name="article">messages</string>
+    <string name="minute">minute</string>
+    <string name="input_sms_month_num_text">Please set up your monthly SMS package:</string>
+    <string name="input_notice_text">SMS Package Settings</string>
+    <string name="set_tips">Please set up your monthly SMS package first!</string>
+    <string name="tariff_behavior">Charge logs</string>
+    <string name="privacy_behavior">Privacy logs</string>
+    <string name="neton_perm_manage">Open Network Switch</string>
+    <string name="del_apk_file">Delete installation package</string>
+    <string name="mms_background">Forbid to charge secretly by MMS</string>
+    <string name="mms_background_summary">Restrict apps from sending MMS in the background</string>
+    <string name="permission_sendmms">Send MMS</string>
+    <string name="permission_call">Make calls</string>
+    <string name="enable_net">Forbid to open Mobile Network/WLAN/Bluetooth secretly</string>
+    <string name="enable_net_summary">Restrict apps from opening Mobile Network/WLAN/Bluetooth secretly</string>
+    <string name="perm_change_net">Open Mobile Network/WLAN/Bluetooth secretly</string>
+    <string name="deny_tip">Forbid (%1$ds) </string>
+    <string name="remenber">Remember my choice</string>
+    <string name="perm_open_3g">Enable 2G/3G secretly</string>
+    <string name="perm_open_wifi">Enable WLAN secretly</string>
+    <string name="perm_open_bluetooth">Enable Bluetooth secretly</string>
+    <string name="unknown_apps_dlg_text">For security, your phone is set to block installation of apps obtained from unknown sources. Will you cancel it?</string>
+    <string name="unknown_apps_dlg_title">Install confirm</string>
+    <string name="unreport">This app no log,can not report</string>
+    <string name="perm_readmms">Read MMS</string>
+    <string name="permission_notice_intercep_3g">Enabling data connection produces data traffic which will be charged by your carrier. Are you sure to enable it?</string>
+    <string name="permission_notice_intercep_bluetooth">Enabling bluetooth produces bluetooth traffic. Are you sure to enable it?</string>
+    <string name="permission_notice_intercep_wifi">Enabling WLAN produces WLAN traffic. Are you sure to enable it?</string>
+    <string name="safe_defense_titleName_notice">Notice</string>
+    <string name="safe_defense_titleName_Alert">Alert</string>
+    <string name="cancel_tip">cancel(%1$ds)</string>
+    <string name="safe_defense_next_time_no_remenber">Remember my choice for next time</string>
+    <string name="edit_contact">Modify contacts</string>
+    <string name="edit_calllog">Modify call logs</string>
+    <string name="edit_sms">Modify messages</string>
+    <string name="permission_notice_intercep_title">Warning of sending SMS in the background</string>
+    <string name="permission_notice_intercep_send_on">Send</string>
+    <string name="permission_notice_intercep_report">Report</string>
+    <string name="permission_notice_intercep_phonenum_null">The phone number can not be null</string>
+    <string name="permission_notice_intercep_send_off2">Cancel(%1$ds)</string>
+    <string name="permission_notice_intercep_smscontent">SMS content:</string>
+    <string name="permission_notice_intercep_sms_content_null">The SMS content is null</string>
+    <string name="permission_notice_intercep_unknownapp">Unknown app</string>
+    <string name="permission_notice_intercep_upsuccess">Report successfully</string>
+    <string name="permission_notice_intercep_hadupload_log">Have been reported</string>
+    <string name="permission_notice_intercep_neterror">Network error</string>
+    <string name="permission_notice_intercep_net_unavilable">Network error</string>
+    <string name="permission_notice_intercep_ignore_current_setting">"Don't notice anymore"</string>
+    <string name="permission_notice_intercep_remenber">Remember my choice</string>
+    <string name="permission_notice_intercep_cancel">cancel(%1$ds)</string>
+    <string name="permission_notice_intercep_deny">Forbid(%1$ds)</string>
+    <string name="permission_notice_intercep_allow">Allow</string>
+    <string name="permission_notice_intercep_alert">Alert</string>
+    <string name="permission_notice_intercep_notice">Confirm</string>
+    <string name="permission_notice_intercep_system_open_3g_wifi_confirm">You are switching on %1$s, will cost %2$s data, please confirm to switch on?</string>
+    <string name="permission_notice_intercep_message">Try to send to %s a sms, may cause malicious charges, are you sure to send the sms?</string>
+    <string name="permission_notice_intercep_enable_net_confirm">Is trying to modify %1$s in the background,if open use%2$s traffic whether to allow?</string>
+    <string name="adb_install_btntxt">Confirm</string>
+    <string name="find_antivirus1">Virus detected. Please uninstall</string>
+    <string name="install_intercept_installed_result_failed">Time waiting to install %s is timeout, please try again</string>
+    <string name="default_app_name">Unkown Name</string>
+    <string name="permission_records_when_calling">When you are calling</string>
+    <string name="permission_dialog_never_notice">Never prompt</string>
+    <string name="permission_ok">OK</string>
+    <string name="permission_known">OK, I know</string>
+    <string name="permission_cancel">Cancel</string>
+    <string name="permission_is_update_lab_text">Update it now?</string>
+    <string name="permission_forbid">Forbid</string>
+    <string name="permission_no_null_limit_input_num_text">Can not input empty text</string>
+    <string name="permission_no_zero_limit_input_num_text">The data plan can not be 0</string>
+    <string name="permission_hour_text">hours</string>
+    <string name="permission_minute">minutes</string>
+    <string name="permission_failed_to_inject">Failed to start monitor service, it is suggested to restart phone</string>
+    <string name="permission_failed_to_inject_part_so">Failed to load whole monitor service, it is suggested to restart phone</string>
+    <string name="replance_warning">发现相同版本安装,应用数据可能丢失,建议取消!</string>
+    <string name="no_lenovoid">有数据丢失风险，要覆盖安装此游戏可能导致游戏进度和装备丢失，建议取消!</string>
+    <string name="dlg_ok">OK</string>
+    <string name="app_not_found_dlg_title">App not found</string>
+    <string name="app_not_found_dlg_text">"The app wasn't found in the list of installed apps."</string>
+    <string name="uninstall_application_title">Uninstall app</string>
+    <string name="uninstall_update_title">Uninstall update</string>
+    <string name="uninstall_activity_text">%1$s is part of the following app:</string>
+    <string name="uninstall_application_text">Do you want to uninstall this app?</string>
+    <string name="uninstall_update_text">Do you want to replace this app with the factory version?</string>
+    <string name="uninstall_done">Uninstall finished.</string>
+    <string name="uninstall_failed">Uninstall unsuccessful.</string>
+    <string name="uninstall_failed_device_policy_manager">"Can't uninstall because this package is an active device administrator."</string>
+    <string name="manage_device_administrators">Manage device administrators</string>
+    <string name="uninstall_failed_msg">"%1$s couldn't be uninstalled."</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="uninstall_anyshare_text_2">You will delete the system-wide transmission tool, which will affect the gallery, contacts, and other system-related functions.</string>
+    <string name="uninstall_anyshare_text_1">Should you require it in the future, SHAREit may be downloaded from the Lenovo App Store.</string>
+    <string name="ok_anyshare_2">Uninstall</string>
+    <string name="cancel_anyshare_2">Cancel</string>
+    <string name="ok_anyshare_1">Uninstall</string>
+    <string name="cancel_anyshare_1">Cancel</string>
+    <string name="uninstall_carapplication_text_3">Driving without a driving app can be dangerous, think of the distractions, police checks, roadside scams, and getting lost … … Let me take care of all that!</string>
+    <string name="uninstall_carapplication_text_2">I believe you will get your own car soon. Be it a car sale, a windfall, or some unexpected income, getting a car will be a piece of cake.</string>
+    <string name="uninstall_carapplication_text_1">"But, our engineers spent so much effort developing the app… what's more, an app like me is hard to come by. Come on, give me a chance."</string>
+    <string name="ok_carapplication_3">Uninstall</string>
+    <string name="cancel_carapplication_3">Keep you</string>
+    <string name="ok_carapplication_2">Uninstall</string>
+    <string name="cancel_carapplication_2">Cancel</string>
+    <string name="ok_carapplication_1">Confirm</string>
+    <string name="cancel_carapplication_1">Cancel</string>
+    <string name="uninstall_supernote_text_3">Remove Lenovo Note now?</string>
+    <string name="uninstall_supernote_text_2">Surely you have tapped on uninstall by mistake?</string>
+    <string name="uninstall_supernote_text_1">Do remember to pick me up from the Lenovo App Store.</string>
+    <string name="ok_supernote_3">Just now</string>
+    <string name="cancel_supernote_3">Later</string>
+    <string name="ok_supernote_2">No</string>
+    <string name="cancel_supernote_2">Yes</string>
+    <string name="ok_supernote_1">Confirm</string>
+    <string name="cancel_supernote_1">May be</string>
+    <string name="uninstall_magicplus_text_2">Mobile Assistant is an official Lenovo app that provides highly efficient connection between your mobile phone and computer, uninstall?</string>
+    <string name="uninstall_magicplus_text_1">Manage all aspects of your mobile phone with just one application. Download the “Mobile Assistant” from the Lenovo App Store.</string>
+    <string name="ok_magicplus_2">Confirm</string>
+    <string name="cancel_magicplus_2">Cancel</string>
+    <string name="ok_magicplus_1">Confirm</string>
+    <string name="cancel_magicplus_1">Cancel</string>
+    <string name="uninstall_videotalk_text_2">I offer you free video chats! Can you really live without me?</string>
+    <string name="uninstall_videotalk_text_1">Alright then. If you change your mind, I may be downloaded from the Lenovo App Store.</string>
+    <string name="ok_videotalk_2">Uninstall</string>
+    <string name="cancel_videotalk_2">Cancel</string>
+    <string name="ok_videotalk_1">Uninstall</string>
+    <string name="cancel_videotalk_1">Cancel</string>
+    <string name="uninstall_playerstutorial_text_2">"I know all the secrets to %s (model of mobile phone), and I don't usually share them. But if you keep me, I will teach you well."</string>
+    <string name="uninstall_playerstutorial_text_1">This exclusive information will be lost to you should I be removed. If you want me back, I will be at the Lenovo App Store.</string>
+    <string name="ok_playerstutorial_2">Confirm</string>
+    <string name="cancel_playerstutorial_2">Cancel</string>
+    <string name="ok_playerstutorial_1">Confirm</string>
+    <string name="cancel_playerstutorial_1">Cancel</string>
+    <string name="uninstall_service_text_3">I am the ultimate official Lenovo app designed to solve your problems wherever and whenever it is required. What will you do without me?</string>
+    <string name="uninstall_service_text_2">"Can't you hear my heart breaking? Don't you need me anymore?"</string>
+    <string name="uninstall_service_text_1">"Maybe you'll come back for me… I will be waiting at the Lenovo App Store"</string>
+    <string name="ok_service_3">Confirm</string>
+    <string name="cancel_service_3">Cancel</string>
+    <string name="ok_service_2">No</string>
+    <string name="cancel_service_2">Yes</string>
+    <string name="ok_service_1">Confirm</string>
+    <string name="cancel_service_1">Cancel</string>
+    <string name="perm_c_location"> accessing location info</string>
+    <string name="perm_record"> recording</string>
+    <string name="perm_camera"> camera/video</string>
+    <string name="perm_wcontact"> changing Contacts</string>
+    <string name="location">My position</string>
+    <string name="permission_notification_forbid">Forbid %s to</string>
+    <string name="permission_notification_when_calling">In calling </string>
+    <string name="permission_lowercase_calendar">%s read calendar</string>
+    <string name="permission_lowercase_call">%s make a call</string>
+    <string name="permission_lowercase_brower_history">%s read browser cookies and bookmarks</string>
+    <string name="perm_internet"> accessing network</string>
+    <string name="permission_perm_privacy_info">Get your information</string>
+    <string name="permission_lowercase_rcalllogs">%s read call logs</string>
+    <string name="permission_lowercase_rcontact">%s read contacts</string>
+    <string name="permission_perm_rcontacts">read contacts and call logs</string>
+    <string name="permission_lowercase_rsms">%s read SMS</string>
+    <string name="permission_lowercase_send_sms">%s send SMS</string>
+    <string name="permission_perm_tap_calling">Camera and recorder</string>
+    <string name="permission_lowercase_wsms">%s write message to message box</string>
+    <string name="permission_lowercase_readmms">%s read MMS</string>
+    <string name="permission_time_d">Day</string>
+    <string name="permission_time_m">Month</string>
+    <string name="permission_get_contact">%s read contacts</string>
+    <string name="permission_lowercase_edit_contact">%s modify contacts</string>
+    <string name="permission_get_calllog">%s read call logs</string>
+    <string name="permission_lowercase_edit_calllog">%s modify call logs</string>
+    <string name="permission_sms">SMS</string>
+    <string name="permission_get_sms">%s read messages</string>
+    <string name="permission_edit_sms">%s modify messages</string>
+    <string name="permission_record">Recording device</string>
+    <string name="permission_camera">Camera device</string>
+    <string name="permission_lowercase_open_3g">%s enable Mobile Network secretly</string>
+    <string name="permission_lowercase_open_wifi">%s enable WLAN secretly</string>
+    <string name="permission_lowercase_open_bluetooth">%s enable Bluetooth secretly</string>
+    <string name="permission_lowercase_get_loc">%s get your phone location</string>
+    <string name="permission_lowercase_open_record">%s open the recording</string>
+    <string name="permission_lowercase_open_camera">%s open the camera</string>
+    <string name="permission_lowercase_send_mms">%s send MMS</string>
+    <string name="permission_navigator_open_recording">Open the recording</string>
+    <string name="permission_navigator_open_camera">Open the camera</string>
+    <string name="permission_navigator_rcalllogs">Read call logs</string>
+    <string name="permission_navigator_rcontact">Read contacts</string>
+    <string name="permission_navigator_rcontact_calllog">Read contacts and call logs</string>
+    <string name="permission_navigator_send_sms">Send SMS</string>
+    <string name="permission_navigator_tap_calling">Camera and recorder</string>
+    <string name="permission_navigator_wsms">Write message to message box</string>
+    <string name="permission_navigator_readsms">Read messages</string>
+    <string name="permission_navigator_edit_sms">Modify messages</string>
+    <string name="permission_navigator_sendmms">Send MMS</string>
+    <string name="permission_navigator_open_3g">Enable Mobile Network secretly</string>
+    <string name="permission_navigator_open_wifi">Enable WLAN secretly</string>
+    <string name="permission_navigator_open_bluetooth">Enable Bluetooth secretly</string>
+    <string name="permission_navigator_edit_contact">Modify contacts</string>
+    <string name="permission_navigator_edit_calllog">Modify call logs</string>
+    <string name="permission_navigator_get_loc">Get your phone location</string>
+    <string name="permission_navigator_make_call">Dial calls</string>
+    <string name="permission_navigator_readmms">Read MMS</string>
+    <string name="permission_location">My position</string>
+    <string name="permission_toast_operationing_rcalllogs">%s is reading call logs, blocked</string>
+    <string name="permission_toast_operationing_rcontact">%s is reading contacts, blocked</string>
+    <string name="permission_toast_operationing_rcontacts">%s is reading contacts and call logs, blocked</string>
+    <string name="permission_toast_operationing_rsms">%s is reading SMS, blocked</string>
+    <string name="permission_toast_operationing_send_sms">%s is sending SMS</string>
+    <string name="permission_toast_operationing_wsms">%s is writing message to message box, blocked</string>
+    <string name="permission_toast_operationing_readmms">%s is reading MMS, blocked</string>
+    <string name="permission_toast_operationing_get_contact">%s is reading contacts, blocked</string>
+    <string name="permission_toast_operationing_edit_contact">%s is modifying contacts, blocked</string>
+    <string name="permission_toast_operationing_get_calllog">%s is reading call logs, blocked</string>
+    <string name="permission_toast_operationing_edit_calllog">%s is modifying call logs, blocked</string>
+    <string name="permission_toast_operationing_get_sms">%s is reading messages, blocked</string>
+    <string name="permission_toast_operationing_edit_sms">%s is modifying messages, blocked</string>
+    <string name="permission_toast_operationing_sendmms">%s is sending MMS, blocked</string>
+    <string name="permission_toast_operationing_open_3g">%s is enabling Mobile Network secretly, blocked</string>
+    <string name="permission_toast_operationing_open_wifi">%s is enabing WLAN secretly, blocked</string>
+    <string name="permission_toast_operationing_open_bluetooth">%s is enabling Bluetooth secretly, blocked</string>
+    <string name="permission_toast_operationing_get_loc">%s is geting your phone location, blocked</string>
+    <string name="permission_toast_operationing_open_record">%s is opening the recording, blocked</string>
+    <string name="permission_toast_operationing_pen_camera">%s is opening the camera, blocked</string>
+    <string name="permission_toast_operationing_send_mms">%s is sending MMS, blocked</string>
+    <string name="permission_toast_operationing_call">%s is calling, blocked</string>
+    <string name="permission_toast_operationing_calendar">%s is reading calendar, blocked</string>
+    <string name="permission_toast_operationing_read_brower_history">%s is reading browser cookies and bookmarks, blocked</string>
+    <string name="permission_tariff_warn_text">Security Warning</string>
+    <string name="permission_curr_month_sms_out_limit_warm_text">Warning: your messages usage has exceeded the limit</string>
+    <string name="inputmethodswitch">Password Protecting</string>
+    <string name="intel_cpu">Intel(R) Atom(TM)</string>
+    <string name="network_type">Network type:</string>
+    <string name="none_know_nettype">Unknown network type</string>
+    <string name="no_sim_insert">No SIM card</string>
+    <string name="senor_acc">Acceleration Sensor:</string>
+    <string name="senor_fil">Magnetic Field Sensor:</string>
+    <string name="senor_gyr">Gyro Sensor:</string>
+    <string name="senor_lig">Light Sensor:</string>
+    <string name="senor_ori">Orientation Sensor:</string>
+    <string name="senor_pro">Distance Sensor:</string>
+    <string name="senor_tem">Temperature Sensor:</string>
+    <string name="simcard_type">Carrier:</string>
+    <string name="srceen_dp">Pixel Density:</string>
+    <string name="srceen_mutil">Multi-touch:</string>
+    <string name="srceen_px">Screen Resolution:</string>
+    <string name="sysinfo_battery_power">Power: %d</string>
+    <string name="sysinfo_battery_temperature">Temperature: %s</string>
+    <string name="sysinfo_battery_type">Battery Type: %s</string>
+    <string name="sysinfo_battery_voltage">Voltage: %.2f V</string>
+    <string name="sysinfo_cpu_max_speed">Maximum Speed:</string>
+    <string name="sysinfo_cpu_min_speed">Minimum Speed:</string>
+    <string name="sysinfo_cpu_speed_unit">Mhz</string>
+    <string name="sysinfo_cpu_type">CPU:</string>
+    <string name="sysinfo_mem_total">Total running memory: %1$s(Remaining: %2$s)</string>
+    <string name="sysinfo_rom_total">Total ROM: %1$s(Remaining: %2$s)</string>
+    <string name="sysinfo_size_sd_extra">SD card memory: %1$s(Remaining: %2$s)</string>
+    <string name="sysinfo_size_sd_inner">Inner memory: %1$s(Remaining: %2$s)</string>
+    <string name="sysinfo_support">Supported</string>
+    <string name="sysinfo_unsupport">Unsupported</string>
+    <string name="sysinfo_wlan_status">WLAN status:</string>
+    <string name="dayly_tools">Tools</string>
+    <string name="ipset">IP dialling</string>
+    <string name="number_space">Useful Numbers</string>
+    <string name="opti_main_sys_exam">System Test</string>
+    <string name="phoneinfo_number_search">Number Inquiry</string>
+    <string name="safe_synchr">SYNCit</string>
+    <string name="text_safepayment">Safe Payment</string>
+    <string name="ip_area_title">Your number attribution</string>
+    <string name="ip_custom">User-defined</string>
+    <string name="ip_number_title">Choose the IP number</string>
+    <string name="locale_phone_number">Number attribution area</string>
+    <string name="no_record">No logs</string>
+    <string name="setting_pwdfail">Setting up error, please set it up again</string>
+    <string name="number_area">Area name</string>
+    <string name="number_area_desc">Enter the number:</string>
+    <string name="use_ip_title">Auto IP dialling</string>
+    <string name="guest_mode_message">Hide contacts, call logs and messages</string>
+    <string name="app_running">This app is running now, do you want to disable it?</string>
+    <string name="dialog_msg1">This app is not &lt;font color=#5bbd2b></string>
+    <string name="dialog_msg1_">&lt;/font> official app, Security suggests you to uninstall it right now.</string>
+    <string name="disable_safeinput_tip">Security can not protect your account security by disabling it, are you sure to disable?</string>
+    <string name="disable_safepayment_tip">Security can not protect your shopping safe by disabling it, are you sure to disable?</string>
+    <string name="hide_sms_info">Have to restart your phone</string>
+    <string name="hide_sms_info1">Enable Visitor Mode?</string>
+    <string name="hide_sms_info2">Disable Visitor Mode?</string>
+    <string name="hide_sms_info3">will disable Parental Control,</string>
+    <string name="inputmethodapp">Input Protection Settings</string>
+    <string name="max_hide_apps">The number of apps you can hide has reach the maximum!</string>
+    <string name="no_safeinputmethod">"Fail to open. You don't install safe input method."</string>
+    <string name="not_support_safeinput">(not support)</string>
+    <string name="payment_open">Anti-phishing enabled</string>
+    <string name="payment_close">Disabled</string>
+    <string name="phoneinfo_check_screen">Security will test your phone monitor screen with a variety of colours.</string>
+    <string name="phoneinfo_rb_info">System Information</string>
+    <string name="phoneinfo_rb_test">Screen Test</string>
+    <string name="reboot_info">Enabling Parental Control will disable Visitor Mode and restart the phone, are you sure to enable Parental Control?</string>
+    <string name="root">Root Access</string>
+    <string name="safeinput_test">Testing</string>
+    <string name="safeinput_test_">It is testing whether your phone can support safe input method.</string>
+    <string name="safeinput_test_over_no">Your phone can not support this function</string>
+    <string name="safeinput_test_over_ok">Congratulations! Your phone supports safe input method.</string>
+    <string name="safepayment">Safe Payment</string>
+    <string name="safepayment_dialog_title">Security payment protection reminds you:</string>
+    <string name="sysinfo_battery_temperature1">Temperature: %s</string>
+    <string name="child_mode_des">The crossed app(s) will be disabled</string>
+    <string name="dian">...</string>
+    <string name="forbid_send_mms">Prohibit sending MMS</string>
+    <string name="guest_mode_des">The crossed app(s) will be disabled</string>
+    <string name="guestmode_tip">Note: The shortcut of app will disappear if the app is disabled. You have to add the shortcut manually.</string>
+    <string name="hide_app">Disable up to 10 apps</string>
+    <string name="hide_contacts">Hide contacts and call logs</string>
+    <string name="hide_sms">Hide SMS</string>
+    <string name="payment_message">Protect you against phishing apps when you are shopping on line.</string>
+    <string name="phoneinfo_btn_test_screen">Pixel Detection</string>
+    <string name="phoneinfo_lab_info">Hardware Features</string>
+    <string name="plan_mode">Open Offline Mode</string>
+    <string name="root_introduction_1">1: What is the highest system privileges(root access)?</string>
+    <string name="root_introduction_2">The highest system privilege(root access) is the phone system administrator privilege, which you can have access to or modify all the files in the phone. You can not have root access without break in Android system.</string>
+    <string name="root_introduction_3">2, How to get the highest system privilege(root access)?</string>
+    <string name="root_introduction_4">There is no official root tool, you have to search third-party market to get the root tool.</string>
+    <string name="root_introduction_5">3, How to grant highest root privileges (root access) to an app after root?</string>
+    <string name="root_introduction_6">You can grant app(s) the root access with root management tool, such as Supervisor. When app(s) require root access, the tool will remind you whether to grant it.</string>
+    <string name="safeinput_msg">Check whether the Trojan exists when entering the password</string>
+    <string name="safemode_callto">Call</string>
+    <string name="set_pwd_info">You have not set up your Security password. Please set up your password at first!</string>
+    <string name="hide_contacts2">Contacts, call logs and messages have been hidden</string>
+    <string name="safepage">Safe Browsing</string>
+    <string name="safepage_title">Safe Browsing Settings</string>
+    <string name="leshare_title">AnyShare</string>
+    <string name="machine_type">Model:</string>
+    <string name="os_type">System version:</string>
+    <string name="phone_imsi">Phone IMEI:</string>
+    <string name="antispamlocalblack_noName">Unknown</string>
+    <string name="antispamall_select">Select all</string>
+    <string name="antispamcancel_select">De-select all</string>
+    <string name="add_count">Add(%1$d)</string>
+    <string name="antispamaddcall">Add to blacklist</string>
+    <string name="antispamaddfromphone">Add to whitelist</string>
+    <string name="antispamaddfromsim">Add to whitelist</string>
+    <string name="antispamaddwhiteperson">Add to whitelist</string>
+    <string name="antispamapp_name">Anti-spam</string>
+    <string name="antispamdata_limit1">The number of logs reached 500, please delete some and then add</string>
+    <string name="antispamhand_name">Note</string>
+    <string name="antispamhand_number_error1">This number has existed in blacklist</string>
+    <string name="antispamhand_number_error3">This number has existed in whitelist</string>
+    <string name="antispamhand_number_null">Please fill in the number</string>
+    <string name="antispaminter_netblacktype_endcall1">Security smart block and block blacklist</string>
+    <string name="antispaminter_netblacktype_endcall2">Block blacklist only</string>
+    <string name="antispaminter_netblacktype_endcall3">Allow contacts only</string>
+    <string name="antispaminter_netblacktype_endcall4">Allow whitelist only</string>
+    <string name="antispamlocalblack_add">Add</string>
+    <string name="antispamlocalblack_addBlack">Add to blacklist</string>
+    <string name="antispamlocalblack_hasNoData">No data</string>
+    <string name="antispamlocalblack_nullNotice">Select the items</string>
+    <string name="antispamlocalblack_successNotice">Success</string>
+    <string name="antispamlocalblack_upload">Report</string>
+    <string name="antispamclick_addmore">Add more</string>
+    <string name="antispammancall">Blacklist and Whitelist</string>
+    <string name="antispamnetdesc">Network is unavailable. Please connect it later</string>
+    <string name="antispamno">No</string>
+    <string name="antispamno_content">No Topic</string>
+    <string name="antispamnoticecontent">The number added has existed in whitelist. It will remove from whitelist if you continue adding. Are you sure to continue?</string>
+    <string name="antispamnowhiteperson">Tap the add button to add numbers to whitelist</string>
+    <string name="antispamserver_disconnect">Fail to connect the server</string>
+    <string name="antispam_smsbot">Tag unknown calls</string>
+    <string name="antispamsmsharss">Block settings</string>
+    <string name="antispammarks">Tag</string>
+    <string name="antispamupload_desc">It is loading, please wait...</string>
+    <string name="antispamupload_state">Executing, please wait...</string>
+    <string name="antispamyes">Yes</string>
+    <string name="antivirusserver_disconnect">Network is unavailable, please check your network settings</string>
+    <string name="add_telnumber">Add local area code</string>
+    <string name="allmatch">Match all</string>
+    <string name="and">and</string>
+    <string name="antispamhand_name_hit">It can be null</string>
+    <string name="antispamhand_number">Number</string>
+    <string name="antispamlocalblack_back">Back</string>
+    <string name="antispamlocalblack_unchain">Delete</string>
+    <string name="antispamno_interceptsms_record">Tap the add button to add numbers to blacklist</string>
+    <string name="antispamsmswhite_hasNoData">No logs</string>
+    <string name="antivirusclean_log">Clear</string>
+    <string name="cause1">Smart block</string>
+    <string name="cause2">Beep</string>
+    <string name="cause3">Blacklist blocked</string>
+    <string name="cause4">Allow contacts only</string>
+    <string name="cause5">Allow whitelist only</string>
+    <string name="cause6">Block unknown number</string>
+    <string name="cause7">Night Calls Blocked</string>
+    <string name="causeprex">Block reason: %1$s</string>
+    <string name="change">Change</string>
+    <string name="confirm_title">Tag %1$s as:</string>
+    <string name="confirm_desc">(The number will be put into blacklist if you select it)</string>
+    <string name="confirm_mes">This number is:</string>
+    <string name="del_blackinfo">Are you sure to delete this number from blacklist?</string>
+    <string name="delete">Delete</string>
+    <string name="del_harsscall">Are you sure to clear all spam calls?</string>
+    <string name="del_harsssms">Are you sure to clear all spam SMS?</string>
+    <string name="del_info">Are you sure to delete this log?</string>
+    <string name="del_sucess">Delete successfully!</string>
+    <string name="disable_antispam_tip">Disable Anti-spam, you will be exposed to spam SMS and calls. Are you sure to disable it?</string>
+    <string name="endcall_mode_title">Blocking tone</string>
+    <string name="endmode1">Return busy</string>
+    <string name="endmode2">Return turn-off</string>
+    <string name="endmode3">Return shut-down</string>
+    <string name="endmode4">Return null</string>
+    <string name="first_sign_cancel">No, thanks</string>
+    <string name="first_sign_ok">Yes, tag it</string>
+    <string name="hadsign_title">Tagged</string>
+    <string name="hand_name">Comments</string>
+    <string name="hand_number">Number</string>
+    <string name="hand_number_error">Number format error</string>
+    <string name="hand_number_null">Number can not be null</string>
+    <string name="harass_mode_title">Blocking mode</string>
+    <string name="harass_sms">Spam SMS</string>
+    <string name="harss_countshow">(%1$d)</string>
+    <string name="harss_firsttitle">Security Notice</string>
+    <string name="harss_method1">(Block calls and SMS)</string>
+    <string name="harss_method2">(Block calls)</string>
+    <string name="harss_method3">(Block SMS)</string>
+    <string name="harss_method4">(Do not block)</string>
+    <string name="harsssign_lin">Unknown Numbers Management</string>
+    <string name="hasnosign_title">Untagged number</string>
+    <string name="havedup">You have reported</string>
+    <string name="h_del2">This number(%1$s) is in your blacklist, you can not get the SMS from this number unless you remove it from blacklist.</string>
+    <string name="h_del3">Remove it from blacklist successfully</string>
+    <string name="h_del4">This number will not be blocked</string>
+    <string name="h_del5">Remove it</string>
+    <string name="h_del6">Ask me later</string>
+    <string name="harass_switch_desc">Auto block spam SMS and calls.</string>
+    <string name="harass_switch_title">Anti-spam</string>
+    <string name="harss_firstdesc">This icon will indicate that Security blocked a spam call or SMS. Drag down notification bar to view details.</string>
+    <string name="harss_set">Blocking mode</string>
+    <string name="h_del1">Not the spam SMS? Click to recover to Inbox, and Security will never block the number</string>
+    <string name="info">Notice</string>
+    <string name="info_success">Execution success</string>
+    <string name="input_pwd_again">Confirm the password</string>
+    <string name="known">OK, I know</string>
+    <string name="localblack_becall">Call</string>
+    <string name="antispamlocalblack_incommingcall">[Call]</string>
+    <string name="localblack_hadUpload">It has been submitted</string>
+    <string name="localblack_hasNoData1">No contacts to select</string>
+    <string name="localblack_nullNotice">Please select the item to execute</string>
+    <string name="matchdesc">Tips: if you choose start at mode, Security will block the number started with your entered. For instance, if you entered 1065, Security will block all the numbers started with 1065.</string>
+    <string name="matchrule">Matching rule</string>
+    <string name="marked">Tagged</string>
+    <string name="modify_black">Update blacklist</string>
+    <string name="mutil_edit">Edit</string>
+    <string name="netsign_showtype">%1$s people tag it as %2$s</string>
+    <string name="night_harssmode">Night calls blocked mode</string>
+    <string name="night_harssmode1">Blocking mode: Allow contacts only</string>
+    <string name="night_harssmode2">Blocking mode: Allow whitelist only</string>
+    <string name="no_harass_call">The spam call blocked will be displayed here</string>
+    <string name="no_harass_sms">The spam SMS will be displayed here</string>
+    <string name="nonumber_confirm">This number is unknown, does it harass you?</string>
+    <string name="nonumber_ok">Reject it</string>
+    <string name="no_signtype">Select the type</string>
+    <string name="no_simcard">Please check your SIM card</string>
+    <string name="noticecontent">The number added has existed in blacklist. It will remove from blacklist if you continue adding. Are you sure to continue?</string>
+    <string name="night_callharsstitle">Night calls blocked mode</string>
+    <string name="night_harssebegin">Start time</string>
+    <string name="night_harsseend">End time</string>
+    <string name="night_harsstitle">Night calls blocked</string>
+    <string name="notice_has_update_lab_setting_text">The following databases have updated version:</string>
+    <string name="or">or</string>
+    <string name="privacy_firstdesc">It means Security has blocked privacy and charge stolen behaviours by apps. Pull down the notification bar and enter Security to see the details.</string>
+    <string name="prematch">Start at</string>
+    <string name="recovery_sms">Restore to Inbox</string>
+    <string name="report_count">You have tagged %1$d numbers</string>
+    <string name="report_fail">Error, the network is unavailable!</string>
+    <string name="report_rubbish">Report spam SMS</string>
+    <string name="report_rubbish1">Report SMS not being blocked</string>
+    <string name="report_rubbish_empty">No SMS in Inbox</string>
+    <string name="report_rubbish_muti">Report selected(%1$d)</string>
+    <string name="report_rubbish_muti1">Report SMS</string>
+    <string name="report_sign">Tagged as: %1$s</string>
+    <string name="report_success">Report it successfully!</string>
+    <string name="report_tonet">You will report this number to Security Cloud Blacklist, are you sure to report it?</string>
+    <string name="report_tonet1">Security will connect the network to report this number and add it to Security Cloud Blacklist. Are you sure to continue it?</string>
+    <string name="safemode_cancel">Cancel</string>
+    <string name="seconds">Seconds</string>
+    <string name="show_cloudscan">Notice: Security Cloud detected %1$s viruses this week. Please run Security Anti-virus right now!</string>
+    <string name="show_cloudscanok">Scan</string>
+    <string name="sign">Security reminds you</string>
+    <string name="sign_actinfo">The talking time of unknown number %1$s is too short, is it a spam call?</string>
+    <string name="sign_btn">Tag</string>
+    <string name="signcancel">Cancel</string>
+    <string name="signcancel_dialog">"Are you sure to cancel the number's tag?"</string>
+    <string name="sign_comingcallnull">No logs</string>
+    <string name="sign_success">Tag it successfully</string>
+    <string name="sign_tagnull">No marked call</string>
+    <string name="sign_timedesc">Talk time: %1$s</string>
+    <string name="hunged_up">Hung up</string>
+    <string name="sign_setblack">It has been added to blacklist</string>
+    <string name="signtype_later">Do not tag</string>
+    <string name="signtype_addcontract">Add to contacts</string>
+    <string name="safemode_input_pwd">Please enter 6-digit password</string>
+    <string name="title_marks">Tag unknown number</string>
+    <string name="strange_btitle">Block unknown calls</string>
+    <string name="title_blacklist">Security Cloud Blacklist</string>
+    <string name="title_sms_intercept">SMS words of smart block</string>
+    <string name="toolbar_appear">If notification bar shows</string>
+    <string name="tab_black">Blacklist</string>
+    <string name="tab_white">Whitelist</string>
+    <string name="waitting">Importing, please wait...</string>
+    <string name="modify_white">Update Whitelist</string>
+    <string name="click_add_more">Click to load more</string>
+    <string name="please_wait">loading...</string>
+    <string name="uploadsms_notice">Report spam sms will be carriers charge a small flow rates</string>
+    <string name="mms_uncovery">mms mesage not provider for recovery</string>
+    <string name="callimg_notify">Call alert icon</string>
+    <string name="callmodesetting">Private Calls</string>
+    <string name="app_lock">App Lock</string>
+    <string name="callnotify">Notification Alert Settings</string>
+    <string name="call_notify1">Answer</string>
+    <string name="call_notify2">Reject</string>
+    <string name="call_notify3">Reject call with SMS</string>
+    <string name="lock_notify1">Lock when screen sleeping</string>
+    <string name="lock_notify2">Lock when exiting this app</string>
+    <string name="lock_notify3">Lock after sleeping screen for 5 minutes</string>
+    <string name="callnotifymode_title">Private call answering mode</string>
+    <string name="app_lock_mode_title">App lock mode</string>
+    <string name="cancelselect">De-select all</string>
+    <string name="changedes_title">Private Contacts</string>
+    <string name="changedes_txt1">You can input 8 characters at most</string>
+    <string name="changedes_txt2">Vault Description</string>
+    <string name="changeimage_title">Change Vault Icon</string>
+    <string name="changename_title">Camouflage Entrance</string>
+    <string name="changpwd_title">Fake Interface Password</string>
+    <string name="con_setting_size">(You can input 50 Chinese characters at most)</string>
+    <string name="contract">Contacts</string>
+    <string name="del_confirm">Are you sure to delete this contact?</string>
+    <string name="delete_sms">Delete this log</string>
+    <string name="del_record">Are you sure to delete all logs?</string>
+    <string name="del_safesms">Delete all the info of this contact</string>
+    <string name="dialog_title">Notification Bar Alert Settings</string>
+    <string name="dialog_title1">Alert title</string>
+    <string name="dialog_title2">Content</string>
+    <string name="down_info">Installation tips</string>
+    <string name="down_now">Download</string>
+    <string name="down_safebox">This function needs to install Private Vault and App Lock. Do you want to download them?</string>
+    <string name="error_password_set">The fake password can not be the same as your correct password. Please set up the fake interface password again.</string>
+    <string name="error_pwdtitle">Fake Interface Password</string>
+    <string name="formattime">[%1$s]</string>
+    <string name="hand_number_error1">This private contact has existed</string>
+    <string name="long_whire">Your input is too long, please re-enter it.</string>
+    <string name="menu_del">Clear spam-SMS logs</string>
+    <string name="menu_recover">Clear spam-call logs</string>
+    <string name="msg_long_error">You input is too long, please re-enter it.</string>
+    <string name="no_app">This app is not installed</string>
+    <string name="no_name">Unknown</string>
+    <string name="no_notify">No alert</string>
+    <string name="notify1">Notification + alert tone</string>
+    <string name="notify2">Notification + vibration</string>
+    <string name="notify7">Notification bar alert</string>
+    <string name="notifycopy">Do you want to import previous contact logs?</string>
+    <string name="opensms_error">No apps detected</string>
+    <string name="p_ctitle">Call alert title</string>
+    <string name="p_icon">Change Vault Icon</string>
+    <string name="p_name">Camouflage Entrance</string>
+    <string name="pri_adddesc">Tap the add button to add private contacts</string>
+    <string name="pri_nocall">No private calls</string>
+    <string name="pri_nosms">No private SMS</string>
+    <string name="pri_percente">(%1$d/%2$d)</string>
+    <string name="privacy_mode_set">Add private contacts</string>
+    <string name="private_onebig">Private Contacts</string>
+    <string name="private_onesmall">Encrypt SMS and calls from private contacts</string>
+    <string name="private_settitile">Security Settings</string>
+    <string name="private_threebig">App Lock</string>
+    <string name="private_threesmall">Lock the private app</string>
+    <string name="private_twobig">Privacy Vault</string>
+    <string name="private_twosmall">Manage private photos, videos and files</string>
+    <string name="p_stitle">SMS alert title</string>
+    <string name="quick_addtitle">Quick Add</string>
+    <string name="recover_tolocal">Are you sure to restore SMS and calls of %1$s to system logs?</string>
+    <string name="replay_sms">SMS</string>
+    <string name="replay_sms2">Reply</string>
+    <string name="replay_sms_card1">SIM 1</string>
+    <string name="replymes_dialogtitle">SMS content settings</string>
+    <string name="replymes_title">Reject call with SMS</string>
+    <string name="running">Executing, please wait...</string>
+    <string name="safemode_no">No</string>
+    <string name="safemode_notice">Notice</string>
+    <string name="safemode_settings">Private Settings</string>
+    <string name="safemode_yes">Yes</string>
+    <string name="selectall">Select all</string>
+    <string name="self">I</string>
+    <string name="smsimg_notify">SMS alert icon</string>
+    <string name="smsmodesetting">Private SMS</string>
+    <string name="smsnotifymode_title">SMS alert type</string>
+    <string name="waitting_background">Importing in the background</string>
+    <string name="whitecount">%1$s private contacts</string>
+    <string name="add">Add</string>
+    <string name="hand_name_hit">Tips</string>
+    <string name="hand_number_hit">Number</string>
+    <string name="private_title">"Vault is active.
+Defend your privacy!"</string>
+    <string name="replay_sms_card2">SIM 2</string>
+    <string name="send_smshint">Enter your reply content</string>
+    <string name="pwd_error">Wrong password</string>
+    <string name="notfication_scan_result_tickle">Security has stopped &lt;font color=#EE3B3B>&lt;b>%1$s&lt;/b>&lt;/font> from sending advertisement</string>
+    <string name="notification_ad_insert_notify">%1$s has been stopped from sending advertisement by Security</string>
+    <string name="notification_intercept_notify_str">Block &lt;font color=#EE3B3B>&lt;b>%1$s&lt;/b>&lt;/font> notification bar message</string>
+    <string name="perm_privacy_info"> accessing personal info</string>
+    <string name="perm_tap_calling"> recording and camera</string>
+    <string name="time_d">Day</string>
+    <string name="time_m">Month</string>
+    <string name="get_contact">Read contacts</string>
+    <string name="get_calllog">Read call logs</string>
+    <string name="get_sms">Read messages</string>
+    <string name="record">Recording device</string>
+    <string name="camera">Camera device</string>
+    <string name="perm_sendmms">Send MMS</string>
+    <string name="perm_send_mms">Send MMS</string>
+    <string name="defend">Security Always protecting you!</string>
+    <string name="protecting">Security is active</string>
+    <string name="child_mode">Parental Control</string>
+    <string name="opend"> Enabled</string>
+    <string name="switch_to_child_mode">Switch to Parental Control</string>
+    <string name="switch_to_guest_mode">Switch to Visitor Mode</string>
+    <string name="guest_mode">Visitor Mode</string>
+    <string name="closed"> Disabled</string>
+    <string name="newsms">New system message</string>
+    <string name="unread_sms">%1$d unread message(s)</string>
+    <string name="look_unread_sms">Look it</string>
+    <string name="traffic_limit_set">Please set up data plan</string>
+    <string name="net_traffic">Today %1$s</string>
+    <string name="exceed_text">Exceed</string>
+    <string name="remaining_text">Remaining</string>
+    <string name="install_safe">Installed safely!</string>
+    <string name="test_report">Test report</string>
+    <string name="virus_scaning">Scanning %1$s</string>
+    <string name="net_traffic_correct_sucess">%1$s data calibrating successfully</string>
+    <string name="net_card1">SIM1</string>
+    <string name="net_card2">SIM2</string>
+    <string name="antivirusvirus_notify">Security virus warning</string>
+    <string name="antivirusvirus_notifycontent">%1$s is virus. Please remove it.</string>
+    <string name="net_notavilable">No SMS service</string>
+    <string name="sendsms_success">SMS sent successfully</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="antispamlocalblack_becall">[Received]</string>
+    <string name="antispamlocalblack_call">[Outgoing]</string>
+    <string name="antispamlocalblack_misscall">[Missed]</string>
+    <string name="anti_tap_protect">Anti-eavesdropping</string>
+    <string name="auto_update_mode1">WLAN connected</string>
+    <string name="auto_update_mode2">Daily</string>
+    <string name="auto_update_mode3">Weekly</string>
+    <string name="auto_update_mode4">Close</string>
+    <string name="btn_OK">OK</string>
+    <string name="cell_location">"【Security anti-theft alert】“Localization”command executed，
+The base station of your lost phone is:
+"</string>
+    <string name="check_traffic_input_num_error">Please enter the right number</string>
+    <string name="click_line">"
+Click the link below to see your location:
+"</string>
+    <string name="comma">，</string>
+    <string name="cur_lat_lon">The latitude and longitude are:</string>
+    <string name="cur_location">"【Security anti-theft alert】“Localization”command executed，
+The location of your lost phone is:
+"</string>
+    <string name="curr_month_sms_out_limit_warm_text">Warning: your messages usage has exceeded the limit</string>
+    <string name="data_usage_uninstalled_apps">Uninstalled apps</string>
+    <string name="date">Date:</string>
+    <string name="destroy_privacy_message_ok">【Security anti-theft alert】 “remote destruction”command executed,data destruction success.</string>
+    <string name="error">Error</string>
+    <string name="error_tips_null">Your password in null, please re-enter it</string>
+    <string name="forbid">Forbid</string>
+    <string name="harass_call">" spam call"</string>
+    <string name="harass_message">" spam message(s)"</string>
+    <string name="hour_text">hours</string>
+    <string name="incomingtype">[Received]</string>
+    <string name="input_privacy_pwd">Please enter 6-digit Security code</string>
+    <string name="input_pwd">Enter the password</string>
+    <string name="installing_pleasewait_text">Installing, please wait...</string>
+    <string name="intercept">"New block "</string>
+    <string name="kidmode_disable">Parental control can not be enabled, please check whether it is disabled by some reasons</string>
+    <string name="lat_and_lon">"【Security anti-theft alert】“Localization”command executed，
+The latitude and longitude of your lost phone are:
+"</string>
+    <string name="le_anti_virus">Security.Anti-virus</string>
+    <string name="le_battery_disable">Lenovo Power can not be enabled, please check whether it is disabled by some reasons</string>
+    <string name="lecloud_disable">Lenovo Sync can not be enabled, please check whether it is disabled by some reasons</string>
+    <string name="lesafe_tariff_warn_text">Security Warning</string>
+    <string name="misstype">[Missed]</string>
+    <string name="month_used_Traffic_Check">Calibrate data usage this month</string>
+    <string name="name">Name:</string>
+    <string name="no_content">No content</string>
+    <string name="no_null_limit_input_num_text">Content can not be null</string>
+    <string name="no_setting_text">Not set up</string>
+    <string name="no_zero_limit_input_num_text">The data plan can not be 0</string>
+    <string name="number_onring">Beeping: %1$s</string>
+    <string name="outgoing">[Outgoing calls]</string>
+    <string name="process_kernel_label">Android OS</string>
+    <string name="pwd_error_tips">Password error.</string>
+    <string name="receive">Receive</string>
+    <string name="record_count">(%1$s)</string>
+    <string name="safe_homepage">Loading Lenovo Navigation..</string>
+    <string name="safemode_call">Call</string>
+    <string name="safemode_sms">Message</string>
+    <string name="safemode_time_d">Day</string>
+    <string name="safemode_time_m">Month</string>
+    <string name="send">Send</string>
+    <string name="set_net_text">Connect</string>
+    <string name="smsbody">Content:</string>
+    <string name="stranger">Unknown number</string>
+    <string name="switcher_app_name">Switch</string>
+    <string name="test">Test</string>
+    <string name="tether_settings_title_all">Network sharing and portable hotspots</string>
+    <string name="tether_settings_title_bluetooth">Sharing network with bluetooth</string>
+    <string name="tether_settings_title_usb">Sharing network with USB</string>
+    <string name="tether_settings_title_usb_bluetooth">Sharing network</string>
+    <string name="tether_settings_title_wifi">Portable hotspots</string>
+    <string name="update_lab_notice_text">Security update notice</string>
+    <string name="when_calling">When you are calling</string>
+    <string name="is_update_lab_text">Update it now?</string>
+    <string name="install_now">Install</string>
+    <string name="safepayment_notify_content_genuine">Security is protecting your on-line shopping. No risk has been detected.</string>
+    <string name="safepayment_notify_content_pirate">This app is not %1$s official granted app. Security suggests you to uninstall it right now!</string>
+    <string name="safepayment_notify_out_tickertext_genuine">Cancel safely</string>
+    <string name="safepayment_notify_out_tickertext_pirate">You are exposed to risk when on-line shopping. Security suggests you to deal with it immediately!</string>
+    <string name="safepayment_notify_tickertext_genuine">Security is protecting your on-line shopping.</string>
+    <string name="safepayment_notify_tickertext_pirate">You are exposed to risk when on-line shopping. Security suggests you to deal with it immediately!</string>
+    <string name="retrieve_password_text">Forget password</string>
+    <string name="question_text">Question:</string>
+    <string name="input_password_answer_error">The answer is not correct. Please try it again!</string>
+    <string name="calender">Calender</string>
+    <string name="history">Browser cookies and bookmarks</string>
+    <string name="update_real_warnning">The 2G/3G data consumed by updating Security will be charged by your carrier.</string>
+    <string name="setting_shortcut">Desktop already has created a shortcut of Cleanup.</string>
+    <string name="capital_off">OFF</string>
+    <string name="capital_on">ON</string>
+    <string name="curr_month_traffic_out_limit_warm_text">The monthly data limit is reached</string>
+    <string name="curr_today_traffic_out_limit_warning">The data used today has exceeded %1$dM</string>
+    <string name="net_card3">SIM1：</string>
+    <string name="net_card4">SIM2：</string>
+    <string name="net_correct_message">Data calibration needs to send free message to your carrier</string>
+    <string name="net_daily_notice_number_desc">Daily data reminder limit</string>
+    <string name="net_daily_notice_number_desc2">Daily data reminder</string>
+    <string name="net_error_code12">Your phone can not support dual-card calibration, please set your SIM card to the first slot!</string>
+    <string name="net_month_free_notification">The remaining data this month is less than 10%</string>
+    <string name="net_month_notice_number_desc">Please set up %1$s monthly data plan</string>
+    <string name="net_month_notice_title2">10% left reminder</string>
+    <string name="net_need_set_traffic">Please set up data plan first</string>
+    <string name="net_sim1_correct">SIM1 calibration</string>
+    <string name="net_sim2_correct">SIM2 calibration</string>
+    <string name="net_simcard_error">Error</string>
+    <string name="net_simcard_error2">No SIM card detected</string>
+    <string name="net_sys_app">System app</string>
+    <string name="net_traffic_correct_air">Data calibration can not be enabled in Flight Mode!</string>
+    <string name="net_traffic_correct_first_notice">Free calibrating message has been sent, the result will display in notification bar later</string>
+    <string name="net_traffic_correct_notice">You can not calibrate continuously in a short time. Please calibrate later!</string>
+    <string name="net_traffice_used">Used this month</string>
+    <string name="net_traffic_not_on2">Calibration needs network, please connect the network first</string>
+    <string name="net_trust_app">Trust app</string>
+    <string name="net_m">М</string>
+    <string name="net_traffic_month_adjust">Change used data this month</string>
+    <string name="net_traffic_package_limit_des">Set up data plan to avoid exceeding the data limit</string>
+    <string name="net_correct_cancel">Отмена</string>
+    <string name="net_correct_config_desc">Перед калибровкой, настройте:</string>
+    <string name="net_correct_setting_Brand">Бренд</string>
+    <string name="net_correct_setting_city">Город</string>
+    <string name="net_correct_setting_desc">Security needs to connect to network to get inquiry message from your carrier so that we can obtain your SIM card attribution information.</string>
+    <string name="net_correct_setting_Operators">Оператор</string>
+    <string name="net_correct_setting_proivce">Провинция</string>
+    <string name="net_traffic_tip_desc">"The calibration will use data of inquiry message from carrier.
+Notice: the data may lag."</string>
+    <string name="net_traffic_correct_button">Калибровка</string>
+    <string name="net_operators_u_2">3G</string>
+    <string name="net_operators_u_1">2G</string>
+    <string name="net_operators_m_1">神州行</string>
+    <string name="net_operators_m_2">全球通</string>
+    <string name="net_operators_m_3">动感地带</string>
+    <string name="net_operators_cdma">中国电信</string>
+    <string name="net_traffic_call_phone">Звонк, для проверки использования данных</string>
+    <string name="one_key_widget_clean">Очистка</string>
+    <string name="autorun_dialog_never_dialog">Не напоминать</string>
+</resources>

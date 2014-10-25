@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="sim_name">
-        <item>SIM 1</item>
-        <item>SIM 2</item>
-        <item>Выключить</item>
-    </string-array>
-</resources>

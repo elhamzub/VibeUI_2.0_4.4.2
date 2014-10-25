@@ -2,7 +2,7 @@
 <resources>
     <string name="app_label">Сетевое расположение</string>
     <string name="location_warning_title">Согласие на предоставление расположения</string>
-    <string name="location_warning_message">"Allow AutoNavi's location service to collect anonymous location data. Some data may be stored on your device, and collection may occur even when no apps are running. Applicable data usage fees may apply during this process."</string>
+    <string name="location_warning_message">"Позволить сервису навигации, анонимно, собирать данные о местоположении. Некоторые данные, будут сохранены на вашем устройстве, и сбор данных может продолжаться, даже если ни одно приложение не запущено. Во время этого процесса, может взиматься плата за использование данных."</string>
     <string name="agree">Согласен</string>
     <string name="disagree">Не согласен</string>
 </resources>

@@ -20,8 +20,8 @@
     <string name="global_action_reboot">Перезагрузка</string>
     <string name="reboot_confirm_title">Перезагрузка</string>
     <string name="reboot_confirm_msg">Ваш телефон будет перезагружен</string>
-    <string name="reboot_dialog_msg">"Нажмите кнопку питания для выключения после ^ 1 секунды. 
-Продолжайте нажимать со 2-й секунды для перезагрузки после выключения"</string>
+    <string name="reboot_dialog_msg">Нажмите кнопку питания для выключения через ^1 сек. Продолжайте нажимать две секунды для перезагрузки после выключения</string>
+    <string name="reboot_dialog_msg_by_long_press">Нажмите кнопку питания для перезагрузки через ^1 сек.</string>
     <string name="silent_mode_silent">Тихо</string>
     <string name="silent_mode_vibrate">Вибро</string>
     <string name="silent_mode_normal">Норма</string>

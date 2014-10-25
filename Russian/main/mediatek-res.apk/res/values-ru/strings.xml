@@ -124,7 +124,7 @@
     <string name="wifi_display_disconnected">Беспроводной дисплей отключен</string>
     <string name="wifi_wps_failed_overlap">Другая WPS сессия была обнаружена. Пожалуйста, попробуйте еще раз через несколько минут.</string>
     <string name="wifi_display_wfd_and_wifi_are_turned_on">Беспроводной дисплей и Wi-Fi включены</string>
-    <string name="wifi_display_sound_path_reminder">Мультимедиа звук не будет играть с гарнитуры</string>
+    <string name="wifi_display_sound_path_reminder">"Мультимедиа не будет играть с гарнитуры"</string>
     <string name="for_first_simcard">Для SIM1</string>
     <string name="for_second_simcard">Для SIM2</string>
     <string name="for_third_simcard">Для SIM3</string>

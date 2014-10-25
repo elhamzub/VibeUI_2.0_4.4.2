@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
+    <string name="batteryWarning_label">Предупреждениеи батареи</string>
     <string name="title_charger_over_voltage">Превышено напряжение на зарядном устройстве</string>
     <string name="title_battery_over_temperature">Перегрев батареи</string>
     <string name="title_over_current_protection">Защита от перегрузки по току</string>

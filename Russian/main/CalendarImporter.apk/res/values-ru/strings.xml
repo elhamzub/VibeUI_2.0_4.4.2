@@ -14,12 +14,14 @@
     <string name="open">Открыть</string>
     <string name="done">Готово</string>
     <string name="progresszero">0%</string>
+    <string name="progresshundred">100%</string>
     <string name="import_vcs_failed">Не удалось импортировать событие.</string>
     <string name="title_lable">"Заголовок: "</string>
-    <string name="no_syncable_calendars">Невозможно импортироват ь</string>
+    <string name="no_syncable_calendars">Невозможно импортировать</string>
     <string name="no_calendars_found">Эта учетная запись не поддерживает синхронизацию календаря или последняя синхронизация еще не завершена.</string>
     <string name="retry">Повтор</string>
     <string name="give_up">Прервать</string>
     <string name="open_calendar_failed">Календарь недоступен.</string>
     <string name="loading">Загрузка...</string>
+    <string name="not_support_multi_events">Файлы с множественными запросами, не поддерживаются</string>
 </resources>

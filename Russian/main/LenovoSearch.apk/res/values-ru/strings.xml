@@ -54,5 +54,13 @@
     <string name="clear_editrecord_prompt">Это приведет к очистке всех входных точек в недавней истории поиска</string>
     <string name="clear_editrecord_agree">ОК</string>
     <string name="clear_editrecord_disagree">Отмена</string>
+    <string name="welcome">Приветствуем</string>
     <string name="empty_text">Локальный поиск</string>
+    <string name="language_english">en</string>
+    <string name="baidu_search_engine_english">baidu_en</string>
+    <string name="web_search_text">Данные не обнаружены, используйте онлайн-поиск</string>
+    <string name="search_label">Apps</string>
+    <string name="settings_description">Названия установленных приложений</string>
+    <string name="search_empty">Не найдено</string>
+    <string name="application_desc">Приложение</string>
 </resources>
