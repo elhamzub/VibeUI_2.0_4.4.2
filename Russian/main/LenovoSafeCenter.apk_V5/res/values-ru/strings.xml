@@ -1952,7 +1952,7 @@ Click the link below to see your location:
     <string name="intercept">Недавно заблокированые</string>
     <string name="kidmode_disable">Родительский контроль не включен, необходимо проверить причину</string>
     <string name="lat_and_lon">\"SECUREit Анти-вор напоминает вам: Текущие координаты вашего потерянного телефона: &lt;string name=\"le_anti_virus\">SECUREit.Сканирование и удаление вируса</string>
-    <string name="le_anti_virus">SECUREit.Anti-virus</string>
+    <string name="le_anti_virus">SECUREit. Anti-virus</string>
     <string name="le_battery_disable">Не возможно запустить Lenovo Power Master, скорее всего отключен в системе</string>
     <string name="lecloud_disable">Ошибка запуска Lenovo Sync, возможно приложение отключено в системе</string>
     <string name="lesafe_tariff_warn_text">Напоминание о расходах</string>
