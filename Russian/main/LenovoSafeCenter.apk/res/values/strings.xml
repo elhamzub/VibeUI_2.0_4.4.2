@@ -535,7 +535,7 @@
     <string name="app_uninstall_summary">Простое управление сторонними приложениями</string>
     <string name="important_msg">"Удаление системных приложений может привести к сбою в системе или невозможности загрузки телефона, будьте осторожны. 
 Если после удаления будут возникать ошибки, приложение можно восстановить из корзины."</string>
-    <string name="power_off">Не выключайте телефон во время выполнения данной операции.</string>
+    <string name="power_off">"Не выключайте телефон во время выполнения данной операции"</string>
     <string name="root_title">Нужны привилегии root для заморозки приложений</string>
     <string name="sd_storage">SD-карта</string>
     <string name="sd_umount">Не установленные</string>
@@ -718,7 +718,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
 3 Если ваш телефон отсутствует, и ваш SIM-карта была изменена, SECUREit пошлет SMS, в котором содержится новый номер SIM-карты, на ваш экстренной связи. Вы можете посылать команды противоугонные на новый номер SIM-карты, чтобы избежать конфиденциальность утечки "</string>
     <string name="sms_content_1">Да, я</string>
     <string name="sms_content_2">Мой телефон потерян, и SIM-карта была заменена. Пожалуйста, свяжитесь с этот номер, чтобы помочь мне восстановить мой телефон. Спасибо!</string>
-    <string name="antithief_no_set">Не установлено</string>
+    <string name="antithief_no_set">"Не установлено"</string>
     <string name="open_sucess">Поздравляем! Вы включили Анти-вор!</string>
     <string name="n1">1</string>
     <string name="n2">2</string>
@@ -1167,7 +1167,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="last_time">"Последний раз: "</string>
     <string name="localblack_successNotice">Сообщение отправлено успешно.</string>
     <string name="neterror">Ошибка подключения к сети</string>
-    <string name="not_control">SECUREit не будет выполнять перехват</string>
+    <string name="not_control">"SECUREit не будет выполнять перехват"</string>
     <string name="off_all">Откл. все</string>
     <string name="on_all">Вкл. все</string>
     <string name="perm_control_fail">Ошибка</string>
@@ -1206,7 +1206,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="install_fail">Установка не удалась.</string>
     <string name="installing">Установка…</string>
     <string name="install_success">Установка выполнена успешно.</string>
-    <string name="no_premit">Это приложение не относится к разрешенным</string>
+    <string name="no_premit">"Это приложение не относится к разрешенным"</string>
     <string name="pass_antivirus">SECUREit не обнаружил вирусов</string>
     <string name="permission_control">Защита приватности</string>
     <string name="prase_error">Неизвестная ошибка</string>
@@ -1292,13 +1292,13 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="mms_background_summary">Ограничить приложения в передаче MMS</string>
     <string name="permission_sendmms">Отправлять MMS</string>
     <string name="permission_call">Совершать звонки</string>
-    <string name="enable_net">Запреть открывать 3G/WLAN/Bluetooth</string>
-    <string name="enable_net_summary">Ограничить приложения в открытии 3G/WLAN/Bluetooth</string>
-    <string name="perm_change_net">Открывать 3G/WLAN/Bluetooth</string>
+    <string name="enable_net">Запреть открывать 3G/Wi-Fi/Bluetooth</string>
+    <string name="enable_net_summary">Ограничить приложения в открытии 3G/Wi-Fi/Bluetooth</string>
+    <string name="perm_change_net">Открывать 3G/Wi-Fi/Bluetooth</string>
     <string name="deny_tip">Запретить(%1$ds)</string>
     <string name="remenber">Запомнить выбор</string>
     <string name="perm_open_3g">Включать 2G/3G</string>
-    <string name="perm_open_wifi">Включать WLAN</string>
+    <string name="perm_open_wifi">Включать Wi-Fi</string>
     <string name="perm_open_bluetooth">Включать Bluetooth</string>
     <string name="unknown_apps_dlg_text">В целях безопасности, ваш телефон настроен блокировать установку приложений, полученных из неизвестных источников. Хотите ли вы отменить эту функцию?</string>
     <string name="unknown_apps_dlg_title">Подтвердите установку</string>
@@ -1471,7 +1471,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="permission_navigator_edit_sms">Изменить сообщения</string>
     <string name="permission_navigator_sendmms">Отправлять MMS</string>
     <string name="permission_navigator_open_3g">Включать 2G/3G</string>
-    <string name="permission_navigator_open_wifi">Включать WLAN</string>
+    <string name="permission_navigator_open_wifi">Включать Wi-Fi</string>
     <string name="permission_navigator_open_bluetooth">Включать Bluetooth</string>
     <string name="permission_navigator_edit_contact">Изменять контакты</string>
     <string name="permission_navigator_edit_calllog">Изменять журнал вызовов</string>
@@ -1484,20 +1484,20 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="permission_toast_operationing_rcontacts">%s читать контакты и журналы вызовов, заблокировано</string>
     <string name="permission_toast_operationing_rsms">%s читать SMS, заблокировано</string>
     <string name="permission_toast_operationing_send_sms">%s отправлять SMS</string>
-    <string name="permission_toast_operationing_wsms">%s is writing message to message box, заблокировано</string>
-    <string name="permission_toast_operationing_readmms">%s is reading MMS, заблокировано</string>
-    <string name="permission_toast_operationing_get_contact">%s is reading contacts, заблокировано</string>
-    <string name="permission_toast_operationing_edit_contact">%s is modifying contacts, заблокировано</string>
-    <string name="permission_toast_operationing_get_calllog">%s is reading call logs, заблокировано</string>
-    <string name="permission_toast_operationing_edit_calllog">%s is modifying call logs, заблокировано</string>
-    <string name="permission_toast_operationing_get_sms">%s is reading messages, заблокировано</string>
-    <string name="permission_toast_operationing_edit_sms">%s is modifying messages, заблокировано</string>
-    <string name="permission_toast_operationing_sendmms">%s is sending MMS, заблокировано</string>
-    <string name="permission_toast_operationing_open_3g">%s is enabling Mobile Network secretly, заблокировано</string>
-    <string name="permission_toast_operationing_open_wifi">%s is enabing WLAN secretly, заблокировано</string>
-    <string name="permission_toast_operationing_open_bluetooth">%s is enabling Bluetooth secretly, заблокировано</string>
-    <string name="permission_toast_operationing_get_loc">%s is geting your phone location, заблокировано</string>
-    <string name="permission_toast_operationing_open_record">%s is opening the recording, заблокировано</string>
+    <string name="permission_toast_operationing_wsms">%s запись сообщений, заблокировано</string>
+    <string name="permission_toast_operationing_readmms">%s чтение MMS, заблокировано</string>
+    <string name="permission_toast_operationing_get_contact">%s чтение контактов, заблокировано</string>
+    <string name="permission_toast_operationing_edit_contact">%s редактировать контакты, заблокировано</string>
+    <string name="permission_toast_operationing_get_calllog">%s чтение журнала вызовов, заблокировано</string>
+    <string name="permission_toast_operationing_edit_calllog">%s редактирование журнала вызовов, заблокировано</string>
+    <string name="permission_toast_operationing_get_sms">%s чтение сообщений, заблокировано</string>
+    <string name="permission_toast_operationing_edit_sms">%s редактировать сообщения, заблокировано</string>
+    <string name="permission_toast_operationing_sendmms">%s отправка MMS, заблокировано</string>
+    <string name="permission_toast_operationing_open_3g">%s скрытая активация передачи данных, заблокировано</string>
+    <string name="permission_toast_operationing_open_wifi">%s скрытая активация Wi-Fi, заблокировано</string>
+    <string name="permission_toast_operationing_open_bluetooth">%s скрытая активация Bluetooth, заблокировано</string>
+    <string name="permission_toast_operationing_get_loc">%s получение вашего местоположения, заблокировано</string>
+    <string name="permission_toast_operationing_open_record">%s включение записи, заблокировано</string>
     <string name="permission_toast_operationing_pen_camera">%s включать камеру, заблокировано</string>
     <string name="permission_toast_operationing_send_mms">%s отправлять MMS, заблокировано</string>
     <string name="permission_toast_operationing_call">%s звонить, заблокировано</string>
@@ -1565,7 +1565,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="hide_sms_info3">Детский режим будет выключен.</string>
     <string name="inputmethodapp">Настройки защиты ввода паролей</string>
     <string name="max_hide_apps">Достигнуто максимальное количество приложений, которые можно скрыть. Невозможно добавить больше.</string>
-    <string name="no_safeinputmethod">You do not install the security input method, open failure</string>
+    <string name="no_safeinputmethod">"You do not install the security input method, open failure"</string>
     <string name="not_support_safeinput">(не поддерживаеться)</string>
     <string name="payment_open">Включить Анти-фишинг</string>
     <string name="payment_close">Disabled</string>

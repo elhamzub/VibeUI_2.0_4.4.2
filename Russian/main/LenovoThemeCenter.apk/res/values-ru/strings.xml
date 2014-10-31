@@ -1017,7 +1017,7 @@ Lenovo</string>
     <string name="paused_dialog_msg">Вы хотите приостановить загрузку?</string>
     <string name="resume_dialog_msg">Вы хотите продолжить загрузку?</string>
     <string name="download_msg_no_network">Сеть передачи данных не доступна</string>
-    <string name="msg_download_share_unsupport">"Невозможно отправить не поддерживаемый тип."</string>
+    <string name="msg_download_share_unsupport">"Невозможно отправить не поддерживаемый тип"</string>
     <string name="msg_download_confirm_delete">Подтверждаете удаление?</string>
     <string name="checkbox_download_confirm_delete">Удалить оригинальный файл</string>
     <string name="checkbox_download_confirm_next">"Не показывать в следующий раз"</string>

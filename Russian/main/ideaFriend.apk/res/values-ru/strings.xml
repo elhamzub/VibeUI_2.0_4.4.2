@@ -608,6 +608,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="action_bar_up_description">Navigate up</string>
     <string name="ab_cvaa_show_items">showing items 1 to num of num</string>
     <string name="ab_background_data_alert">Allow checking for updates in the background?</string>
+    <string name="ab_bbs">Форум</string>
     <string name="lenovo_use_skill_Tips">Советы</string>
     <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Включите Wi-Fi!</string>
     <string name="SUS_MSG_LATESTVERSION">Текущая версия!</string>
@@ -884,9 +885,9 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="no_way_to_print">Приложение для печати контакта недоступно.</string>
     <string name="menu_set_ring_tone">Установить мелодию</string>
     <string name="menu_redirect_calls_to_vm">Все вызовы на голосовую почту</string>
-    <string name="readOnlyContactWarning">Удаление контактов из учетных записей только для чтения невозможно, однако можно скрыть их в списках контактов.</string>
+    <string name="readOnlyContactWarning">"Удаление контактов из учетных записей только для чтения невозможно, однако можно скрыть их в списках контактов"</string>
     <string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из нескольких учетных записей. Информация из учетных записей только для чтения будет скрыта в списках контактов, а не удалена.</string>
-    <string name="multipleContactDeleteConfirmation">Удаление этого контакта приведет к удалению информации из нескольких учетных записей.</string>
+    <string name="multipleContactDeleteConfirmation">Удаление этого контакта приведет к удалению информации из нескольких учетных записей</string>
     <string name="deleteConfirmation">Этот контакт будет удален.</string>
     <string name="menu_done">Готово</string>
     <string name="menu_doNotSave">Отмена</string>
@@ -895,7 +896,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="label_sip_address">Интернет-вызов</string>
     <string name="ghostData_company">Компания</string>
     <string name="ghostData_title">Должность</string>
-    <string name="invalidContactMessage">Контакт не существует</string>
+    <string name="invalidContactMessage">"Контакт не существует"</string>
     <string name="pickerNewContactHeader">Создать новый контакт</string>
     <string name="pickerNewContactText">Создать новый контакт</string>
     <string name="phoneLabelsGroup">Телефон</string>
@@ -920,9 +921,9 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="savingContact">Сохранение контакта…</string>
     <string name="savingDisplayGroups">Сохранения параметров отображения…</string>
     <string name="contactSavedToast">Контакт сохранен.</string>
-    <string name="contactSavedErrorToast">Не удалось сохранить изменения контакта.</string>
+    <string name="contactSavedErrorToast">"Не удалось сохранить изменения"</string>
     <string name="groupSavedToast">Группа сохранена.</string>
-    <string name="groupSavedErrorToast">Не удалось сохранить изменения группы.</string>
+    <string name="groupSavedErrorToast">"Не удалось сохранить изменения"</string>
     <string name="listTotalPhoneContactsZero">Нет контактов с номерами телефонов</string>
     <string name="listTotalAllContactsZero">Нет контактов</string>
     <string name="listTotalAllContactsZeroCustom">Нет видимых контактов</string>
@@ -1121,7 +1122,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="cancel_import_confirmation_message">Отменить импорт %s?</string>
     <string name="cancel_export_confirmation_title">Отмена экспорта vCard</string>
     <string name="cancel_export_confirmation_message">Отменить экспорт %s?</string>
-    <string name="cancel_vcard_import_or_export_failed">Не удалось отменить импорт или экспорт vCard</string>
+    <string name="cancel_vcard_import_or_export_failed">"Не удалось отменить импорт или экспорт vCard"</string>
     <string name="search_settings_description">Имена контактов</string>
     <string name="add_2sec_pause">Добавить 2-секундную паузу</string>
     <string name="add_wait">Добавить ожидание</string>
@@ -2853,6 +2854,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="dial_input_wait">Вставить символ ожидания</string>
     <string name="dial_input_pause">Вставить 2-х сек. символ ожидания</string>
     <string name="dialpad_sendsms_cd">Сообщение</string>
+    <string name="dialpad_video_telephone_cd">Видео-телефония</string>
     <string name="sms_fcn_normal">Приложение MMS нормально.</string>
     <string name="sms_fcn_disabled">Отключены некоторые функции SMS!</string>
     <string name="sms_fcn_restored">Восстановление успешно.</string>
@@ -3062,4 +3064,6 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="away_mode_voice_empty_msg_hint">Пример: Я не у телефона, пожалуйста, оставьте сообщение, спасибо!</string>
     <string name="internal_sdcard">Внутренняя память</string>
     <string name="external_sdcard">Внешние накопители</string>
+    <string name="messge_search_hint">Поиск сообщений | Всего %d совпадений</string>
+    <string name="dialpad_single_phone_cd">Кнопка телефона</string>
 </resources>
