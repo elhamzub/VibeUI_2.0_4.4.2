@@ -371,8 +371,8 @@
     <string name="contact_manage_title">"Проверить контакты в облаке"</string>
     <string name="contact_no_recovery">Нет контактов в облаке</string>
     <string name="contact_po_no_name">(No name)</string>
-    <string name="contact_preview_button_backup">Backup now</string>
-    <string name="contact_preview_button_restore">Restore now</string>
+    <string name="contact_preview_button_backup">Сохранить</string>
+    <string name="contact_preview_button_restore">Восстановить</string>
     <string name="contact_preview_local_des">Local contacts have recent changes as follows</string>
     <string name="contact_preview_title">Changes in contacts</string>
     <string name="contact_restore_desc">"Восстановить контакты из облака"</string>
@@ -382,8 +382,8 @@
     <string name="contact_retrieve_title">Recover</string>
     <string name="contact_sim_import_doing">Importing SIM contacts. Please wait...</string>
     <string name="contact_sim_import_success">SIM contacts imported successfully</string>
-    <string name="contact_sim_list_count">%1$d contacts in total</string>
-    <string name="contact_sim_list_title">Import SIM contacts</string>
+    <string name="contact_sim_list_count">%1$d всего контактов</string>
+    <string name="contact_sim_list_title">Импорт с SIM</string>
     <string name="contact_sim_no_contact">Нет контактов на SIM</string>
     <string name="contact_syncing_tips_backup">Backing up</string>
     <string name="contact_syncing_tips_restore">Restoring</string>
