@@ -330,8 +330,8 @@
     <string name="remain_data_taffic_out">Перерасход &lt;strong>%s&lt;/strong> </string>
     <string name="to_billy_day">Дней осталось  &lt;strong>%d&lt;/strong>， </string>
     <string name="traffic_data_has_out">Трафик закончился</string>
-    <string name="remain_data_taffic_reminder3">Суточный лимит &lt;strong>%s&lt;/strong>, не превышайте !</string>
-    <string name="remain_data_taffic_reminder_out">建议使用流量要慎重哦!</string>
+    <string name="remain_data_taffic_reminder3">Суточный лимит &lt;strong>%s&lt;/strong>. Не превышайте!</string>
+    <string name="remain_data_taffic_reminder_out">Будьте осторожны при использовании поточных данных!</string>
     <string name="modify_daily_reminder">Изменить ежедневный лимит</string>
     <string name="month_used_data">Трафик в этом месяце</string>
     <string name="net_traffic_daily_detail">Подробнее</string>
