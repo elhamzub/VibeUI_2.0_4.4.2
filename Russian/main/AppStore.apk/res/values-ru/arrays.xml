@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips_array">
+        <item>"Copycat приложения являются опасными
+Сканирование телефона с Sabre Tulong"</item>
+        <item>"Установите "WLAN Smart Update" 
+Успользуйте последнюю версию"</item>
+        <item>"Подключите кабель USB 
+  чтобы управлять телефоном на ПК"</item>
+        <item>"Обновление приложения в экономном режиме передачи данных 
+может сохранить 92% трафика данных"</item>
+        <item>"Вы можете игнорировать обновления для 
+приложений, которые вы не хотите обновить"</item>
+        <item>"Телефону нехватает памяти? 
+Попробуйте переместить приложения"</item>
+        <item>"Игровая Зона 
+Масса подарков ждет Вас. Зайди и забери"</item>
+    </string-array>
+    <string-array name="ratings">
+        <item>Это приложение не работает!</item>
+        <item>Запустилось, но глючит!</item>
+        <item>На "троечку"!</item>
+        <item>Хорошо приложение, рекомендую!</item>
+        <item>Приложение просто "СУПЕР", настоятельно рекомендую!</item>
+    </string-array>
+    <string-array name="permission_array">
+        <item>Это приложение требует следующие разрешения</item>
+        <item>Показать скрытые разрешений</item>
+    </string-array>
+    <string-array name="stars">
+        <item>5 звезд</item>
+        <item>4 звезды</item>
+        <item>3 звезды</item>
+        <item>2 звезды</item>
+        <item>1 звезда</item>
+    </string-array>
+    <string-array name="status">
+        <item>Установка</item>
+        <item>Будет установлено</item>
+        <item>Было установлено</item>
+    </string-array>
+    <string-array name="network_check_title_array">
+        <item>主服务器连接配置</item>
+        <item>主服务器连接</item>
+        <item>CDN主服务器连接配置</item>
+        <item>CDN主服务器连接</item>
+        <item>CDN备用服务器连接配置</item>
+        <item>CDN备用服务器连接</item>
+        <item>网页访问速度</item>
+        <item>主服务器资源下载速度</item>
+        <item>备用服务器资源下载速度</item>
+        <item>主服务器访问速度</item>
+    </string-array>
+    <string-array name="network_check_desc_array">
+        <item>检查主服务器的连接配置</item>
+        <item>检查到主服务器的连通性</item>
+        <item>检查CDN主服务器的连接配置</item>
+        <item>检查到CDN主服务器的连通性</item>
+        <item>检查CDN备用服务器的连接配置</item>
+        <item>检查到CDN备用服务器的连通性</item>
+        <item>检测网页访问速度</item>
+        <item>检测主服务器资源下载速度</item>
+        <item>检测备用服务器资源下载速度</item>
+        <item>检测主服务器访问速度</item>
+    </string-array>
+    <array name="comment_array1" />
+    <array name="comment_array2" />
+    <array name="comment_array3" />
+    <array name="comment_array4" />
+    <array name="comment_array5" />
+</resources>
