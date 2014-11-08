@@ -108,7 +108,7 @@
     <string name="lenovo_service">Сервис</string>
     <string name="net_find_conn_app">Поиск сетевых приложений</string>
     <string name="net_can_conn_app">Сетевых приложений: %1$d</string>
-    <string name="net_netfilter_title">Трафик брандмауэра</string>
+    <string name="net_netfilter_title">Брандмауэр</string>
     <string name="net_auto_correct_traffic_set">Автоматическая калибровка по расписанию</string>
     <string name="net_auto_correct_traffic_set_time">Синхронизация</string>
     <string name="net_last_traffic_calibrator_failure_result">Калибровка расхода</string>
@@ -194,7 +194,7 @@
     <string name="net_traffic_package_limit">Месячный лимит</string>
     <string name="traffic_correct_parameter_desc">Настройки параметров синхронизации использования трафика</string>
     <string name="net_traffic_notice_message">Использование передачи данных по мобильной сети будет запрещено для всех приложений</string>
-    <string name="net_traffic_notice_message2">Использование передачи данных по будет запрещено для всех приложений</string>
+    <string name="net_traffic_notice_message2">Использование передачи данных по WiFi будет запрещено для всех приложений</string>
     <string name="net_traffic_notice_title">Информация</string>
     <string name="net_sys_app">Система</string>
     <string name="net_operators_m">China Mobile</string>
@@ -237,20 +237,21 @@
     <string name="netfilter_notice_button_no">Нет</string>
     <string name="netfilter_notice_item_desc">После выключения, приложение %1$s будет не в состоянии подключиться к сети</string>
     <string name="netfilter_notice_item_desc_mobile">Данные</string>
-    <string name="netfilter_sort_month">Сортировка по месяцу</string>
-    <string name="netfilter_sort_day">Сортировка по дням</string>
+    <string name="netfilter_sort_month">За месяц</string>
+    <string name="netfilter_sort_day">За день</string>
     <string name="net_lock_screen_traffic_reminder">Советы по безопасности</string>
-    <string name="net_lock_screen_traffic_title">Уведомление о передаче данных  при заблокированном экране</string>
+    <string name="net_lock_screen_traffic_title">Передача данных  при заблокированном экране</string>
     <string name="net_lock_screen_traffic_stat">Расход трафика в фоне: %1$s</string>
-    <string name="net_lock_screen_disable_des">"Запретить при заблокированом экране, не может быть использован во время мобильной передачи данных"</string>
+    <string name="net_lock_screen_disable_des">Запретить при заблокированом экране,
+ не может быть использован во время мобильной передачи данных</string>
     <string name="net_lock_screen_traffic_summary_1">%1$s общее потребление %2$s трафика</string>
     <string name="net_lock_screen_traffic_summary_2">В промежуток %1$s-%2$s потреблено %3$s трафика</string>
     <string name="net_lock_screen_open_reminder">Вы можете открыть это напоминание в настройках мониторинга трафика</string>
-    <string name="net_lock_screen_app_manage_title">不监控名单</string>
-    <string name="net_lock_screen_app_manage_title_2">监控名单管理</string>
-    <string name="net_lock_screen_add_app_untrack_title">添加不监控名单</string>
-    <string name="net_lock_screen_whitelist_des">不监控应用名单，在锁屏时将不会被监控</string>
-    <string name="net_lock_screen_app_empty">还没有应用诶</string>
+    <string name="net_lock_screen_app_manage_title">Белый список</string>
+    <string name="net_lock_screen_app_manage_title_2">Управление списком</string>
+    <string name="net_lock_screen_add_app_untrack_title">Добавить ваш Браузер в белый список</string>
+    <string name="net_lock_screen_whitelist_des">Не контролировать приложения из списка при заблокированном экране</string>
+    <string name="net_lock_screen_app_empty">Однако применяется</string>
     <string name="net_lock_screen_ok">ОК</string>
     <string name="net_lock_screen_add">Добавить</string>
     <string name="net_lock_screen_confirm">Подтвердить</string>
@@ -327,26 +328,26 @@
     <string name="net_traffic_month_detail">В этом месяце использовано трафика &lt;strong>%s&lt;/strong></string>
     <string name="remain_data_taffic"> трафика &lt;strong>%s&lt;/strong> </string>
     <string name="remain_data_taffic_out">Перерасход &lt;strong>%s&lt;/strong> </string>
-    <string name="to_billy_day">Дней использования траффика осталось  &lt;strong>%d&lt;/strong>，</string>
+    <string name="to_billy_day">Дней осталось  &lt;strong>%d&lt;/strong>，</string>
     <string name="traffic_data_has_out">Трафик закончился</string>
     <string name="remain_data_taffic_reminder3">Суточный лимит &lt;strong>%s&lt;/strong>, не превышайте !</string>
     <string name="remain_data_taffic_reminder_out">建议使用流量要慎重哦!</string>
     <string name="modify_daily_reminder">Изменить ежедневный лимит</string>
     <string name="month_used_data">Трафик в этом месяце</string>
     <string name="net_traffic_daily_detail">Подробнее</string>
-    <string name="remain_data_can_do">Остальной траффик</string>
+    <string name="remain_data_can_do">Оставшегося хватит</string>
     <string name="if_refresh_weibo">Если использовать WEIBO</string>
-    <string name="weibo_count">примерно %1$s  </string>
+    <string name="weibo_count">примерно на %1$s  </string>
     <string name="if_chat">Если использовать чат</string>
-    <string name="chat_count">примерно %1$s голосовых сообщений</string>
+    <string name="chat_count">примерно на %1$s </string>
     <string name="if_listen_music">Если слушать музыку онлайн</string>
-    <string name="music_count">примерно %1$s композиций</string>
+    <string name="music_count">примерно на %1$s композиций</string>
     <string name="if_play_video">Если смотреть видео онлайн</string>
-    <string name="video_time">примерно %1$s минут</string>
+    <string name="video_time">примерно на %1$s минут</string>
     <string name="if_online_pic">Если смотреть картинки</string>
-    <string name="pic_count">примерно %1$s</string>
+    <string name="pic_count">примерно на %1$s</string>
     <string name="if_online_reading">Если читать</string>
-    <string name="reading_count">примерно %1$s книги</string>
+    <string name="reading_count">примерно на%1$s книги</string>
     <string name="one_week_has_passed">Прошла неделя，</string>
     <string name="one_week_data_usage">где трафик？</string>
     <string name="data_used_50_des1">Использование трафика приходится менее половины этого месяца, </string>
@@ -1491,7 +1492,7 @@
     <string name="title_suggestclean">Быстро</string>
     <string name="title_deepclean">Полное</string>
     <string name="short_title_suggestclean">Быстро</string>
-    <string name="short_title_deepclean">Полное</string>
+    <string name="short_title_deepclean">Полная</string>
     <string name="deepclean_scan_unused">Редко используемые</string>
     <string name="deepclean_scan_cache">Файлы кэша</string>
     <string name="deepclean_scan_residual">Удалите остатки</string>
@@ -1534,7 +1535,7 @@
     <string name="cleanmgr_disk_info">Детали пространства</string>
     <string name="cleanmgr_deepclean_finish_appmovetext">Мало? Попробуйте переместить приложения.</string>
     <string name="cleanmgr_deepclean_finish_unuseapktext">Мало? Попробуйте удалить редко используемые</string>
-    <string name="cleanmgr_deepclean_finish_appmovebutton">Удаление приложения</string>
+    <string name="cleanmgr_deepclean_finish_appmovebutton">Переместить приложения</string>
     <string name="cleanmgr_deepclean_finish_unuseapkbutton">Редко 14:04 08.11.2014используемые приложения</string>
     <string name="cleanmgr_nosdcard_toggle_toast">Нет SD карты, вы не можете войти глубокую очистку</string>
     <string name="cleanmgr_select_withnum">Очистка(%s)</string>
@@ -1580,7 +1581,7 @@
     <string name="cleanmgr_uninstall_sucess">Освобождено %1$s </string>
     <string name="cleanmgr_dialog_unuseapp_description1">Подтвердить изменение расположения установки по-умолчанию?</string>
     <string name="cleanmgr_dialog_unuseapp_toast">Выберите хотя бы одно приложение для удаления!</string>
-    <string name="amg_title">Управление приложениями</string>
+    <string name="amg_title">Приложения</string>
     <string name="app_in_phone">В памяти телефона</string>
     <string name="app_in_sd">На SD -карте</string>
     <string name="app_move">Перемещение приложений</string>
@@ -2395,11 +2396,11 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="opti_used_time">"Время использования: "</string>
     <string name="phone_acc_release_memory">Освободилось %1$s</string>
     <string name="phone_acc_to_whitelist_tip">有不想结束的应用吗？马上设置保护名单</string>
-    <string name="phone_has_best">Телефон находится в хорошем состоянии</string>
+    <string name="phone_has_best">Всё хорошо!</string>
     <string name="phone_no_app_to_clear">Нет приложений для очистки</string>
     <string name="phone_no_need_to_accelerate">Не нужно ускорять</string>
     <string name="acc_return">Назад</string>
-    <string name="loading_des">Попытка сканирования</string>
+    <string name="loading_des">Сканирование</string>
     <string name="new_speedup_ignore">Игнорировать</string>
     <string name="new_speedup_already_ignore">Была проигнорирована</string>
     <string name="new_speedup_cancel">Отмена</string>
@@ -2874,8 +2875,8 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="safe_first_show">乐安全尝鲜版！&lt;br> &lt;font color=#2b9ee7>尚未正式发布，替我们保密奥！&lt;/font>&lt;br>在使用过程中，如遇到问题&lt;br>请登录&lt;font color=#FF9000>联想乐工厂&lt;/font>与我们联系！&lt;br>或者直接QQ&lt;br>乐安全小伙伴： &lt;font color=#FF9000>2403446246&lt;/font></string>
     <string name="skip">Пропустить</string>
     <string name="loading_error">Загрузка не завершена, попробуйте позже</string>
-    <string name="adv_desc">"         Блокировка
-                    рекламы"</string>
+    <string name="adv_desc">"            Блокировка
+                         рекламы"</string>
     <string name="backup_text">Резервные копии</string>
     <string name="boot_app_healthcheckup_safe">Автозагрузка приложений отключена</string>
     <string name="boot_app_healthcheckup_scan">Можно отключить загрузку для %1$d приложений</string>
