@@ -467,7 +467,7 @@
     <string name="antispamlocalblack_add">Добавить</string>
     <string name="callimg_notify">Значек уведомления о пропущенном приватном звонке</string>
     <string name="callmodesetting">Настройки приватных звонков</string>
-    <string name="app_lock">Защита приложений</string>
+    <string name="app_lock">Блокировка приложений</string>
     <string name="callnotify">Сообщение в панели уведомлений</string>
     <string name="call_notify1">Обычный ответ</string>
     <string name="call_notify2">Сбросить вызов</string>
@@ -540,8 +540,8 @@
     <string name="private_onebig">Приватные контакты</string>
     <string name="private_onesmall">Шифрование SMS и звонков с приватных контактов</string>
     <string name="private_settitile">Настройки безопасности</string>
-    <string name="private_threebig">Защита приложений</string>
-    <string name="private_threesmall">Защита приложений паролем</string>
+    <string name="private_threebig">Блокировка приложений</string>
+    <string name="private_threesmall">Блокировка приложений паролем</string>
     <string name="private_twobig">Зашифрованный диск</string>
     <string name="private_twosmall">Шифрование фото, видео и других файлов</string>
     <string name="p_stitle">Текст уведомления о непрочитанном SMS</string>
@@ -692,13 +692,13 @@
     <string name="anti_privacy_perm">Защита приватности.</string>
     <string name="anti_tariff_closed">Контроль расходов выключен</string>
     <string name="anti_tariff_perm">Контроль расходов</string>
-    <string name="permission_title_app_manager">Фаервол</string>
+    <string name="permission_title_app_manager">Разрешения</string>
     <string name="apps_manage">Приложения</string>
     <string name="app_tap_calling">Использование камеры</string>
     <string name="clean_logs_sure">Удалить все журналы?</string>
     <string name="deny_apps_count">%1$d разрешено, %3$d приложениям запрещено</string>
-    <string name="permission_count_per_permission">&lt;font color=#ff0000>%1$d&lt;/font>个应用申请该权限，&lt;font color=#ff0000>%2$d&lt;/font>个已禁止</string>
-    <string name="permission_count_per_app">申请&lt;font color=#ff0000>%1$d&lt;/font>项权限，&lt;font color=#ff0000>%2$d&lt;/font>项已禁止</string>
+    <string name="permission_count_per_permission">&lt;font color=#ff0000>%1$d&lt;/font> заявки(-ок,-а) на права，&lt;font color=#ff0000>%2$d&lt;/font> запрет(-а,-ов)</string>
+    <string name="permission_count_per_app">&lt;font color=#ff0000>%1$d&lt;/font> разрешено，&lt;font color=#ff0000>%2$d&lt;/font> запрещено</string>
     <string name="exec_state">Выполнение...</string>
     <string name="forbid_perm_nums">%1$было запрещено</string>
     <string name="forbid_total">Запрещено</string>
@@ -977,7 +977,7 @@
     <string name="deny_all_tip">Полный запрет может повлиять на использование некоторых функций: вы уверены, что вы хотите продолжить?</string>
     <string name="permission_antitheft">Безопасность мобильных устройств</string>
     <string name="permission_privatespace">Личное пространство</string>
-    <string name="permission_application_screen_locker">应用锁</string>
+    <string name="permission_application_screen_locker">Блокировка приложений/string>
     <string name="permission_unread_permission_intercept_recored_des">(%s)</string>
     <string name="permission_scan_result_des" formatted="false">共扫描出 &lt;strong>%d&lt;/strong> 个应用涉及 &lt;strong>%d&lt;/strong> 项隐私风险>></string>
     <string name="permission_btn_optimize">Оптимизация</string>
@@ -2533,7 +2533,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="download_app_lock_sync1">Добавить личный контакт</string>
     <string name="download_app_lock_sync2">Запретить посторонним доступ к истории моих личных сообщений и вызовов</string>
     <string name="download_app_lock_sync3">Шифрование фотографий, видео файлов и других файлов</string>
-    <string name="download_app_lock_sync4">Защита приложений паролем</string>
+    <string name="download_app_lock_sync4">Блокировка приложений паролем</string>
     <string name="download_app_safe_store1">海量应用，一应俱全</string>
     <string name="download_app_safe_store2">绿色无毒，安全无忧</string>
     <string name="download_app_safe_store3">更省流量，贴心无忧</string>
