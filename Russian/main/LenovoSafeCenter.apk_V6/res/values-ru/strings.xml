@@ -328,7 +328,7 @@
     <string name="net_traffic_month_detail">В этом месяце использовано трафика &lt;strong>%s&lt;/strong></string>
     <string name="remain_data_taffic"> трафика &lt;strong>%s&lt;/strong> </string>
     <string name="remain_data_taffic_out">Перерасход &lt;strong>%s&lt;/strong> </string>
-    <string name="to_billy_day">Дней осталось  &lt;strong>%d&lt;/strong>，</string>
+    <string name="to_billy_day">Дней осталось  &lt;strong>%d&lt;/strong>， </string>
     <string name="traffic_data_has_out">Трафик закончился</string>
     <string name="remain_data_taffic_reminder3">Суточный лимит &lt;strong>%s&lt;/strong>, не превышайте !</string>
     <string name="remain_data_taffic_reminder_out">建议使用流量要慎重哦!</string>
@@ -347,7 +347,7 @@
     <string name="if_online_pic">Если смотреть картинки</string>
     <string name="pic_count">примерно на %1$s</string>
     <string name="if_online_reading">Если читать</string>
-    <string name="reading_count">примерно на%1$s книги</string>
+    <string name="reading_count">примерно на %1$s книгу(и)</string>
     <string name="one_week_has_passed">Прошла неделя，</string>
     <string name="one_week_data_usage">где трафик？</string>
     <string name="data_used_50_des1">Использование трафика приходится менее половины этого месяца, </string>
