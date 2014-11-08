@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Выбрано %1$d эл-ов</item>
+        <item quantity="zero">Выбрано %1$d элементов</item>
+        <item quantity="one">Выбран %1$d элемент</item>
+    </plurals>
+</resources>

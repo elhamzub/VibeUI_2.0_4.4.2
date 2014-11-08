@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+-   <string-array name="city_oper_items">
+      <item>Установить город по-умолчанию</item> 
+      <item>Удалить этот город</item>
+    </string-array>
+    <string-array name="pref_slide_effect_choices">
+        <item>По умолчанию</item>
+        <item>Поворот</item>
+        <item>Бульдозер</item>
+        <item>Ветряная мельница</item>
+        <item>Куб</item>
+        <item>Синусоида</item>
+        <item>Цилиндр</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Не использовать</item>
+        <item>Меню Лаунчера</item>
+        <item>Запущенные приложения</item>
+        <item>Панель уведомлений</item>
+        <item>Поиск иконки</item>
+        <item>Блокировка экрана</item>
+    </string-array>
+        <string-array name="pref_text_color_choices">
+        <item>Следовать теме</item>
+        <item>Чёрный</item>
+        <item>Белый</item>
+    </string-array>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_sync_title">19.0sp</dimen>
+    <dimen name="about_title_font">24.0sp</dimen>
+</resources>
