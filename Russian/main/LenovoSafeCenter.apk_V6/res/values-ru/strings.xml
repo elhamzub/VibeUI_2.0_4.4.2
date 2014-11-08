@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="notification_filename_separator">" "</string>
-    <string name="notification_filename_extras">" , %d ещё..."</string>
-    <string name="download_unknown_filename">Неизвестное имя файла</string>
-    <string name="notification_download_failed">Ошибка загрузки</string>
-    <string name="notification_download_complete">Скачивание завершено</string>
-    <string name="notification_downloading">Скачивание файла...</string>
     <string name="lesafe_no_longer_remind">Не запрашивать</string>
+    <string name="no_net_update_failure">Отсутствует подключение к сети</string>
+    <string name="update_lab_notice_text">Оповещение об обновлении SECUREit</string>
+    <string name="set_net_text">Настройка сети</string>
+    <string name="cancel">Отмена</string>
+    <string name="ok">ОК</string>
+    <string name="save">Сохранить</string>
+    <string name="complete">ОК</string>
+    <string name="sms">SMS</string>
+    <string name="switcher_bluetooth">Bluetooth</string>
+    <string name="weibo_text">Официальный блог</string>
+    <string name="weixin_text">Официальный чат</string>
+    <string name="email_text">Почта</string>
+    <string name="qrcode_text">QR код</string>
+    <string name="close">Выключен</string>
+    <string name="app_name">SECUREit</string>
+    <string name="action_settings">Параметры</string>
+    <string name="hello_world">Привет мир</string>
+    <string name="isuninstalling">Удаление...</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
     <string name="common_loading_text">"Время загрузки "</string>
     <string name="exam_repair_closing">Завершение работы</string>
     <string name="exam_repair_opening">Запуск</string>
-    <string name="float_window_dialog_msg_disable">"Закрыть гистограмму? Можно повторно активировать окно гистограммы в параметрах гистограммы."</string>
+    <string name="float_window_dialog_msg_disable">Закрыть гистограмму? Можно повторно активировать окно гистограммы в параметрах гистограммы.</string>
     <string name="not_support">Ваш телефон не поддерживает эту функцию</string>
     <string name="plz_close_airplane_mode_or_insert_sim_card">Пожалуйста, отключите режим полёта/вставьте SIM-карту</string>
     <string name="process_clear_info_">Очищено</string>
@@ -23,7 +37,6 @@
     <string name="security_action_off">Отключение</string>
     <string name="security_action_on">Включение</string>
     <string name="switcher_airplane_mode">Режим полёта</string>
-    <string name="switcher_bluetooth">Bluetooth</string>
     <string name="switcher_children_desktop">Детский режим рабочего стола</string>
     <string name="switcher_children_mode">Детский режим</string>
     <string name="switcher_hint_default">Переключите, чтобы закрыть окно</string>
@@ -91,7 +104,6 @@
     <string name="phoneinfo_btn_test_screen">Тест экрана</string>
     <string name="phoneinfo_lab_info">Характеристики</string>
     <string name="notify">Запрос</string>
-    <string name="ok">ОК</string>
     <string name="machine_type">"Модель телефона: "</string>
     <string name="os_type">"Версия Android: "</string>
     <string name="phone_imsi">"IMEI: "</string>
@@ -100,7 +112,6 @@
     <string name="locale_phone_number">Принадлежность номера</string>
     <string name="number_area_desc">Введите номер, который вы хотите проверить:</string>
     <string name="no_record">Записи отсутствуют</string>
-    <string name="cancel">Отмена</string>
     <string name="safemode_callto">Набрать</string>
     <string name="number_space">Справочник номеров</string>
     <string name="lenovo_sunsing_apple">Например, Lenovo, Samsung, Apple</string>
@@ -136,7 +147,7 @@
     <string name="net_simcard_error4">Нет SIM-карты</string>
     <string name="net_simcard_error5">Не задан объём пакета данных</string>
     <string name="net_sim_current_used_text">Используется</string>
-    <string name="net_sim_location_set">"Выбор оператора (только китайские)"</string>
+    <string name="net_sim_location_set">Выбор оператора (только китайские)</string>
     <string name="net_start_correct">Калибровка</string>
     <string name="net_title1">Выбор оператора для SIM1</string>
     <string name="net_title2">Выбор оператора для SIM2</string>
@@ -204,7 +215,6 @@
 будет скрываться"</string>
     <string name="traffic_limit_setting">_Установка лимита трафика</string>
     <string name="data_usage_empty">В текущем месяце передача данных приложениями не зафиксирована</string>
-    <string name="set_net_text">Настройка сети</string>
     <string name="net_correct_setting_proivce">Область</string>
     <string name="net_correct_setting_carry">Оператор</string>
     <string name="net_correct_setting_brand">Бренд</string>
@@ -240,7 +250,7 @@
     <string name="netfilter_sort_month">За месяц</string>
     <string name="netfilter_sort_day">За день</string>
     <string name="net_lock_screen_traffic_reminder">Советы по безопасности</string>
-    <string name="net_lock_screen_traffic_title">Передача данных  при заблокированном экране</string>
+    <string name="net_lock_screen_traffic_title">Передача данных при заблокированном экране</string>
     <string name="net_lock_screen_traffic_stat">Расход трафика в фоне: %1$s</string>
     <string name="net_lock_screen_disable_des">Запретить при заблокированом экране,
  не может быть использован во время мобильной передачи данных</string>
@@ -261,7 +271,7 @@
     <string name="net_lock_screen_lenovo_app">Официальное приложение Lenovo %1$s</string>
     <string name="net_lock_screen_top_three">В фоне</string>
     <string name="net_lock_screen_traffic_detail">Подробнее</string>
-    <string name="net_lock_screen_month_traffic">Потребление при  заблокированном экране:</string>
+    <string name="net_lock_screen_month_traffic">Потребление при заблокированном экране:</string>
     <string name="net_lock_screen_abnormal">Ненормальный</string>
     <string name="net_lock_screen_white">Не мониторить</string>
     <string name="net_lock_screen_tracked">Мониторить</string>
@@ -311,14 +321,9 @@
     <string name="net_month_free_notification">Осталось менее 10%</string>
     <string name="defend">Вы всегда под защитой</string>
     <string name="protecting">SECUREit является надежной защитой</string>
-    <string name="closed">" Выключено "</string>
-    <string name="save">Сохранить</string>
-    <string name="newsms">Получено новое личное сообщение</string>
-    <string name="unread_sms">У вас есть %1$d непрочитанных SMS</string>
-    <string name="look_unread_sms">Нажмите для просмотра</string>
-    <string name="traffic_limit_set">Установите пакет интернета</string>
     <string name="net_traffic">сегодня %1$s</string>
     <string name="exceed_text">Превышает</string>
+    <string name="traffic_limit_set">Установите пакет интернета</string>
     <string name="net_traffic_correct_sucess">Калибровка данных %1$s выполнена успешно</string>
     <string name="net_traffic_notify_exceed" formatted="false">Сегодня %s, перерасход %s</string>
     <string name="net_traffic_notify_left" formatted="false">Сегодня %s, осталось %s</string>
@@ -337,9 +342,9 @@
     <string name="net_traffic_daily_detail">Подробнее</string>
     <string name="remain_data_can_do">Оставшегося хватит</string>
     <string name="if_refresh_weibo">Если использовать WEIBO</string>
-    <string name="weibo_count">примерно на %1$s  </string>
+    <string name="weibo_count">примерно на %1$s</string>
     <string name="if_chat">Если использовать чат</string>
-    <string name="chat_count">примерно на %1$s </string>
+    <string name="chat_count">примерно на %1$s</string>
     <string name="if_listen_music">Если слушать музыку онлайн</string>
     <string name="music_count">примерно на %1$s композиций</string>
     <string name="if_play_video">Если смотреть видео онлайн</string>
@@ -409,6 +414,7 @@
     <string name="safeinput_test_over_ok">Поздравляем! Устройство поддерживает функцию Безопасный ввод</string>
     <string name="not_support_safeinput">(не поддерживаеться)</string>
     <string name="inputmethodapp">Настройки защиты ввода паролей</string>
+    <string name="closed">" Выключено "</string>
     <string name="info">Важная информация</string>
     <string name="disable_safepayment_tip">После отключения SECUREit не сможет обеспечивать защиту покупок, совершаемых через Интернет, в режиме реального времени</string>
     <string name="payment_open">Включить Анти-фишинг</string>
@@ -595,6 +601,7 @@
     <string name="safemode_call">Звонки</string>
     <string name="record_count">(%1$s)</string>
     <string name="no_content">Пустое SMS</string>
+    <string name="newsms">Получено новое личное сообщение</string>
     <string name="installing_pleasewait_text">Выполняеться установка, подождите…</string>
     <string name="input_privacy_pwd">Введите 6-значный пароль</string>
     <string name="input_pwd">Ввод пароля</string>
@@ -638,19 +645,14 @@
     <string name="hide_sms_info3">Детский режим будет выключен</string>
     <string name="guest_mode">Гостевой режим</string>
     <string name="open">Включено</string>
-    <string name="close">Выключен</string>
-    <string name="yes">Да</string>
-    <string name="no">Нет</string>
     <string name="next">Далее</string>
     <string name="reboot_info">Гостевой режим будет выключен после включения Детского режима, также потребуеться перезхагрузка. Включить Детский режим?</string>
     <string name="info_failed">Сбой операции. Повторите попытку...</string>
     <string name="hide_contacts2">Скрыть контакты, историю вызовов и текстовые сообщения</string>
-    <string name="update_lab_notice_text">Оповещение об обновлении SECUREit</string>
     <string name="safe_main_install">Установить</string>
     <string name="download_app_link">Загрузить</string>
     <string name="app_lock_must_update">Блокировка приложения имеет важное обновление. Для обеспечения нормального использования загрузите и установите его немедленно</string>
     <string name="is_update_lab_text">Обновить сейчас?</string>
-    <string name="no_net_update_failure">Отсутствует подключение к сети</string>
     <string name="password_format_error">Неправильный формат пароля, повторите ввод!</string>
     <string name="password_unequal">Пароли не совпадают!</string>
     <string name="first_password_hit">Введите 6-значный пароль</string>
@@ -672,6 +674,7 @@
     <string name="unlock">Разблокировать</string>
     <string name="lockpattern_set_sucess_prompt">图形锁密码仅用于应用锁，请牢记！</string>
     <string name="old_safebox_user_prompt">应用锁支持图形密码了，原数字密码已失效，请设置图形密码继续使用！</string>
+    <string name="skip">Пропустить</string>
     <string name="lock">加锁</string>
     <string name="recommend_lock_app">建议加锁应用</string>
     <string name="recommend_lock">建议加锁</string>
@@ -679,7 +682,6 @@
     <string name="select_app_prompt">请选择一个应用！</string>
     <string name="select_app_lock">已加锁 %1$s 个应用</string>
     <string name="shotcut_applock">一键加锁</string>
-    <string name="app_name">SECUREit</string>
     <string name="app_name_evdo" />
     <string name="permission_allow">Разрешить</string>
     <string name="permission_deny">Запретить</string>
@@ -687,7 +689,7 @@
     <string name="allow_all_tip">Разрешить всем приложениям может вызвать угрозу безопасности. Вы уверенны, что хотите сделать это?</string>
     <string name="permission_log_forbid">Запретить для</string>
     <string name="allow_total">Разрешено</string>
-    <string name="permission_anti_privacy">"Контроль доступа"</string>
+    <string name="permission_anti_privacy">Контроль доступа</string>
     <string name="anti_privacy_closed">Защита приватности выключена</string>
     <string name="anti_privacy_perm">Защита приватности.</string>
     <string name="anti_tariff_closed">Контроль расходов выключен</string>
@@ -977,7 +979,7 @@
     <string name="deny_all_tip">Полный запрет может повлиять на использование некоторых функций: вы уверены, что вы хотите продолжить?</string>
     <string name="permission_antitheft">Безопасность мобильных устройств</string>
     <string name="permission_privatespace">Личное пространство</string>
-    <string name="permission_application_screen_locker">Блокировка приложений/string>
+    <string name="permission_application_screen_locker">Блокировка приложений</string>
     <string name="permission_unread_permission_intercept_recored_des">(%s)</string>
     <string name="permission_scan_result_des" formatted="false">共扫描出 &lt;strong>%d&lt;/strong> 个应用涉及 &lt;strong>%d&lt;/strong> 项隐私风险>></string>
     <string name="permission_btn_optimize">Оптимизация</string>
@@ -1004,7 +1006,6 @@
     <string name="dlg_ok">ОК</string>
     <string name="uninstall_failed_msg">Не удается удалить%1$s</string>
     <string name="uninstalling">Удаление:</string>
-    <string name="isuninstalling">Удаление...</string>
     <string name="uninstall_done">Удалено</string>
     <string name="uninstall_failed">Ошибка удаления</string>
     <string name="uninstall_application_title">Удаление приложения</string>
@@ -1185,7 +1186,7 @@
     <string name="notification_intercept_report_ad">Сообщить о приложении с рекламой</string>
     <string name="notification_intercept_app_list_title">通知栏消息</string>
     <string name="notification_intercept_record_list_title">通知栏消息记录</string>
-    <string name="notification_intercept_scan_result_tickle" formatted="false">SECUREit заблокировал %1$s раз появление рекламы</string>
+    <string name="notification_intercept_scan_result_tickle">SECUREit заблокировал %1$s раз появление рекламы</string>
     <string name="notification_intercept_default_parsed_notification_des">已拦截推送通知栏消息</string>
     <string name="cleanmgr_diskmgr_module_name">Очистка SD-карты</string>
     <string name="cleanmgr_diskmgr_module_name_deep">Полная очистка</string>
@@ -1816,7 +1817,6 @@
     <string name="anyshare_third_media_error">媒体文件不存在</string>
     <string name="anyshare_notification_run_background">茄子快传后台运行中</string>
     <string name="anyshare_invite_install_full_version">下载体验茄子快传完整版</string>
-    <string name="hello_world">Привет мир</string>
     <string name="menu_settings">Настройки</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="dialog_yes">ОК</string>
@@ -1969,7 +1969,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="virus_scan_ok">已扫描“%s”，请放心使用。</string>
     <string name="lesafe_notify">Советы по безопасности</string>
     <string name="show_cloudscanok">убийство</string>
-    <string name="show_cloudscan">За неделю обнаружен  %1$s новый вирус, немедленно убивают</string>
+    <string name="show_cloudscan">За неделю обнаружен %1$s новый вирус, немедленно убивают</string>
     <string name="antiviruslogdescsms">Блокировать SMS мошенничества</string>
     <string name="notuninstall">Не удалено</string>
     <string name="uninstalled">Удалено</string>
@@ -2314,7 +2314,6 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="signtype_cancle">Отмена</string>
     <string name="signtype_add">Добавить</string>
     <string name="signtype_longtime_des">将%1$s添加到通讯录，方便今后保持联系</string>
-    <string name="sms">SMS</string>
     <string name="title_marks">Пометить номер</string>
     <string name="strange_btitle">Перехватывать вызовы без номера</string>
     <string name="toolbar_appear">при отображении</string>
@@ -2347,7 +2346,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="notification_sms">通知栏消息</string>
     <string name="title_hlmd">Список исключений</string>
     <string name="white_list_add_des">勾选的应用，一键加速时不会被结束</string>
-    <string name="white_list_lock_benefit">"Выберите приложения, которые не будет завершаться"</string>
+    <string name="white_list_lock_benefit">Выберите приложения, которые не будут завершаться</string>
     <string name="whitelist_suggest_check">Предложить выбор</string>
     <string name="text_add_app_empty">Нет приложений</string>
     <string name="rf_system_app">Системные приложения %1$s</string>
@@ -2383,7 +2382,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="opti_name">Ускорение телефона</string>
     <string name="opti_accelerate">Ускорить</string>
     <string name="phone_acc_used_memory">Использовано</string>
-    <string name="phone_acc_running_app" formatted="false">Запущено приложений: %1$s</string>
+    <string name="phone_acc_running_app">Запущено приложений: %1$s</string>
     <string name="phone_acc_running_app2">Выполняется %d запуск</string>
     <string name="one_key_speed_btn">Ускорить</string>
     <string name="phone_acc_disable">Отключено</string>
@@ -2421,9 +2420,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="notice_used_space_beyond88">Свободного места - 88%,</string>
     <string name="notice_used_space_beyond80">Свободного места больше 80%,</string>
     <string name="please_clean">Рекомендована немедленная очистка!</string>
-    <string name="action_settings">Параметры</string>
     <string name="pause">Пауза</string>
-    <string name="complete">ОК</string>
     <string name="doing">Проверка: %1$s</string>
     <string name="r_sobad">Телефон в плохом состоянии</string>
     <string name="r_result">超越了%1$d%%的用户</string>
@@ -2538,7 +2535,6 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="download_app_safe_store2">绿色无毒，安全无忧</string>
     <string name="download_app_safe_store3">更省流量，贴心无忧</string>
     <string name="download_app_safe_store4">一键安装，操作简易</string>
-    <string name="email_text">Почта</string>
     <string name="first_checkup">Без проверки!</string>
     <string name="first_pwd_error_insuff">Примечание. Первый введенный пароль не содержит шесть цифр, введите снова!</string>
     <string name="get_error">Сбой доступа</string>
@@ -2574,7 +2570,6 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="no_health_check_2to7_day">Без проверки: %1$d дн.</string>
     <string name="no_health_check_9_day">Уже долго не проверялось</string>
     <string name="pwd_set">Установка пароля</string>
-    <string name="qrcode_text">QR код</string>
     <string name="safe_backup">Надежная система облачного хранения</string>
     <string name="score_text" />
     <string name="second_pwd_error_insuff">Внимание: Ваш второй пароль не из 6 цифр. Пожалуйста, введите его снова!</string>
@@ -2598,8 +2593,6 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="update_lab_now_desc">Обновление баз данных Вирусов/Спама/Тегов</string>
     <string name="check_text">Проверить</string>
     <string name="update_version">Обновление версии</string>
-    <string name="weibo_text">Официальный блог</string>
-    <string name="weixin_text">Официальный чат</string>
     <string name="about_msg">©2013–2014 Lenovo. All Rights Reserved.</string>
     <string name="go">Я принимаю</string>
     <string name="home_page">Официальный веб-сайт</string>
@@ -2873,7 +2866,6 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="newevent">活动</string>
     <string name="safe_feedback_hint">乐安全尝鲜版！&lt;br>尚未正式发布，替我们保密奥！&lt;br>在使用过程中，如遇到问题&lt;br>请登录&lt;font color=#FF9000>联想乐工厂&lt;/font>与我们联系！&lt;br>或者直接QQ&lt;br>乐安全小伙伴： &lt;font color=#FF9000>2403446246&lt;/font></string>
     <string name="safe_first_show">乐安全尝鲜版！&lt;br> &lt;font color=#2b9ee7>尚未正式发布，替我们保密奥！&lt;/font>&lt;br>在使用过程中，如遇到问题&lt;br>请登录&lt;font color=#FF9000>联想乐工厂&lt;/font>与我们联系！&lt;br>或者直接QQ&lt;br>乐安全小伙伴： &lt;font color=#FF9000>2403446246&lt;/font></string>
-    <string name="skip">Пропустить</string>
     <string name="loading_error">Загрузка не завершена, попробуйте позже</string>
     <string name="adv_desc">"            Блокировка
                          рекламы"</string>
@@ -3021,4 +3013,12 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="auto_update_mode2">Ежедневно</string>
     <string name="auto_update_mode3">Еженедельно</string>
     <string name="install_now">Установить сейчас</string>
+    <string name="notification_filename_separator">" "</string>
+    <string name="notification_filename_extras">" , %d ещё..."</string>
+    <string name="download_unknown_filename">Неизвестное имя файла</string>
+    <string name="notification_download_failed">Ошибка загрузки</string>
+    <string name="notification_download_complete">Скачивание завершено</string>
+    <string name="notification_downloading">Скачивание файла...</string>
+    <string name="unread_sms">У вас есть %1$d непрочитанных SMS</string>
+    <string name="look_unread_sms">Нажмите для просмотра</string>
 </resources>
