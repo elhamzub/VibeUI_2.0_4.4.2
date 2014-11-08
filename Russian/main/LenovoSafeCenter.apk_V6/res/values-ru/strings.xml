@@ -253,8 +253,7 @@
     <string name="net_lock_screen_traffic_reminder">Советы по безопасности</string>
     <string name="net_lock_screen_traffic_title">Передача данных при заблокированном экране</string>
     <string name="net_lock_screen_traffic_stat">Расход трафика в фоне: %1$s</string>
-    <string name="net_lock_screen_disable_des">Запретить при заблокированом экране,
- не может быть использован во время мобильной передачи данных</string>
+    <string name="net_lock_screen_disable_des">Запретить при заблокированом экране, не может быть использован во время мобильной передачи данных</string>
     <string name="net_lock_screen_traffic_summary_1">%1$s общее потребление %2$s трафика</string>
     <string name="net_lock_screen_traffic_summary_2">В промежуток %1$s-%2$s потреблено %3$s трафика</string>
     <string name="net_lock_screen_open_reminder">Вы можете открыть это напоминание в настройках мониторинга трафика</string>
@@ -1646,7 +1645,7 @@
     <string name="reagin_app">Восстановить</string>
     <string name="no_disable_app">Нет приложений которые могут быть заморожены</string>
     <string name="no_enable_app">Нет приложений которые могут быть разморожены</string>
-    <string name="disable_app_title"Приложения</string>
+    <string name="disable_app_title">Приложения</string>
     <string name="enable_app_title">Замороженные</string>
     <string name="freezing">"Заморозка: "</string>
     <string name="unfreezing">"Взврат: "</string>
@@ -2869,7 +2868,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="safe_first_show">乐安全尝鲜版！&lt;br> &lt;font color=#2b9ee7>尚未正式发布，替我们保密奥！&lt;/font>&lt;br>在使用过程中，如遇到问题&lt;br>请登录&lt;font color=#FF9000>联想乐工厂&lt;/font>与我们联系！&lt;br>或者直接QQ&lt;br>乐安全小伙伴： &lt;font color=#FF9000>2403446246&lt;/font></string>
     <string name="loading_error">Загрузка не завершена, попробуйте позже</string>
     <string name="adv_desc">"                   Блокировка
-                         рекламы"</string>
+                         рекламы" </string>
     <string name="backup_text">Резервные копии</string>
     <string name="boot_app_healthcheckup_safe">Автозагрузка приложений отключена</string>
     <string name="boot_app_healthcheckup_scan">Можно отключить загрузку для %1$d приложений</string>
