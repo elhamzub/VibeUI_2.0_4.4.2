@@ -66,6 +66,7 @@
     <string name="back">Назад</string>
     <string name="float_window_dialog_remember">Запомнить выбор</string>
     <string name="switcher_app_name">Быстрое переключение</string>
+    <string name="appManager">Управление приложениями</string>
     <string name="opend">Включен</string>
     <string name="no_open">Выключен</string>
     <string name="opti_main_sys_exam">О телефоне</string>
@@ -1427,8 +1428,8 @@
     <string name="cleanmgr_appmgr_toast_no_new_version">Нет новой версии</string>
     <string name="cleanmgr_appmgr_toast_no_damage_version">Нет поврежденных версий</string>
     <string name="cleanmgr_appmgr_toast_no_duplicate_version">Нет дублирующих версий</string>
-    <string name="new_cleanmgr_file_num">垃圾数：%1$s</string>
-    <string name="new_cleanmgr_canliu_dir">残留目录：%1$s</string>
+    <string name="new_cleanmgr_file_num">Количество мусора：%1$s</string>
+    <string name="new_cleanmgr_canliu_dir">Пустая папка：%1$s</string>
     <string name="new_cleanmgr_suggestclean">Рекомендуется очистка</string>
     <string name="new_cleanmgr_version">Версия: %1$s</string>
     <string name="new_cleanmgr_installed_version">Установленная версия: %1$s</string>
@@ -1436,7 +1437,7 @@
     <string name="new_cleanmgr_new_version">Новая версия: %1$s</string>
     <string name="new_cleanmgr_uninstalled_version">Удалённая версия: %1$s</string>
     <string name="new_cleanmgr_clean_size">Очистить(%1$s)</string>
-    <string name="cleanmgr_cache_sd_normal_alert">的%s目录包含一般文件，清除后没有风险，建议清理</string>
+    <string name="cleanmgr_cache_sd_normal_alert">Папка %s содержит общие документы.  Нет риска после очистки</string>
     <string name="new_cleanmgr_scanning">Сканирование: %1$s</string>
     <string name="new_cleanmgr_scanfinish_free">Очищено: %1$s</string>
     <string name="new_cleanmgr_scanfinish_deep">"Недостаточно места?
@@ -1454,14 +1455,14 @@
     <string name="cleanmgr_safe_prompt">Советы по безопасности</string>
     <string name="cleanmgr_safe_prompt_safe_tip">Очистка не удаляет фотографии или другие личные папки</string>
     <string name="cleanmgr_uninstall_clean_prompt">Может быть высвобождено %1$s памяти</string>
-    <string name="real_notify_text">发现 %1$s 残留文件 %2$s</string>
-    <string name="notify_text">发现%1$s残留文件</string>
-    <string name="notify_remenent_clear_text">清理%1$s残留文件%2$s</string>
+    <string name="real_notify_text">Установлено, что %1$s временный файл %2$s</string>
+    <string name="notify_text">Найдено %1$s временный(-х) файл(-ов)</string>
+    <string name="notify_remenent_clear_text">Удалить %1$s временный файл %2$s</string>
     <string name="notify_remenent_clear_title">Временные файлы очищены</string>
     <string name="delete_remanent_toast">Очистка временных файлов</string>
     <string name="cleanmgr_deep_clean">Полная очистка</string>
     <string name="new_cleanmgr_have_cleaned">Очищено</string>
-    <string name="new_cleanmgr_deep_norubbish">未扫描到垃圾</string>
+    <string name="new_cleanmgr_deep_norubbish">Не просканировано</string>
     <string name="new_cleanmgr_uninstall_sucess">Освобождено %1$s </string>
     <string name="new_cleanmgr_suggest">Рекомендуется очистка</string>
     <string name="new_cleanmgr_clean_finish">Сканирование завершено</string>
@@ -1476,7 +1477,7 @@
     <string name="new_cleanmgr_already_ignore">Проигнорировано</string>
     <string name="new_cleanmgr_cancel">Отмена</string>
     <string name="new_cleanmgr_already_cacel">Отменено</string>
-    <string name="dialog_cachegarbage_description">它是%1$s的%2$s，</string>
+    <string name="dialog_cachegarbage_description"> %1$s из %2$s，</string>
     <string name="dialog_cachegarbage_description_end">Удаление не влияет на использование</string>
     <string name="dialog_cachegarbage_size">Размер: %1$s</string>
     <string name="dialog_cachegarbage_filecount_pre">"Содержит: "</string>
@@ -1485,15 +1486,15 @@
     <string name="dialog_cachegarbage_clean">Очистить</string>
     <string name="dialog_remanent_description">嗨，这是%1$s 软件卸载之后残留在手机上的无用文件，清理后手机可以更加干净。</string>
     <string name="layout_suggestclean_result_successclean">Очистка завершена</string>
-    <string name="layout_suggestclean_result_deepcleanmore">深度清理还可以节省</string>
+    <string name="layout_suggestclean_result_deepcleanmore">Полная очистка может сохранить</string>
     <string name="layout_suggestclean_result_size">Место</string>
     <string name="layout_suggestclean_result_deepclean">Полная очистка</string>
     <string name="layout_suggestclean_result_finish">Завершить</string>
     <string name="layout_suggestclean_result_share">Отправить другу</string>
-    <string name="title_suggestclean">Быстро</string>
-    <string name="title_deepclean">Полное</string>
-    <string name="short_title_suggestclean">Быстро</string>
-    <string name="short_title_deepclean">Полная</string>
+    <string name="title_suggestclean">Быстая</string>
+    <string name="title_deepclean">Полная</string>
+    <string name="short_title_suggestclean">Быстрая  </string>
+    <string name="short_title_deepclean">Полная  </string>
     <string name="deepclean_scan_unused">Редко используемые</string>
     <string name="deepclean_scan_cache">Файлы кэша</string>
     <string name="deepclean_scan_residual">Удалите остатки</string>
@@ -1622,7 +1623,7 @@
     <string name="share_dialog_msg">Поток, программного обеспечения скорость обмена, нажмите кнопку Установить сейчас включен!</string>
     <string name="share_disabled">Не может войти в программное обеспечение для обмена, пожалуйста, подтвердите баклажаны быстро проходят отключена</string>
     <string name="sys_app_uninstall">Заморозка</string>
-    <string name="uninstall_all">"Удалить "</string>
+    <string name="uninstall_all">"Заморозить "</string>
     <string name="uninstall_msg">Вы хотите удалить %1$s приложений?</string>
     <string name="used">Занято: %1$s</string>
     <string name="app_move_summary">Рациональное распределение места для хранения</string>
@@ -1645,17 +1646,17 @@
     <string name="reagin_app">Восстановить</string>
     <string name="no_disable_app">Нет приложений которые могут быть заморожены</string>
     <string name="no_enable_app">Нет приложений которые могут быть разморожены</string>
-    <string name="disable_app_title">Не удаленые</string>
-    <string name="enable_app_title">Удаленые</string>
-    <string name="freezing">"Удаление: "</string>
+    <string name="disable_app_title"Приложения</string>
+    <string name="enable_app_title">Замороженные</string>
+    <string name="freezing">"Заморозка: "</string>
     <string name="unfreezing">"Взврат: "</string>
-    <string name="disable_btn">Удалить</string>
+    <string name="disable_btn">Заморозить</string>
     <string name="enable_btn">Вернуть</string>
-    <string name="empty_freeze_select">Выберите приложение которое нужно удалить</string>
+    <string name="empty_freeze_select">Выберите приложение которое нужно заморозить</string>
     <string name="empty_unfreeze_select">Выберите приложение которое нужно вернуть</string>
-    <string name="freezed">%1$s приложений удалены</string>
+    <string name="freezed">%1$s приложений заморожено</string>
     <string name="unfreezed">%1$s приложений возвращены</string>
-    <string name="freeze_prompt">Удаление приложений, которые не используются, может сохранить энергию и освободить память</string>
+    <string name="freeze_prompt">Заморозка приложений, может сохранить энергию и освободить память</string>
     <string name="amg_apkfile">АРК Менеджер</string>
     <string name="remanet_msg">"Откройте для себя %1s, удалите остатки
 "</string>
@@ -1705,7 +1706,7 @@
     <string name="anyshare_share_operate_update">Обновление</string>
     <string name="anyshare_share_operate_run">Запуск</string>
     <string name="anyshare_share_operate_play">播放</string>
-    <string name="anyshare_share_operate_preview">查看</string>
+    <string name="anyshare_share_operate_preview">Просмотр</string>
     <string name="anyshare_share_operate_set_wallpaper">应用</string>
     <string name="anyshare_share_operate_open">打开</string>
     <string name="anyshare_share_operate_import">Импорт</string>
@@ -2137,7 +2138,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="antitheft_call_user_tv">Связаться с владельцем</string>
     <string name="antitheft_pwd_error_tips">Неправельный пароль, введите пароль повторно</string>
     <string name="antitheft_info1">Поздравляем, вы нашли пасхальные яйца</string>
-    <string name="antitheft_info2">Вы всегда под защитой</string>
+    <string name="antitheft_info2">Вы защищены</string>
     <string name="antitheft_info3">"轻量节能，内核防御
 恶意行为，一网打尽"</string>
     <string name="antitheft_info4">"主创人员：
@@ -2867,7 +2868,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="safe_feedback_hint">乐安全尝鲜版！&lt;br>尚未正式发布，替我们保密奥！&lt;br>在使用过程中，如遇到问题&lt;br>请登录&lt;font color=#FF9000>联想乐工厂&lt;/font>与我们联系！&lt;br>或者直接QQ&lt;br>乐安全小伙伴： &lt;font color=#FF9000>2403446246&lt;/font></string>
     <string name="safe_first_show">乐安全尝鲜版！&lt;br> &lt;font color=#2b9ee7>尚未正式发布，替我们保密奥！&lt;/font>&lt;br>在使用过程中，如遇到问题&lt;br>请登录&lt;font color=#FF9000>联想乐工厂&lt;/font>与我们联系！&lt;br>或者直接QQ&lt;br>乐安全小伙伴： &lt;font color=#FF9000>2403446246&lt;/font></string>
     <string name="loading_error">Загрузка не завершена, попробуйте позже</string>
-    <string name="adv_desc">"            Блокировка
+    <string name="adv_desc">"                   Блокировка
                          рекламы"</string>
     <string name="backup_text">Резервные копии</string>
     <string name="boot_app_healthcheckup_safe">Автозагрузка приложений отключена</string>
