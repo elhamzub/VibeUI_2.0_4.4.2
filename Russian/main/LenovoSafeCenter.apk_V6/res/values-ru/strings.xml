@@ -44,7 +44,7 @@
     <string name="open_call_message">求救人可能正处于危险中，回拨需谨慎，您确定回拨吗？</string>
     <string name="open_call_110">您确定拨打110吗？</string>
     <string name="init_sms_content">我可能遇到了危险，现在不方便打电话，如果10分钟内我没联系你，请帮助我。</string>
-    <string name="gui_title">Анти-волк есть удары</string>
+    <string name="gui_title">Анти-волк???</string>
     <string name="gui_num">第%1$s招</string>
     <string name="gui_name1">预防优先</string>
     <string name="gui_name1_content1">1、不要跟陌生人走</string>
@@ -70,7 +70,7 @@
     <string name="protection_share_to_firent_by_qrcode_title_text">二维码安装</string>
     <string name="protection_share_to_firent_title_text">邀请好友安装</string>
     <string name="protection_share_weixin_text">\#色狼来了#女性遭受侵害事件频发，遇到色狼该怎么办？除了防狼三招要学会，乐安全还提供了一键防狼功能，为自身安全多了一份保障。安全出行，安全回家。一切以安全为先！赶紧分享给你身边的人，让她也多份安全保障吧。下载链接→http://t.cn/RhjgpA2</string>
-    <string name="sms">短信</string>
+    <string name="sms">SMS</string>
     <string name="switcher_bluetooth">蓝牙</string>
     <string name="weibo_text">微博</string>
     <string name="weixin_text">微信</string>
@@ -135,7 +135,7 @@
     <string name="userappFragment">用户应用</string>
     <string name="availMem">内存可用:</string>
     <string name="availSD">SD卡可用:</string>
-    <string name="appManager">Управление приложениями</string>
+    <string name="appManager">"Приложения"</string>
     <string name="appSize">大小：</string>
     <string name="appLocation_Mem">位置：手机内存</string>
     <string name="appLocation_SD">位置：外部存储卡</string>
@@ -1120,16 +1120,16 @@
     <string name="permission_privatespace">Личное пространство</string>
     <string name="permission_application_screen_locker">Блокировка приложений</string>
     <string name="permission_unread_permission_intercept_recored_des">(%s)</string>
-    <string name="permission_scan_result_des" formatted="false">共扫描出 &lt;strong>%d&lt;/strong> 个应用涉及 &lt;strong>%d&lt;/strong> 项隐私风险>></string>
+    <string name="permission_scan_result_des" formatted="false"> &lt;strong>%d</strong> app(s) scanned with &lt;strong>%d</strong> privacy risks>></string>
     <string name="permission_btn_optimize">Оптимизация</string>
     <string name="permission_scanning_started">Проверка безопасности...</string>
-    <string name="permission_scanning_percent" formatted="false">已扫描出 &lt;strong>%d&lt;/strong> 个应用涉及 &lt;strong>%d&lt;/strong> 项隐私风险</string>
-    <string name="permission_optimizing" formatted="false">已优化%d个应用涉及%d项隐私风险</string>
+    <string name="permission_scanning_percent" formatted="false"> &lt;strong>%d</strong> app(s) scanned with &lt;strong>%d</strong> privacy risks</string>
+    <string name="permission_optimizing" formatted="false">Optimized%dapp(s) with %dprivacy risks</string>
     <string name="permission_optimizing_started">Оптимизация безопасности...</string>
     <string name="permission_optimizing_pkg">Оптимизация:%s</string>
-    <string name="permission_optimize_done" formatted="false">已优化%d个应用涉及%d项隐私风险</string>
-    <string name="permission_optimize_done_entrance" formatted="false">已优化 &lt;strong>%d&lt;/strong> 个应用涉及 &lt;strong>%d&lt;/strong> 项隐私风险>></string>
-    <string name="permission_optimize_selected_counter" formatted="false">已勾选%d个应用涉及%d项隐私风险</string>
+    <string name="permission_optimize_done" formatted="false">Optimized%dapp(s) with %dprivacy risks</string>
+    <string name="permission_optimize_done_entrance" formatted="false">Optimized &lt;strong>%d</strong> app(s) scanned with &lt;strong>%d</strong> privacy risks>></string>
+    <string name="permission_optimize_selected_counter" formatted="false">Checked%dapp(s) with %dprivacy risks</string>
     <string name="permission_optimize_done_text">Готово</string>
     <string name="permission_scan_result_in_good_state">Не найдено проблем безопасности</string>
     <string name="permission_scanner_no_root_tips">Root-права необходимы для получения максимальной защиты</string>
@@ -1156,51 +1156,51 @@
     <string name="manage_device_administrators">Управление диспетчером устройств</string>
     <string name="app_not_found_dlg_text">Не найдено в списке установленных приложений</string>
     <string name="uninstall_failed_device_policy_manager">Это приложение активно в диспетчере устройств и не может быть удалено</string>
-    <string name="uninstall_anyshare_text_2">系统自带传输工具，卸载后会影响图库、通讯录等系统模块的部分功能</string>
-    <string name="uninstall_anyshare_text_1">如果想再次使用本系统功能，可以到乐商店搜索“茄子快传”获取。</string>
+    <string name="uninstall_anyshare_text_2">You will delete the system-wide transmission tool, which will affect the gallery, contacts, and other system-related functions.</string>
+    <string name="uninstall_anyshare_text_1">Should you require it in the future, SHAREit may be downloaded from the Lenovo App Store.</string>
     <string name="ok_anyshare_2">Удалить</string>
     <string name="cancel_anyshare_2">Отменить</string>
     <string name="ok_anyshare_1">Удалить</string>
     <string name="cancel_anyshare_1">Отменить</string>
-    <string name="uninstall_carapplication_text_3">开车怎么能没有车载应用呢，容易分心，警察要查，经常迷路，路遇碰瓷，实在太危险了，有我车载应用护航一切迎刃而解！</string>
-    <string name="uninstall_carapplication_text_2">我相信你很快就会有自己的车呢， 限购，拍卖车牌，缺钱都不是问题哦，我看好你哦</string>
-    <string name="uninstall_carapplication_text_1">我被你打败了，像我这么好用的车载应用打着灯笼都找不到的哦，我们的工程师这么辛苦的写软件，给个机会吧，</string>
+    <string name="uninstall_carapplication_text_3">Driving without a driving app can be dangerous, think of the distractions, police checks, roadside scams, and getting lost … … Let me take care of all that!</string>
+    <string name="uninstall_carapplication_text_2">I believe you will get your own car soon. Be it a car sale, a windfall, or some unexpected income, getting a car will be a piece of cake.</string>
+    <string name="uninstall_carapplication_text_1">"But, our engineers spent so much effort developing the app… what's more, an app like me is hard to come by. Come on, give me a chance."</string>
     <string name="ok_carapplication_3">ОК</string>
     <string name="cancel_acarapplication_3">Отмена</string>
     <string name="ok_carapplication_2">ОК</string>
     <string name="cancel_acarapplication_2">Отмена</string>
     <string name="ok_carapplication_1">ОК</string>
     <string name="cancel_carapplication_1">Отмена</string>
-    <string name="uninstall_supernote_text_3">真的要放弃手机全能记事本吗？</string>
-    <string name="uninstall_supernote_text_2">我想你肯定点错了。</string>
-    <string name="uninstall_supernote_text_1">我回乐商店了，记得要来接我。</string>
+    <string name="uninstall_supernote_text_3">Are you serious to give up Note Everything Pro for phone?</string>
+    <string name="uninstall_supernote_text_2">I bet you made the wrong click.</string>
+    <string name="uninstall_supernote_text_1">I return to LenovoStore. Remember to pick me up.</string>
     <string name="ok_supernote_3">ОК</string>
     <string name="cancel_supernote_3">Отмена</string>
     <string name="ok_supernote_2">ОК</string>
     <string name="cancel_supernote_2">Отмена</string>
     <string name="ok_supernote_1">ОК</string>
     <string name="cancel_supernote_1">Отмена</string>
-    <string name="uninstall_magicplus_text_2">乐助手是联想官方软件，为手机电脑的连接提供高效服务，确定卸载吗？</string>
-    <string name="uninstall_magicplus_text_1">如果您需要一款手机助手来全方面管理您的手机，可以到乐商店搜索“乐助手”获取。</string>
+    <string name="uninstall_magicplus_text_2">Mobile Assistant is an official Lenovo app that provides highly efficient connection between your mobile phone and computer, uninstall?</string>
+    <string name="uninstall_magicplus_text_1">Manage all aspects of your mobile phone with just one application. Download the “Mobile Assistant” from the Lenovo App Store.</string>
     <string name="ok_magicplus_2">ОК</string>
     <string name="cancel_magicplus_2">Отмена</string>
     <string name="ok_magicplus_1">ОК</string>
     <string name="cancel_magicplus_1">Отмена</string>
-    <string name="uninstall_videotalk_text_2">如此神器，亲你真的轻言放弃吗？我可是免费让你随时随地视频聊天哦</string>
-    <string name="uninstall_videotalk_text_1">好吧，如果真的还有需要，请到联想乐商店下载。</string>
+    <string name="uninstall_videotalk_text_2">I offer you free video chats! Can you really live without me?</string>
+    <string name="uninstall_videotalk_text_1">Alright then. If you change your mind, I may be downloaded from the Lenovo App Store.</string>
     <string name="ok_videotalk_2">ОК</string>
     <string name="cancel_videotalk_2">Отмена</string>
     <string name="ok_videotalk_1">ОК</string>
     <string name="cancel_videotalk_1">Отмена</string>
-    <string name="uninstall_playerstutorial_text_2">我知道“%s（机型号）”的秘密哟，一般人我不告诉他，留着我慢慢告诉你</string>
-    <string name="uninstall_playerstutorial_text_1">这可是传外不传内，如果卸载，就只能到乐商店找回我了。</string>
+    <string name="uninstall_playerstutorial_text_2">"I know all the secrets to %s (model of mobile phone), and I don't usually share them. But if you keep me, I will teach you well."</string>
+    <string name="uninstall_playerstutorial_text_1">This exclusive information will be lost to you should I be removed. If you want me back, I will be at the Lenovo App Store.</string>
     <string name="ok_playerstutorial_2">ОК</string>
     <string name="cancel_playerstutorial_2">Отмена</string>
     <string name="ok_playerstutorial_1">ОК</string>
     <string name="cancel_playerstutorial_1">Отмена</string>
-    <string name="uninstall_service_text_3">"我是官方打造的服务神器，随时随地为你排忧解难。没有我，你的忧愁谁来解？ "</string>
-    <string name="uninstall_service_text_2">累觉不爱了，你的未来真的不需要我的陪伴了吗？桑心……</string>
-    <string name="uninstall_service_text_1">也许等等你就回来了，我在乐商店里等着你！</string>
+    <string name="uninstall_service_text_3">I am the ultimate official Lenovo app designed to solve your problems wherever and whenever it is required. What will you do without me?</string>
+    <string name="uninstall_service_text_2">"Can't you hear my heart breaking? Don't you need me anymore?"</string>
+    <string name="uninstall_service_text_1">"Maybe you'll come back for me… I will be waiting at the Lenovo App Store"</string>
     <string name="ok_service_3">ОК</string>
     <string name="cancel_service_3">Отмена</string>
     <string name="ok_service_2">ОК</string>
@@ -2074,7 +2074,7 @@
     <string name="antivirusapp_uninstall">Удалить приложение</string>
     <string name="antivirusappvirus_nodeal">Игнорировать</string>
     <string name="antivirusinfo1">Поздравляем, вы нашли секрет</string>
-    <string name="antivirusinfo2">Вы под защитой</string>
+    <string name="antivirusinfo2">Вы всегда под защитой</string>
     <string name="antivirusinfo3">"Легкое и энерго-эффективное, внутреннее ядро защиты
 Защищает от вредоносного поведения."</string>
     <string name="antivirusinfo4">"Основные разработчики:
@@ -2105,7 +2105,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="install_safe">Безопасная установка, гарантия полной уверенности</string>
     <string name="test_report">Тестовый отчет</string>
     <string name="virus_scaning">Проверка %1$s...</string>
-    <string name="virus_scan_ok">已扫描“%s”，请放心使用。</string>
+    <string name="virus_scan_ok">%s scanned. You can rest assured to use it.</string>
     <string name="lesafe_notify">Советы по безопасности</string>
     <string name="show_cloudscanok">убийство</string>
     <string name="show_cloudscan">За неделю обнаружен %1$s новый вирус, немедленно убивают</string>
@@ -2115,33 +2115,33 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="antivirus_smsappname">"Вредоносные приложения: "</string>
     <string name="antivirus_smstel">"Фальшивые номера: "</string>
     <string name="antivirus_smscontent">"Содержание сообщения: "</string>
-    <string name="find_smsfraud">发现诈骗短信</string>
-    <string name="smsfraud_content">以下短信，是由%1$s应用恶意伪造，不是真实发件人发送，建议卸载!</string>
-    <string name="not_delete_now">下次再说</string>
+    <string name="find_smsfraud">Fraudulent message found</string>
+    <string name="smsfraud_content">The below messages are maliciously counterfeited by %1$s application and not from real senders. Recommend to uninstall!</string>
+    <string name="not_delete_now">Later</string>
     <string name="delete_now">Удалить это приложение</string>
-    <string name="antivirusvirus_masterkeydesc">[高风险]恶意应用可利用MasterKey漏洞，远程控制您的手机，在您未察觉的情况下获得手机的最高权限，恶意吸费、窃取隐私，危害您的手机及信息安全！</string>
+    <string name="antivirusvirus_masterkeydesc">[High risk] Malicious apps can use MasterKey vulnerability to control your phone remotely and obtain the highest privilege of your phone without your acknowledgement. It will charge fees, steal private information and harm the security of your phone and information!</string>
     <string name="scanning_system_patch">Сканирование уязвимостей...</string>
-    <string name="systembug_tips_justscan">扫描到%1$s个漏洞</string>
-    <string name="systembug_tips_fixed">扫描到%1$s个漏洞，已修复%1$s个漏洞</string>
-    <string name="sms_fraud_bug">短信欺诈漏洞</string>
-    <string name="bug_level">漏洞级别：高危</string>
-    <string name="bug_introduction">漏洞说明：恶意应用可利用短信欺诈漏洞，伪造任何号码发送任意内容的短信到您的手机上，让您难以识别短信真假，容易上当！</string>
-    <string name="bug_patch">漏洞补丁：修复后乐安全可监控利用该漏洞发送的伪造短信，发现后立即提醒！</string>
-    <string name="no_intercept_logs">无拦截记录</string>
+    <string name="systembug_tips_justscan">%1$s vulnerabilities detected</string>
+    <string name="systembug_tips_fixed">%1$s vulnerabilities detected. %1$s vulnerabilities fixed.</string>
+    <string name="sms_fraud_bug">Fraud vulnerability</string>
+    <string name="bug_level">Level: highly risky</string>
+    <string name="bug_introduction">Description: Malicious apps can use the SMS fraud vulnerability to counterfeit any number and send any content to your phone, which is hard to distinguish and easy to get cheated.</string>
+    <string name="bug_patch">Patch: After it is fixed, Security can monitor the counterfeited SMS sent through this vulnerability and, in case of any, sound the alert immediately!</string>
+    <string name="no_intercept_logs">No intercept history</string>
     <string name="intercept_logs">Перехват записей</string>
     <string name="antivirus_system_bug">Исправление ошибок</string>
     <string name="antivirus_system_bug_fix">Очистка(%1$s)</string>
     <string name="fix_completed">Завершено</string>
     <string name="viruslog">Лог антивируса</string>
     <string name="intercept_logs_cleaned">Записи были очищены</string>
-    <string name="notfind_systembugs">未发现漏洞</string>
-    <string name="select_fix_bug">请选择要修复的漏洞</string>
-    <string name="antivirus_system_masterkey">漏洞已修复</string>
-    <string name="antivirus_system_patch">漏洞已修复</string>
-    <string name="antivirus_system_nopatch">漏洞未修复</string>
-    <string name="masterkey_desc">利用系统漏洞masterkey</string>
-    <string name="masterkey_find">安装%1$s，检测有利用masterkey漏洞</string>
-    <string name="masterkey_and_virus">安装%1$s，检测有利用masterkey漏洞，并且有病毒</string>
+    <string name="notfind_systembugs">No vulnerability found</string>
+    <string name="select_fix_bug">Please select the vulnerability to fix</string>
+    <string name="antivirus_system_masterkey">Vulnerability fixed</string>
+    <string name="antivirus_system_patch">Vulnerability fixed</string>
+    <string name="antivirus_system_nopatch">Vulnerability not fixed</string>
+    <string name="masterkey_desc">Use system vulnerability masterkey</string>
+    <string name="masterkey_find">Install %1$s. Detected to use masterkey vulnerability .</string>
+    <string name="masterkey_and_virus">Install %1$s. Detected to use masterkey vulnerability and contain virus.</string>
     <string name="virusname">Название вируса:</string>
     <string name="pkgname">Название программного обеспечения:</string>
     <string name="antitheft_backup_no_mail">Не удалось переслать сообщение эл. почты резервного копирования данных. Безопасный почт. ящик еще не настроен</string>
@@ -2169,7 +2169,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="antitheft_send">Отправить</string>
     <string name="antitheft_name">"Имя: "</string>
     <string name="antitheft_date">"Дата: "</string>
-    <string name="antitheft_cannot_location">很抱歉，由于网络原因暂时无法解析地理位置，请稍后重试！</string>
+    <string name="antitheft_cannot_location">Sorry, the reason being unable to resolve due to network location, please try again later!</string>
     <string name="anti_theft">Анти-вор</string>
     <string name="antitheft_Complete">Завершить</string>
     <string name="antitheft_send_sms_promt_is">Отправить инструкции по работе с Анти-вором?</string>
@@ -2277,12 +2277,12 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="antitheft_pwd_error_tips">Неправельный пароль, введите пароль повторно</string>
     <string name="antitheft_info1">Поздравляем, вы нашли пасхальные яйца</string>
     <string name="antitheft_info2">Вы всегда под защитой</string>
-    <string name="antitheft_info3">"轻量节能，内核防御
-恶意行为，一网打尽"</string>
-    <string name="antitheft_info4">"主创人员：
-鲍春冬、董春燕、冯春丽、李艳萍、李芬、刘雪、陈军、陈实、段利军、郭昌盛、顾正华、林洋、刘永峰、魏民、谢潮鸿、于海航、朱雷、张毅然"</string>
-    <string name="antitheft_info5">"找到彩蛋，找回被盗手机最佳方法:-)
- 一个女孩这样做，给自己手机发短信：我回老家了，欠你的1万元钱放在XX处，下午都可以过来，结果那小贼被生擒了。"</string>
+    <string name="antitheft_info3">"Lightweight, energy-saving, and kernel defense 
+ Make a clean sweep of malicious behaviors."</string>
+    <string name="antitheft_info4">"Creative staff: 
+ Bao Chundong, Dong Chunyan, Feng Chunli, Li Yanping, Li Fen, Liu Xue, Chen Jun, Chen Shi, Duan Lijun, Guo Changsheng, Gu Zhenghua, Lin Yang, Liu Yongfeng, Wei Min, Xie Chaohong, Yu Haihang, Zhu Lei and Zhang Yiran."</string>
+    <string name="antitheft_info5">"The best way to find painted eggs and recover your stolen phone. :-)
+ A girl did this. She sent a text message to her lost phone: I'm about to go back home. I put the 10,000 yuan that I owe you at XX. You can come over and pick it up this afternoon. The result was the thief was captured at the spot."</string>
     <string name="antitheft_password">Пароль</string>
     <string name="antitheft_command">Пароль#SD</string>
     <string name="antitheft_reenter">Введите ещё раз</string>
@@ -2362,7 +2362,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="cause5">Разрешен только Белый список</string>
     <string name="cause6">Блок неизвестных номеров</string>
     <string name="cause7">Тихий режим</string>
-    <string name="causeprex1">Режим перехвата: %1$s</string>
+    <string name="causeprex1">Причина перехвата: %1$s</string>
     <string name="change">Изменить</string>
     <string name="confirm_title">Номер %1$s</string>
     <string name="confirm_mes">"Я думаю этот номер от: "</string>
@@ -2403,9 +2403,9 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="h_del1">Не SMS-спам? Коснитесь, чтобы восстановить его в папку входящие, и этот номер не будет больше блокироваться</string>
     <string name="localblack_becall">Звонки</string>
     <string name="antispamlocalblack_incommingcall">[Звонки]</string>
-    <string name="localblack_successNotice_new">举报成功，感谢您的贡献</string>
+    <string name="localblack_successNotice_new">Report successful. Thank you for your contribution.</string>
     <string name="matchdesc">Подсказка: если выбрать префикс номера SECUREit будет перехватывать все номера начинающиеся с заданых цифр. Например, если ввести 1065, будут заблокированы все номера начинающиеся с 1065</string>
-    <string name="matchdesc2">提示：想拦截123456开头的号码，请在号码后加*</string>
+    <string name="matchdesc2">Reminder: To intercept numbers starting with 123456, please add * after the number.</string>
     <string name="matchrule">"Правило соответствия: "</string>
     <string name="marked">Помечено</string>
     <string name="modify_black">Редактирование записи</string>
@@ -2452,7 +2452,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="signtype_addcontract">Добавить в контакты</string>
     <string name="signtype_cancle">Отмена</string>
     <string name="signtype_add">Добавить</string>
-    <string name="signtype_longtime_des">将%1$s添加到通讯录，方便今后保持联系</string>
+    <string name="signtype_longtime_des">Add %1$s to contacts for convenient contact in future</string>
     <string name="title_marks">Пометить номер</string>
     <string name="strange_btitle">Перехватывать вызовы без номера</string>
     <string name="toolbar_appear">при отображении</string>
@@ -2669,11 +2669,12 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="download_app_lock_sync1">Добавить личный контакт</string>
     <string name="download_app_lock_sync2">Запретить посторонним доступ к истории моих личных сообщений и вызовов</string>
     <string name="download_app_lock_sync3">Шифрование фотографий, видео файлов и других файлов</string>
-    <string name="download_app_lock_sync4">Блокировка приложений паролем</string>
-    <string name="download_app_safe_store1">海量应用，一应俱全</string>
-    <string name="download_app_safe_store2">绿色无毒，安全无忧</string>
-    <string name="download_app_safe_store3">更省流量，贴心无忧</string>
-    <string name="download_app_safe_store4">一键安装，操作简易</string>
+    <string name="download_app_lock_sync4">Защита приложений паролем</string>
+    <string name="download_app_safe_store1">Massive apps available in all varieties</string>
+    <string name="download_app_safe_store2">Green and virus-free, safe and worry-free</string>
+    <string name="download_app_safe_store3">Data saving, caring and worry-free</string>
+    <string name="download_app_safe_store4">Onekey install, easy operation</string>
+    <string name="email_text">Почта</string>
     <string name="first_checkup">Без проверки!</string>
     <string name="first_pwd_error_insuff">Примечание. Первый введенный пароль не содержит шесть цифр, введите снова!</string>
     <string name="get_error">Сбой доступа</string>
@@ -2695,7 +2696,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="installed_text">Установка завершена</string>
     <string name="install_succeeded">Установка завершена!</string>
     <string name="app_store">Магазин</string>
-    <string name="app_store_des">海量应用下载</string>
+    <string name="app_store_des">Massive apps for downloading</string>
     <string name="kid_mode">Детский</string>
     <string name="kid_mode_detail">Родители спокойны, дети довольны</string>
     <string name="lecloud">Lenovo Sync</string>
@@ -2825,8 +2826,8 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="feedback_receive_msg">%s ответов</string>
     <string name="feedback_send_msg">%s сообщений</string>
     <string name="safe_main_safe_backup_title">Безопасное резервное копирование</string>
-    <string name="safe_main_file_share_title">文件快传</string>
-    <string name="safe_main_safe_appstore_title">安全市场</string>
+    <string name="safe_main_file_share_title">SHAREit</string>
+    <string name="safe_main_safe_appstore_title">Security market</string>
     <string name="permission_server_detail">"Лицензия безопасности программного обеспечения и договор об услугах：
  重要须知:
  联想（北京）有限公司在此特别提醒用户认真阅读、充分理解本《软件许可及服务协议》（下称《协议》）--- 用户应认真阅读、充分理解本《协议》中各条款，特别涉及免除或者限制联想责任的免责条款，对用户的权利限制的条款，约定争议解决方式、司法管辖、法律适用的条款。请您审慎阅读并选择接受或不接受本《协议》（未成年人应在法定监护人陪同下阅读）。除非您接受本《协议》所有条款，否则您无权下载、安装或使用本软件及其相关服务。您的下载、安装、使用、帐号获取和登录等行为将视为对本《协议》的接受，并同意接受本《协议》各项条款的约束。 本《协议》是您（下称“用户”）与联想（北京）有限公司（下称“联想”）及其运营合作单位（下称“合作单位”）之间关于用户下载、安装、使用、复制“乐安全“ 以及使用联想公司相关服务所订立的协议。本《协议》描述联想与用户之间关于“软件”许可使用及服务相关方面的权利义务。“用户”是指通过联想提供的获取软件授权和帐号注册的途径获得软件产品及号码授权许可以及使用联想公司相关服务的个人或组织。 本《协议》可由联想随时更新，更新后的协议条款一旦公布即代替原来的协议条款，恕不再另行通知。用户可重新下载安装本软件或网站查阅最新版协议条款。在联想修改《协议》条款后，如果用户不接受修改后的条款，请立即停止使用联想提供的软件和服务，用户继续使用联想提供的软件和服务将被视为已接受了修改后的协议。 除本《协议》有明确规定外，本《协议》并未对利用本“软件”使用的联想或合作单位的其他服务规定相关的服务条款。对于这些服务，一般有单独的服务条款加以规范，用户须在使用有关服务时另行了解与确认。单独的服务条款与本协议有冲突的地方，以单独的服务条款为准。如用户使用该服务，视为对相关服务条款的接受。
@@ -2982,32 +2983,31 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
  Филиал Пекинской ассоциации"</string>
     <string name="permission_server_title">«Лицензионное соглашение»</string>
     <string name="permission_server">«Лицензионное соглашение»</string>
-    <string name="safe_appstore_title_new">安全市场</string>
+    <string name="safe_appstore_title_new">Security market</string>
     <string name="battery_center_new">Питание Lenovo</string>
     <string name="dayly_tools_new">Рекомендуемые инструменты</string>
-    <string name="ipset_new">IP拨号</string>
+    <string name="ipset_new">IP dial</string>
     <string name="number_space_new">Часто используемые номера</string>
     <string name="opti_main_sys_exam_new">Проверка системы</string>
-    <string name="phoneinfo_number_search_new">号码归属</string>
-    <string name="privacy_safe_new">私密空间</string>
-    <string name="safe_synchr_new">安全备份</string>
-    <string name="safe_page_new">安全导航</string>
-    <string name="text_safepayment_new">网购安全</string>
+    <string name="phoneinfo_number_search_new">Caller location inquiry</string>
+    <string name="privacy_safe_new">Private space</string>
+    <string name="safe_synchr_new">Security backup</string>
+    <string name="safe_page_new">Security navigation</string>
+    <string name="text_safepayment_new">Online shopping safety</string>
     <string name="leshare_title_new">Безопасные покупки</string>
     <string name="safe_tools">Средства безопасности</string>
     <string name="safe_menu">Меню безопасности</string>
     <string name="necessary_tools">Утилиты</string>
     <string name="feature_tools">Рекомендуемое</string>
-    <string name="toolbox_safecharge">吸费克星</string>
+    <string name="toolbox_safecharge">Fee-sucker nemesis</string>
     <string name="notification">Советы по безопасности</string>
     <string name="hasknown">ОК</string>
     <string name="startupdate">Обновление до новой версии</string>
-    <string name="newevent">活动</string>
-    <string name="safe_feedback_hint">乐安全尝鲜版！&lt;br>尚未正式发布，替我们保密奥！&lt;br>在使用过程中，如遇到问题&lt;br>请登录&lt;font color=#FF9000>联想乐工厂&lt;/font>与我们联系！&lt;br>或者直接QQ&lt;br>乐安全小伙伴： &lt;font color=#FF9000>2403446246&lt;/font></string>
-    <string name="safe_first_show">乐安全尝鲜版！&lt;br> &lt;font color=#2b9ee7>尚未正式发布，替我们保密奥！&lt;/font>&lt;br>在使用过程中，如遇到问题&lt;br>请登录&lt;font color=#FF9000>联想乐工厂&lt;/font>与我们联系！&lt;br>或者直接QQ&lt;br>乐安全小伙伴： &lt;font color=#FF9000>2403446246&lt;/font></string>
+    <string name="newevent">Activity</string>
+    <string name="safe_feedback_hint">Security beta! !&lt;br> It is not officially released yet. Keep it a secret for us! !&lt;br>During usage, in case of any problems, !&lt;br>please log in &lt;font color="#FF9000">Lenovo Lefactory</font> to get in touch with us!!&lt;br>Or you can message !&lt;br>Security friends on QQ: &lt;font color="#FF9000">2403446246</font></string>
+    <string name="safe_first_show">Security beta! !&lt;br> &lt;font color="#2b9ee7">It is not officially released yet. Keep it a secret for us!</font>!&lt;br>During usage, in case of any problems, !&lt;br>please log in &lt;font color="#FF9000">Lenovo Lefactory</font> to get in touch with us!!&lt;br>Or you can message !&lt;br>Security friends on QQ: &lt;font color="#FF9000">2403446246</font></string>
     <string name="loading_error">Загрузка не завершена, попробуйте позже</string>
-    <string name="adv_desc">"            Блокировка
-                         рекламы"</string>
+    <string name="adv_desc">"Блок.рекламы"</string>
     <string name="backup_text">Резервные копии</string>
     <string name="boot_app_healthcheckup_safe">Автозагрузка приложений отключена</string>
     <string name="boot_app_healthcheckup_scan">Можно отключить загрузку для %1$d приложений</string>
@@ -3084,28 +3084,27 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="notification_ad_skip_text">Включить блокирование рекламы</string>
     <string name="notification_ad_switch_onekey">Включить</string>
     <string name="notification_adbase_title">Блокировка рекламы</string>
-    <string name="anti_privacy">"  Контроль доступа
-        приложений"</string>
+    <string name="anti_privacy">"Защита данных"</string>
     <string name="lesafe_updating">Обновление новой версии</string>
     <string name="lesafe_update_failure">Не удалось обновить</string>
     <string name="lesafe_update_lastst">Уже последняя версия</string>
     <string name="safe_homepage">Запуск веб-сайта безопасности Lenovo</string>
-    <string name="first_used_safecenter">首次进入乐安全，请进行体检！</string>
-    <string name="first_unchecked_3day">3天未体检了，快检查下吧！</string>
-    <string name="first_unchecked_4day">4天未体检了，快检查下吧！</string>
-    <string name="first_unchecked_forever">很久未体检了，快检查下吧！</string>
-    <string name="le_appstore_disable">安全市场无法启动，请检查是否被禁用</string>
+    <string name="first_used_safecenter">First time to Security. Please do a checkup!</string>
+    <string name="first_unchecked_3day">No checkup for 3 days. Do it now!</string>
+    <string name="first_unchecked_4day">No checkup for 4 days. Do it now!</string>
+    <string name="first_unchecked_forever">No checkup for long. Do it now!</string>
+    <string name="le_appstore_disable">Security market unable to start. Please check if it is disabled.</string>
     <string name="healthcheck_scaning">Сканирование</string>
     <string name="status_good">Идеально</string>
     <string name="appdownload_file_notfound">Невозможно загрузить необходимые файлы</string>
     <string name="continue_opt">Продолжить</string>
     <string name="guide1_main_des">Новый интерфейс</string>
-    <string name="guide1_sub_des">绿色、橙色、红色，V6 ● Value ● 为爱而生</string>
-    <string name="guide2_main_des">新增深度清理</string>
-    <string name="guide2_sub_des">清理更彻底，让沉寂手机角落的垃圾现身</string>
-    <string name="guide3_main_des">优化体检流程</string>
-    <string name="guide3_sub_des">每次体检都是乐安全在对你表达不同的爱</string>
-    <string name="guide3_sub_des_try">你会收到乐安全的哪种颜色？试试吧~</string>
+    <string name="guide1_sub_des">Green, orange, red, V6 ● Value ● Designed for love</string>
+    <string name="guide2_main_des">New in-depth cleanup</string>
+    <string name="guide2_sub_des">Thorough cleanup makes useless files in corners of the phone show themselves.</string>
+    <string name="guide3_main_des">Optimize checkup procedure</string>
+    <string name="guide3_sub_des">Security shows love for you in every checkup.</string>
+    <string name="guide3_sub_des_try">Which color of Security will you receive? Take a try~</string>
     <string name="guide_sub_lock">应用锁携手势解锁</string>
     <string name="guide_sub_lock1">重磅归来</string>
     <string name="show_special_notify">免费邮寄有声明信片</string>
@@ -3134,7 +3133,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
  您已清楚本软件所使用的权限并同意
  使用该软件，如不需要使用请退出客户端。"</string>
     <string name="start_personal_protection_key">开启防狼键</string>
-    <string name="woman_skip">以后再说</string>
+    <string name="woman_skip">В другое время</string>
     <string name="SUS_MSG_NOTFOUND">Обновление отсутствует!</string>
     <string name="SUS_UPDATEVERPROMPT_VERNAME">"Версия: "</string>
     <string name="SUS_UPDATEVERPROMPT_VERSIZE">"Размер: "</string>
