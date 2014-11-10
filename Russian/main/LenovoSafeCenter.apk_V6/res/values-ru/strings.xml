@@ -607,7 +607,7 @@
     <string name="modify_password_protection">Ввести секретный вопрос</string>
     <string name="modify_lockpattern">Изменить графический пароль</string>
     <string name="modify_password_protection_success">Поздравляем, ответ на секретный вопрос установлен. Не забудьте его!</string>
-    <string name="lockpatter_vib">Блокировка встряской</string>
+    <string name="lockpatter_vib">Вибрация при вводе</string>
     <string name="add_count">Добавить (%1$d)</string>
     <string name="antispamlocalblack_add">Добавить</string>
     <string name="callimg_notify">Значек уведомления о пропущенном приватном звонке</string>
@@ -766,7 +766,7 @@
     <string name="password_question_no_null_text">Вопрос не может быть пустым</string>
     <string name="safe_main_guest_mode">"Гостевой режим"</string>
     <string name="kid_mode_new">Родительский контроль</string>
-    <string name="anti_theft_new">Безопасность мобильных устройств</string>
+    <string name="anti_theft_new">Анти-вор</string>
     <string name="known">ОК</string>
     <string name="input_password_answer_right">Ответ правельный, можете изменить пароль</string>
     <string name="input_password_answer_error">Неправельный ответ. Попробуйте еще раз!</string>
@@ -799,19 +799,18 @@
     <string name="answer_hit">Пожалуйста, введите ответ</string>
     <string name="password_protect_hit">Через секретные вопросы вы можете сбросить пароль безопасности, если вы его забыли</string>
     <string name="display_password">Показать пароль</string>
-    <string name="password_set_success">"Пароль успешно установлен
-"</string>
+    <string name="password_set_success">"Пароль успешно установлен "</string>
     <string name="modify_password">Изменить пароль</string>
     <string name="modify_password_answer">Изменить пароль</string>
     <string name="modify_password_answer_success">Защита паролем установлена</string>
     <string name="private_space_fake_prompt">Функция в разработке, будет готова позже!</string>
     <string name="unlock_apps">Разблокированные</string>
     <string name="locked_apps">Заблокированные</string>
-    <string name="locked">已加入保护程序列表</string>
+    <string name="locked">" заблокировано"</string>
     <string name="protected_end">)</string>
     <string name="protected_begin">(</string>
-    <string name="unlock">Разблокировать</string>
-    <string name="lockpattern_set_sucess_prompt">Графический код блокировки используется только для блокировки приложения!</string>
+    <string name="unlock">" разблокировано"</string>
+    <string name="lockpattern_set_sucess_prompt">Графический код используется только для блокировки приложения!</string>
     <string name="old_safebox_user_prompt">Оригинальный цифровой пароль истек. Установите пароль, чтобы продолжать использовать графику!</string>
     <string name="skip">Пропустить</string>
     <string name="lock">Блокировка</string>
@@ -2203,11 +2202,11 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="antitheft_tv_dele">Удаление данных</string>
     <string name="antitheft_tv_sim_change">Смена SIM</string>
     <string name="antitheft_settings">Настройки Анти-вора</string>
-    <string name="antitheft_settings_service">Вкл. сервис</string>
+    <string name="antitheft_settings_service">Включить сервис</string>
     <string name="antitheft_settings_service_switch_tv1">Анти-вор сервис</string>
     <string name="antitheft_settings_other">Другие настройки</string>
-    <string name="antitheft_settings_sim_change_set">Настройки Изменения SIM-карты</string>
-    <string name="antitheft_settings_change_sim">Отправка SMS при изменении</string>
+    <string name="antitheft_settings_sim_change_set">Настройки смены SIM-карты</string>
+    <string name="antitheft_settings_change_sim">Отправка SMS при смене</string>
     <string name="antitheft_settings_backup_to_mail">Резервное копирование данных на почтовый ящик</string>
     <string name="antitheft_set_mail">Настройка резервного копирования данных</string>
     <string name="antitheft_no_set_mail">Не установлено резервное копирование данных на почтовый ящик</string>
