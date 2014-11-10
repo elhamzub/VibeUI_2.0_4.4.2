@@ -1314,7 +1314,7 @@
     <string name="notification_intercept_notificatio_adnoti_ad_style">Вид рекламы в панели уведомлений</string>
     <string name="notification_intercept_notification_send_going_record">" Показано: %1$s"</string>
     <string name="notification_intercept_notification_send_record">Имеет %1$d сообщений в панели уведомлений</string>
-    <string name="notification_intercept_notification_title_detail">" &lt;font color=#ff8800>%1$d&lt;/font> 个应用可以推送通知栏消息"</string>
+    <string name="notification_intercept_notification_title_detail">" &lt;font color=#ff8800>%1$d&lt;/font> приложений(е) может выводить уведомление </string>
     <string name="notification_intercept_record_allow">Разрешить</string>
     <string name="notification_intercept_record_forbid">Запретить</string>
     <string name="notification_intercept_record_clear">Очистить все записи</string>
@@ -1323,10 +1323,10 @@
     <string name="notification_intercept_reported">Отчёт отправлен</string>
     <string name="notification_intercept_report_success">Отчёт отправлен</string>
     <string name="notification_intercept_report_ad">Сообщить о приложении с рекламой</string>
-    <string name="notification_intercept_app_list_title">通知栏消息</string>
-    <string name="notification_intercept_record_list_title">通知栏消息记录</string>
+    <string name="notification_intercept_app_list_title">Сообщения в панели уведомлений</string>
+    <string name="notification_intercept_record_list_title">Записи сообщений в панели уведомлений</string>
     <string name="notification_intercept_scan_result_tickle">SECUREit заблокировал %1$s раз появление рекламы</string>
-    <string name="notification_intercept_default_parsed_notification_des">已拦截推送通知栏消息</string>
+    <string name="notification_intercept_default_parsed_notification_des">Заблокированные сообщения</string>
     <string name="cleanmgr_diskmgr_module_name">Очистка SD-карты</string>
     <string name="cleanmgr_diskmgr_module_name_deep">Полная очистка</string>
     <string name="cleanmgr_all_rubbish_files">Все ненужные файлы</string>
@@ -2471,7 +2471,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="ad_report">Сообщить о содержании рекламы</string>
     <string name="ad_scan_summary">Поиск рекламы...</string>
     <string name="notification_need_root">Самые высокие системные привилегии (доступ с правами root) требуют использования блокировщика объявлений</string>
-    <string name="ad_base_title">广告拦截</string>
+    <string name="ad_base_title">Блокировка рекламы</string>
     <string name="ad_action">广告行为</string>
     <string name="adinline_ad_style">应用内广告样式</string>
     <string name="ad_action_detail">消耗少量流量</string>
