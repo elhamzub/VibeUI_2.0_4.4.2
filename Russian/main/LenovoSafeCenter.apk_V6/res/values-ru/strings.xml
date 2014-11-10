@@ -1120,15 +1120,15 @@
     <string name="permission_privatespace">Личное пространство</string>
     <string name="permission_application_screen_locker">Блокировка приложений</string>
     <string name="permission_unread_permission_intercept_recored_des">(%s)</string>
-    <string name="permission_scan_result_des" formatted="false"> &lt;strong>%d</strong> app(s) scanned with &lt;strong>%d</strong> privacy risks>></string>
+    <string name="permission_scan_result_des" formatted="false"> &lt;strong>%d&lt;/strong> app(s) scanned with &lt;strong>%d&lt;/strong> privacy risks</string>
     <string name="permission_btn_optimize">Оптимизация</string>
     <string name="permission_scanning_started">Проверка безопасности...</string>
-    <string name="permission_scanning_percent" formatted="false"> &lt;strong>%d</strong> app(s) scanned with &lt;strong>%d</strong> privacy risks</string>
+    <string name="permission_scanning_percent" formatted="false"> &lt;strong>%d&lt;/strong> app(s) scanned with &lt;strong>%d&lt;/strong> privacy risks</string>
     <string name="permission_optimizing" formatted="false">Optimized%dapp(s) with %dprivacy risks</string>
     <string name="permission_optimizing_started">Оптимизация безопасности...</string>
     <string name="permission_optimizing_pkg">Оптимизация:%s</string>
     <string name="permission_optimize_done" formatted="false">Optimized%dapp(s) with %dprivacy risks</string>
-    <string name="permission_optimize_done_entrance" formatted="false">Optimized &lt;strong>%d</strong> app(s) scanned with &lt;strong>%d</strong> privacy risks>></string>
+    <string name="permission_optimize_done_entrance" formatted="false">Optimized &lt;strong>%d&lt;/strong> app(s) scanned with &lt;strong>%d&lt;/strong> privacy risks>></string>
     <string name="permission_optimize_selected_counter" formatted="false">Checked%dapp(s) with %dprivacy risks</string>
     <string name="permission_optimize_done_text">Готово</string>
     <string name="permission_scan_result_in_good_state">Не найдено проблем безопасности</string>
@@ -2674,7 +2674,6 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="download_app_safe_store2">Green and virus-free, safe and worry-free</string>
     <string name="download_app_safe_store3">Data saving, caring and worry-free</string>
     <string name="download_app_safe_store4">Onekey install, easy operation</string>
-    <string name="email_text">Почта</string>
     <string name="first_checkup">Без проверки!</string>
     <string name="first_pwd_error_insuff">Примечание. Первый введенный пароль не содержит шесть цифр, введите снова!</string>
     <string name="get_error">Сбой доступа</string>
@@ -3004,8 +3003,8 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="hasknown">ОК</string>
     <string name="startupdate">Обновление до новой версии</string>
     <string name="newevent">Activity</string>
-    <string name="safe_feedback_hint">Security beta! !&lt;br> It is not officially released yet. Keep it a secret for us! !&lt;br>During usage, in case of any problems, !&lt;br>please log in &lt;font color="#FF9000">Lenovo Lefactory</font> to get in touch with us!!&lt;br>Or you can message !&lt;br>Security friends on QQ: &lt;font color="#FF9000">2403446246</font></string>
-    <string name="safe_first_show">Security beta! !&lt;br> &lt;font color="#2b9ee7">It is not officially released yet. Keep it a secret for us!</font>!&lt;br>During usage, in case of any problems, !&lt;br>please log in &lt;font color="#FF9000">Lenovo Lefactory</font> to get in touch with us!!&lt;br>Or you can message !&lt;br>Security friends on QQ: &lt;font color="#FF9000">2403446246</font></string>
+    <string name="safe_feedback_hint">Security beta! !&lt;br> It is not officially released yet. Keep it a secret for us! !&lt;br>During usage, in case of any problems, !&lt;br>please log in &lt;font color="#FF9000">Lenovo Lefactory&lt;/font> to get in touch with us!!&lt;br>Or you can message !&lt;br>Security friends on QQ: &lt;font color="#FF9000">2403446246&lt;/font></string>
+    <string name="safe_first_show">Security beta! !&lt;br> &lt;font color="#2b9ee7">It is not officially released yet. Keep it a secret for us!&lt;/font>!&lt;br>During usage, in case of any problems, !&lt;br>please log in &lt;font color="#FF9000">Lenovo Lefactory&lt;/font> to get in touch with us!!&lt;br>Or you can message !&lt;br>Security friends on QQ: &lt;font color="#FF9000">2403446246&lt;/font></string>
     <string name="loading_error">Загрузка не завершена, попробуйте позже</string>
     <string name="adv_desc">"Блок.рекламы"</string>
     <string name="backup_text">Резервные копии</string>
