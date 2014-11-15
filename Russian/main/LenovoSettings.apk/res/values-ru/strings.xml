@@ -2328,6 +2328,7 @@
     <string name="profile_edit_weaken_summary">Авто-понижение громкости при извлечении из кармана</string>
     <string name="smartscene_home_roadcondition">Дорожные события</string>
     <string name="smartscene_home_roadcondition_summary">Передавать информацию о дорожной ситуации вокруг</string>
+    <string name="volume_up_option">Функции клавиш громкости</string>
     <string name="phone_info_unset">Информация о телефоне не установлена</string>
     <string name="phone_info">Информация о телефоне</string>
     <string name="processor_info">Процессор</string>
@@ -2449,7 +2450,7 @@
     <string name="display_effect_of_screen_bright">Яркий</string>
     <string name="quicksettings">Быстрые настройки</string>
     <string name="exit">Выход</string>
-    <string name="mannual">Войти в учебник для начинающих</string>
+    <string name="mannual">"Войти в учебник для начинающих"</string>
     <string name="quicksettings_title">Быстрая настройка</string>
     <string name="quicksettings_summary">"Спасибо, что выбрали телефон Lenovo, начните с быстрой установки! Вы можете
  настроить под себя в настройках системы."</string>
@@ -2848,7 +2849,7 @@ Menu не доступена"</string>
     <string name="wifi_ap_bandwidth_title">Использование полосы пропускания</string>
     <string name="wifi_ap_bandwidth_enable">Включить режим регулирования ширины полосы пропускания</string>
     <string name="wifi_ap_bandwidth_chart_title">Скорость передачи данных в реальном времени</string>
-    <string name="wifi_ap_bandwidth_chart_summary">Показания скорости передачи данных на вашем телефоне могут отличаться.</string>
+    <string name="wifi_ap_bandwidth_chart_summary">"Показания скорости передачи данных на вашем телефоне могут отличаться."</string>
     <string name="wifi_wps_fail_error">Не удалось выполнить защищенную настройку Wi-Fi, повторите попытку.</string>
     <string name="wifi_ap_title">Статистика</string>
     <string name="wifi_ap_time_duration">Длительность: %1$s</string>
@@ -2892,7 +2893,7 @@ Menu не доступена"</string>
     <string name="lock_screen_notifications_title">Уведомления на экр. блок.</string>
     <string name="lock_screen_notifications_summary">Отображать уведомления на экране блокировки</string>
     <string name="lock_screen_style_title">Стиль блокировки экрана</string>
-    <string name="current_suffix">(Текущ.)</string>
+    <string name="current_suffix">(Текущее)</string>
     <string name="lockscreen_style_set">Установить на страницу блокировки</string>
     <string name="lockscreen_style_default_desc">Быстрый доступ к приложениям на заблокированном экране</string>
     <string name="display_settings_scences_title">Сцены</string>
@@ -2918,10 +2919,10 @@ Menu не доступена"</string>
     <string name="launch_error">"Невозможно запустить данное приложение!"</string>
     <string name="dlg_confirm_unmount_usb_title">Отключить USB-накопитель?</string>
     <string name="dlg_confirm_unmount_usb_text">В случае отключения USB-накопителя некоторые используемые приложения будут остановлены и могут оставаться недоступными до тех пор, пока данный USB-накопитель не будет подключен снова.</string>
-    <string name="dlg_error_unmount_usb_text">Нельзя извлекать USB-накопитель. Повторите попытку позже.</string>
-    <string name="unmount_usb_inform_text">USB-накопитель будет отключен.</string>
+    <string name="dlg_error_unmount_usb_text">"Нельзя извлекать USB-накопитель. Повторите попытку позже."</string>
+    <string name="unmount_usb_inform_text">USB-накопитель будет отключен</string>
     <string name="sd_eject_usbstorage">Отключить USB-накопитель</string>
-    <string name="sd_eject_usbstorage_summary">Отключить внутр. USB-накопитель</string>
+    <string name="sd_eject_usbstorage_summary">Отключить внутренний USB-накопитель</string>
     <string name="sd_mount_usbstorage">Подключить USB-накопитель</string>
     <string name="sd_insert_usb_summary">Вставить USB-накопитель</string>
     <string name="launch_main_label">Запуск приложения</string>
@@ -2931,5 +2932,5 @@ Menu не доступена"</string>
     <string name="sim_remain">(Осталось: %d)</string>
     <string name="sim_enter_pin_hints">(Введите 4-8 цифр)</string>
     <string name="ims_toggle_title">IMS</string>
-    <string name="ims_toggle_summary">Providing IP Multimedia Subsystem services</string>
+    <string name="ims_toggle_summary">Активация сервиса IP Multimedia Subsystem</string>
 </resources>

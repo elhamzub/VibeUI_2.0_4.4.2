@@ -227,8 +227,8 @@
     <string name="dismiss_power_off">Пропустить и выключить</string>
     <string name="dialog_color_picker">Выбор цвета</string>
     <string name="press_color_to_apply">Нажмите на цвет для выбора</string>
-    <string name="headset_pin_recognition">Ваши наушники не совместимы.</string>
-    <string name="msensor_toast_text">Compass interference. Wave the phone in figure 8 motion to re-calibrate the compass.</string>
+    <string name="headset_pin_recognition">Ваши наушники не совместимы</string>
+    <string name="msensor_toast_text">Калибровка компаса. Проведите телефоном в воздухе, изображая цифру 8</string>
     <string name="sd_accessing_swtich_user_title">Сменить юзера?</string>
     <string name="sd_accessing_swtich_user_message">Все несохраненные данные в учетной записи владельца будет утрачено или повреждено.</string>
     <string name="usb_autorun_cdrom_notification_title">Connected as an autorun cdrom</string>

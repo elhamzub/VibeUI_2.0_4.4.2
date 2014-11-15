@@ -45,17 +45,27 @@
         <item>GSM/WCDMA (предпочтение)</item>
     </string-array>
     <string-array name="list_language_entries">
-        <item>английский</item>
-        <item>французский</item>
-        <item>испанский</item>
-        <item>японский</item>
-        <item>корейский</item>
-        <item>китайский</item>
-        <item>иврит</item>
+        <item>Английский</item>
+        <item>Французский</item>
+        <item>Испанский</item>
+        <item>Японский</item>
+        <item>Корейский</item>
+        <item>Китайский</item>
+        <item>Иврит</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Только домашняя</item>
         <item>Автоматически</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY Выкл.</item>
+        <item>TTY Вкл.</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
     </string-array>
     <string-array name="dtmf_tone_entries">
         <item>Обычные</item>
