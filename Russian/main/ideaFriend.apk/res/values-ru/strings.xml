@@ -2246,7 +2246,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="storage_limits_message">Хотите ограничить число сообщений, сохраняемых в каждой беседе?</string>
     <string name="storage_limits_setting">Установить ограничения</string>
     <string name="storage_limits_setting_dismiss">Без ограничений</string>
-    <string name="too_many_unsent_mms">Не удается отправить сообщение сейчас. Слишком много неотправленных мультимедийных сообщений.</string>
+    <string name="too_many_unsent_mms">"Не удается отправить сообщение сейчас. Слишком много неотправленных мультимедийных сообщений"</string>
     <string name="sending_message">Отправка…</string>
     <string name="pick_too_many_recipients">Слишком много получателей</string>
     <string name="adding_recipients">Добавление получателей…</string>
@@ -2505,7 +2505,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="folder_download">Выполняется загрузка MMS</string>
     <string name="confirm_download_message">Подтвердите загрузку сообщения</string>
     <string name="play_as_slideshow">Воспроизвести MMS как слайд-шоу</string>
-    <string name="invalid_contact_message">"Контакт не существует."</string>
+    <string name="invalid_contact_message">"Нет такого контакта"</string>
     <string name="by_card">По:</string>
     <string name="page">Страница %d:</string>
     <string name="space_not_enough">Оставшегося места недостаточно для записи видео</string>
@@ -2707,8 +2707,8 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="add_success">добавлено</string>
     <string name="add_failed">не добавлено</string>
     <string name="toast_openfilterlist">добавлено, откройте список фильтров</string>
-    <string name="mms_firewall_black_list_msg">Все сообщения с этого номера будут отклоняться. Добавить этот номер в черный список?</string>
-    <string name="mms_firewall_white_list_msg">При добавлении в белый список все сообщения с этого номера будут приниматься. Добавить этот номер в белый список?</string>
+    <string name="mms_firewall_black_list_msg">"Все сообщения с этого номера будут отклоняться. Добавить этот номер в черный список?"</string>
+    <string name="mms_firewall_white_list_msg">"При добавлении в белый список все сообщения с этого номера будут приниматься. Добавить этот номер в белый список?"</string>
     <string name="discard_mms_title">Отменить MMS</string>
     <string name="discard_mms_content">ВСЕ MMS в множественном пересылаемом сообщении будут отменены</string>
     <string name="toast_sms_forward">Никакие SMS не были пересланы</string>
@@ -2722,7 +2722,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="forward_pref_title_forward_phone_number">Указать номер получателя</string>
     <string name="forward_pref_summary_undefined">Введите номер получателя</string>
     <string name="forward_pref_title_sms_forward_setting">Настройка переадресации</string>
-    <string name="forward_pref_summary_sms_forward_setting">Отправляемая информация при переадресации</string>
+    <string name="forward_pref_summary_sms_forward_setting">"Отправляемая информация при переадресации"</string>
     <string name="forward_pref_title_sms_forward_need_add">Содержимое для добавления</string>
     <string name="forward_title_forward_input_phone_number">Введите номер телефона</string>
     <string name="forward_forward_by">"Отправить через "</string>
@@ -2860,7 +2860,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="sms_fcn_restored">Восстановление успешно.</string>
     <string name="restore">Восстановление</string>
     <string name="status_delete_without_read">Удалено без прочтения</string>
-    <string name="default_sms_prompt_text">"IdeaFriend не может работать нормально, потому что это не по умолчанию смс-ок. Исправить?"</string>
+    <string name="default_sms_prompt_text">"IdeaFriend может работать неправильно, т.к. не является приложением сообщений по-умолчанию. Исправить?"</string>
     <string name="string_accordingto_citylocation">По расположению</string>
     <string name="sim_deactive_dialog_msg">SIM не активирована! Активировать?</string>
     <string name="sim_is_deactive">SIM отключена!</string>
@@ -2965,7 +2965,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="guide_ok">ОК</string>
     <string name="guide_mms_twofinger">Двумя пальцами/свернуть</string>
     <string name="guide_mms_zoomin">увеличить масштаб</string>
-    <string name="guide_mms_zoomout">/уменьшить</string>
+    <string name="guide_mms_zoomout">"/уменьшить "</string>
     <string name="guide_mms_content">текстовое содержимое</string>
     <string name="whether_export_item_to_file">Вы хотите экспортировать файл SMS: %s?</string>
     <string name="sum_cell_broadcast_control_on">Включение базовой станции</string>
@@ -3015,7 +3015,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="export_contact_via_qiezi_hint">Экспорт контактов на другие телефоны через SHAREit</string>
     <string name="awaymode_lable">Гостевой режим</string>
     <string name="settings">Параметры</string>
-    <string name="minutes">минут</string>
+    <string name="minutes">Минут</string>
     <string name="contentDescription">contentDescription</string>
     <string name="pref_away_mode_settings">Параметры гоствого режима</string>
     <string name="pref_away_mode_reminding">Напоминание вызова гостевого режима</string>
@@ -3066,4 +3066,27 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="external_sdcard">Внешние накопители</string>
     <string name="messge_search_hint">Поиск сообщений | Всего %d совпадений</string>
     <string name="dialpad_single_phone_cd">Кнопка телефона</string>
+    <string name="description_image_button_plus">Плюс</string>
+    <string name="description_p_button">p</string>
+    <string name="description_w_button">w</string>
+    <string name="description_levoice_button">le voice</string>
+    <string name="dialpad_0_number">0</string>
+    <string name="dialpad_1_number">1</string>
+    <string name="dialpad_2_number">2</string>
+    <string name="dialpad_3_number">3</string>
+    <string name="dialpad_4_number">4</string>
+    <string name="dialpad_5_number">5</string>
+    <string name="dialpad_6_number">6</string>
+    <string name="dialpad_7_number">7</string>
+    <string name="dialpad_8_number">8</string>
+    <string name="dialpad_9_number">9</string>
+    <string name="dialpad_star_number">*</string>
+    <string name="dialpad_pound_number">A</string>
+    <string name="dialpad_0_letters">+</string>
+    <string name="set_master_card">Настройте главную карту связи</string>
+    <string name="had_set_master_card1">Установить первую карту, как карту связи</string>
+    <string name="had_set_master_card2">Установить вторую карту, как карту связи</string>
+    <string name="noti_msg">SMS уведомления</string>
+    <string name="pref_title_carrier_msg_on">Сообщения оператора</string>
+    <string name="pref_summary_carrier_msg_on">Собирать сообщения от оператора в группу</string>
 </resources>
