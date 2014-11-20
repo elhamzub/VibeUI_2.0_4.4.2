@@ -274,8 +274,8 @@
     <string name="net_correct_update_config_progress">Время загрузки данных из облака…</string>
     <string name="net_day_notice_title3">Ежедневно напоминать об ограничении трафика</string>
     <string name="net_first_set_notice">Пожалуйста, установите атрибуты!</string>
-    <string name="net_left_text">Осталось</string>
-    <string name="net_month_out_desc">Превышение</string>
+    <string name="net_left_text">"Осталось "</string>
+    <string name="net_month_out_desc">"Превышение "</string>
     <string name="net_monthly_balance_sheet_date">Отчетная дата</string>
     <string name="net_notice_desc">Советы</string>
     <string name="net_notice_title">Напоминание ограничения</string>
@@ -538,10 +538,10 @@
     <string name="net_traffic_text_data">Передача данных</string>
     <string name="remain_date_reminder_des">При таком использовании хватит на</string>
     <string name="remain_date_reminder_more_des">При данных объемах потребления хватит</string>
-    <string name="day_string">день</string>
+    <string name="day_string">дн.</string>
     <string name="day_remainder_set_success">Успешно</string>
     <string name="usage_suggest">Рекомендации</string>
-    <string name="net_total">Всего в месяц </string>
+    <string name="net_total">"Всего в месяц "</string>
     <string name="safepayment">Безопасные онлайн платежи</string>
     <string name="safepayment_dialog_title">Защита платежей SECUREit напоминает:</string>
     <string name="dialog_msg1">Это приложение не является</string>
@@ -1673,7 +1673,7 @@
     <string name="cleanmgr_filetype_winapp">Windows программы</string>
     <string name="cleanmgr_filetype_app">Программы</string>
     <string name="cleanmgr_filetype_other">Другие</string>
-    <string name="cleanmgr_disk_info">Детали пространства</string>
+    <string name="cleanmgr_disk_info">Подробно</string>
     <string name="cleanmgr_deepclean_finish_appmovetext">Мало? Попробуйте переместить приложения.</string>
     <string name="cleanmgr_deepclean_finish_unuseapktext">Мало? Попробуйте удалить редко используемые</string>
     <string name="cleanmgr_deepclean_finish_appmovebutton">Переместить приложения</string>
@@ -1691,7 +1691,7 @@
     <string name="opti_add_to_whitelist">Добавить в список исключений</string>
     <string name="app_has_added_whitelist">Добавлено в список исключений</string>
     <string name="cleanmgr_gallery_title">Управление фото-альбомом</string>
-    <string name="cleanmgr_diskinfo_title">Детали пространства</string>
+    <string name="cleanmgr_diskinfo_title">Подробно</string>
     <string name="cleanmgr_diskinfo_default_install_text">Место установки по-умолчанию</string>
     <string name="cleanmgr_diskinfo_default_install_system">Телефон</string>
     <string name="cleanmgr_diskinfo_default_install_sdcard">SD-карта</string>
@@ -2528,7 +2528,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="phone_acc_disable">Отключено</string>
     <string name="phone_acc_app_uninstall">Удаление приложения</string>
     <string name="to_other_page">Нажмите сюда, чтобы проверить приложения в автозагрузке</string>
-    <string name="no_app_to_clear">暂无可清理应用</string>
+    <string name="no_app_to_clear">Нет приложений для очистки</string>
     <string name="boot_time">Время запуска: %s</string>
     <string name="boot_minute">мин.</string>
     <string name="boot_second">сек.</string>
