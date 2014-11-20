@@ -1414,7 +1414,7 @@
     <string name="notice_no_rooted_for_boot">需获得系统最高权限（root权限）才能使用</string>
     <string name="notice_used_space_beyond88">存储空间已超88%,</string>
     <string name="notice_used_space_beyond80">存储空间已超80%,</string>
-    <string name="please_clean">建议立即清理!</string>
+    <string name="please_clean">Рекомендована немедленная очистка!</string>
     <string name="autorun_dialog_never_dialog">不再提示</string>
     <string name="cleanmgr_diskmgr_module_name">Очистка SD-карты</string>
     <string name="cleanmgr_diskmgr_module_name_deep">Полная очистка</string>
@@ -2664,7 +2664,6 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="notice_no_rooted_for_boot">Требуется получение root для возможности использования</string>
     <string name="notice_used_space_beyond88">Свободного места - 88%,</string>
     <string name="notice_used_space_beyond80">Свободного места больше 80%,</string>
-    <string name="please_clean">Рекомендована немедленная очистка!</string>
     <string name="pause">Пауза</string>
     <string name="doing">Проверка: %1$s</string>
     <string name="r_sobad">Телефон в плохом состоянии</string>
