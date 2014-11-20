@@ -185,7 +185,7 @@
     <string name="switcher_light">Яркость экрана</string>
     <string name="switcher_timeout">Время ожидания заставки экрана</string>
     <string name="switcher_visitor_mode">"Гостевой режим"</string>
-    <string name="traffic_monitor">Монитор трафика</string>
+    <string name="traffic_monitor">Трафик</string>
     <string name="switcher_haptic_feedback">Вибрация софт-клавиш</string>
     <string name="switcher_gps">GPS</string>
     <string name="float_windows_panel_empty">Очистка гистограммы</string>
@@ -1333,7 +1333,7 @@
     <string name="white_list_add_des">勾选的应用，一键加速时不会被结束</string>
 
     <string name="white_list_lock_benefit">Выберите приложения, которые не будут завершаться</string>
-    <string name="whitelist_suggest_check">Предложить выбор</string>
+    <string name="whitelist_suggest_check">Рекомендую</string>
     <string name="text_add_app_empty">Нет приложений</string>
     <string name="rf_system_app">Системные приложения %1$s</string>
     <string name="rf_three_party_app">Приложения пользователя %1$s</string>
@@ -1357,7 +1357,7 @@
     <string name="autorun_sign_background">[работает в фоне]</string>
     <string name="autorun_application_disabled">应用处于冻结状态，无法更改自启状态。请先解冻应用。</string>
     <string name="autorun_system_app">Системные приложения</string>
-    <string name="autorun_three_party_app">Сторонние приложение</string>
+    <string name="autorun_three_party_app">Сторонние приложения</string>
     <string name="autorun_not_control_app">不禁止应用</string>
     <string name="autorun_all_user_deny">Отключить все сторонние</string>
     <string name="autorun_all_deny_title">Предупреждение</string>
@@ -1407,7 +1407,7 @@
     <string name="notice_used_space_beyond80">Свободного места больше 80%,</string>
     <string name="please_clean">Рекомендована немедленная очистка!</string>
     <string name="autorun_dialog_never_dialog">Никогда не запрашивать</string>
-    <string name="cleanmgr_diskmgr_module_name">Очистка SD-карты</string>
+    <string name="cleanmgr_diskmgr_module_name">Очистка</string>
     <string name="cleanmgr_diskmgr_module_name_deep">Полная очистка</string>
     <string name="cleanmgr_all_rubbish_files">Все ненужные файлы</string>
     <string name="cleanmgr_apk_delete">Очистка</string>
@@ -1650,13 +1650,13 @@
     <string name="new_cleanmgr_canliu_dir">Пустая папка：%1$s</string>
     <string name="new_cleanmgr_suggestclean">Рекомендуется очистка</string>
     <string name="new_cleanmgr_version">Версия: %1$s</string>
-    <string name="new_cleanmgr_installed_version">Установленная версия: %1$s</string>
+    <string name="new_cleanmgr_installed_version">Установлено. Версия: %1$s</string>
     <string name="new_cleanmgr_old_version">Старая версия: %1$s</string>
     <string name="new_cleanmgr_new_version">Новая версия: %1$s</string>
-    <string name="new_cleanmgr_uninstalled_version">Удалённая версия: %1$s</string>
+    <string name="new_cleanmgr_uninstalled_version">Удалено. Версия: %1$s</string>
     <string name="new_cleanmgr_clean_size">Очистить(%1$s)</string>
-    <string name="new_cleanmgr_autolaunch">%1$s个应用可禁止自启</string>
-    <string name="new_cleanmgr_autolaunch_title">Автозагр.</string>
+    <string name="new_cleanmgr_autolaunch">%1$s приложений</string>
+    <string name="new_cleanmgr_autolaunch_title">Автозагрузка</string>
     <string name="cleanmgr_cache_sd_normal_alert">Папка %s содержит общие документы.  Нет риска после очистки</string>
     <string name="new_cleanmgr_scanning">Сканирование: %1$s</string>
     <string name="new_cleanmgr_scanfinish_free">Очищено: %1$s</string>
@@ -1917,7 +1917,7 @@
     <string name="days_ago">%1$s дн.назад</string>
     <string name="month_ago">мес.назад</string>
     <string name="app_all_stroge">Всего：</string>
-    <string name="app_uesed_stroge">Используется：</string>
+    <string name="app_uesed_stroge">Занято：</string>
     <string name="anyshare_app_name">AnyShare</string>
     <string name="anyshare_dialog_clear_history_title">Очистить историю?</string>
     <string name="anyshare_dialog_quit_ok">ОК</string>
@@ -2952,7 +2952,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="sign_call_lab_update_neterror">При обновлении базы данных тегов возникла ошибка сети</string>
     <string name="can_backup_contact_txt">%1$d контактов нужно зарезервировать</string>
     <string name="op_backup_contact_txt">Контакты зарезервированы</string>
-    <string name="diskmgr_module_name">Очистка SD-карты</string>
+    <string name="diskmgr_module_name">Очистка </string>
     <string name="notification_ad_skip_text">Включить блокирование рекламы</string>
     <string name="notification_ad_switch_onekey">Включить</string>
     <string name="notification_adbase_title">Блок.рекламы</string>
