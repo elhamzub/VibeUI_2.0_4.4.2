@@ -73,7 +73,7 @@
     <string name="battery_info_uptime">"Время с момента загрузки: "</string>
     <string name="battery_info_awake_battery">"Активное время работы от батарей: "</string>
     <string name="battery_info_awake_plugged">"Активное время во время зарядки: "</string>
-    <string name="battery_info_screen_on">" Экран включен: "</string>
+    <string name="battery_info_screen_on">"Использование экрана: "</string>
     <string name="battery_info_status_unknown">Неизвестно</string>
     <string name="battery_info_status_charging">Зарядка</string>
     <string name="battery_info_status_charging_ac">(AC)</string>
@@ -130,7 +130,7 @@
     <string name="bluetooth_no_devices_found">Устройства Bluetooth не найдены</string>
     <string name="bluetooth_notif_ticker">Запрос сопряжения Bluetooth</string>
     <string name="bluetooth_notif_title">Запрос на сопряжение</string>
-    <string name="bluetooth_notif_message">Нажмите для подключения к устройству \"%1$s\"</string>
+    <string name="bluetooth_notif_message">"Нажмите для подключения к устройству %1$s "</string>
     <string name="bluetooth_show_received_files">Полученные файлы</string>
     <string name="device_picker">Выбор устройства</string>
     <string name="bluetooth_permission_request">Запрос разрешения на включение Bluetooth</string>
@@ -146,14 +146,13 @@
     <string name="bluetooth_connection_notif_message">Нажмите, чтобы подключиться к устройству \"%1$s\".</string>
     <string name="bluetooth_connection_dialog_text">Подключиться к устройству \"%1$s\"?</string>
     <string name="bluetooth_phonebook_request">Запрос телефонной книги</string>
-    <string name="bluetooth_pb_acceptance_dialog_text">Устройство \"%1$s\" пытается получить доступ к вашим контактам и журналу вызовов. Разрешить доступ для %2$s?</string>
+    <string name="bluetooth_pb_acceptance_dialog_text">" %1$s пытается получить доступ к вашим контактам и журналу вызовов. Разрешить доступ для %2$s ?"</string>
     <string name="bluetooth_remember_choice">"Больше не спрашивать"</string>
     <string name="bluetooth_pb_remember_choice">"Больше не спрашивать"</string>
     <string name="bluetooth_map_request">Запрос на доступ Сообщений</string>
-    <string name="bluetooth_map_acceptance_dialog_text">%1$s хочет получить доступ к сообщениям. Дать доступ к %2$s?</string>
+    <string name="bluetooth_map_acceptance_dialog_text">" %1$s хочет получить доступ к сообщениям. Предоставить доступ к %2$s ?"</string>
     <string name="date_and_time">Настройки даты и времени</string>
     <string name="choose_timezone">Выбрать часовой пояс</string>
-    <string name="default_date_format">MM/dd/yyyy</string>
     <string name="normal_date_format">По умолчанию (%s)</string>
     <string name="display_preview_label">Предварительный просмотр:</string>
     <string name="display_font_size_label">Размер шрифта:</string>
@@ -177,7 +176,7 @@
     <string name="proxy_error_dismiss">ОК</string>
     <string name="proxy_error_invalid_host">"Введено недействительное имя хоста"</string>
     <string name="proxy_error_invalid_exclusion_list">"Список исключений отформатирован неверно. Перечислите исключаемые домены через запятую."</string>
-    <string name="proxy_error_empty_port">Укажите порт.</string>
+    <string name="proxy_error_empty_port">Укажите порт</string>
     <string name="proxy_error_empty_host_set_port">Если поле хоста не заполнено, поле порта также следует оставить пустым.</string>
     <string name="proxy_error_invalid_port">"Указанный порт недействителен"</string>
     <string name="proxy_warning_limited_support">Прокси-сервер HTTP используется браузером, но недоступен для других приложений.</string>
@@ -252,9 +251,9 @@
     <string name="roaming">Интернет-роуминг</string>
     <string name="roaming_enable">Подключаться к службам передачи данных при роуминге</string>
     <string name="roaming_disable">Подключаться к службам передачи данных при роуминге</string>
-    <string name="roaming_reenable_message">Передача данных прекращена, потому что телефон находится за пределами домашней сети, а интернет-роуминг выключен.</string>
+    <string name="roaming_reenable_message">"Передача данных прекращена, потому что телефон находится за пределами домашней сети, а интернет-роуминг выключен"</string>
     <string name="roaming_turn_it_on_button">Включить</string>
-    <string name="roaming_warning">Возможны высокие расходы на использование роуминга.</string>
+    <string name="roaming_warning">Возможны высокие расходы на использование роуминга</string>
     <string name="roaming_warning_multiuser">"Использование роуминга может повлечь за собой непредвиденные расходы.
 
 Настройки будут изменены для всех пользователей устройства."</string>
@@ -309,7 +308,7 @@
     <string name="data_usage_menu_metered">Точки доступа мобильной сети</string>
     <string name="data_usage_menu_auto_sync">Автосинхронизация данных</string>
     <string name="data_usage_change_cycle">Изменение</string>
-    <string name="data_usage_pick_cycle_day">День месяца, когда сбрасывается цикл использования данных:</string>
+    <string name="data_usage_pick_cycle_day">"День месяца, когда сбрасывается цикл использования данных: "</string>
     <string name="data_usage_empty">В этот период не было трафика от приложений.</string>
     <string name="data_usage_label_foreground">Активный режим</string>
     <string name="data_usage_label_background">Фоновый режим</string>
@@ -347,7 +346,7 @@
     <string name="data_usage_auto_sync_off_dialog_title">Отключить автосинхронизацию?</string>
     <string name="data_usage_auto_sync_off_dialog">"Это сократит трафик и расход энергии. Однако чтобы получать новые данные, необходимо будет синхронизировать каждый аккаунт вручную. При этом уведомления об обновлениях отображаться не будут"</string>
     <string name="data_usage_cycle_editor_title">Удаление статистики</string>
-    <string name="data_usage_cycle_editor_subtitle">День месяца:</string>
+    <string name="data_usage_cycle_editor_subtitle">"День месяца: "</string>
     <string name="data_usage_cycle_editor_positive">Установить</string>
     <string name="data_usage_warning_editor_title">Настройка предупреждения</string>
     <string name="data_usage_limit_editor_title">Лимитирование трафика</string>
@@ -366,9 +365,9 @@
 "<font size="12">лимит</font></string>
     <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
     <string name="data_usage_uninstalled_apps_users">Удаленные приложения и пользователи</string>
-    <string name="data_usage_received_sent">%1$s получено, %2$s отправлено</string>
-    <string name="data_usage_total_during_range">%2$s: около %1$s использовано</string>
-    <string name="data_usage_total_during_range_mobile">"%2$s: около %1$s использовано. Данные оператора могут отличаться"</string>
+    <string name="data_usage_received_sent">" %1$s получено, %2$s отправлено"</string>
+    <string name="data_usage_total_during_range">" %2$s : около %1$s использовано"</string>
+    <string name="data_usage_total_during_range_mobile">" %2$s : около %1$s использовано. Данные оператора могут отличаться"</string>
     <string name="data_usage_metered_title">Точки доступа мобильной сети</string>
     <string name="data_usage_metered_body">Выберите сети Wi-Fi с тарификацией трафика. Возможно, приложения не смогут использовать их для работы в фоновом режиме. Кроме того, перед загрузкой больших объемов данных может появляться предупреждение</string>
     <string name="data_usage_metered_mobile">Мобильные сети</string>
@@ -376,7 +375,27 @@
     <string name="data_usage_metered_wifi_disabled">Чтобы выбрать точку доступа, включите Wi-Fi</string>
     <string name="cryptkeeper_emergency_call">Экстренный вызов</string>
     <string name="cryptkeeper_return_to_call">Вернуться к вызову</string>
-	<string name="data_connect_settings_title">Передача данных</string>
+    <string name="timing_startup_head_text">Включить</string>
+    <string name="timing_shutdown_head_text">Выключить</string>
+    <string name="startup_time">"Включить в "</string>
+    <string name="shutdown_time">"Выключить в "</string>
+    <string name="system_time_am">AM</string>
+    <string name="system_time_pm">PM</string>
+    <string name="startup_time_enabled">Включение расписания</string>
+    <string name="shutdown_time_enabled">Выключение расписания</string>
+    <string name="data_connect_settings_title">Передача данных</string>
+    <string name="sim_not_available">SIM-карта недоступна</string>
+    <string name="never_timeout">Отключить режим ожидания</string>
+    <string name="simple_settings">"Инструкция для новичков"</string>
+    <string name="version_info">Информация</string>
+    <string name="ota_title">Обновление системы</string>
+    <string name="products_version">Номер модели</string>
+    <string name="hardware_version">Аппаратная версия</string>
+    <string name="software_version">Версия ПО</string>
+    <string name="framework_version">Версия Android</string>
+    <string name="os_version">Версия OS</string>
+    <string name="internal_version">Инвертарный номер</string>
+    <string name="backup_data_section_title">Копирование данных</string>
     <string name="devices_info_products_version">Модель: Lenovo K910</string>
     <string name="devices_info_firmwareVersion">Версия Android: %1$s</string>
     <string name="devices_info_buildNumber">Серия: %1$s</string>
@@ -385,7 +404,16 @@
     <string name="devices_info_screen">"Экран: 1080*1920   5.5-дюймов"</string>
     <string name="devices_info_camera">"Камера: Передняя 5Mpx,  Задняя 13Mpx"</string>
     <string name="devices_info_memory">Память: %1$s(свободно)</string>
+    <string name="location_consent_dialog_title">Соглашение расположения</string>
     <string name="screensaver_timeout_zero_summary">Никогда</string>
+    <string name="auto_time_on">Использовать сеть</string>
+    <string name="auto_time_off">Выключить</string>
+    <string name="bluetooth_security_confirm">Запрос прав Bluetooth</string>
+    <string name="bluetooth_ask_enablement_ext">" %1$s хочет использовать Bluetooth"</string>
+    <string name="bluetooth_ask_establish_connection">Приложение хочет установить связь с %1$s через Bluetooth</string>
+    <string name="bluetooth_ask_establish_connection_ext">" %1$s хочет установить связь с %2$s через Bluetooth"</string>
+    <string name="bluetooth_ask_enablement_and_establish_connection">"Приложение хочет использовать Bluetooth и установить связь с %1$s "</string>
+    <string name="bluetooth_ask_enablement_and_establish_connection_ext">" %1$s хочет использовать Bluetooth и установить связь с %2$s "</string>
     <string name="data_usage_more_settings">Дополнительно</string>
     <string name="mtk_datausage_show_on_lockscreen">Показывать на экране блокировки</string>
     <string name="mtk_datausage_update">Обновление трафика</string>
@@ -396,11 +424,14 @@
     <string name="mtk_datausage_overview_tab">Обзор</string>
     <string name="mtk_datausage_overview_wifi_today">Сегодня</string>
     <string name="mtk_datausage_overview_wifi_total">Всего</string>
-    <string name="mtk_datausage_overview_mobile_title">MOBILE</string>
-    <string name="mtk_datausage_overview_mobile_usage" formatted="false">%s из %s</string>
-    <string name="mtk_datausage_overview_mobile_usage_warning">Превышено %s</string>
-    <string name="updating_settings">Обновление настроек…</string>
+    <string name="mtk_datausage_overview_mobile_title">Данные</string>
+    <string name="mtk_datausage_overview_mobile_usage" formatted="false">" %s из %s "</string>
+    <string name="mtk_datausage_overview_mobile_usage_warning">"Превышено %s "</string>
+    <string name="updating_settings">Обновление настроек...</string>
     <string name="cdma_not_support">"CDMA данную функцию не поддерживает"</string>
+    <string name="confirm_3g_switch">Вы хотите включить сервис 3G на этой SIM-карте? Сервис видео-звонков будет привязан к этой SIM-карте, автоматически</string>
+    <string name="modem_switching">Переключение SIM-карт займёт около 10 секунд. Подождите...</string>
+    <string name="confirm_3g_switch_to_off">Вы хотите выключить сервис 4G/3G? Сервис видео-звонков будет выключен автоматически</string>
     <string name="service_3g_off">Выкл</string>
     <string name="enable_3G_service">Включить 3G</string>
     <string name="setting_for_3G_service">3G сервис</string>
@@ -452,15 +483,15 @@
     <string name="international_dialing_title">Помощник междунароных вызовов</string>
     <string name="international_dialing_select_country">"Обнаружен интернациоональный вызов. Выберите место назначения."</string>
     <string name="international_dialing_add_country_code" formatted="false">"Обнаружено, что набираемый номер - %s. Хотите добавить код страны (+%s)?"</string>
-    <string name="international_dialing_add_country_code_and_area_code">"It's detected that you are dialing a number in %1$s, %2$s. Do you want to add the country code and the area code (+%3$s)?"</string>
-    <string name="international_dialing_change_country_prefix">"It's detected that you're dialing from the %s. Change international call prefix to '+'?"</string>
-    <string name="international_dialing_add_country_code_input_area_code">"It's detected that you're dialing a number in %s. If so, please enter the area code."</string>
-    <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">"It's detected that you're dialing a number in %s. If your destination city is not %s, please enter the area code."</string>
-    <string name="international_dialing_need_area_code">The area code of your destination city is needed for the call.</string>
+    <string name="international_dialing_add_country_code_and_area_code">"Обнаружено, что набираемый номер находится в %1$s, %2$s. Хотите добавить код страны и города (+%3$s)?"</string>
+    <string name="international_dialing_change_country_prefix">"Обнаружено, что вы звоните из %s. Измените номер, чтобы начинался с '+'?"</string>
+    <string name="international_dialing_add_country_code_input_area_code">"Обнаружено, что набираемый номер находится в %s. Если так, укажите региональный код"</string>
+    <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">"Обнаружено, что набираемый номер находится в %s. Если номер находится не в городе %s, введите правильный код"</string>
+    <string name="international_dialing_need_area_code">Необходимо указать код города</string>
     <string name="international_dialing_input_area_code">Введите код зоны</string>
     <string name="international_dialing_dialed_number">Набираемый номер:</string>
-    <string name="international_dialing_confirm_area_code">If your destination city is not %s, please input the area code of your destination city below.</string>
-    <string name="international_dialing_click_below_button">Click the button below to change the country code number.</string>
+    <string name="international_dialing_confirm_area_code">Если, набираемый город не %s, укажите правильный код города</string>
+    <string name="international_dialing_click_below_button">Нажмите, чтобы сменить код страны</string>
     <string name="international_dialing_yes">"Да. Использовать следующий номер: "</string>
     <string name="international_dialing_no">"Нет. Использовать первый номер: "</string>
     <string name="international_dialing_call_button">Вызов</string>
