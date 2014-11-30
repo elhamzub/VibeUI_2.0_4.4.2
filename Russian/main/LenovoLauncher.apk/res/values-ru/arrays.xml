@@ -1,7 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="previewname">
+        <item>lockscreen</item>
+        <item>launcher</item>
+        <item>icons</item>
+        <item>wallpaper</item>
+        <item>systemui</item>
+        <item>ideafriend</item>
+        <item>callscreen</item>
+        <item>systemwidget</item>
+        <item>bootshut</item>
+        <item>font</item>
+    </string-array>
+    <array name="preview">
+        <item>@drawable/themepreview</item>
+        <item>@drawable/themepreview_1</item>
+    </array>
+	<string-array name="pref_text_color_choices">
+        <item>Следовать теме</item>
+        <item>Чёрный</item>
+        <item>Белый</item>
+    </string-array>
+    <string-array name="pref_icon_size_values">
+        <item>57</item>
+        <item>48</item>
+    </string-array>
+    <string-array name="pref_slide_effect_values">
+        <item>NONE</item>
+        <item>ROTATE</item>
+        <item>BULLDOZE</item>
+        <item>WINDMILL</item>
+        <item>CUBE</item>
+        <item>WAVE</item>
+        <item>CYLINDER</item>
+    </string-array>
+    <string-array name="pref_gesture_values">
+        <item>none</item>
+        <item>menu</item>
+        <item>recentApp</item>
+        <item>notification</item>
+        <item>Positioning</item>
+        <item>lockscreen</item>
+    </string-array>
+    <string-array name="pref_icon_text_size_values">
+        <item>15</item>
+        <item>12</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="pref_title_color_values">
+        <item>theme</item>
+        <item>black</item>
+        <item>white</item>
+    </string-array>
     <string-array name="pref_slide_effect_choices">
-        <item>По умолчанию</item>
+        <item>По-умолчанию</item>
         <item>Поворот</item>
         <item>Бульдозер</item>
         <item>Ветряная мельница</item>
@@ -16,10 +68,5 @@
         <item>Панель уведомлений</item>
         <item>Поиск иконки</item>
         <item>Блокировка экрана</item>
-    </string-array>
-        <string-array name="pref_text_color_choices">
-        <item>Следовать теме</item>
-        <item>Чёрный</item>
-        <item>Белый</item>
     </string-array>
 </resources>
