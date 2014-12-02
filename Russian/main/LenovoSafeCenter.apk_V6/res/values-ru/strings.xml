@@ -459,7 +459,7 @@
     <string name="net_friday_notice_title">Напоминание конца недели</string>
     <string name="lesafe_tariff_warn_text">Напоминание о расходах</string>
     <string name="net_month_free_notification">Осталось менее 10%</string>
-    <string name="defend">Вы всегда под защитой</string>
+    <string name="defend">Под защитой</string>
     <string name="protecting">SECUREit является надежной защитой</string>
     <string name="net_traffic">сегодня %1$s</string>
     <string name="exceed_text">Превышает</string>
@@ -1075,7 +1075,7 @@
     <string name="permission_install_location_storage_left">%1$s осталось памяти %2$s Mб</string>
     <string name="permission_install_location_phone">Телефон</string>
     <string name="permission_install_location_sdcard">SD-карта</string>
-    <string name="permission_notfication_default_des">Вы всегда под защитой</string>
+    <string name="permission_notfication_default_des">Под защитой</string>
     <string name="permission_dialog_default_notice">%s уведомление</string>
     <string name="permission_no_virus">&lt;font color=#199f0b>无病毒&lt;/font></string>
     <string name="permission_virus">&lt;font color=#ff0000>病毒&lt;/font></string>
@@ -1403,8 +1403,8 @@
     <string name="autorun_dialog_action_negative">Отмена</string>
     <string name="autorun_dialog_action_positive">Обработка</string>
     <string name="notice_no_rooted_for_boot">Требуется получение root для возможности использования</string>
-    <string name="notice_used_space_beyond88">Свободного места - 88%,</string>
-    <string name="notice_used_space_beyond80">Свободного места больше 80%,</string>
+    <string name="notice_used_space_beyond88">Занято - 88%,</string>
+    <string name="notice_used_space_beyond80">Занято больше 80%,</string>
     <string name="please_clean">Рекомендована немедленная очистка!</string>
     <string name="autorun_dialog_never_dialog">Никогда не запрашивать</string>
     <string name="cleanmgr_diskmgr_module_name">Очистка</string>
@@ -2664,7 +2664,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="system_cache">Системный кэш</string>
     <string name="clean_virus">Очистить</string>
     <string name="config_auto_app">Настройка запуска приложений</string>
-    <string name="splash_slogon">Вы под защитой</string>
+    <string name="splash_slogon">Всегда под защитой</string>
     <string name="about">Информация</string>
     <string name="all_update_lab_is_new_text">Базы данных обновлены!</string>
     <string name="antivirusupdatepolicy_hand">Обновление вручную</string>
